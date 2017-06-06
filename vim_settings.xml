@@ -12,17 +12,24 @@
         <mark key="^" line="442" column="8" />
         <mark key="." line="442" column="8" />
       </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Entities/Work.php" timestamp="1496754380376">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="48" />
+        <mark key="." line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1496474167906">
         <mark key="[" line="431" column="12" />
         <mark key="]" line="431" column="13" />
         <mark key="." line="431" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496752537307">
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496753968962">
         <mark key="'" line="40" column="8" />
-        <mark key="[" line="214" column="10" />
-        <mark key="]" line="215" column="26" />
-        <mark key="." line="215" column="26" />
-        <mark key="^" line="215" column="26" />
+        <mark key="[" line="220" column="57" />
+        <mark key="]" line="220" column="57" />
+        <mark key="." line="220" column="57" />
+        <mark key="^" line="220" column="26" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -37,12 +44,17 @@
         <mark key="]" line="1819" column="0" />
         <mark key="." line="1819" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496579612942">
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496753606013">
         <mark key="'" line="18" column="28" />
-        <mark key="[" line="15" column="92" />
-        <mark key="]" line="15" column="95" />
-        <mark key="^" line="15" column="95" />
-        <mark key="." line="15" column="95" />
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="10" column="82" />
+        <mark key="^" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" timestamp="1496753489211">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/public/phpinfo.php" timestamp="1496665565228">
         <mark key="[" line="1" column="0" />
@@ -55,8 +67,10 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496752629760">
-        <mark key="'" line="36" column="12" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496752977016">
+        <mark key="'" line="32" column="47" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
@@ -64,6 +78,10 @@
         <mark key="]" line="19" column="49" />
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorksController.php" timestamp="1496753955404">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="55" />
       </file>
       <file name="$USER_HOME$/Code/demo/index.php" timestamp="1496585694483">
         <mark key="[" line="1" column="10" />
@@ -77,6 +95,13 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/main.js" timestamp="1496753397779">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/Project/StoreRequest.php" timestamp="1496414381114">
         <mark key="[" line="15" column="0" />
@@ -104,6 +129,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1496550314184">
         <mark key="[" line="79" column="4" />
         <mark key="]" line="79" column="4" />
@@ -130,14 +161,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1496665321486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1496481042663">
-        <mark key="a" line="618" column="0" />
-        <mark key="'" line="561" column="8" />
-        <mark key="[" line="618" column="0" />
-        <mark key="]" line="618" column="0" />
-        <mark key="." line="618" column="0" />
-        <mark key="^" line="618" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496673122381">
         <mark key="'" line="6" column="9" />
         <mark key="[" line="12" column="64" />
@@ -157,12 +180,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496566812228">
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496753673018">
         <mark key="'" line="13" column="30" />
-        <mark key="[" line="14" column="83" />
-        <mark key="]" line="14" column="83" />
-        <mark key="^" line="14" column="83" />
-        <mark key="." line="14" column="83" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="101" />
+        <mark key="." line="14" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -170,52 +193,59 @@
       <jump line="54" column="5" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="6" column="9" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" />
       <jump line="36" column="12" filename="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" />
+      <jump line="32" column="47" filename="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" />
+      <jump line="36" column="32" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" />
+      <jump line="3" column="24" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/main.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/Code/project-boomer/app/Entities/Work.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123, 123</text>
+        <text>, 'id', 'mainflow_type_id')</text>
       </register>
       <register name="-" type="4">
-        <text>123, 123</text>
+        <text>, 'id', 'mainflow_type_id')</text>
       </register>
       <register name="/" type="4">
-        <text>request</text>
+        <text>get</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ3dvcmtzLnNob3cnLCAkd29yay0+aWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjoK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHByb3BlcnR5ICRjYXN0cwogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAoUmVxdWVzdDo6Y2xhc3MpLT5pbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBuYW1lIHVuaXRfaWQgbWFpbmZsb3dfdHlwZV9pZCBkZXRhaWxpbmdmbG93X3R5cGVfaWQgd29ya2Zsb3dfaWQKICAgICAgICAvLyBkZWZhdWx0IGFtb3VudCAxCi8vICAgICAgICAkcmVxdWVzdC0+b25seSgnbmFtZScsICd1bml0X2lkJywpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpLT5nZXRFeHByZXNzaW9uQnVpbGRlcigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpc2lzY29vbDsKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0IGRldGFpbGluZwogICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBXb3JrZmxvdyAkd29ya2Zsb3cgKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJvcHM6IFsnb25TZWxlY3RlZCcsICdtYWluRGVmYXVsdCcsICdkZXRhaWxEZWZhdWx0J10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0Nvc3RFc3RpbWF0aW9ucy5waHAnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAkd29ya2Zsb3ctPgogICAgXEFwcFxFbnRpdGllc1xVc2VyOjoKICAgICAgICBcQXBwXEVudGl0aWVzXFdvcmtmbG93OjoKICAgICAgICBXb3JrZmxvdzo6CiAgICAkcmVxdWVzdC0+CiAgICB2aWV3KCdiaWQnKQogICAgdmlldygnJykKICAgIFZpZXc6Om1ha2UoJycpCiAgICBDb25maWc6OmdldCgnJyk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQHNlbGVjdGVkPSJvbk1haW5mbG93VHlwZVNlbGVjdGVkIgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>request</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>request</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,7 +257,6 @@
         <entry>paymentgateway</entry>
         <entry>p.*gate</entry>
         <entry>getrepo</entry>
-        <entry>get</entry>
         <entry>\cgetrepo</entry>
         <entry>getRe</entry>
         <entry>enc</entry>
@@ -239,9 +268,13 @@
         <entry>Work</entry>
         <entry>post</entry>
         <entry>request</entry>
+        <entry>Request</entry>
+        <entry>flow</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
