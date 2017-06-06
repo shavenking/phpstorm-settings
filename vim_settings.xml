@@ -17,12 +17,12 @@
         <mark key="]" line="431" column="13" />
         <mark key="." line="431" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496673472141">
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496752537307">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="214" column="10" />
-        <mark key="]" line="216" column="44" />
-        <mark key="." line="216" column="44" />
-        <mark key="^" line="216" column="44" />
+        <mark key="]" line="215" column="26" />
+        <mark key="." line="215" column="26" />
+        <mark key="^" line="215" column="26" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -54,6 +54,9 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496752629760">
+        <mark key="'" line="36" column="12" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
@@ -166,6 +169,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="54" column="5" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="6" column="9" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" />
+      <jump line="36" column="12" filename="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -175,7 +179,7 @@
         <text>123, 123</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>request</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjoK</text>
@@ -209,7 +213,10 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>request</last-search>
+      <last-offset />
+      <last-pattern>request</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -231,6 +238,7 @@
         <entry>store</entry>
         <entry>Work</entry>
         <entry>post</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
