@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1496665500741">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
         <mark key="]" line="442" column="8" />
@@ -18,17 +15,18 @@
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1496474167906">
-        <mark key="[" line="431" column="12" />
-        <mark key="]" line="431" column="13" />
-        <mark key="." line="431" column="13" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/work-items.blade.php" timestamp="1496838447743">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="65" />
+        <mark key="^" line="3" column="65" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496757867977">
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496838914531">
         <mark key="'" line="221" column="103" />
-        <mark key="[" line="227" column="44" />
-        <mark key="]" line="227" column="56" />
-        <mark key="." line="227" column="56" />
-        <mark key="^" line="227" column="56" />
+        <mark key="[" line="224" column="125" />
+        <mark key="]" line="224" column="156" />
+        <mark key="." line="224" column="156" />
+        <mark key="^" line="224" column="156" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -37,23 +35,19 @@
         <mark key="." line="65" column="88" />
         <mark key="^" line="65" column="88" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496549421960">
-        <mark key="'" line="1820" column="37" />
-        <mark key="[" line="1819" column="0" />
-        <mark key="]" line="1819" column="0" />
-        <mark key="." line="1819" column="0" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496838650279">
+        <mark key="'" line="19" column="28" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496753606013">
-        <mark key="'" line="18" column="28" />
-        <mark key="[" line="10" column="68" />
-        <mark key="]" line="10" column="82" />
-        <mark key="^" line="10" column="82" />
-        <mark key="." line="10" column="82" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" timestamp="1496753489211">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" timestamp="1496839270182">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWorkitem/StoreRequest.php" timestamp="1496757982852">
         <mark key="[" line="2" column="27" />
@@ -61,21 +55,18 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/public/phpinfo.php" timestamp="1496665565228">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" timestamp="1496839029414">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" timestamp="1496580532806">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496752977016">
-        <mark key="'" line="32" column="47" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="27" column="13" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
@@ -84,17 +75,27 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorksController.php" timestamp="1496758081690">
-        <mark key="[" line="78" column="46" />
-        <mark key="]" line="78" column="52" />
-        <mark key="." line="78" column="52" />
-        <mark key="^" line="78" column="52" />
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorksController.php" timestamp="1496839444345">
+        <mark key="[" line="125" column="130" />
+        <mark key="]" line="127" column="65" />
+        <mark key="." line="127" column="65" />
+        <mark key="^" line="127" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/flowtype-select.vue" timestamp="1496839268213">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Code/demo/index.php" timestamp="1496585694483">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/works.blade.php" timestamp="1496838361566">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="65" />
+        <mark key="^" line="22" column="65" />
+        <mark key="." line="22" column="65" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" timestamp="1496456015754">
         <mark key="'" line="37" column="12" />
@@ -110,19 +111,9 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/Project/StoreRequest.php" timestamp="1496414381114">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Logger/Operation.php" timestamp="1496551557047">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1496586852514">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/create.blade.php" timestamp="1496838049174">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
         <mark key="'" line="54" column="5" />
@@ -130,11 +121,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
         <mark key="^" line="98" column="6" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/ruleset.xml" timestamp="1496477617595">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
         <mark key="[" line="16" column="0" />
@@ -148,8 +134,11 @@
         <mark key="^" line="79" column="4" />
         <mark key="." line="79" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496415204987">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/edit.blade.php" timestamp="1496839315815">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="47" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496666957879">
         <mark key="'" line="6" column="7" />
@@ -165,21 +154,17 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1496665321486">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/_card.blade.php" timestamp="1496838782378">
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="10" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496673122381">
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
         <mark key="[" line="12" column="64" />
-        <mark key="]" line="12" column="70" />
+        <mark key="]" line="12" column="64" />
         <mark key="^" line="12" column="70" />
-        <mark key="." line="12" column="70" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/NowtoPay.php" timestamp="1496549791776">
-        <mark key="'" line="182" column="9" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
+        <mark key="." line="12" column="64" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
         <mark key="[" line="5" column="22" />
@@ -194,6 +179,11 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/show.blade.php" timestamp="1496838099125">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
@@ -205,46 +195,49 @@
       <jump line="3" column="24" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/main.js" />
       <jump line="28" column="4" filename="$USER_HOME$/Code/project-boomer/app/Entities/Work.php" />
       <jump line="221" column="103" filename="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" />
+      <jump line="14" column="4" filename="$USER_HOME$/Code/project-boomer/resources/views/workflows/show.blade.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StoreWorkitemRequest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>StoreWorkitemRequest</text>
+        <text>UpdateWorkRequest</text>
       </register>
       <register name="/" type="4">
         <text>where</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ3dvcmtzLnNob3cnLCAkd29yay0+aWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzaW5jZSBkZXRhaWxpbmdmbG93X3R5cGVfaWQgaXMgZ29pbmcgdG8gYmUgcmVtb3ZlZAogICAgICAgIC8vIHRlbXBvcmFyaWx5IHVzZSB0aGUgZmlyc3QgZGV0YWlsaW5nZmxvd190eXBlX2lkIG9mCiAgICAgICAgLy8gc3BlY2lmaWVkIG1haW5mbG93X3R5cGUKICAgICAgICAkZGV0YWlsaW5nZmxvd1R5cGUgPSBEZXRhaWxpbmdmbG93VHlwZTo6d2hlcmUoJ21haW5mbG93X3R5cGVfaWQnLCAkcmVxdWVzdC0+aW5wdXQoJ21haW5mbG93X3R5cGVfaWQnKSktPmZpcnN0T3JGYWlsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbWEKCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFpbmZsb3dUeXBlID0gTWFpbmZsb3dUeXBlOjpmaW5kT3JGYWlsKCRyZXF1ZXN0LT5pbnB1dCgnbWFpbmZsb3dfdHlwZV9pZCcpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHByb3BlcnR5ICRjYXN0cwogICAgICovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBuYW1lIHVuaXRfaWQgbWFpbmZsb3dfdHlwZV9pZCBkZXRhaWxpbmdmbG93X3R5cGVfaWQgd29ya2Zsb3dfaWQKICAgICAgICAvLyBkZWZhdWx0IGFtb3VudCAxCi8vICAgICAgICAkcmVxdWVzdC0+b25seSgnbmFtZScsICd1bml0X2lkJywpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkZGV0YWlsaW5nZmxvd1R5cGUgPSBEZXRhaWxpbmdmbG93VHlwZTo6d2hlcmUoJ21haW5mbG93X3R5cGVfaWQnLCAkcmVxdWVzdC0+aW5wdXQoJ21haW5mbG93X3R5cGVfaWQnKSktPmZpcnN0T3JGYWlsKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGZsb3d0eXBlLXNlbGVjdCBtYWluLWRlZmF1bHQ9Int7ICR3b3JrLT5kZXRhaWxpbmdmbG93VHlwZS0+bWFpbmZsb3dUeXBlLT5pZCB9fSIgZGV0YWlsLWRlZmF1bHQ9Int7ICR3b3JrLT5kZXRhaWxpbmdmbG93VHlwZS0+aWQgfX0iPjwvZmxvd3R5cGUtc2VsZWN0Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICfoqK3lrprlt6XkvZzpoIXnm64K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0IGRldGFpbGluZwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zKCdhbGwuY3JlYXRlJykgPT4gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBXb3JrZmxvdyAkd29ya2Zsb3cgKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgIHRyYW5zKCdhbGwuY3JlYXRlX3dvcmspID0+IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJvcHM6IFsnb25TZWxlY3RlZCcsICdtYWluRGVmYXVsdCcsICdkZXRhaWxEZWZhdWx0J10sCg==</text>
+        <text encoding="base64">ICAgIHRyYW5zX2Nob2ljZSgnYWxsLndvcmtzJywgMikgPT4gcm91dGUoJ3dvcmtzLmluZGV4JyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
