@@ -150,6 +150,13 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/project-pidgey-web/scripts/table/index.js" timestamp="1497083235137">
+        <mark key="'" line="6" column="38" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="6092" column="44" />
@@ -207,6 +214,7 @@
       <jump line="14" column="4" filename="$USER_HOME$/Code/project-boomer/resources/views/workflows/show.blade.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" />
+      <jump line="6" column="38" filename="$USER_HOME$/Code/project-pidgey-web/scripts/table/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
