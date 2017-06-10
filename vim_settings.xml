@@ -159,6 +159,12 @@
         <mark key="]" line="10" column="68" />
         <mark key="." line="10" column="68" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1497054696348">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
         <mark key="[" line="12" column="64" />
@@ -200,11 +206,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>UpdateWorkRequest</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>where</text>
