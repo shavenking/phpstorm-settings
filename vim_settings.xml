@@ -170,6 +170,12 @@
         <mark key="]" line="10" column="68" />
         <mark key="." line="10" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/project-pidgey/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php" timestamp="1497277734864">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1497054696348">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="3" />
