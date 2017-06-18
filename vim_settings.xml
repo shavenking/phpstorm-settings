@@ -149,6 +149,12 @@
       <file name="/Dummy.txt" timestamp="1497278190771">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1497791077713">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496666957879">
         <mark key="'" line="6" column="7" />
         <mark key="[" line="6" column="46" />
@@ -231,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkd293ID0gMTIzOwogICAgICAgIGVjaG8gJHdvdzsK</text>
+        <text encoding="base64">ICAgICAgICAtPmFzc2VydDsK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>i spent 30 on dinner</text>
       </register>
       <register name="/" type="4">
         <text>where</text>
@@ -243,31 +249,31 @@
         <text encoding="base64">ICAgICAgICAvLyBzaW5jZSBkZXRhaWxpbmdmbG93X3R5cGVfaWQgaXMgZ29pbmcgdG8gYmUgcmVtb3ZlZAogICAgICAgIC8vIHRlbXBvcmFyaWx5IHVzZSB0aGUgZmlyc3QgZGV0YWlsaW5nZmxvd190eXBlX2lkIG9mCiAgICAgICAgLy8gc3BlY2lmaWVkIG1haW5mbG93X3R5cGUKICAgICAgICAkZGV0YWlsaW5nZmxvd1R5cGUgPSBEZXRhaWxpbmdmbG93VHlwZTo6d2hlcmUoJ21haW5mbG93X3R5cGVfaWQnLCAkcmVxdWVzdC0+aW5wdXQoJ21haW5mbG93X3R5cGVfaWQnKSktPmZpcnN0T3JGYWlsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkd293ID0gMTIzOwogICAgICAgIGVjaG8gJHdvdzsK</text>
+        <text encoding="base64">ICAgICAgICAtPmFzc2VydDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGV0YWlsaW5nZmxvd1R5cGUgPSBEZXRhaWxpbmdmbG93VHlwZTo6d2hlcmUoJ21haW5mbG93X3R5cGVfaWQnLCAkcmVxdWVzdC0+aW5wdXQoJ21haW5mbG93X3R5cGVfaWQnKSktPmZpcnN0T3JGYWlsKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZsb3d0eXBlLXNlbGVjdCBtYWluLWRlZmF1bHQ9Int7ICR3b3JrLT5kZXRhaWxpbmdmbG93VHlwZS0+bWFpbmZsb3dUeXBlLT5pZCB9fSIgZGV0YWlsLWRlZmF1bHQ9Int7ICR3b3JrLT5kZXRhaWxpbmdmbG93VHlwZS0+aWQgfX0iPjwvZmxvd3R5cGUtc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICfoqK3lrprlt6XkvZzpoIXnm64K</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zKCdhbGwuY3JlYXRlJykgPT4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAkd293ID0gMTIzOwogICAgICAgIGVjaG8gJHdvdzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYW5zKCdhbGwuY3JlYXRlX3dvcmspID0+IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAkZGV0YWlsaW5nZmxvd1R5cGUgPSBEZXRhaWxpbmdmbG93VHlwZTo6d2hlcmUoJ21haW5mbG93X3R5cGVfaWQnLCAkcmVxdWVzdC0+aW5wdXQoJ21haW5mbG93X3R5cGVfaWQnKSktPmZpcnN0T3JGYWlsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
