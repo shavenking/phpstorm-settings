@@ -114,6 +114,9 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" timestamp="1497776360945">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/create.blade.php" timestamp="1496838049174">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="64" />
@@ -224,6 +227,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" />
       <jump line="6" column="38" filename="$USER_HOME$/Code/project-pidgey-web/scripts/table/index.js" />
       <jump line="45" column="4" filename="$USER_HOME$/Code/timeline/vendor/laravel/framework/src/Illuminate/Routing/Controller.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
