@@ -128,6 +128,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="64" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1498398477773">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="35" column="2" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="78" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
         <mark key="'" line="54" column="5" />
         <mark key="[" line="98" column="0" />
@@ -153,7 +160,13 @@
         <mark key="^" line="27" column="47" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497278190771">
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" timestamp="1498397353903">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498397447207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1498358433981">
@@ -212,11 +225,17 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1498357457102">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="34" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1498397645753">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="21" column="12" />
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/factories/ModelFactory.php" timestamp="1498398483690">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
         <mark key="[" line="5" column="22" />
@@ -251,64 +270,68 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/.env" />
       <jump line="37" column="3" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
       <jump line="19" column="35" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
+      <jump line="6" column="4" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="5" column="8" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="23" column="8" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="8" column="8" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdXNlcl9pZCBwbGF0Zm9ybV91c2VyX2lkIHBsYXRmb3JtCg==</text>
+        <text encoding="base64">LyoqIEB2YXIgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcRmFjdG9yeSAkZmFjdG9yeSAqLwokZmFjdG9yeS0+ZGVmaW5lKCdURUxFR1JBTV9DSEFUJywgZnVuY3Rpb24gKEZha2VyXEdlbmVyYXRvciAkZmFrZXIpIHsKICAgIHJldHVybiBbCiAgICAgICAgJ2lkJyA9PiAkZmFrZXItPnJhbmRvbU51bWJlcigpLAogICAgICAgICd0eXBlJyA9PiAncHJpdmF0ZScKICAgIF07Cn0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>income 30</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>requ</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VwZGF0ZV9pZCcgPT4gJzEyMzQ1Njc4OTAnLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gWwogICAgICAgICAgICAgICAgJ21lc3NhZ2VfaWQnID0+ICcxMjMxMjMxMjMnLAogICAgICAgICAgICAgICAgJ2Zyb20nID0+IFsnaWQnID0+ICcxMjkyOTEyMzknLCAnZmlyc3RfbmFtZScgPT4gJ3NoYXZlbmtpbmcnXSwKICAgICAgICAgICAgICAgICdkYXRlJyA9PiAnMTQ5Nzg3NDY0MycsCiAgICAgICAgICAgICAgICAnY2hhdCcgPT4gWydpZCcgPT4gJzk0ODc5NDg3JywgJ3R5cGUnID0+ICdwcml2YXRlJ10sCiAgICAgICAgICAgICAgICAndGV4dCcgPT4gJ2luY29tZSAzMCcKICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">LyoqIEB2YXIgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcRmFjdG9yeSAkZmFjdG9yeSAqLwokZmFjdG9yeS0+ZGVmaW5lKCdURUxFR1JBTV9DSEFUJywgZnVuY3Rpb24gKEZha2VyXEdlbmVyYXRvciAkZmFrZXIpIHsKICAgIHJldHVybiBbCiAgICAgICAgJ2lkJyA9PiAkZmFrZXItPnJhbmRvbU51bWJlcigpLAogICAgICAgICd0eXBlJyA9PiAncHJpdmF0ZScKICAgIF07Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdXNlcl9pZCBwbGF0Zm9ybV91c2VyX2lkIHBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAnbmFtZScgPT4gJGZha2VyLT5uYW1lLAogICAgICAgICdlbWFpbCcgPT4gJGZha2VyLT51bmlxdWUoKS0+c2FmZUVtYWlsLAogICAgICAgICdwYXNzd29yZCcgPT4gJHBhc3N3b3JkID86ICRwYXNzd29yZCA9IGJjcnlwdCgnc2VjcmV0JyksCiAgICAgICAgJ3JlbWVtYmVyX3Rva2VuJyA9PiBzdHJfcmFuZG9tKDEwKSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdGhpcy0+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnbWVzc2FnZV9pZCcgPT4gJGZha2VyLT5yYW5kb21OdW1iZXIoKSwKICAgICAgICAgICAgJ2Zyb20nID0+IFsnaWQnID0+ICRmYWtlci0+cmFuZG9tTnVtYmVyKCksICdmaXJzdF9uYW1lJyA9PiAkZmFrZXItPm5hbWVdLAogICAgICAgICAgICAnZGF0ZScgPT4gJGZha2VyLT51bml4VGltZSwKICAgICAgICAgICAgJ2NoYXQnID0+IFsnaWQnID0+ICRmYWtlci0+cmFuZG9tTnVtYmVyKCksICd0eXBlJyA9PiAncHJpdmF0ZSddLAogICAgICAgICAgICAndGV4dCcgPT4gJ2luY29tZSAzMCcKICAgICAgICBd</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhc3NlcnQgZGF0YWJhc2UgaGFzIHJlY29yZD8KICAgICAgICAvLyBhc3NlcnQgdXNlciBjYW4gcmVjZWl2ZSByZWNvcmQ/Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgICAgJ2lkJyA9PiAkZmFrZXItPnJhbmRvbU51bWJlcigpLAogICAgICAgICdmaXJzdF9uYW1lJyA9PiAkZmFrZXItPm5hbWUKICAgIF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIFRlc3QgYXBwIGNhbiBhY2NlcHQgcmVxdWVzdCBmcm9tIFRlbGVncmFtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcRmFjdG9yeSAkZmFjdG9yeSAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIFRlc3QgYXBwIGNhbiBhY2NlcHQgcmVxdWVzdCBmcm9tIFRlbGVncmFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlTWlncmF0aW9uczsK</text>
+        <text encoding="base64">JGZhY3RvcnktPmRlZmluZSgnVEVMRUdSQU1fVVNFUicsIGZ1bmN0aW9uIChGYSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZSBEYXRhYmFzZU1pZ3JhdGlvbnM7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgkdi0+ZmFpbHMoKSkgewogICAgICAgIGFib3J0KDQwMyk7CiAgICB9CgogICAgZGQoJHJlcXVlc3QtPmFsbCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICR2ID0gVmFsaWRhdG9yOjptYWtlKCRyZXF1ZXN0LT5hbGwoKSwgWwogICAgICAgICd1cGRhdGVfaWQnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgJ21lc3NhZ2UubWVzc2FnZV9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAnbWVzc2FnZS5mcm9tLmlkJyA9PiAncmVxdWlyZWQnLAogICAgICAgICdtZXNzYWdlLmNoYXQuaWQnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJ3JlcXVpcmVkJwogICAgXSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAndXBkYXRlJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>29y</text>
       </register>
     </registers>
     <search>
-      <last-search>requ</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>requ</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>paymentgateway</entry>
-        <entry>p.*gate</entry>
-        <entry>getrepo</entry>
-        <entry>\cgetrepo</entry>
         <entry>getRe</entry>
         <entry>enc</entry>
         <entry>en</entry>
@@ -325,11 +348,20 @@
         <entry>where</entry>
         <entry>req</entry>
         <entry>requ</entry>
+        <entry>mes</entry>
+        <entry>amke</entry>
+        <entry>make</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
         <entry>40d</entry>
+        <entry>3y</entry>
+        <entry>21y</entry>
+        <entry>22y</entry>
+        <entry>25y</entry>
         <entry>noh</entry>
+        <entry>29y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
