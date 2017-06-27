@@ -30,11 +30,12 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" timestamp="1498572684336">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="32" />
+      <file name="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" timestamp="1498573451485">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="54" />
+        <mark key="^" line="19" column="54" />
+        <mark key="." line="19" column="54" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" timestamp="1498567364564">
         <mark key="[" line="16" column="12" />
@@ -109,11 +110,12 @@
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" timestamp="1497776360945">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1498567249607">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1498573617965">
+        <mark key="'" line="32" column="55" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
         <mark key="[" line="16" column="0" />
@@ -148,12 +150,12 @@
       <file name="/Dummy.txt" timestamp="1498566138752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1498567372547">
-        <mark key="'" line="40" column="23" />
-        <mark key="[" line="30" column="73" />
-        <mark key="]" line="30" column="74" />
-        <mark key="." line="30" column="74" />
-        <mark key="^" line="30" column="74" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1498573814911">
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="65" />
+        <mark key="." line="30" column="65" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1498572545410">
         <mark key="[" line="20" column="18" />
@@ -243,66 +245,70 @@
       <jump line="43" column="74" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="40" column="23" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="17" column="6" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" />
+      <jump line="34" column="4" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
+      <jump line="16" column="33" filename="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" />
+      <jump line="30" column="12" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
+      <jump line="32" column="55" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
+      <jump line="37" column="16" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
+      <jump line="30" column="31" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>truncate</text>
+        <text encoding="base64">LT5pZA==</text>
       </register>
       <register name="-" type="4">
-        <text>truncate</text>
+        <text encoding="base64">LT5pZA==</text>
       </register>
       <register name="/" type="4">
-        <text>getid</text>
+        <text>trans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnY3JlYXRlZF9hdCcgPT4gJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmRhdGUnKSwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMKICAgICAgICAgICAgLT5tb2RlbAogICAgICAgICAgICAtPm5ld1F1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZU5hbWUoJHRoaXMtPnN1cHBvcnRlZFR5cGVzKCdJTkNPTUUnKSkKICAgICAgICAgICAgLT5maXJzdE9yRmFpbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRtYXRjaGVzID0gW107Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZSA9ICR0ZWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIEFwcFxUcmFuc2FjdGlvblR5cGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmFsc2UgIT09IG1iX3N0cnBvcygkdGV4dCwgJ+iWquawtCcpKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZmFjdG9yeS0+bWFrZUluY29tZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0VXAoKQogICAgewogICAgICAgIHBhcmVudDo6c2V0VXAoKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRpbmNvbWUtPnRyYQo=</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmluY29tZVRyYW5zYWN0aW9uID0gVHJhbnNhY3Rpb25UeXBlOjpjcmVhdGUoWyduYW1lJyA9PiAnSU5DT01FJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFRyYW5zICRpbmNvbWUgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRpbmNvbWUtCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbW9kZWw7CiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBUcmFuc2FjdGlvblR5cGUKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIG1ha2VTdXJlRGF0YWJhc2VIYXNTdXBwb3J0ZWRUcmFuc2FjdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdGV4dAogICAgICogQHJldHVybiAKICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm1vZGVsLT5uZXdRdWVyeSgpLT53aGVyZU5hbWUoJ0lOQ09NRScpLT5maXJzdE9yRmFpbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIEFwcFxUcmFuc2FjdGlvblR5cGUgJGluY29tZSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPm1vZGVsLT5uZXcK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>getid</last-search>
+      <last-search>trans</last-search>
       <last-offset />
-      <last-pattern>getid</last-pattern>
+      <last-pattern>trans</last-pattern>
       <last-replace encoding="base64">JHRoaXMtPg==</last-replace>
       <last-substitute>faker</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Work</entry>
-        <entry>post</entry>
-        <entry>request</entry>
-        <entry>Request</entry>
         <entry>flow</entry>
         <entry>get</entry>
         <entry>where</entry>
@@ -310,7 +316,6 @@
         <entry>requ</entry>
         <entry>mes</entry>
         <entry>amke</entry>
-        <entry>make</entry>
         <entry>user</entry>
         <entry>public</entry>
         <entry>pro</entry>
@@ -319,6 +324,11 @@
         <entry>30</entry>
         <entry>$car</entry>
         <entry>getid</entry>
+        <entry>incom</entry>
+        <entry>make</entry>
+        <entry>su</entry>
+        <entry>app</entry>
+        <entry>trans</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
