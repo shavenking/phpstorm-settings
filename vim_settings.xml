@@ -139,12 +139,11 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1498741718075">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1498877552445">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/web.php" timestamp="1498742180390">
         <mark key="[" line="1" column="0" />
@@ -306,19 +305,18 @@
       <file name="/Dummy.txt" timestamp="1498738491843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1498742569811">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="43" column="9" />
-        <mark key="." line="30" column="65" />
-        <mark key="^" line="30" column="14" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1498880096438">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="89" column="4" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="70" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1498742759111">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="19" />
+      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1498880056613">
+        <mark key="'" line="45" column="5" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
         <mark key="'" line="35" column="6" />
@@ -327,12 +325,12 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1498742633812">
-        <mark key="'" line="20" column="12" />
-        <mark key="[" line="20" column="67" />
-        <mark key="]" line="20" column="70" />
-        <mark key="." line="20" column="70" />
-        <mark key="^" line="20" column="70" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1498880256808">
+        <mark key="'" line="42" column="29" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="68" column="64" />
+        <mark key="." line="76" column="39" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/IntentionGusser.php" timestamp="1498565945940">
         <mark key="[" line="3" column="0" />
@@ -420,7 +418,6 @@
       <jump line="35" column="104" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
       <jump line="32" column="23" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="19" column="53" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="43" column="74" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="40" column="23" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
@@ -463,65 +460,74 @@
       <jump line="32" column="36" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
       <jump line="16" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
+      <jump line="55" column="40" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
+      <jump line="33" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
+      <jump line="29" column="30" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
+      <jump line="45" column="5" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
+      <jump line="24" column="6" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
+      <jump line="15" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
+      <jump line="77" column="39" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
+      <jump line="57" column="8" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
+      <jump line="42" column="29" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>38443</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFVzZXJDYW5DcmVhdGVFeHBlbnNlVmlhVGVsZWdyYW0oKQogICAgewogICAgICAgICR0ZWxlZ3JhbUZhY3RvcnkgPSBhcHAoVGVsZWdyYW1GYWN0b3J5OjpjbGFzcyk7CgogICAgICAgICR0ZWxlZ3JhbVVwZGF0ZSA9ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VVcGRhdGUoWwogICAgICAgICAgICAnbWVzc2FnZScgPT4gJHRlbGVncmFtRmFjdG9yeS0+bWFrZU1lc3NhZ2UoWyd0ZXh0JyA9PiAnOTQ4NyDmlK/lh7onXSkKICAgICAgICBdKTsKCiAgICAgICAgJHRoaXMKICAgICAgICAgICAgLT5wb3N0KCcvYXBpL3dlYmhvb2tzL3RlbGVncmFtLycgLiBlbnYoJ1RFTEVHUkFNX0tFWScpLCAkdGVsZWdyYW1VcGRhdGUpCiAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDIwMCk7CgogICAgICAgICRleHBlbnNlID0gYXBwKFRyYW5zYWN0aW9uVHlwZUZhY3Rvcnk6OmNsYXNzKS0+Z2V0RXhwZW5zZSgpOwogICAgICAgICRtZXNzYWdlRGF0ZSA9IGFwcChDYXJib246OmNsYXNzKS0+Y3JlYXRlRnJvbVRpbWVzdGFtcChhcnJheV9nZXQoJHRlbGVncmFtVXBkYXRlLCAnbWVzc2FnZS5kYXRlJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVHJhbnNhY3Rpb24pLT5nZXRUYWJsZSgpLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAndXNlcl9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbS5pZCcpLAogICAgICAgICAgICAgICAgJ3RyYW5zYWN0aW9uX3R5cGVfaWQnID0+ICRleHBlbnNlLT5pZCwKICAgICAgICAgICAgICAgICdhbW91bnQnID0+ICc5NDg3LjAwJywKICAgICAgICAgICAgICAgICdiYWxhbmNlJyA9PiAnOTQ4Ny4wMCcsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gJG1lc3NhZ2VEYXRlLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+ICRtZXNzYWdlRGF0ZSwKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>38443</text>
+        <text>getIncome</text>
       </register>
       <register name="/" type="4">
-        <text>38</text>
+        <text>38443</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1GYWN0b3J5ID0gYXBwKFRlbGVncmFtRmFjdG9yeTo6Y2xhc3MpOwoKICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQogICAgICAgIF0pOwoKICAgICAgICAkdGhpcwogICAgICAgICAgICAtPnBvc3QoJy9hcGkvd2ViaG9va3MvdGVsZWdyYW0vJyAuIGVudignVEVMRUdSQU1fS0VZJyksICR0ZWxlZ3JhbVVwZGF0ZSkKICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoMjAwKTsKCiAgICAgICAgJGluY29tZSA9IGFwcChUcmFuc2FjdGlvblR5cGVGYWN0b3J5OjpjbGFzcyktPmdldEluY29tZSgpOwogICAgICAgICRtZXNzYWdlRGF0ZSA9IGFwcChDYXJib246OmNsYXNzKS0+Y3JlYXRlRnJvbVRpbWVzdGFtcChhcnJheV9nZXQoJHRlbGVncmFtVXBkYXRlLCAnbWVzc2FnZS5kYXRlJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVHJhbnNhY3Rpb24pLT5nZXRUYWJsZSgpLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAndXNlcl9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbS5pZCcpLAogICAgICAgICAgICAgICAgJ3RyYW5zYWN0aW9uX3R5cGVfaWQnID0+ICRpbmNvbWUtPmlkLAogICAgICAgICAgICAgICAgJ2Ftb3VudCcgPT4gJzM4NDQzLjAwJywKICAgICAgICAgICAgICAgICdiYWxhbmNlJyA9PiAnMzg0NDMuMDAnLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+ICRtZXNzYWdlRGF0ZSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiAkbWVzc2FnZURhdGUsCiAgICAgICAgICAgIF0KICAgICAgICApOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzk0ODcg5pSv5Ye6J10pCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5jb21lID0gYXBwKFRyYW5zYWN0aW9uVHlwZUZhY3Rvcnk6OmNsYXNzKS0+Z2V0SW5jb21lKCk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFVzZXJDYW5DcmVhdGVFeHBlbnNlVmlhVGVsZWdyYW0oKQogICAgewogICAgICAgICR0ZWxlZ3JhbUZhY3RvcnkgPSBhcHAoVGVsZWdyYW1GYWN0b3J5OjpjbGFzcyk7CgogICAgICAgICR0ZWxlZ3JhbVVwZGF0ZSA9ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VVcGRhdGUoWwogICAgICAgICAgICAnbWVzc2FnZScgPT4gJHRlbGVncmFtRmFjdG9yeS0+bWFrZU1lc3NhZ2UoWyd0ZXh0JyA9PiAnOTQ4NyDmlK/lh7onXSkKICAgICAgICBdKTsKCiAgICAgICAgJHRoaXMKICAgICAgICAgICAgLT5wb3N0KCcvYXBpL3dlYmhvb2tzL3RlbGVncmFtLycgLiBlbnYoJ1RFTEVHUkFNX0tFWScpLCAkdGVsZWdyYW1VcGRhdGUpCiAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDIwMCk7CgogICAgICAgICRleHBlbnNlID0gYXBwKFRyYW5zYWN0aW9uVHlwZUZhY3Rvcnk6OmNsYXNzKS0+Z2V0RXhwZW5zZSgpOwogICAgICAgICRtZXNzYWdlRGF0ZSA9IGFwcChDYXJib246OmNsYXNzKS0+Y3JlYXRlRnJvbVRpbWVzdGFtcChhcnJheV9nZXQoJHRlbGVncmFtVXBkYXRlLCAnbWVzc2FnZS5kYXRlJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVHJhbnNhY3Rpb24pLT5nZXRUYWJsZSgpLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAndXNlcl9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbS5pZCcpLAogICAgICAgICAgICAgICAgJ3RyYW5zYWN0aW9uX3R5cGVfaWQnID0+ICRleHBlbnNlLT5pZCwKICAgICAgICAgICAgICAgICdhbW91bnQnID0+ICc5NDg3LjAwJywKICAgICAgICAgICAgICAgICdiYWxhbmNlJyA9PiAnOTQ4Ny4wMCcsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gJG1lc3NhZ2VEYXRlLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+ICRtZXNzYWdlRGF0ZSwKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1GYWN0b3J5ID0gYXBwKFRlbGVncmFtRmFjdG9yeTo6Y2xhc3MpOwoKICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzk0ODcg5pSv5Ye6J10pCiAgICAgICAgXSk7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCB1c2VyIGNhbiBjcmVhdGUgaW5jb21lIHZpYSBUZWxlZ3JhbQogICAgICovCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1GYWN0b3J5ID0gYXBwKFRlbGVncmFtRmFjdG9yeTo6Y2xhc3MpOwoKICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzk0ODcg5pSv5Ye6J10pCiAgICAgICAgXSk7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCB1c2VyIGNhbiBjcmVhdGUgaW5jb21lIHZpYSBUZWxlZ3JhbQogICAgICogd2hlbiBpdCdzIGZpcnN0IHRpbWUgcmVhY2ggb3VyIHNlcnZpY2UKICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQogICAgICAgIF0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQogICAgICAgIF0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcRGF0YWJhc2VNaWdyYXRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQogICAgICAgIF0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJHVzZXItPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgV2ViIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciB3ZWIgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGNvbnRhaW5zIHRoZSAid2ViIiBtaWRkbGV3YXJlIGdyb3VwLiBOb3cgY3JlYXRlIHNvbWV0aGluZyBncmVhdCEKfAoqLwoKUm91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0OwoK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zLzM4NDQzLzk0ODcvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>38</last-search>
+      <last-search>38443</last-search>
       <last-offset />
-      <last-pattern>38</last-pattern>
-      <last-replace encoding="base64">JHRoaXMtPg==</last-replace>
-      <last-substitute>faker</last-substitute>
+      <last-pattern>38443</last-pattern>
+      <last-replace>9487</last-replace>
+      <last-substitute>38443</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>requ</entry>
-        <entry>mes</entry>
-        <entry>amke</entry>
         <entry>user</entry>
         <entry>public</entry>
         <entry>pro</entry>
@@ -539,6 +545,9 @@
         <entry>get</entry>
         <entry>ex</entry>
         <entry>38</entry>
+        <entry>da</entry>
+        <entry>income</entry>
+        <entry>38443</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
@@ -557,6 +566,7 @@
         <entry>6,7d</entry>
         <entry>12,20d</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zLzM4NDQzLzk0ODcvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
