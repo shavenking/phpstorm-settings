@@ -312,7 +312,7 @@
         <mark key="." line="70" column="7" />
         <mark key="^" line="70" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1498880056613">
+      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1498885678632">
         <mark key="'" line="45" column="5" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -514,7 +514,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzM4NDQzLzk0ODcvZw==</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -524,7 +524,7 @@
       <last-replace>9487</last-replace>
       <last-substitute>38443</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -565,8 +565,8 @@
         <entry>30y</entry>
         <entry>6,7d</entry>
         <entry>12,20d</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLzM4NDQzLzk0ODcvZw==</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
