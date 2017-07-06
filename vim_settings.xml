@@ -349,7 +349,7 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498968061723">
+      <file name="/Dummy.txt" timestamp="1499346544626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1499255293254">
@@ -379,12 +379,11 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1499258032288">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="35" />
-        <mark key="^" line="31" column="35" />
-        <mark key="." line="31" column="35" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1499346530133">
+        <mark key="[" line="45" column="77" />
+        <mark key="]" line="45" column="77" />
+        <mark key="^" line="45" column="87" />
+        <mark key="." line="45" column="77" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499257509934">
         <mark key="'" line="115" column="49" />
@@ -451,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="9" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
       <jump line="26" column="33" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
       <jump line="24" column="39" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
@@ -551,13 +549,14 @@
       <jump line="16" column="96" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="40" column="41" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="48" column="11" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app(PlatformFactory::class)</text>
+        <text encoding="base64">LT5maXJzdCgp</text>
       </register>
       <register name="-" type="4">
-        <text>app(PlatformFactory::class)</text>
+        <text encoding="base64">LT5maXJzdCgp</text>
       </register>
       <register name="/" type="4">
         <text>crea</text>
@@ -566,31 +565,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+ICRtZXNzYWdlRGF0ZS0+c3ViRGF5KCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoKG5ldyBUcmFuc2FjdGlvbiktPmdldFRhYmxlKCkpLT53aGVyZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFsYW5jZSA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZURhdGUgPSAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZGF0ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYmFsYW5jZSA9IDsK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">JHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmRhdGUnKQokcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZGF0ZScp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZURhdGUgPSAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZGF0ZScpOwo=</text>
       </register>
       <register name="6" type="8">
         <text encoding="base64">JHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmRhdGUnKQokcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZGF0ZScp</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">JHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmRhdGUnKQokcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZGF0ZScp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gY3JlYXRlRXhwZW5zZVRyYW5zYWN0aW9uKFVzZXIgJHVzZXIpCiAgICB7CiAgICAgICAgLyoqIEB2YXIgVHJhbnNhY3Rpb25UeXBlICRleHBlbnNlICovCiAgICAgICAgJGV4cGVuc2UgPSBhcHAoVHJhbnNhY3Rpb25UeXBlRmFjdG9yeTo6Y2xhc3MpLT5nZXRFeHBlbnNlKCk7CiAgICAgICAgCiAgICAgICAgJGV4cGVuc2UtPnRyYW5zYWN0aW9ucygpLT5jcmVhdGUoWwogICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgICAgICAnYW1vdW50JwogICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
