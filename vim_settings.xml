@@ -125,7 +125,8 @@
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" timestamp="1498972448292">
+      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" timestamp="1499434303689">
+        <mark key="'" line="37" column="8" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -438,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="53" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="43" column="74" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="40" column="23" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="17" column="6" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" />
@@ -538,6 +538,7 @@
       <jump line="48" column="9" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="55" column="3" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
       <jump line="59" column="22" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
+      <jump line="37" column="8" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
