@@ -384,6 +384,12 @@
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1498977585286">
         <mark key="'" line="345" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" timestamp="1499477088695">
+        <mark key="[" line="70" column="85" />
+        <mark key="]" line="71" column="39" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/IntentionGusser.php" timestamp="1498565945940">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
