@@ -61,12 +61,12 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1498742374926">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="42" />
-        <mark key="^" line="34" column="42" />
-        <mark key="." line="34" column="42" />
+      <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" timestamp="1498565803242">
         <mark key="'" line="17" column="6" />
@@ -162,11 +162,11 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1499482584791">
-        <mark key="[" line="98" column="23" />
-        <mark key="]" line="98" column="25" />
-        <mark key="." line="98" column="25" />
-        <mark key="^" line="98" column="25" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1499484203687">
+        <mark key="[" line="82" column="23" />
+        <mark key="]" line="82" column="25" />
+        <mark key="." line="82" column="25" />
+        <mark key="^" line="82" column="25" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/web.php" timestamp="1498742180390">
         <mark key="[" line="1" column="0" />
@@ -368,12 +368,12 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1499482596617">
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1499484585552">
         <mark key="'" line="28" column="12" />
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="73" column="21" />
-        <mark key="." line="73" column="21" />
-        <mark key="^" line="73" column="21" />
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="23" />
+        <mark key="." line="70" column="18" />
+        <mark key="^" line="70" column="17" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499348013296">
         <mark key="'" line="113" column="12" />
@@ -446,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" />
       <jump line="34" column="4" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
@@ -546,13 +545,14 @@
       <jump line="37" column="8" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
       <jump line="66" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
       <jump line="26" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/money-mom/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>收入</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>收入</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
