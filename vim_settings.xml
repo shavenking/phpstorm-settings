@@ -422,12 +422,12 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499588602852">
-        <mark key="'" line="102" column="4" />
-        <mark key="[" line="112" column="40" />
-        <mark key="]" line="112" column="40" />
-        <mark key="." line="112" column="40" />
-        <mark key="^" line="112" column="40" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499589385178">
+        <mark key="'" line="104" column="4" />
+        <mark key="[" line="112" column="38" />
+        <mark key="]" line="112" column="38" />
+        <mark key="." line="112" column="38" />
+        <mark key="^" line="109" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -533,47 +533,49 @@
       <jump line="101" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRSZXR1cm4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>Google</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJzM4NDQzIOaUtuWFpScsCiAgICAgICAgICAgICdtZXNzYWdlLmZyb20nID0+ICR1c2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcwogICAgICAgICAgICAtPnBvc3RKc29uKCcvYXBpL3dlYmhvb2tzL3RlbGVncmFtLycgLiBlbnYoJ1RFTEVHUkFNX0tFWScpLCAkdGVsZWdyYW1VcGRhdGUpCiAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDIwMCkKICAgICAgICAgICAgLT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgICAgICdtZXRob2QnID0+ICdzZW5kTWVzc2FnZScsCiAgICAgICAgICAgICAgICAnY2hhdF9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+IGFycmF5X2dldCgkdGVsZWdyYW1VcGRhdGUsICdtZXNzYWdlLm1lc3NhZ2VfaWQnKSwKICAgICAgICAgICAgICAgICd0ZXh0JyA9PiAnRVhQRU5TRSA3OS4xMiwgQkFMQU5DRSBOT1c6IDM4MzYzLjg4JwogICAgICAgICAgICBdKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRSZXR1cm4oKTsK</text>
+      <register name="1" type="4">
+        <text>[
+        ]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbScgPT4gJHVzZXIK</text>
+      <register name="2" type="4">
+        <text>[
+        ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJzM4NDQzIOaUtuWFpScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RUZWxlZ3JhbVdpbGwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBhc3NlcnQgdGhhdCBkYXRhYmFzZSBzdG9yZSB0ZWxlZ3JhbSB1cGRhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpc3N1ZSBhcGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBtb2NrIGdvb2dsZSBubHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRSZXR1cm4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbScgPT4gJHVzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgIF0sICRvdmVycmlkZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>93,101y</text>
       </register>
     </registers>
     <search>
@@ -609,7 +611,6 @@
         <entry>google</entry>
       </history-search>
       <history-cmd>
-        <entry>Noh</entry>
         <entry encoding="base64">JzwsJz5zL2Zha2VyLyR0aGlzLT4vZw==</entry>
         <entry>45,47d</entry>
         <entry>57,60d</entry>
@@ -629,6 +630,7 @@
         <entry>help gn</entry>
         <entry>71,73y</entry>
         <entry>noh</entry>
+        <entry>93,101y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
