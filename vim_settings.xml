@@ -80,6 +80,12 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Kernel.php" timestamp="1499606393371">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="59" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/seeds/PlatformSeeder.php" timestamp="1498739484407">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="21" column="53" />
@@ -337,9 +343,6 @@
       <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" timestamp="1499573259758">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499346544626">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1499581133471">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="99" column="42" />
@@ -353,12 +356,12 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1498974659583">
+      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1499606422532">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="82" />
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
         <mark key="'" line="35" column="6" />
@@ -367,10 +370,10 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1499600561861">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1499606576271">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -400,6 +403,13 @@
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" timestamp="1499606264522">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1497054696348">
         <mark key="[" line="8" column="3" />
@@ -438,15 +448,13 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499600751507">
-        <mark key="[" line="127" column="41" />
-        <mark key="]" line="127" column="41" />
-        <mark key="." line="127" column="41" />
-        <mark key="^" line="127" column="49" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499606513645">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="47" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
       <jump line="40" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" />
@@ -546,13 +554,14 @@
       <jump line="118" column="13" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="67" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="66" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="6" column="6" filename="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>equalTo()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>equalTo()</text>
+        <text>$response</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
@@ -561,33 +570,31 @@
         <text encoding="base64">ICAgICAgICBcTG9nOjppbmZvKGpzb25fZW5jb2RlKCRyZXNwb25zZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbygnaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OnNob3VsZFJlY2VpdmUoJ2luZm8nKQogICAgICAgICAgICAtPm9uY2UoKQogICAgICAgICAgICAtPndpdGgoanNvbl9lbmNvZGUoJHRlbGVncmFtVXBkYXRlKSk7CiAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>[
-            ]</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXRob2QnID0+ICdzZW5kTWVzc2FnZScsCiAgICAgICAgICAgICAgICAnY2hhdF9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+IGFycmF5X2dldCgkdGVsZWdyYW1VcGRhdGUsICdtZXNzYWdlLm1lc3NhZ2VfaWQnKSwKICAgICAgICAgICAgICAgICd0ZXh0JyA9PiAnV2UgZGlkIHJlY2VpdmUgeW91ciBtZXNzYWdlIGFuZCB3ZSBhcmUgdHJ5IG91ciBiZXN0IHByb2Nlc3NpbmcgdGhlIG1lc3NhZ2UnCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnbWV0aG9kJyA9PiAnc2VuZE1lc3NhZ2UnLAogICAgICAgICAgICAnY2hhdF9pZCcgPT4gJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmNoYXQuaWQnKSwKICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICd0ZXh0JyA9PiAkdHJhbnNhY3Rpb25UeXBlLT5uYW1lIC4gJyAnIC4gJHRyYW5zYWN0aW9uLT5hbW91bnQgLiAnLCBCQUxBTkNFIE5PVzogJyAuICR0cmFuc2FjdGlvbi0+YmFsYW5jZQogICAgICAgIF0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKGpzb25fZW5jb2RlKCR0ZWxlZ3JhbVVwZGF0ZSkpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gOwoK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICAgICAndGV4dCcgPT4gJ1dlIGRpZCByZWNlaXZlIHlvdXIgbWVzc2FnZSBhbmQgd2UgYXJlIHRyeSBvdXIgYmVzdCBwcm9jZXNzaW5nIHRoZSBtZXNzYWdlJwogICAgICAgICAgICBd</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICAgICAndGV4dCcgPT4gJ1dlIGRpZCByZWNlaXZlIHlvdXIgbWVzc2FnZSBhbmQgd2UgYXJlIHRyeSBvdXIgYmVzdCBwcm9jZXNzaW5nIHRoZSBtZXNzYWdlJwogICAgICAgICAgICBd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vbmNlKCkKICAgICAgICAgICAgLT53aXRoKGpzb25fZW5jb2RlKCR0ZWxlZ3JhbVVwZGF0ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSA7Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OnNob3VsZFJlY2VpdmUoKS0+cAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnbWV0aG9kJyA9PiAnc2VuZE1lc3NhZ2UnLAogICAgICAgICAgICAnY2hhdF9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAncmVwbHlfdG9fbWVzc2FnZV9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAndGV4dCcgPT4gJ1dlIGRpZCByZWNlaXZlIHlvdXIgbWVzc2FnZSBhbmQgd2UgYXJlIHRyeSBvdXIgYmVzdCBwcm9jZXNzaW5nIHRoZSBtZXNzYWdlJwogICAgICAgIF0=</text>
       </register>
-      <register name="9" type="4">
-        <text>[
-            ]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgJ2NoYXRfaWQnID0+IGFycmF5X2dldCgkdGVsZWdyYW1VcGRhdGUsICdtZXNzYWdlLmNoYXQuaWQnKSwKICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+IGFycmF5X2dldCgkdGVsZWdyYW1VcGRhdGUsICdtZXNzYWdlLm1lc3NhZ2VfaWQnKSwKICAgICAgICAgICAgJ3RleHQnID0+ICdXZSBkaWQgcmVjZWl2ZSB5b3VyIG1lc3NhZ2UgYW5kIHdlIGFyZSB0cnkgb3VyIGJlc3QgcHJvY2Vzc2luZyB0aGUgbWVzc2FnZScK</text>
       </register>
       <register name=":" type="4">
         <text>93,101y</text>
