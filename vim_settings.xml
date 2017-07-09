@@ -154,12 +154,11 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1499581052843">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="20" column="20" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1499582118020">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
@@ -423,14 +422,15 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499582913365">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="108" column="11" />
+        <mark key="]" line="112" column="52" />
+        <mark key="^" line="112" column="52" />
+        <mark key="." line="112" column="52" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/Code/money-mom/app/User.php" />
-      <jump line="24" column="5" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_114824_create_platforms_table.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
-      <jump line="15" column="8" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
       <jump line="2" column="37" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
       <jump line="42" column="9" filename="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" />
@@ -521,44 +521,50 @@
       <jump line="35" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
       <jump line="65" column="31" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
       <jump line="66" column="31" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
       <jump line="36" column="7" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
       <jump line="128" column="33" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
       <jump line="45" column="16" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
+      <jump line="70" column="44" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
+      <jump line="101" column="35" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
+      <jump line="100" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
+      <jump line="10" column="24" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="63" column="24" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>])</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>])</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>in</text>
+        <text>Tele</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJzM4NDQzIOaUtuWFpScsCiAgICAgICAgICAgICdtZXNzYWdlLmZyb20nID0+ICR1c2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbScgPT4gJHVzZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgIF0sICRvdmVycmlkZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RUZWxlZ3JhbVdpbGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiAkdGhpcy0+ZmFrZXItPnJhbmRvbU51bWJlcigpLAogICAgICAgICAgICAndHlwZScgPT4gJ3ByaXZhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgIF0sICRvdmVycmlkZSk7Cg==</text>
@@ -571,9 +577,9 @@
       </register>
     </registers>
     <search>
-      <last-search>in</last-search>
+      <last-search>Tele</last-search>
       <last-offset />
-      <last-pattern>in</last-pattern>
+      <last-pattern>Tele</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>00</last-substitute>
       <last-dir>1</last-dir>
@@ -581,8 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getid</entry>
-        <entry>incom</entry>
         <entry>make</entry>
         <entry>su</entry>
         <entry>app</entry>
@@ -601,9 +605,10 @@
         <entry>typ</entry>
         <entry>crea</entry>
         <entry>in</entry>
+        <entry>telegram</entry>
+        <entry>Tele</entry>
       </history-search>
       <history-cmd>
-        <entry>29y</entry>
         <entry>Noh</entry>
         <entry encoding="base64">JzwsJz5zL2Zha2VyLyR0aGlzLT4vZw==</entry>
         <entry>45,47d</entry>
@@ -619,9 +624,10 @@
         <entry>2,7d</entry>
         <entry>35d</entry>
         <entry>129y</entry>
-        <entry>noh</entry>
         <entry>20,22y</entry>
         <entry>24,26y</entry>
+        <entry>help gn</entry>
+        <entry>noh</entry>
         <entry>71,73y</entry>
       </history-cmd>
       <history-expr />
