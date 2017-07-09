@@ -324,6 +324,9 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" timestamp="1499573259758">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499346544626">
         <mark key="[" line="0" column="0" />
       </file>
@@ -420,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="33" filename="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" />
-      <jump line="30" column="12" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
       <jump line="32" column="55" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
       <jump line="37" column="16" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="30" column="31" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
@@ -520,6 +521,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
       <jump line="40" column="1" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
       <jump line="60" column="28" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="6" column="20" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
