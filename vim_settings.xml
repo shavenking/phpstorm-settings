@@ -422,16 +422,15 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499582913365">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="108" column="11" />
-        <mark key="]" line="112" column="52" />
-        <mark key="^" line="112" column="52" />
-        <mark key="." line="112" column="52" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499588602852">
+        <mark key="'" line="102" column="4" />
+        <mark key="[" line="112" column="40" />
+        <mark key="]" line="112" column="40" />
+        <mark key="." line="112" column="40" />
+        <mark key="^" line="112" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="37" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" />
       <jump line="42" column="9" filename="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" />
@@ -531,55 +530,56 @@
       <jump line="10" column="24" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="63" column="24" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="65" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="101" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRSZXR1cm4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Google</text>
       </register>
       <register name="/" type="4">
-        <text>Tele</text>
+        <text>google</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGVsZWdyYW1VcGRhdGUgPSAkdGVsZWdyYW1GYWN0b3J5LT5tYWtlVXBkYXRlKFsKICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJzM4NDQzIOaUtuWFpScsCiAgICAgICAgICAgICdtZXNzYWdlLmZyb20nID0+ICR1c2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbScgPT4gJHVzZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRSZXR1cm4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbScgPT4gJHVzZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RUZWxlZ3JhbVdpbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RUZWxlZ3JhbVdpbGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQo=</text>
+        <text encoding="base64">CiAgICAgICAgYXJyYXlfc2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UuZnJvbScsICR1c2VyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgIF0sICRvdmVycmlkZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VNZXNzYWdlKFsndGV4dCcgPT4gJzM4NDQzIOaUtuWFpSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWwogICAgICAgIF0sICRvdmVycmlkZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>71,73y</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Tele</last-search>
+      <last-search>google</last-search>
       <last-offset />
-      <last-pattern>Tele</last-pattern>
+      <last-pattern>google</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>00</last-substitute>
       <last-dir>1</last-dir>
@@ -587,7 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make</entry>
         <entry>su</entry>
         <entry>app</entry>
         <entry>trans</entry>
@@ -607,6 +606,7 @@
         <entry>in</entry>
         <entry>telegram</entry>
         <entry>Tele</entry>
+        <entry>google</entry>
       </history-search>
       <history-cmd>
         <entry>Noh</entry>
@@ -627,8 +627,8 @@
         <entry>20,22y</entry>
         <entry>24,26y</entry>
         <entry>help gn</entry>
-        <entry>noh</entry>
         <entry>71,73y</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
