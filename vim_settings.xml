@@ -386,11 +386,11 @@
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1498977585286">
         <mark key="'" line="345" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" timestamp="1499477088695">
-        <mark key="[" line="70" column="85" />
-        <mark key="]" line="71" column="39" />
-        <mark key="^" line="71" column="39" />
-        <mark key="." line="71" column="39" />
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" timestamp="1499696632111">
+        <mark key="'" line="1" column="131" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/message-queued.blade.php" timestamp="1499608147700">
         <mark key="[" line="0" column="0" />
@@ -464,9 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
-      <jump line="40" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/money-mom/routes/web.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/.env.example" />
       <jump line="34" column="9" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
@@ -564,13 +561,16 @@
       <jump line="66" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" />
       <jump line="141" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="51" column="12" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" />
+      <jump line="80" column="16" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" />
+      <jump line="1" column="131" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3M9InVpIGZsdWlkIGRyb3Bkb3duIiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID86ICRhbW91bnQ=</text>
+        <text encoding="base64">Y2xhc3M9InVpIGZsdWlkIGRyb3Bkb3duIiA=</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
@@ -579,34 +579,34 @@
         <text encoding="base64">5oiR5YCR5pS25Yiw5oKo55qE6KiK5oGv5LqG77yM5L2G5piv55uu5YmN57O757Wx57mB5b+Z77yM5oiR5YCR5pyD55uh5b+r6JmV55CG44CCCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0aW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V2UgZGlkIHJlY2VpdmUgeW91ciBtZXNzYWdlIGFuZCB3ZSBhcmUgdHJ5IG91ciBiZXN0IHByb2Nlc3NpbmcgdGhlIG1lc3NhZ2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSA7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnbWV0aG9kJyA9PiAnc2VuZE1lc3NhZ2UnLAogICAgICAgICAgICAnY2hhdF9pZCcgPT4gJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmNoYXQuaWQnKSwKICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICd0ZXh0JyA9PiAkdHJhbnNhY3Rpb25UeXBlLT5uYW1lIC4gJyAnIC4gJHRyYW5zYWN0aW9uLT5hbW91bnQgLiAnLCBCQUxBTkNFIE5PVzogJyAuICR0cmFuc2FjdGlvbi0+YmFsYW5jZQogICAgICAgIF0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0aW9uOiBudWxsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gOwoK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2Ryb3Bkb3duLmRyb3Bkb3duKCdyZWZyZXNoJykKICAgICAgICAgICAgICAgIHRoaXMuX2Ryb3Bkb3duLmRyb3Bkb3duKCdzZXQgc2VsZWN0ZWQnLCBbdmFsdWVdKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICAgICAndGV4dCcgPT4gJ1dlIGRpZCByZWNlaXZlIHlvdXIgbWVzc2FnZSBhbmQgd2UgYXJlIHRyeSBvdXIgYmVzdCBwcm9jZXNzaW5nIHRoZSBtZXNzYWdlJwogICAgICAgICAgICBd</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZSgpIHsKICAgICAgICAgICAgCiAgICAgICAgfSwKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICAgICAndGV4dCcgPT4gJ1dlIGRpZCByZWNlaXZlIHlvdXIgbWVzc2FnZSBhbmQgd2UgYXJlIHRyeSBvdXIgYmVzdCBwcm9jZXNzaW5nIHRoZSBtZXNzYWdlJwogICAgICAgICAgICBd</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZTogewogICAgICAgICAgICAKICAgICAgICB9LA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">RAo=</text>
       </register>
       <register name=":" type="4">
-        <text>93,101y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -616,7 +616,7 @@
       <last-replace>56</last-replace>
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -642,7 +642,6 @@
         <entry>google</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Zha2VyLyR0aGlzLT4vZw==</entry>
         <entry>45,47d</entry>
         <entry>57,60d</entry>
         <entry>57,60y</entry>
@@ -662,6 +661,7 @@
         <entry>71,73y</entry>
         <entry>noh</entry>
         <entry>93,101y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
