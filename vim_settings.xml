@@ -106,6 +106,12 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/App/Guesser/NotFoundException.php" timestamp="1500084896025">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" timestamp="1498739292258">
         <mark key="'" line="19" column="33" />
         <mark key="[" line="15" column="0" />
@@ -132,6 +138,12 @@
         <mark key="]" line="34" column="12" />
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-amount-not-found.blade.php" timestamp="1500089702174">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" timestamp="1499578489737">
         <mark key="'" line="35" column="0" />
@@ -160,8 +172,19 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionAmountGuesser.php" timestamp="1500089827917">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_114824_create_platforms_table.php" timestamp="1499598718760">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeGuesser.php" timestamp="1500089456267">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
@@ -230,6 +253,12 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeNotFound.php" timestamp="1500085166703">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" timestamp="1498967571543">
         <mark key="'" line="35" column="12" />
         <mark key="[" line="17" column="42" />
@@ -280,6 +309,12 @@
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" timestamp="1497776360945">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-type-not-found.blade.php" timestamp="1500085480933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
@@ -335,6 +370,9 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/mockery/mockery/library/Mockery/MockInterface.php" timestamp="1500088099386">
+        <mark key="'" line="87" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGusser.php" timestamp="1498566361835">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="22" />
@@ -357,7 +395,7 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500082310135">
+      <file name="/Dummy.txt" timestamp="1500089505834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1499606422532">
@@ -367,6 +405,12 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="6092" column="44" />
@@ -374,11 +418,11 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500081666020">
-        <mark key="'" line="51" column="51" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500089889815">
+        <mark key="'" line="54" column="60" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -415,12 +459,11 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" timestamp="1499606264522">
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" timestamp="1500088682730">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="24" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1497054696348">
         <mark key="[" line="8" column="3" />
@@ -446,6 +489,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/mockery/mockery/library/Mockery/VerificationDirector.php" timestamp="1500089000827">
+        <mark key="'" line="84" column="28" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="7" column="23" />
@@ -459,34 +508,15 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500083916458">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="158" column="14" />
-        <mark key="]" line="158" column="14" />
-        <mark key="." line="158" column="14" />
-        <mark key="^" line="158" column="14" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500089885765">
+        <mark key="'" line="219" column="37" />
+        <mark key="[" line="219" column="27" />
+        <mark key="]" line="219" column="37" />
+        <mark key="^" line="219" column="36" />
+        <mark key="." line="219" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="45" column="5" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
-      <jump line="24" column="6" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="15" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="57" column="8" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="46" column="35" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="76" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="77" column="16" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="54" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="14" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="21" column="73" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="42" column="29" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/money-mom/composer.json" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcesser.php" />
-      <jump line="1" column="1" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcesser.php" />
-      <jump line="18" column="4" filename="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" />
-      <jump line="16" column="34" filename="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" />
       <jump line="38" column="12" filename="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
@@ -565,46 +595,65 @@
       <jump line="51" column="51" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="6" column="15" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
       <jump line="39" column="4" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="127" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="152" column="7" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="158" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="159" column="59" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="73" column="57" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="87" column="20" filename="$USER_HOME$/Code/money-mom/vendor/mockery/mockery/library/Mockery/MockInterface.php" />
+      <jump line="154" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="84" column="28" filename="$USER_HOME$/Code/money-mom/vendor/mockery/mockery/library/Mockery/VerificationDirector.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="174" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="143" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="193" column="36" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="199" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="83" column="32" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="77" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="219" column="37" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="54" column="60" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IOaUtuWFpQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOaUtuWFpQ==</text>
+        <text>$tokens</text>
       </register>
       <register name="/" type="4">
-        <text>gues</text>
+        <text>typ</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUZWxlZ3JhbUZhY3RvcnkgJHRlbGVncmFtRmFjdG9yeSAqLwogICAgICAgICR0ZWxlZ3JhbUZhY3RvcnkgPSBhcHAoVGVsZWdyYW1GYWN0b3J5OjpjbGFzcyk7CgogICAgICAgICR1c2VyID0gJHRlbGVncmFtRmFjdG9yeS0+bWFrZVVzZXIoKTsKCiAgICAgICAgJHRlbGVncmFtVXBkYXRlID0gJHRlbGVncmFtRmFjdG9yeS0+bWFrZVVwZGF0ZShbCiAgICAgICAgICAgICdtZXNzYWdlLnRleHQnID0+ICczODQ0MyDmlLblhaUnLAogICAgICAgICAgICAnbWVzc2FnZS5mcm9tJyA9PiAkdXNlcgogICAgICAgIF0pOwo=</text>
+      <register name="0" type="4">
+        <text>格式錯誤，請輸入金額。</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbScgPT4gJHVzZXIK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0ZWxlZ3JhbUZhY3RvcnktPm1ha2VVc2VyKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFtb3VudCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW5zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsKICAgICAgICAgICAgJ21lc3NhZ2UuY2hhdC5pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UubWVzc2FnZV9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UuZGF0ZScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbS5pZCcgPT4gJ3JlcXVpcmVkJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -614,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gues</last-search>
+      <last-search>typ</last-search>
       <last-offset />
-      <last-pattern>gues</last-pattern>
+      <last-pattern>typ</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
@@ -637,18 +686,15 @@
         <entry>00</entry>
         <entry>key</entry>
         <entry>fun</entry>
-        <entry>typ</entry>
         <entry>crea</entry>
         <entry>in</entry>
         <entry>telegram</entry>
         <entry>Tele</entry>
         <entry>google</entry>
         <entry>gues</entry>
+        <entry>typ</entry>
       </history-search>
       <history-cmd>
-        <entry>45,47d</entry>
-        <entry>57,60d</entry>
-        <entry>57,60y</entry>
         <entry>30y</entry>
         <entry>6,7d</entry>
         <entry>12,20d</entry>
@@ -665,6 +711,9 @@
         <entry>71,73y</entry>
         <entry>93,101y</entry>
         <entry>w</entry>
+        <entry>128,130y</entry>
+        <entry>63,66y</entry>
+        <entry>175,178y</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
