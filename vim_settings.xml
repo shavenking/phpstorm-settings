@@ -199,6 +199,9 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" timestamp="1500099497474">
+        <mark key="'" line="46" column="17" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
         <mark key="]" line="442" column="8" />
@@ -418,11 +421,11 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500089889815">
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500099439852">
         <mark key="'" line="54" column="60" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -517,7 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="12" filename="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
       <jump line="29" column="14" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
@@ -617,55 +619,56 @@
       <jump line="116" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="219" column="37" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="54" column="60" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="51" column="17" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>$tokens</text>
       </register>
       <register name="/" type="4">
-        <text>typ</text>
+        <text>re</text>
       </register>
-      <register name="0" type="4">
-        <text>格式錯誤，請輸入金額。</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXRob2QnID0+ICdzZW5kTWVzc2FnZScsCiAgICAgICAgICAgICAgICAnY2hhdF9pZCcgPT4gJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmNoYXQuaWQnKSwKICAgICAgICAgICAgICAgICdyZXBseV90b19tZXNzYWdlX2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgJ3RleHQnID0+IHZpZXcoJ3RyYW5zYWN0aW9uLWFtb3VudC1ub3QtZm91bmQnKS0+cmVuZGVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFtb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHRydWUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW5zKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFtb3VudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYW1vdW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW5zKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>typ</last-search>
+      <last-search>re</last-search>
       <last-offset />
-      <last-pattern>typ</last-pattern>
+      <last-pattern>re</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>trans</entry>
         <entry>it</entry>
         <entry>get</entry>
@@ -693,6 +695,7 @@
         <entry>google</entry>
         <entry>gues</entry>
         <entry>typ</entry>
+        <entry>re</entry>
       </history-search>
       <history-cmd>
         <entry>30y</entry>
