@@ -459,8 +459,8 @@
         <mark key="^" line="14" column="135" />
         <mark key="." line="14" column="135" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1499609530987">
-        <mark key="'" line="140" column="0" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500082595127">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -468,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/money-mom/routes/api.php" />
       <jump line="55" column="40" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
       <jump line="33" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
@@ -568,6 +567,7 @@
       <jump line="51" column="51" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="6" column="15" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
       <jump line="39" column="4" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
