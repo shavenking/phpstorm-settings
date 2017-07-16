@@ -66,12 +66,12 @@
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" timestamp="1498565803242">
         <mark key="'" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500179345488">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="97" column="50" />
-        <mark key="]" line="98" column="7" />
-        <mark key="." line="98" column="7" />
-        <mark key="^" line="98" column="7" />
+      <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500183884145">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="90" column="63" />
+        <mark key="]" line="91" column="34" />
+        <mark key="." line="91" column="34" />
+        <mark key="^" line="91" column="34" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" timestamp="1499581078964">
         <mark key="'" line="40" column="4" />
@@ -553,16 +553,15 @@
         <mark key="[" line="683" column="0" />
         <mark key="]" line="683" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500179383631">
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500183921010">
         <mark key="'" line="249" column="4" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-        <mark key="^" line="254" column="19" />
+        <mark key="[" line="252" column="42" />
+        <mark key="]" line="252" column="41" />
+        <mark key="." line="252" column="41" />
+        <mark key="^" line="252" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
       <jump line="26" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/money-mom/.env" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" />
@@ -662,13 +661,14 @@
       <jump line="631" column="0" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Support/Str.php" />
       <jump line="92" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="5" column="6" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dd($telegramUpdate)</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>dd($telegramUpdate)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tes</text>
