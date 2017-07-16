@@ -455,11 +455,11 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500193325503">
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="74" column="52" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500194215354">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="89" column="34" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -555,12 +555,12 @@
         <mark key="[" line="683" column="0" />
         <mark key="]" line="683" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500192067551">
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500194259441">
         <mark key="'" line="252" column="44" />
-        <mark key="[" line="252" column="45" />
-        <mark key="]" line="252" column="45" />
-        <mark key="." line="252" column="45" />
-        <mark key="^" line="252" column="45" />
+        <mark key="[" line="252" column="46" />
+        <mark key="]" line="252" column="46" />
+        <mark key="." line="252" column="46" />
+        <mark key="^" line="252" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -667,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGQobWJfc3RybGVuKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JykpKTs=</text>
+        <text>dd($startCommand);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGQobWJfc3RybGVuKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JykpKTs=</text>
+        <text>dd($startCommand);</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
@@ -679,31 +679,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYl9jb252ZXJ0X2VuY29kaW5nKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JyksICdVVEYtMTYnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQoJ2tra2tra2tra2trJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1iX3N0cmN1dCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZHVtcCgkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZW50aXRpZXMnKSk7Cm1iX2ludGVybmFsX2VuY29kaW5nKCdVVEYtMTYnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWJfc3RybGVuVkQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQobWJfc3RybGVuKG1iX2NvbnZlcnRfZW5jb2RpbmcoJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwgJ1VURi0xNicsICdVVEYtOCcpKSk7Cg==</text>
+        <text encoding="base64">ZGQoJ2tra2tra2tra2trJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYl9zdHJsZW4obWJfY29udmVydF9lbmNvZGluZygkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UudGV4dCcpLCAnVVRGLTE2JywgJ1VURi04JykpLAo=</text>
+        <text encoding="base64">ZHVtcCgkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuZW50aXRpZXMnKSk7Cm1iX2ludGVybmFsX2VuY29kaW5nKCdVVEYtMTYnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UudGV4dCcpLAo=</text>
+        <text encoding="base64">ZGQobWJfc3RybGVuKG1iX2NvbnZlcnRfZW5jb2RpbmcoJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwgJ1VURi0xNicsICdVVEYtOCcpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYl9zdHJsZW4obWJfY29udmVydF9lbmNvZGluZygkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UudGV4dCcpLCAnVVRGLTE2JywgJ1VURi04JykpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1iX2NvbnZlcnRfZW5jb2RpbmcoJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwgJ1VURi0xNicsICdVVEYtOCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UudGV4dCcpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdVVEYtOCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnVVRGLTE2Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoCiAgICAgICAgICAgICk7Cgo=</text>
+        <text encoding="base64">ZGQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1iX2NvbnZlcnRfZW5jb2RpbmcoJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwgJ1VURi0xNicsICdVVEYtOCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
