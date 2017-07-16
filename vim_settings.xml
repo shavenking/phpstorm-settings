@@ -63,12 +63,15 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1499580863302">
-        <mark key="'" line="32" column="7" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="48" />
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" timestamp="1498565803242">
+        <mark key="'" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500179345488">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="97" column="50" />
+        <mark key="]" line="98" column="7" />
+        <mark key="." line="98" column="7" />
+        <mark key="^" line="98" column="7" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" timestamp="1499581078964">
         <mark key="'" line="40" column="4" />
@@ -182,6 +185,9 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="20" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_114824_create_platforms_table.php" timestamp="1499598718760">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeGuesser.php" timestamp="1500089456267">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -225,6 +231,9 @@
         <mark key="]" line="442" column="8" />
         <mark key="^" line="442" column="8" />
         <mark key="." line="442" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1498649746723">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Entities/Work.php" timestamp="1496754380376">
         <mark key="[" line="9" column="48" />
@@ -309,6 +318,9 @@
         <mark key="." line="127" column="65" />
         <mark key="^" line="127" column="65" />
       </file>
+      <file name="$USER_HOME$/Code/timeline/vendor/laravel/framework/src/Illuminate/Routing/Controller.php" timestamp="1497708452339">
+        <mark key="'" line="45" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/demo/index.php" timestamp="1496585694483">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="0" column="4" />
@@ -321,6 +333,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" timestamp="1497776360945">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-type-not-found.blade.php" timestamp="1500085480933">
         <mark key="[" line="0" column="0" />
@@ -360,6 +375,9 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php" timestamp="1498650149951">
+        <mark key="'" line="24" column="5" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1496550314184">
         <mark key="[" line="79" column="4" />
         <mark key="]" line="79" column="4" />
@@ -379,11 +397,17 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/mockery/mockery/library/Mockery/MockInterface.php" timestamp="1500088099386">
+        <mark key="'" line="87" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGusser.php" timestamp="1498566361835">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="22" />
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" timestamp="1499573259758">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -405,9 +429,6 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500089505834">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="31" />
@@ -420,6 +441,9 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1500177301963">
+        <mark key="'" line="631" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
         <mark key="'" line="35" column="6" />
@@ -441,6 +465,9 @@
         <mark key="]" line="93" column="42" />
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1498977585286">
+        <mark key="'" line="345" column="20" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" timestamp="1499696632111">
         <mark key="'" line="1" column="131" />
@@ -526,24 +553,15 @@
         <mark key="[" line="683" column="0" />
         <mark key="]" line="683" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500171330610">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="73" column="26" />
-        <mark key="]" line="73" column="70" />
-        <mark key="^" line="73" column="70" />
-        <mark key="." line="73" column="70" />
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500179383631">
+        <mark key="'" line="249" column="4" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="254" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="113" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
-      <jump line="12" column="6" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
-      <jump line="42" column="18" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
-      <jump line="48" column="9" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
-      <jump line="55" column="3" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
-      <jump line="59" column="22" filename="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" />
       <jump line="37" column="8" filename="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" />
       <jump line="26" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/money-mom/.env" />
@@ -635,63 +653,71 @@
       <jump line="105" column="87" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="71" column="14" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="225" column="16" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="252" column="12" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="265" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="249" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="631" column="0" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Support/Str.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dd($telegramUpdate)</text>
       </register>
       <register name="-" type="4">
-        <text>message-queued</text>
+        <text>dd($telegramUpdate)</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>tes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXRob2QnID0+ICdzZW5kTWVzc2FnZScsCiAgICAgICAgICAgICAgICAnY2hhdF9pZCcgPT4gJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLmNoYXQuaWQnKSwKICAgICAgICAgICAgICAgICdyZXBseV90b19tZXNzYWdlX2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgJ3RleHQnID0+IHZpZXcoJ21lc3NhZ2UtcXVldWVkJyktPnJlbmRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcwogICAgICAgICAgICAtPnBvc3RKc29uKCcvYXBpL3dlYmhvb2tzL3RlbGVncmFtLycgLiBlbnYoJ1RFTEVHUkFNX0tFWScpLCAkdGVsZWdyYW1VcGRhdGUpCiAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDIwMCkKICAgICAgICAgICAgLT5hc3NlcnRFeGFjdEpzb24oWwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiBhcnJheV9nZXQoJHRlbGVncmFtVXBkYXRlLCAnbWVzc2FnZS5jaGF0LmlkJyksCiAgICAgICAgICAgICAgICAncmVwbHlfdG9fbWVzc2FnZV9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgJ3RleHQnID0+ICfmoLzlvI/pjK/oqqTvvIzoq4vovLjlhaXph5HpoY3jgIInIC4gUEhQX0VPTAogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgnaGknKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGUtPnZhbGlkYXRvci0+ZmFpbGVkKCkpOy8vLT5lcnJvcnMtPmdldCgnbWVzc2FnZS50ZXh0JykpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgbWJfaW50ZXJuYWxfZW5jb2RpbmcoJG9yaWdpbmFsSW50ZXJuYWxFbmNvZGluZyk7CiAgICAgICAgbWJfcmVnZXhfZW5jb2RpbmcoJG9yaWdpbmFsUmVnZXhFbmNvZGluZyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtYWtlIGEgcXVpY2sgY2hlY2sgaWYgdGV4dCBjb250YWlucyBjb21tYW5kCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmICghbWJfZXJlZ19tYXRjaCgnXC9bQS16XSsnLCAkdGV4dCkpIHsKLy8gICAgICAgICAgICByZXR1cm4gJHVwZGF0ZTsKLy8gICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkZW50aXRpZXMgPSBbXTsKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsKICAgICAgICAgICAgJ21lc3NhZ2UuY2hhdC5pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UubWVzc2FnZV9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UuZGF0ZScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbS5pZCcgPT4gJ3JlcXVpcmVkJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9mZnNldCAvPSAyOwogICAgICAgICAgICAkbGVuZ3RoIC89IDI7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0ZXh0JyA9PiAnSU5DT01FOiAzODQ0My4wMCcgLiBQSFBfRU9MIC4gJ0JBTEFOQ0UgTk9XOiAzODQ0My4wMCcgLiBQSFBfRU9MCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaW5kIGNvbW1hbmRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRFeGFjdEpzb24oWwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiBhcnJheV9nZXQoJHRlbGVncmFtVXBkYXRlLCAnbWVzc2FnZS5jaGF0LmlkJyksCiAgICAgICAgICAgICAgICAncmVwbHlfdG9fbWVzc2FnZV9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgJ3RleHQnID0+ICdJTkNPTUU6IDM4NDQzLjAwJyAuIFBIUF9FT0wgLiAnQkFMQU5DRSBOT1c6IDM4NDQzLjAwJyAuIFBIUF9FT0wKICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRFeGFjdEpzb24oWwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiBhcnJheV9nZXQoJHRlbGVncmFtVXBkYXRlLCAnbWVzc2FnZS5jaGF0LmlkJyksCiAgICAgICAgICAgICAgICAncmVwbHlfdG9fbWVzc2FnZV9pZCcgPT4gYXJyYXlfZ2V0KCR0ZWxlZ3JhbVVwZGF0ZSwgJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgJ3RleHQnID0+ICdJTkNPTUU6IDM4NDQzLjAwJyAuIFBIUF9FT0wgLiAnQkFMQU5DRSBOT1c6IDM4NDQzLjAwJyAuIFBIUF9FT0wKICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYl9pbnRlcm5hbF9lbmNvZGluZygkb3JpZ2luYWxJbnRlcm5hbEVuY29kaW5nKTsKICAgICAgICBtYl9yZWdleF9lbmNvZGluZygkb3JpZ2luYWxSZWdleEVuY29kaW5nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search>tes</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>tes</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>res</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>it</entry>
         <entry>get</entry>
         <entry>ex</entry>
         <entry>38</entry>
@@ -709,12 +735,11 @@
         <entry>google</entry>
         <entry>gues</entry>
         <entry>typ</entry>
-        <entry>re</entry>
         <entry>res</entry>
+        <entry>re</entry>
+        <entry>tes</entry>
       </history-search>
       <history-cmd>
-        <entry>2,7d</entry>
-        <entry>35d</entry>
         <entry>129y</entry>
         <entry>20,22y</entry>
         <entry>24,26y</entry>
@@ -732,6 +757,8 @@
         <entry>set nornu</entry>
         <entry>7d</entry>
         <entry>91,94y</entry>
+        <entry>220,228y</entry>
+        <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
