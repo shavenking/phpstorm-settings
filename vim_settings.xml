@@ -553,11 +553,11 @@
         <mark key="[" line="683" column="0" />
         <mark key="]" line="683" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500183921010">
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500183995566">
         <mark key="'" line="249" column="4" />
         <mark key="[" line="252" column="42" />
-        <mark key="]" line="252" column="41" />
-        <mark key="." line="252" column="41" />
+        <mark key="]" line="252" column="42" />
+        <mark key="." line="252" column="42" />
         <mark key="^" line="252" column="41" />
       </file>
     </filemarks>
@@ -665,10 +665,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">8J+agA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">8J+agA==</text>
       </register>
       <register name="/" type="4">
         <text>tes</text>
