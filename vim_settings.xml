@@ -455,12 +455,11 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500188354190">
-        <mark key="'" line="33" column="44" />
-        <mark key="[" line="76" column="82" />
-        <mark key="]" line="76" column="100" />
-        <mark key="." line="76" column="100" />
-        <mark key="^" line="76" column="100" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500191114653">
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="49" />
+        <mark key="." line="85" column="49" />
+        <mark key="^" line="82" column="28" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -556,16 +555,15 @@
         <mark key="[" line="683" column="0" />
         <mark key="]" line="683" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500186999849">
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500190969241">
         <mark key="'" line="252" column="44" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
+        <mark key="[" line="252" column="31" />
+        <mark key="]" line="252" column="32" />
+        <mark key="." line="252" column="31" />
         <mark key="^" line="254" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="7" filename="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" />
       <jump line="128" column="33" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
       <jump line="45" column="16" filename="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" />
       <jump line="70" column="44" filename="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" />
@@ -611,7 +609,6 @@
       <jump line="143" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="193" column="36" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="83" column="32" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
-      <jump line="77" column="12" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="116" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="219" column="37" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="54" column="60" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
@@ -665,55 +662,57 @@
       <jump line="26" column="53" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="69" column="31" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="33" column="44" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="77" column="108" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="78" column="84" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'UTF-16'</text>
+        <text encoding="base64">ICogMg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'UTF-16'</text>
+        <text encoding="base64">ICogMg==</text>
       </register>
       <register name="/" type="4">
-        <text>awe</text>
+        <text>req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCktPmpzb24oWwogICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3NlbmRNZXNzYWdlJywKICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgJ3JlcGx5X3RvX21lc3NhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5tZXNzYWdlX2lkJyksCiAgICAgICAgICAgICAgICAndGV4dCcgPT4gdmlldygnbWVzc2FnZS1xdWV1ZWQnKS0+cmVuZGVyKCkKICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYl9jb252ZXJ0X2VuY29kaW5nKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JyksICdVVEYtMTYnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ZGQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1iX2NvbnZlcnRfZW5jb2RpbmcoJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwgJ1VURi0xNicsICdVVEYtOCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPmFsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdVVEYtOCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnVVRGLTE2Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoCiAgICAgICAgICAgICk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxWYWxpZGF0aW9uRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1iX2NvbnZlcnRfZW5jb2RpbmcoCiAgICAgICAgICAgICAgICAgICAgbWJfc3Vic3RyKAogICAgICAgICAgICAgICAgICAgICAgICBtYl9jb252ZXJ0X2VuY29kaW5nKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JyksICdVVEYtMTYnKSwKICAgICAgICAgICAgICAgICAgICAgICAgMCwKICAgICAgICAgICAgICAgICAgICAgICAgOCwKICAgICAgICAgICAgICAgICAgICAgICAgJ1VURi0xNicKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICdVVEYtOCcsCiAgICAgICAgICAgICAgICAgICAgJ1VURi0xNicKICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFZhbGlkYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdG9yOjptYWtlKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5lbnRpdGllcycpLCBbCiAgICAgICAgICAgICAgICAnJwogICAgICAgICAgICBdKTsKICAgICAgICAgICAgJHRoaXMtPnZhbGlkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UgPSBtYl9jb252ZXJ0X2VuY29kaW5nKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JyksICdVVEYtMTYnKTsKICAgICAgICAgICAgJHN0YXJ0ID0gbWJfY29udmVydF9lbmNvZGluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0YXJ0Q29tbWFuZCA9IGFycmF5X2ZpcnN0KCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS5lbnRpdGllcycpLCBmdW5jdGlvbiAoYXJyYXkgJGVudGl0eSkgdXNlICgkcmVxdWVzdCkgewogICAgICAgICAgICAgICAgcmV0dXJuICdib3RfY29tbWFuZCcgPT09ICRlbnRpdHlbJ3R5cGUnXSAmJiAnL3N0YXJ0JyA9PT0gZHVtcChtYl9zdWJzdHIoCiAgICAgICAgICAgICAgICAgICAgJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwKICAgICAgICAgICAgICAgICAgICAkZW50aXR5WydvZmZzZXQnXSwKICAgICAgICAgICAgICAgICAgICAkZW50aXR5WydsZW5ndGgnXSwKICAgICAgICAgICAgICAgICAgICAnVVRGLTE2JwogICAgICAgICAgICAgICAgKSk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdG9yCiAgICAgICAgICAgIFZhbGlkYXRvcjo6bWFrZSgkcmVxdWVzdC0+KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHV0ZjE2TWVzc2FnZSA9IG1iX2NvbnZlcnRfZW5jb2RpbmcoJHJlcXVlc3QtPmlucHV0KCdtZXNzYWdlLnRleHQnKSwgJ1VURi0xNicsICdVVEYtOCcpOwogICAgICAgICAgICAkdXRmMTZTdGFydCA9IG1iX2NvbnZlcnRfZW5jb2RpbmcoJy9zdGFydCcsICdVVEYtMTYnLCAnVVRGLTgnKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>awe</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>awe</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>res</last-substitute>
       <last-dir>1</last-dir>
@@ -721,7 +720,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
         <entry>38</entry>
         <entry>da</entry>
         <entry>income</entry>
@@ -741,6 +739,7 @@
         <entry>re</entry>
         <entry>tes</entry>
         <entry>awe</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>129y</entry>
