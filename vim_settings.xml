@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/Concerns/ValidatesAttributes.php" timestamp="1500187323238">
         <mark key="'" line="0" column="0" />
       </file>
@@ -32,6 +26,260 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" timestamp="1498976232971">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" timestamp="1498565803242">
+        <mark key="'" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Providers/NaturalLanguageProcessorProvider.php" timestamp="1498967810616">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" timestamp="1498739292258">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="19" column="54" />
+        <mark key="." line="19" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/please-input-correct-format.blade.php" timestamp="1500171439007">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/.env.example" timestamp="1498742383869">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-amount-not-found.blade.php" timestamp="1500089702174">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496666957879">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" timestamp="1500082158721">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionAmountGuesser.php" timestamp="1500379956992">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_114824_create_platforms_table.php" timestamp="1499598718760">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeGuesser.php" timestamp="1500379941949">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="46" />
+        <mark key="." line="40" column="46" />
+        <mark key="^" line="40" column="46" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" timestamp="1500379367849">
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="281" column="88" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction.blade.php" timestamp="1500168306174">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" timestamp="1500380275602">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php" timestamp="1500379715861">
+        <mark key="'" line="33" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" timestamp="1500379866545">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
+        <mark key="^" line="12" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1498649746723">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Entities/Work.php" timestamp="1496754380376">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="65" column="78" />
+        <mark key="]" line="65" column="88" />
+        <mark key="." line="65" column="88" />
+        <mark key="^" line="65" column="88" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" timestamp="1496839270182">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeNotFound.php" timestamp="1500085166703">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/demo/index.php" timestamp="1496585694483">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" timestamp="1497776360945">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-type-not-found.blade.php" timestamp="1500085480933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/config/app.php" timestamp="1498967706865">
+        <mark key="[" line="179" column="54" />
+        <mark key="]" line="179" column="60" />
+        <mark key="^" line="179" column="60" />
+        <mark key="." line="179" column="60" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
+        <mark key="'" line="54" column="5" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Transaction.php" timestamp="1500122274942">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" timestamp="1499573259758">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="25" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor.php" timestamp="1498965502214">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="6092" column="44" />
+        <mark key="]" line="6092" column="42" />
+        <mark key="." line="6092" column="42" />
+        <mark key="^" line="6092" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500294312477">
+        <mark key="'" line="70" column="24" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/message-queued.blade.php" timestamp="1499608147700">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/IntentionGusser.php" timestamp="1498565945940">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/app/IntentionGuesser.php" timestamp="1498566092203">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496757828281">
+        <mark key="'" line="13" column="30" />
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="135" />
+        <mark key="^" line="14" column="135" />
+        <mark key="." line="14" column="135" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500380068892">
+        <mark key="'" line="258" column="0" />
+        <mark key="[" line="252" column="46" />
+        <mark key="]" line="252" column="46" />
+        <mark key="." line="252" column="46" />
+        <mark key="^" line="252" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
         <mark key="[" line="19" column="39" />
@@ -51,23 +299,6 @@
         <mark key="]" line="31" column="26" />
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" timestamp="1498976232971">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php" timestamp="1498565803242">
-        <mark key="'" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
@@ -96,12 +327,6 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Providers/NaturalLanguageProcessorProvider.php" timestamp="1498967810616">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="36" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/app/PlatformFactory.php" timestamp="1498739519189">
         <mark key="'" line="13" column="10" />
         <mark key="[" line="39" column="29" />
@@ -114,13 +339,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" timestamp="1498739292258">
-        <mark key="'" line="19" column="33" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="19" column="54" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/User.php" timestamp="1498738289747">
         <mark key="'" line="7" column="6" />
@@ -135,66 +353,12 @@
         <mark key="^" line="8" column="60" />
         <mark key="." line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/resources/views/please-input-correct-format.blade.php" timestamp="1500171439007">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="39" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/.env.example" timestamp="1498742383869">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-amount-not-found.blade.php" timestamp="1500089702174">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/GoogleNaturalLanguageProcessor.php" timestamp="1499578489737">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496666957879">
-        <mark key="'" line="6" column="7" />
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" timestamp="1500082158721">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/project-pidgey-web/scripts/table/index.js" timestamp="1497083235137">
         <mark key="'" line="6" column="38" />
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionAmountGuesser.php" timestamp="1500167044804">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="68" />
-        <mark key="." line="20" column="68" />
-        <mark key="^" line="20" column="68" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_114824_create_platforms_table.php" timestamp="1499598718760">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeGuesser.php" timestamp="1500089456267">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
@@ -203,44 +367,17 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/WebhookTest.php" timestamp="1499582118020">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Middleware/AlwaysReturnOk.php" timestamp="1500122439701">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="26" column="56" />
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction.blade.php" timestamp="1500168306174">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" timestamp="1500120992958">
-        <mark key="'" line="46" column="17" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
         <mark key="]" line="442" column="8" />
         <mark key="^" line="442" column="8" />
         <mark key="." line="442" column="8" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1498649746723">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Entities/Work.php" timestamp="1496754380376">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_140532_create_transactions_table.php" timestamp="1498487570706">
         <mark key="[" line="16" column="37" />
@@ -261,31 +398,11 @@
         <mark key="." line="224" column="156" />
         <mark key="^" line="224" column="156" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="65" column="78" />
-        <mark key="]" line="65" column="88" />
-        <mark key="." line="65" column="88" />
-        <mark key="^" line="65" column="88" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" timestamp="1496839270182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="23" column="43" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWorkitem/StoreRequest.php" timestamp="1496757982852">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeNotFound.php" timestamp="1500085166703">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" timestamp="1498967571543">
         <mark key="'" line="35" column="12" />
@@ -306,13 +423,6 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorksController.php" timestamp="1496839444345">
         <mark key="[" line="125" column="130" />
         <mark key="]" line="127" column="65" />
@@ -322,27 +432,12 @@
       <file name="$USER_HOME$/Code/timeline/vendor/laravel/framework/src/Illuminate/Routing/Controller.php" timestamp="1497708452339">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/demo/index.php" timestamp="1496585694483">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" timestamp="1496456015754">
         <mark key="'" line="37" column="12" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExampleTest.php" timestamp="1497776360945">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/resources/views/transaction-type-not-found.blade.php" timestamp="1500085480933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
@@ -351,30 +446,11 @@
         <mark key="." line="59" column="44" />
         <mark key="^" line="59" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/config/app.php" timestamp="1498967706865">
-        <mark key="[" line="179" column="54" />
-        <mark key="]" line="179" column="60" />
-        <mark key="^" line="179" column="60" />
-        <mark key="." line="179" column="60" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
-        <mark key="'" line="54" column="5" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="98" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="59" />
         <mark key="^" line="17" column="59" />
         <mark key="." line="17" column="59" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Transaction.php" timestamp="1500122274942">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php" timestamp="1498650149951">
         <mark key="'" line="24" column="5" />
@@ -407,28 +483,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/NaturalLanguageProcessor.php" timestamp="1499573259758">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="25" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1499581133471">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="99" column="42" />
         <mark key="]" line="99" column="42" />
         <mark key="." line="99" column="42" />
         <mark key="^" line="99" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor.php" timestamp="1498965502214">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="66" />
-        <mark key="^" line="8" column="66" />
-        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
@@ -437,28 +497,8 @@
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1500177301963">
         <mark key="'" line="631" column="0" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="6092" column="44" />
-        <mark key="]" line="6092" column="42" />
-        <mark key="." line="6092" column="42" />
-        <mark key="^" line="6092" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500294312477">
-        <mark key="'" line="70" column="24" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="24" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -469,24 +509,6 @@
       </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1498977585286">
         <mark key="'" line="345" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" timestamp="1499696632111">
-        <mark key="'" line="1" column="131" />
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/resources/views/message-queued.blade.php" timestamp="1499608147700">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/IntentionGusser.php" timestamp="1498565945940">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/introduction.blade.php" timestamp="1500292126882">
         <mark key="[" line="9" column="31" />
@@ -508,22 +530,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1500120494542">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="56" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1497054696348">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/IntentionGuesser.php" timestamp="1498566092203">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/seeds/DatabaseSeeder.php" timestamp="1499433674325">
         <mark key="[" line="12" column="9" />
@@ -537,42 +548,8 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/mockery/mockery/library/Mockery/VerificationDirector.php" timestamp="1500089000827">
-        <mark key="'" line="84" column="28" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496757828281">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="135" />
-        <mark key="^" line="14" column="135" />
-        <mark key="." line="14" column="135" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1500120215776">
-        <mark key="[" line="683" column="0" />
-        <mark key="]" line="683" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500291593481">
-        <mark key="'" line="258" column="0" />
-        <mark key="[" line="252" column="46" />
-        <mark key="]" line="252" column="46" />
-        <mark key="." line="252" column="46" />
-        <mark key="^" line="252" column="46" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="24" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
-      <jump line="63" column="24" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
-      <jump line="65" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
-      <jump line="101" column="4" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="113" column="38" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="116" column="38" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
@@ -669,46 +646,50 @@
       <jump line="258" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="111" column="16" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="72" column="24" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
+      <jump line="12" column="7" filename="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" />
+      <jump line="33" column="8" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php" />
+      <jump line="37" column="12" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3RDb21tYW5kID0gJHRoaXMtPmdldEZpcnN0Q29tbWFuZCgkcmVxdWVzdCk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmhhcygnbWVzc2FnZS5lbnRpdGllcycp</text>
+        <text>$message, $code, $previous</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYl9jb252ZXJ0X2VuY29kaW5nKCRyZXF1ZXN0LT5pbnB1dCgnbWVzc2FnZS50ZXh0JyksICdVVEYtMTYnLCAnVVRGLTgnKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICIiLCAkY29kZSA9IDAsIFRocm93YWJsZSAkcHJldmlvdXMgPSBudWxsKSB7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3RDb21tYW5kID0gJHRoaXMtPmdldEZpcnN0Q29tbWFuZCgkcmVxdWVzdCk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGZpcnN0Q29tbWFuZEVudGl0eSkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZmlyc3RDb21tYW5kID0gJHRoaXMtPmdldEZpcnN0Q29tbWFuZCgkcmVxdWVzdCk7CiAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGZpcnN0Q29tbWFuZEVudGl0eSkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIGRkKCRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnaGknKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIGRkKCRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
