@@ -229,12 +229,12 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500294312477">
-        <mark key="'" line="70" column="24" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="24" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500381503930">
+        <mark key="'" line="31" column="63" />
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="32" column="66" />
+        <mark key="." line="32" column="66" />
+        <mark key="^" line="177" column="9" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/message-queued.blade.php" timestamp="1499608147700">
         <mark key="[" line="0" column="0" />
@@ -550,7 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="38" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="116" column="38" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/money-mom/database/migrations/2017_07_09_111108_create_pending_messages_table.php" />
@@ -650,46 +649,47 @@
       <jump line="33" column="8" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php" />
       <jump line="37" column="12" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
+      <jump line="32" column="63" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICk=</text>
       </register>
       <register name="-" type="4">
-        <text>$message, $code, $previous</text>
+        <text encoding="base64">ICk=</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9ICIiLCAkY29kZSA9IDAsIFRocm93YWJsZSAkcHJldmlvdXMgPSBudWxsKSB7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEgPT09IGNvdW50KCRlLT52YWxpZGF0b3ItPmZhaWxlZCgpKQogICAgICAgICAgICAgICAgJiYgYXJyYXlfaGFzKCRlLT52YWxpZGF0b3ItPmZhaWxlZCgpLCAnbWVzc2FnZS50ZXh0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKAogICAgICAgICAgICAgICAgMSA9PT0gY291bnQoJGUtPnZhbGlkYXRvci0+ZmFpbGVkKCkpCiAgICAgICAgICAgICAgICAmJiBhcnJheV9oYXMoJGUtPnZhbGlkYXRvci0+ZmFpbGVkKCksICdtZXNzYWdlLnRleHQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5yZXF1ZXN0KCRlKSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICAgICAnbWV0aG9kJyA9PiAnc2VuZE1lc3NhZ2UnLAogICAgICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgICAgICdyZXBseV90b19tZXNzYWdlX2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgICAgICd0ZXh0JyA9PiB2aWV3KCdwbGVhc2UtaW5wdXQtY29ycmVjdC1mb3JtYXQnKS0+cmVuZGVyKCkKICAgICAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3RDb21tYW5kID0gJHRoaXMtPmdldEZpcnN0Q29tbWFuZCgkcmVxdWVzdCk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnZhbGlkYXRlKCRyZXF1ZXN0LCBbCiAgICAgICAgICAgICAgICAnbWVzc2FnZS5jaGF0LmlkJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UubWVzc2FnZV9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICdtZXNzYWdlLnRleHQnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAnbWVzc2FnZS5kYXRlJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UuZnJvbS5pZCcgPT4gJ3JlcXVpcmVkJwogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGZpcnN0Q29tbWFuZEVudGl0eSkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGVNdXN0SGF2ZUlucHV0cygkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UudGV4dCcgPT4gJ3JlcXVpcmVkJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnaGknKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICAgICAnbWV0aG9kJyA9PiAnc2VuZE1lc3NhZ2UnLAogICAgICAgICAgICAgICAgICAgICdjaGF0X2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UuY2hhdC5pZCcpLAogICAgICAgICAgICAgICAgICAgICdyZXBseV90b19tZXNzYWdlX2lkJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UubWVzc2FnZV9pZCcpLAogICAgICAgICAgICAgICAgICAgICd0ZXh0JyA9PiB2aWV3KCdwbGVhc2UtaW5wdXQtY29ycmVjdC1mb3JtYXQnKS0+cmVuZGVyKCkKICAgICAgICAgICAgICAgIF0pOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIGRkKCRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
