@@ -26,6 +26,13 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1500641247877">
+        <mark key="'" line="2012" column="20" />
+        <mark key="[" line="2002" column="5" />
+        <mark key="]" line="2002" column="5" />
+        <mark key="." line="2002" column="5" />
+        <mark key="^" line="2002" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" timestamp="1498976232971">
         <mark key="'" line="22" column="20" />
         <mark key="[" line="49" column="8" />
@@ -105,15 +112,17 @@
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_114824_create_platforms_table.php" timestamp="1499598718760">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/money-mom/resources/views/stat.blade.php" timestamp="1500638270604">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/TransactionTypeGuesser.php" timestamp="1500379941949">
         <mark key="[" line="40" column="41" />
         <mark key="]" line="40" column="46" />
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" timestamp="1500379367849">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="88" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/transaction.blade.php" timestamp="1500555570834">
         <mark key="[" line="2" column="19" />
@@ -248,12 +257,12 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500555383564">
-        <mark key="'" line="183" column="88" />
-        <mark key="[" line="171" column="40" />
-        <mark key="]" line="171" column="50" />
-        <mark key="." line="171" column="50" />
-        <mark key="^" line="171" column="50" />
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500639524274">
+        <mark key="'" line="215" column="88" />
+        <mark key="[" line="125" column="100" />
+        <mark key="]" line="125" column="100" />
+        <mark key="." line="125" column="100" />
+        <mark key="^" line="125" column="99" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/message-queued.blade.php" timestamp="1499608147700">
         <mark key="[" line="0" column="0" />
@@ -298,12 +307,18 @@
         <mark key="]" line="466" column="0" />
         <mark key="." line="466" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500380068892">
-        <mark key="'" line="258" column="0" />
-        <mark key="[" line="252" column="46" />
-        <mark key="]" line="252" column="46" />
-        <mark key="." line="252" column="46" />
-        <mark key="^" line="252" column="46" />
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Support/Traits/Macroable.php" timestamp="1500640030911">
+        <mark key="[" line="71" column="5" />
+        <mark key="]" line="71" column="4" />
+        <mark key="^" line="71" column="4" />
+        <mark key="." line="71" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500638280920">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="321" column="13" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
+        <mark key="^" line="322" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
         <mark key="[" line="16" column="37" />
@@ -410,6 +425,11 @@
         <mark key="]" line="26" column="56" />
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1500640782138">
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
@@ -545,8 +565,8 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1498977585286">
-        <mark key="'" line="345" column="20" />
+      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1500640058539">
+        <mark key="'" line="709" column="20" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/introduction.blade.php" timestamp="1500292126882">
         <mark key="[" line="9" column="31" />
@@ -588,8 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
-      <jump line="51" column="12" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" />
       <jump line="80" column="16" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" />
       <jump line="1" column="131" filename="$USER_HOME$/Code/project-boomer/resources/assets/js/components/dropdown-select.vue" />
       <jump line="19" column="8" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
@@ -688,46 +706,48 @@
       <jump line="20" column="6" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Connection.php" />
       <jump line="95" column="77" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php" />
       <jump line="75" column="1" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php" />
+      <jump line="709" column="20" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" />
+      <jump line="2012" column="20" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>dd(__FUNCTION__, $column);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>dd(__FUNCTION__, $column);</text>
       </register>
       <register name="/" type="4">
         <text>vie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRyYW5zYWN0aW9uVHlwZSA9ICR0cmFuc2FjdGlvblR5cGVHdWVzc2VyLT5ndWVzcygkcmVxdWVzdC0+aW5wdXQoJ21lc3NhZ2UudGV4dCcpKTsK</text>
+        <text encoding="base64">6L+R5pel5bmz5Z2H5pSv5Ye657SEIDEuMTEK6L+R5pel5bmz5Z2H5pS25YWl57SEIDEwLjE2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPnF1ZXJ5LT57JG1ldGhvZH0oLi4uJHBhcmFtZXRlcnMpOwogICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGknKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3sgJHRhZ3MgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFncyA9IGltcGxvZGUoCiAgICAgICAgICAgICcgJywKICAgICAgICAgICAgYXJyYXlfbWFwKGZ1bmN0aW9uICgkdGFnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIiN7JHRhZy0+c2x1Z30iOwogICAgICAgICAgICB9LCAkdGFncykKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGFncyBhcyAkdGFnKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29sdW1uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhZ3NbXSA9IFRhZzo6d2hlcmVTbHVnKCR0YWcpLT5maXJzdE9yQ3JlYXRlKFsKICAgICAgICAgICAgICAgICdzbHVnJyA9PiAkdGFnCiAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29sdW1uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29sdW1uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -740,7 +760,7 @@
       <last-replace>56</last-replace>
       <last-substitute>vie</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
