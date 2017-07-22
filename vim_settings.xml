@@ -257,12 +257,12 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500646197610">
+      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500697007008">
         <mark key="'" line="126" column="20" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="126" column="77" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="129" column="60" />
+        <mark key="." line="129" column="60" />
+        <mark key="^" line="129" column="60" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/message-queued.blade.php" timestamp="1499608147700">
         <mark key="[" line="0" column="0" />
@@ -313,11 +313,11 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500638280920">
+      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500697049517">
         <mark key="'" line="259" column="0" />
-        <mark key="[" line="321" column="13" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
+        <mark key="[" line="321" column="12" />
+        <mark key="]" line="321" column="13" />
+        <mark key="." line="321" column="13" />
         <mark key="^" line="322" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
@@ -710,17 +710,17 @@
       <jump line="126" column="20" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGF2ZXJhZ2VFeHBlbnNlID0gJzEuMTEnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>averageExpense</text>
       </register>
       <register name="-" type="4">
-        <text>Expense</text>
+        <text>averageExpense</text>
       </register>
       <register name="/" type="4">
         <text>ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdmVyYWdlRXhwZW5zZSA9IGFwcChUcmFuc2FjdGlvblR5cGVGYWN0b3J5OjpjbGFzcyktPmdldEV4cGVuc2UoKS0+dHJhbnNhY3Rpb25zKCktPndoZXJlVXNlcklkKCR1c2VyLT5pZCktPmF2ZygnYW1vdW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdmVyYWdlRXhwZW5zZSA9IG51bWJlcl9mb3JtYXQoJGF2ZXJhZ2VFeHBlbnNlLCAyKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGF2ZXJhZ2VFeHBlbnNlID0gJzEuMTEnOwo=</text>
