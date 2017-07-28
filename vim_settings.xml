@@ -346,6 +346,7 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501249877704" />
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="3" column="0" />
@@ -541,7 +542,6 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/gulpfile.js" timestamp="1501246060372" />
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="51" column="12" />
