@@ -314,6 +314,11 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1501254161406">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500697049517">
         <mark key="'" line="259" column="0" />
         <mark key="[" line="321" column="12" />
@@ -347,7 +352,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501250630124" />
+      <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501253992836">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="3" column="0" />
@@ -566,6 +576,12 @@
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1500177301963">
         <mark key="'" line="631" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1501253757499">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="119" column="17" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="93" column="42" />
@@ -718,11 +734,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>averageExpense</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>averageExpense</text>
+        <text>console.log(defaultConfig)</text>
       </register>
       <register name="/" type="4">
         <text>ex</text>
@@ -731,31 +747,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRhdmVyYWdlRXhwZW5zZSA9IG51bWJlcl9mb3JtYXQoJGF2ZXJhZ2VFeHBlbnNlLCAyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGF2ZXJhZ2VFeHBlbnNlID0gJzEuMTEnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdmVyYWdlSW5jb21lID0gJzEwLjE2JzsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGF2ZXJhZ2VFeHBlbnNlID0gJzEuMTEnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdmVyYWdlSW5jb21lID0gJzEwLjE2JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPnF1ZXJ5LT57JG1ldGhvZH0oLi4uJHBhcmFtZXRlcnMpOwogICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPnF1ZXJ5LT57JG1ldGhvZH0oLi4uJHBhcmFtZXRlcnMpOwogICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGknKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhdmVyYWdlRXhwZW5zZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hpJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -766,7 +782,7 @@
       <last-offset />
       <last-pattern>ex</last-pattern>
       <last-replace>56</last-replace>
-      <last-substitute>vie</last-substitute>
+      <last-substitute>ex</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
