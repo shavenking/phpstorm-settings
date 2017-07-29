@@ -326,6 +326,12 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501340827073">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1501254161406">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -458,12 +464,6 @@
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1501308771135">
-        <mark key="[" line="234" column="35" />
-        <mark key="]" line="235" column="23" />
-        <mark key="^" line="235" column="23" />
-        <mark key="." line="235" column="23" />
-      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
         <mark key="]" line="442" column="8" />
@@ -581,7 +581,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501308689618">
+      <file name="/Dummy.txt" timestamp="1501340766043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -663,7 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="0" filename="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" />
       <jump line="111" column="16" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="72" column="24" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="12" column="7" filename="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" />
@@ -763,10 +762,11 @@
       <jump line="42" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="53" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="65" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
+      <jump line="146" column="4" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Row</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5zdGVwM0Zvcm0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Row</text>
@@ -778,22 +778,22 @@
         <text encoding="base64">bnVtQ29scyA+IDQgJiYgKGN1cnJlbnRDb2wgKyAzIDwgbnVtQ29scyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgKGN1cnJlbnRDb2wgKyAzIDwgbnVtQ29scykiPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5zdGVwM0Zvcm0pOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgKGN1cnJlbnRDb2wgKyAzIDwgbnVtQ29scykiPjwvdGQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgY3VycmVudENvbCAhPSAxIj48L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgKGN1cnJlbnRDb2wgKyAzIDwgbnVtQ29scykiPjwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXRyaWFuZ2xlLWxlZnQiIG5nLWlmPSJudW1Db2xzID4gNCAmJiBjdXJyZW50Q29sICE9IDEiIG5nLWNsaWNrPSJwcmV2Um93cygpIj48L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi10cmlhbmdsZS1yaWdodCIgbmctaWY9Im51bUNvbHMgPiA0ICYmIChjdXJyZW50Q29sICsgMyA8IG51bUNvbHMpIiBuZy1jbGljaz0ibmV4dFJvd3MoKSI+PC9zcGFuPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgY3VycmVudENvbCAhPSAxIj48L3RkPgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXRyaWFuZ2xlLWxlZnQiIG5nLWlmPSJudW1Db2xzID4gNCAmJiBjdXJyZW50Q29sICE9IDEiIG5nLWNsaWNrPSJwcmV2Um93cygpIj48L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi10cmlhbmdsZS1yaWdodCIgbmctaWY9Im51bUNvbHMgPiA0ICYmIChjdXJyZW50Q29sICsgMyA8IG51bUNvbHMpIiBuZy1jbGljaz0ibmV4dFJvd3MoKSI+PC9zcGFuPgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgY3VycmVudENvbCAhPSAxIj48L3RkPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -802,7 +802,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
