@@ -6,7 +6,11 @@
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/Concerns/ValidatesAttributes.php" timestamp="1500187323238">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/step3-modal.html" timestamp="1501380539924" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/step3-modal.html" timestamp="1501399414255">
+        <mark key="[" line="26" column="298" />
+        <mark key="]" line="26" column="298" />
+        <mark key="." line="26" column="298" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496838650279">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="35" column="41" />
@@ -331,12 +335,12 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501380564902">
-        <mark key="'" line="226" column="42" />
-        <mark key="[" line="218" column="18" />
-        <mark key="]" line="218" column="44" />
-        <mark key="." line="218" column="18" />
-        <mark key="^" line="226" column="19" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501401695049">
+        <mark key="'" line="265" column="29" />
+        <mark key="[" line="246" column="55" />
+        <mark key="]" line="246" column="60" />
+        <mark key="^" line="246" column="60" />
+        <mark key="." line="246" column="60" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1501254161406">
         <mark key="[" line="7" column="0" />
@@ -587,7 +591,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501387205916">
+      <file name="/Dummy.txt" timestamp="1501399871150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -669,11 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="24" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
-      <jump line="12" column="7" filename="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" />
-      <jump line="33" column="8" filename="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php" />
-      <jump line="37" column="12" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" />
       <jump line="32" column="23" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="177" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="172" column="47" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
@@ -768,64 +767,69 @@
       <jump line="53" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="65" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="146" column="4" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
-      <jump line="227" column="42" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="217" column="36" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="244" column="4" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="226" column="4" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="238" column="4" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="227" column="6" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="270" column="29" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="-" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="/" type="4">
-        <text>row-title</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJG5nQ29uZmlybSh7CiAgICAgICAgYm94V2lkdGg6ICc0MDBweCcsCiAgICAgICAgdXNlQm9vdHN0cmFwOiBmYWxzZSwKICAgICAgICB0aXRsZTogYDxzdHJvbmc+RGVsZXRlIHJlcG9ydD88L3N0cm9uZz5gLAogICAgICAgIGNvbnRlbnQ6IGAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDtEZWxldGlvbiBvZiA8c3Ryb25nPiR7IG5hbWUgfHwgJyd9PC9zdHJvbmc+IGNhbm5vdCBiZSB1bmRvbmUuYCwKICAgICAgICBidXR0b25zOiB7CiAgICAgICAgICB5ZXM6IHsKICAgICAgICAgICAgdGV4dDogIkRlbGV0ZSIsCiAgICAgICAgICAgIGFjdGlvbjogZnVuY3Rpb24oc2NvcGUsIGJ1dHRvbikgewogICAgICAgICAgICAgICRzY29wZS5kZWxldGVDdXN0b21SZXBvcnQoKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgYnRuQ2xhc3M6ICdidG4tcmVkJywKICAgICAgICAgIH0sCiAgICAgICAgICBubzogewogICAgICAgICAgICB0ZXh0OiAiQ2FuY2VsIiwKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0pOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5pc0RhdGVVbmRlY2lkZWQoKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuZGVsZXRlQ3VzdG9tUmVwb3J0KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>set</text>
+      </register>
+      <register name="/" type="4">
+        <text>if</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLndlZGRpbmdMb2NhdGlvbiA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0xvY2F0aW9uLiR2aWV3VmFsdWU7CiAgICAgIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jb3VudHJ5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ291bnRyeS4kdmlld1ZhbHVlOwogICAgICAvLyBtb2RlbERhdGEuc3RlcDNQYXJtYXMuY2l0eSA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0NpdHkuJHZpZXdWYWx1ZTsKICAgICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLmd1ZXN0cyA9ICRzY29wZS5zdGVwM0Zvcm0uZ3Vlc3QuJHZpZXdWYWx1ZTsKCiAgICAgICR0aW1lb3V0KGZ1bmN0aW9uICgpewogICAgICAgIG1vZGVsRGF0YS52ZXJpZmljYXRpb24gPSAnZ29zdGVwNCc7CiAgICAgICAgJCgnLm1vZGFsLWJhY2tkcm9wJykucmVtb3ZlKCk7CiAgICAgICAgJCgnI3JlZ2lzdGVyU3RlcDMnKS5tb2RhbCgndG9nZ2xlJyk7CiAgICAgICAgJGxvY2F0aW9uLnBhdGgoJ21vZGFsLXNob3cvc3RlcDQnKTsKICAgICAgfSwgMTAwKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb2RlbERhdGEpOwogICAgICAgIG1vZGVsRGF0YS5zdGVwM1BhcmFtcy53ZWRkaW5nRGF0ZSA9ICd1bmRlY2lkZWQnOwogICAgICAgIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy53ZWRkaW5nTG9jYXRpb24gPSAkc2NvcGUuc3RlcDNGb3JtLndlZGRpbmdMb2NhdGlvbi4kdmlld1ZhbHVlOwogICAgICAgIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jb3VudHJ5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ291bnRyeS4kdmlld1ZhbHVlOwogICAgICAgIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jaXR5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ2l0eS4kdmlld1ZhbHVlOwogICAgICAgIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5ndWVzdHMgPSAkc2NvcGUuc3RlcDNGb3JtLmd1ZXN0LiR2aWV3VmFsdWU7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgJHNjb3BlLnN0ZXAzRm9ybS55ZWFyLiRlcnJvci5yZXF1aXJlCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkc2NvcGUuc3RlcDNGb3JtLnllYXIuJGVycm9yLnJlcXVpcmVkIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gbW9kZWxEYXRhLnN0ZXAzUGFybWFzLmNvdW50cnkgPSAkc2NvcGUuc3RlcDNGb3JtLndlZGRpbmdDb3VudHJ5LiR2aWV3VmFsdWU7CiAgICAgIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jaXR5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ2l0eS4kdmlld1ZhbHVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLndlZGRpbmdMb2NhdGlvbiA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0xvY2F0aW9uLiR2aWV3VmFsdWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgkc2NvcGUuc3RlcDNGb3JtLnllYXIuJGVycm9yLnJlcXVpcmVkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5zdGVwM0Zvcm0pOwo=</text>
+        <text encoding="base64">ICAgICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLmd1ZXN0cyA9ICRzY29wZS5zdGVwM0Zvcm0uZ3Vlc3QuJHZpZXdWYWx1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgKGN1cnJlbnRDb2wgKyAzIDwgbnVtQ29scykiPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFycm93IiBuZy1pZj0ibnVtQ29scyA+IDQgJiYgKGN1cnJlbnRDb2wgKyAzIDwgbnVtQ29scykiPjwvdGQ+Cg==</text>
+      <register name="9" type="4">
+        <text>(function (modelData) {
+      return function () {</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>row-title</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>row-title</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>ex</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>re</entry>
         <entry>tes</entry>
         <entry>awe</entry>
         <entry>req</entry>
@@ -845,6 +849,7 @@
         <entry>td.*guest in</entry>
         <entry>class=&quot;arrow&quot;</entry>
         <entry>row-title</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry>24,26y</entry>
