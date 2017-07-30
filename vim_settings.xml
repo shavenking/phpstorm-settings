@@ -330,11 +330,11 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501419861508">
-        <mark key="[" line="209" column="43" />
-        <mark key="]" line="209" column="51" />
-        <mark key="." line="209" column="51" />
-        <mark key="^" line="209" column="51" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501420663486">
+        <mark key="[" line="224" column="28" />
+        <mark key="]" line="224" column="28" />
+        <mark key="." line="224" column="28" />
+        <mark key="^" line="225" column="57" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1501254161406">
         <mark key="[" line="7" column="0" />
@@ -776,10 +776,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>$scope</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>$scope</text>
       </register>
       <register name="/" type="4">
         <text>un</text>
