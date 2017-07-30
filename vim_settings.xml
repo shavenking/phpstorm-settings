@@ -330,11 +330,11 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501416744388">
-        <mark key="[" line="225" column="60" />
-        <mark key="]" line="226" column="11" />
-        <mark key="." line="226" column="11" />
-        <mark key="^" line="226" column="11" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501419861508">
+        <mark key="[" line="209" column="43" />
+        <mark key="]" line="209" column="51" />
+        <mark key="." line="209" column="51" />
+        <mark key="^" line="209" column="51" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1501254161406">
         <mark key="[" line="7" column="0" />
@@ -604,10 +604,11 @@
         <mark key="^" line="119" column="17" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1501416621639">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1501419749358">
+        <mark key="[" line="20" column="281" />
+        <mark key="]" line="20" column="281" />
+        <mark key="." line="20" column="281" />
+        <mark key="^" line="20" column="281" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -774,11 +775,11 @@
       <jump line="145" column="14" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52YWxpZF93ZWRkaW5nX2RhdGU6ICdJbnZhbGlkIFdlZGRpbmcgRGF0ZScsCiAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>un</text>
