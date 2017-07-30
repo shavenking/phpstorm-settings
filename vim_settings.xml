@@ -6,13 +6,6 @@
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Validation/Concerns/ValidatesAttributes.php" timestamp="1500187323238">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/step3-modal.html" timestamp="1501410511185">
-        <mark key="'" line="23" column="301" />
-        <mark key="[" line="20" column="245" />
-        <mark key="]" line="20" column="245" />
-        <mark key="." line="20" column="245" />
-        <mark key="^" line="20" column="245" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496838650279">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="35" column="41" />
@@ -337,12 +330,11 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501410546696">
-        <mark key="'" line="252" column="29" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
-        <mark key="^" line="255" column="38" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" timestamp="1501416744388">
+        <mark key="[" line="225" column="60" />
+        <mark key="]" line="226" column="11" />
+        <mark key="." line="226" column="11" />
+        <mark key="^" line="226" column="11" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1501254161406">
         <mark key="[" line="7" column="0" />
@@ -612,6 +604,11 @@
         <mark key="^" line="119" column="17" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1501416621639">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="93" column="42" />
@@ -675,9 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
-      <jump line="172" column="47" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
-      <jump line="25" column="7" filename="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" />
       <jump line="160" column="16" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" />
       <jump line="28" column="20" filename="$USER_HOME$/Code/money-mom/app/Guesser/TagGuesser.php" />
@@ -775,46 +769,49 @@
       <jump line="227" column="6" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
       <jump line="270" column="29" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
       <jump line="23" column="301" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/step3-modal.html" />
+      <jump line="259" column="12" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="182" column="12" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
+      <jump line="145" column="14" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/step-controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyAkc2NvcGUuc3RWRGVwM0Zvcm0ueWVhci4kZXJyb3IucmVxdWlyZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52YWxpZF93ZWRkaW5nX2RhdGU6ICdJbnZhbGlkIFdlZGRpbmcgRGF0ZScsCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>$scope.</text>
       </register>
       <register name="/" type="4">
         <text>un</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLndlZGRpbmdMb2NhdGlvbiA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0xvY2F0aW9uLiR2aWV3VmFsdWU7CiAgICAgIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jb3VudHJ5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ291bnRyeS4kdmlld1ZhbHVlOwogICAgICAvLyBtb2RlbERhdGEuc3RlcDNQYXJtYXMuY2l0eSA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0NpdHkuJHZpZXdWYWx1ZTsKICAgICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLmd1ZXN0cyA9ICRzY29wZS5zdGVwM0Zvcm0uZ3Vlc3QuJHZpZXdWYWx1ZTsKCiAgICAgICR0aW1lb3V0KGZ1bmN0aW9uICgpewogICAgICAgIG1vZGVsRGF0YS52ZXJpZmljYXRpb24gPSAnZ29zdGVwNCc7CiAgICAgICAgJCgnLm1vZGFsLWJhY2tkcm9wJykucmVtb3ZlKCk7CiAgICAgICAgJCgnI3JlZ2lzdGVyU3RlcDMnKS5tb2RhbCgndG9nZ2xlJyk7CiAgICAgICAgJGxvY2F0aW9uLnBhdGgoJ21vZGFsLXNob3cvc3RlcDQnKTsKICAgICAgfSwgMTAwKTsK</text>
+        <text encoding="base64">ICAvLyAgICAgICAgc25hY2tiYXIuY3JlYXRlKGFwcEdsb2JhbFNldHRpbmcuc3RyaW5nSGludC5zdGVwQ3RybC51bmNoZWNrX3RpcHMsIDIwMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyAkc2NvcGUuc3RWRGVwM0Zvcm0ueWVhci4kZXJyb3IucmVxdWlyZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52YWxpZF93ZWRkaW5nX2RhdGU6ICdJbnZhbGlkIFdlZGRpbmcgRGF0ZScsCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5pbnB1dEVycm9yID0gZmFsc2U7CiAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgoKICAgIC8va2VlcCBkYXRhCgo9PT09PT09Cj4+Pj4+Pj4gNTUzNmM0M2MuLi4gUmVtb3ZlIHVuZGVjaWRlZCBjaGVja2JveCBhdCBzdGVwIDMgb2YgcmVnaXN0cmF0aW9uIHByb2Nlc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyB0b2RvIG1ha2UgZGF0ZSBmaWVsZHMgZXJyb3IK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gNTUzNmM0M2MuLi4gUmVtb3ZlIHVuZGVjaWRlZCBjaGVja2JveCBhdCBzdGVwIDMgb2YgcmVnaXN0cmF0aW9uIHByb2Nlc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnN0ZXAzRm9ybS55ZWFyLiRlcnJvci5yZXF1aXJlZCA9IHRydWU7CiAgICAgICAgICAgIC8vIHRvZG8gbWFrZSBkYXRlIGZpZWxkcyBlcnJvcgogICAgICAgICAgICAkc2NvcGUuaW5wdXRFcnJvciA9IHRydWU7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gNTUzNmM0M2MuLi4gUmVtb3ZlIHVuZGVjaWRlZCBjaGVja2JveCBhdCBzdGVwIDMgb2YgcmVnaXN0cmF0aW9uIHByb2Nlc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jb3VudHJ5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ291bnRyeS4kdmlld1ZhbHVlOwogICAgLy8gbW9kZWxEYXRhLnN0ZXAzUGFybWFzLmNpdHkgPSAkc2NvcGUuc3RlcDNGb3JtLndlZGRpbmdDaXR5LiR2aWV3VmFsdWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIC8vIHNldHVwIHNjb3BlIGZvciBuZ0NvbmZpcm0KICAgIC8vICRzY29wZS5tb2RlbERhdGEgPSBtb2RlbERhdGE7CiAgICAvLyAkc2NvcGUuJHRpbWVvdXQgPSAkdGltZW91dDsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsKICAgIC8vIGlmICghJHNjb3BlLnVuZGVjaWRlZCkgewogICAgLy8gICBpZiAoJHNjb3BlLnN0ZXAzRm9ybS55ZWFyLiRlcnJvci5yZXF1aXJlZCB8fCAkc2NvcGUuc3RlcDNGb3JtLm1vbnRoLiRlcnJvci5yZXF1aXJlZCB8fAogICAgLy8gICAgICRzY29wZS5zdGVwM0Zvcm0uZGF5LiRlcnJvci5yZXF1aXJlZCB8fCAkc2NvcGUuc3RlcDNGb3JtLndlZGRpbmdMb2NhdGlvbi4kZXJyb3IucmVxdWlyZWQgfHwKICAgIC8vICAgICAkc2NvcGUuc3RlcDNGb3JtLmd1ZXN0LiRlcnJvci5yZXF1aXJlZCkgewogICAgLy8gICAgICAgJHNjb3BlLmlucHV0RXJyb3IgPSB0cnVlOwogICAgLy8gICAgICAgY29uc29sZS5sb2coJ2Vycm9yJyk7CiAgICAvLwogICAgLy8gICAgICAgcmV0dXJuOwogICAgLy8gICB9CiAgICAvLyAgIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy53ZWRkaW5nRGF0ZSA9ICRzY29wZS5zdGVwM0Zvcm0ueWVhci4kdmlld1ZhbHVlICsgJy8nICsgJHNjb3BlLnN0ZXAzRm9ybS5tb250aC4kdmlld1ZhbHVlLm51bWJlciArICcvJyArICRzY29wZS5zdGVwM0Zvcm0uZGF5LiR2aWV3VmFsdWU7CiAgICAvLyB9ZWxzZXsKICAgIC8vICAgbW9kZWxEYXRhLnN0ZXAzUGFybWFzLndlZGRpbmdEYXRlID0gJ3VuZGVjaWRlZCcKICAgIC8vIH0KCgoKICAgIC8va2VlcCBkYXRhCgogICAgLy8gbW9kZWxEYXRhLnN0ZXAzUGFybWFzLndlZGRpbmdMb2NhdGlvbiA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0xvY2F0aW9uLiR2aWV3VmFsdWU7CiAgICAvLyAvLyBtb2RlbERhdGEuc3RlcDNQYXJtYXMuY291bnRyeSA9ICRzY29wZS5zdGVwM0Zvcm0ud2VkZGluZ0NvdW50cnkuJHZpZXdWYWx1ZTsKICAgIC8vIC8vIG1vZGVsRGF0YS5zdGVwM1Bhcm1hcy5jaXR5ID0gJHNjb3BlLnN0ZXAzRm9ybS53ZWRkaW5nQ2l0eS4kdmlld1ZhbHVlOwogICAgLy8gbW9kZWxEYXRhLnN0ZXAzUGFybWFzLmd1ZXN0cyA9ICRzY29wZS5zdGVwM0Zvcm0uZ3Vlc3QuJHZpZXdWYWx1ZTsKICAgIC8vCiAgICAvLyAgICR0aW1lb3V0KGZ1bmN0aW9uICgpewogICAgLy8gICAgIG1vZGVsRGF0YS52ZXJpZmljYXRpb24gPSAnZ29zdGVwNCc7CiAgICAvLyAgICAgJCgnLm1vZGFsLWJhY2tkcm9wJykucmVtb3ZlKCk7CiAgICAvLyAgICAgJCgnI3JlZ2lzdGVyU3RlcDMnKS5tb2RhbCgndG9nZ2xlJyk7CiAgICAvLyAgICAgJGxvY2F0aW9uLnBhdGgoJ21vZGFsLXNob3cvc3RlcDQnKTsKICAgIC8vICAgfSwgMTAwKTsK</text>
+        <text encoding="base64">ICAgICRzY29wZS5kYXlzID0gW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnb2dvZ28nKQo=</text>
+        <text encoding="base64">ICAgIC8vIHNldCBtb250aHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB2YXIgdXNlcldhbnRUb1Byb2NlZWRXaXRoVW5kZWNpZGVkRGF0ZSA9IDsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
