@@ -147,6 +147,13 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/ShortestPath/Map.php" timestamp="1501908794859">
+        <mark key="'" line="73" column="47" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" timestamp="1500379866545">
         <mark key="[" line="12" column="59" />
         <mark key="]" line="12" column="59" />
@@ -185,6 +192,13 @@
         <mark key="]" line="26" column="25" />
         <mark key="." line="26" column="25" />
         <mark key="^" line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/ShortestPath/main.php" timestamp="1501908826335">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="45" column="3" />
+        <mark key="." line="45" column="3" />
+        <mark key="^" line="45" column="3" />
       </file>
       <file name="$USER_HOME$/Code/demo/index.php" timestamp="1496585694483">
         <mark key="[" line="1" column="10" />
@@ -609,7 +623,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501827827904">
+      <file name="/Dummy.txt" timestamp="1501908405312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -709,12 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="22" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="62" column="53" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="66" column="53" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="74" column="53" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="85" column="53" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="59" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="12" column="12" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
@@ -809,56 +817,61 @@
       <jump line="67" column="13" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="18" column="13" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="35" column="73" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/ShortestPath/Map.php" />
+      <jump line="7" column="10" filename="$USER_HOME$/Code/ShortestPath/main.php" />
+      <jump line="70" column="47" filename="$USER_HOME$/Code/ShortestPath/Map.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/ShortestPath/main.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/ShortestPath/main.php" />
+      <jump line="41" column="4" filename="$USER_HOME$/Code/ShortestPath/main.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJzZUludChCUkFOQ0hfUE9SVCwgMTApKTsK</text>
+        <text encoding="base64">ICAgICRtYXAtPnZpc2l0ZWRbXSA9ICRjdXJyZW50Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>return;</text>
+        <text>$nearByRoads</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>sta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0LAogICAgICBlbnY6IG92ZXJyaWRlRW52KHsgU0VSVkVSX1BPUlQ6IDgwODAgfSksCg==</text>
+        <text encoding="base64">ZWNobyAkY3VycmVudC0+eCAuICcgJyAuICRjdXJyZW50LT55IC4gUEhQX0VPTDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJzZUludChCUkFOQ0hfUE9SVCwgMTApKTsK</text>
+        <text encoding="base64">ICAgICRtYXAtPnZpc2l0ZWRbXSA9ICRjdXJyZW50Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJzZUludChCUkFOQ0hfUE9SVCwgMTApKTsK</text>
+        <text encoding="base64">ZWNobyAkY3VycmVudC0+eCAuICcgJyAuICRjdXJyZW50LT55IC4gUEhQX0VPTDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IEVycm9yOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHRoaXMtPnZpc2l0ZWQpKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKCiAgICAgICAgZm9yZWFjaCAoJHRoaXMtPnZpc2l0ZWQgYXMgJHZpc2l0ZWQpIHsKICAgICAgICAgICAgaWYgKAogICAgICAgICAgICAgICAgJHZpc2l0ZWQtPnggPT09ICRwb3NpdGlvbi0+eAogICAgICAgICAgICAgICAgJiYgJHZpc2l0ZWQtPnkgPT09ICRwb3NpdGlvbi0+eQogICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuQlJBTkNIX1BPUlQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGRldkVudnMgPSBbCiAgJ2Vudl9hbmR5JzogewogICAgTk9ERV9FTlY6ICdkZXZlbG9wbWVudCcsCiAgfQpdOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJGN1cnJlbnQpO3NsZWVwKDEwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRuZWFyQnlSb2FkcyA9IDsKICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW52X2N1c3RvbWVyOiB7CiAgICAgICAgU0VSVkVSX1BPUlQ6IDEyMzQKICAgICAgfSwKICAgICAgZW52X2RldmVsb3BtZW50IDogewogICAgICAgIE5PREVfRU5WOiAnZGV2ZWxvcG1lbnQnCiAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKFBvc2l0aW9uICRwb3NpdGlvbikgdXNlICgkbWFwKSB7CiAgICAgICAgcmV0dXJuICEkbWFwLT5pc1Zpc2l0ZWQoJHBvc2l0aW9uKTsKICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text>{
-      }</text>
+        <text encoding="base64">YXJyYXlfZmlsdGVyKCRuZWFyQnlSb2FkcywgZnVuY3Rpb24gKFBvc2l0aW9uICRwb3NpdGlvbikgdXNlICgkbWFwKSB7CiAgICAgICAgcmV0dXJuICEkbWFwLT5pc1Zpc2l0ZWQoJHBvc2l0aW9uKTsKICAgIH0p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmICEkdGhpcy0+aXNWaXNpdGVkKCRwb3NpdGlvbikK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>sta</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>sta</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>ex</last-substitute>
       <last-dir>1</last-dir>
@@ -866,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
         <entry>127</entry>
         <entry>title</entry>
         <entry>6</entry>
@@ -886,6 +898,7 @@
         <entry>1234</entry>
         <entry>start</entry>
         <entry>stop</entry>
+        <entry>sta</entry>
       </history-search>
       <history-cmd>
         <entry>24,26y</entry>
