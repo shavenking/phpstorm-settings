@@ -10,6 +10,12 @@
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" timestamp="1502111591792">
+        <mark key="[" line="3" column="95" />
+        <mark key="]" line="3" column="96" />
+        <mark key="." line="3" column="96" />
+        <mark key="^" line="3" column="138" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionAmountGuesser.php" timestamp="1498977476845">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="15" column="40" />
@@ -42,12 +48,9 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1501835236034">
-        <mark key="'" line="37" column="73" />
+      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502109685338">
+        <mark key="'" line="35" column="73" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
         <mark key="'" line="23" column="0" />
@@ -498,6 +501,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/extend.js" timestamp="1502111209112">
+        <mark key="'" line="99" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/idx/customer.ecosystem.config.js" timestamp="1501828287585">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="0" column="39" />
@@ -630,8 +636,14 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501908405312">
+      <file name="/Dummy.txt" timestamp="1502112063966">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="70" column="29" />
+        <mark key="." line="70" column="29" />
+        <mark key="^" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
@@ -724,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="81" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="43" column="37" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="50" column="37" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
@@ -824,13 +835,14 @@
       <jump line="10" column="15" filename="$USER_HOME$/Code/ShortestPath/index.php" />
       <jump line="2" column="24" filename="$USER_HOME$/Code/ShortestPath/readme.md" />
       <jump line="19" column="41" filename="$USER_HOME$/Code/shortest-path/index.php" />
+      <jump line="99" column="17" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/extend.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JG1hcC0+bWFyaygkbWFwLT5zdGFydCk7IC8vIG1hcmsgcG9zaXRpb24gc28gd2Ugd29uJ3QgYWRkIGl0IHRvIHF1ZXVlIG5leHQgdGltZQo=</text>
+      <register name="&quot;" type="4">
+        <text>defaultProfilePhoto()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2hvdWxkIA==</text>
+        <text>defaultProfilePhoto()</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -839,31 +851,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCRjb2wgPT09IE1hcDo6U1RBUlQpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZSI+Jm5ic3A7PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JG1hcC0+bWFyaygkbWFwLT5zdGFydCk7IC8vIG1hcmsgcG9zaXRpb24gc28gd2Ugd29uJ3QgYWRkIGl0IHRvIHF1ZXVlIG5leHQgdGltZQo=</text>
+        <text encoding="base64">ICAkc2NvcGUuZGVmYXVsdFByb2ZpbGVQaG90byA9IGZ1bmN0aW9uICgpIHsKICAgIGlmICghJHNjb3BlLnVzZXJJbmZvKSB7CiAgICAgIHJldHVybiAnJzsKICAgIH0KCiAgICBpZiAoJHNjb3BlLnVzZXJJbmZvLmdlbmRlcl9tX2YgPT09ICdtJykgewogICAgICByZXR1cm4gJy4uLy4uL2ltYWdlcy9tYW4ucG5nJzsKICAgIH0KCiAgICByZXR1cm4gJy4uLy4uL2ltYWdlcy93b21hbi5wbmcnOwogIH07Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL1Bvc2l0aW9uLnBocCc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS51c2VySW5mbyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzdGFuY2UgPSAwOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkZGlzdGFuY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoaScsIHJlcy5kYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB7e2NvbnNvbGUubG9nKCdoaScsICRwYXJlbnQpO319Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JG1hcC0+bWFyaygkbWFwLT5zdGFydCk7IC8vIG1hcmsgcG9zaXRpb24gc28gd2Ugd29uJ3QgYWRkIGl0IHRvIHF1ZXVlIG5leHQgdGltZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL1Bvc2l0aW9uLnBocCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzdGFuY2UgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
