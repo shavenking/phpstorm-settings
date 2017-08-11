@@ -59,9 +59,12 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502109685338">
-        <mark key="'" line="35" column="73" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502455992481">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
         <mark key="'" line="23" column="0" />
@@ -264,10 +267,9 @@
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1502376785702">
         <mark key="'" line="121" column="24" />
-        <mark key="[" line="58" column="167" />
-        <mark key="]" line="58" column="167" />
-        <mark key="." line="58" column="167" />
-        <mark key="^" line="51" column="46" />
+        <mark key="[" line="33" column="167" />
+        <mark key="]" line="33" column="167" />
+        <mark key="." line="33" column="167" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -754,10 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="79" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="57" column="80" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="33" column="59" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="10" column="8" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/raw-css/custom.css" />
       <jump line="304" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" />
@@ -854,55 +852,61 @@
       <jump line="121" column="24" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="27" column="2" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
       <jump line="348" column="1" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
+      <jump line="8" column="12" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="27" column="25" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPSIi</text>
+        <text>=8888</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSIi</text>
+        <text>=8888</text>
       </register>
       <register name="/" type="4">
-        <text>s</text>
+        <text>de</text>
       </register>
-      <register name="0" type="4">
-        <text>glyphicon-triangle-right</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbm9kZV9hcmdzOiBub2RlQXJncwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAud2l0aC1idWRnZXQgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vdGV4dC1hbGlnbjogbGVmdDsK</text>
+        <text encoding="base64">ICAud2l0aC1idWRnZXQgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmZmZmOwo=</text>
+        <text encoding="base64">ICAgIC8vdGV4dC1hbGlnbjogbGVmdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA2MDA7Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmZmZmOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjZweDsK</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA2MDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjZweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>de</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
+      <last-pattern>de</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>ex</last-substitute>
       <last-dir>1</last-dir>
@@ -910,7 +914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>6</entry>
         <entry>4</entry>
         <entry encoding="base64">IGNsYXNzPSJyb3ctdGl0bGUi</entry>
@@ -930,6 +933,7 @@
         <entry>stop</entry>
         <entry>sta</entry>
         <entry>s</entry>
+        <entry>de</entry>
       </history-search>
       <history-cmd>
         <entry>24,26y</entry>
