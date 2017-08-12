@@ -59,12 +59,12 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502531260808">
-        <mark key="'" line="10" column="22" />
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502532407582">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="32" />
+        <mark key="." line="35" column="32" />
+        <mark key="^" line="35" column="38" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
         <mark key="'" line="23" column="0" />
@@ -769,7 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
       <jump line="8" column="2" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
@@ -841,7 +840,6 @@
       <jump line="46" column="74" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="67" column="13" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="18" column="13" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
-      <jump line="35" column="73" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Code/ShortestPath/Map.php" />
       <jump line="7" column="10" filename="$USER_HOME$/Code/ShortestPath/main.php" />
       <jump line="70" column="47" filename="$USER_HOME$/Code/ShortestPath/Map.php" />
@@ -869,13 +867,15 @@
       <jump line="19" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="10" column="22" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="6" column="39" filename="$USER_HOME$/Code/idx/dev.sh" />
+      <jump line="35" column="41" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stop</text>
+        <text>0000</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>0000</text>
       </register>
       <register name="/" type="4">
         <text>stop</text>
