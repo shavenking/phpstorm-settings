@@ -59,12 +59,11 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502455992481">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="27" />
+      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502508319303">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
         <mark key="'" line="23" column="0" />
@@ -762,7 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="8" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/raw-css/custom.css" />
       <jump line="304" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
@@ -862,13 +860,14 @@
       <jump line="27" column="25" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2147483647</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbm9kZV9hcmdzOiBbJy0taW5zcGVjdCddLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>2147483647</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>de</text>
@@ -876,34 +875,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbm9kZV9hcmdzOiBub2RlQXJncwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgbm9kZV9hcmdzOiBbJy0taW5zcGVjdCddLAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>{
   
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAud2l0aC1idWRnZXQgewo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vdGV4dC1hbGlnbjogbGVmdDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbG9yOiAjZmZmZmZmOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA2MDA7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjZweDsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjZweDsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
