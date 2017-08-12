@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" timestamp="1502376781462">
-        <mark key="'" line="348" column="1" />
-        <mark key="[" line="743" column="20" />
-        <mark key="]" line="743" column="20" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" timestamp="1502542873940">
+        <mark key="'" line="712" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
         <mark key="^" line="743" column="20" />
         <mark key="." line="743" column="20" />
       </file>
@@ -36,9 +36,11 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/list4.css" timestamp="1502373922258">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="92" column="18" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/list4.css" timestamp="1502539911749">
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="24" />
+        <mark key="." line="74" column="24" />
+        <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/Code/shortest-path/index.php" timestamp="1501914840557">
         <mark key="[" line="14" column="23" />
@@ -65,6 +67,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/helper/colorSetting.scss" timestamp="1502539534535">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
         <mark key="'" line="23" column="0" />
@@ -549,6 +557,12 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/shopping-list.scss" timestamp="1502539653538">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php" timestamp="1500640782138">
         <mark key="[" line="339" column="0" />
         <mark key="]" line="339" column="0" />
@@ -591,6 +605,13 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" timestamp="1502543242385">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="256" column="13" />
+        <mark key="]" line="256" column="13" />
+        <mark key="." line="256" column="13" />
+        <mark key="^" line="256" column="13" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionType.php" timestamp="1498487006356">
         <mark key="[" line="9" column="28" />
@@ -662,7 +683,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502458191178">
+      <file name="/Dummy.txt" timestamp="1502542817279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -677,6 +698,11 @@
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/dependencies/isteven-angular-multiselect/isteven-multi-select.css" timestamp="1502543289816">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="0" />
+        <mark key="." line="331" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1501827856516">
         <mark key="'" line="64" column="14" />
@@ -769,16 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="190" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="191" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="106" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="192" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="108" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="194" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="25" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="107" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="193" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
@@ -869,48 +885,56 @@
       <jump line="6" column="39" filename="$USER_HOME$/Code/idx/dev.sh" />
       <jump line="35" column="41" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="242" column="18" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
+      <jump line="561" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/list4.css" />
+      <jump line="240" column="17" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="229" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="244" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="712" column="35" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
+      <jump line="258" column="17" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="260" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="0" column="16" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qZm9udC1zaXplOiAxMHB4OyovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0000</text>
+        <text>span.</text>
       </register>
       <register name="/" type="4">
         <text>stop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbm9kZV9hcmdzOiBub2RlQXJncwo=</text>
+        <text encoding="base64">QGltcG9ydCAiLi9mdW5jdGlvbnMuc2NzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qZm9udC1zaXplOiAxMHB4OyovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkQlJBTkNIX1BPUlQ7CmV4aXQ7Cgo=</text>
+        <text encoding="base64">Lm11bHRpU2VsZWN0IC5jaGVja0JveENvbnRhaW5lciB7CiAgbWF4LWhlaWdodDogbm9uZTsKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbm9kZV9hcmdzOiBbJy0taW5zcGVjdCddLAo=</text>
+        <text encoding="base64">ICAvKnBhdWwgY3VzdG9tKi8K</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-  
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsKICBwYWRkaW5nOiA4cHg7CiAgb3ZlcmZsb3c6IGF1dG87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm11bHRpU2VsZWN0IC5jaGVja0JveENvbnRhaW5lciB7CiAgZGlzcGxheTogYmxvY2s7CiAgcGFkZGluZzogOHB4OwogIG92ZXJmbG93OiBhdXRvOwogIG1heC1oZWlnaHQ6IDE2MHB4OwogIC8qcGF1bCBjdXN0b20qLwp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Lm11bHRpU2VsZWN0SXRlbSBsYWJlbCB7CiAgZm9udC1zaXplOiAxNHB4OwogIGxpbmUtaGVpZ2h0OiAxNHB4Owp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAud2l0aC1idWRnZXQgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdGV4dC1hbGlnbjogbGVmdDsK</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmZmZmOwo=</text>
+        <text encoding="base64">ICBsYWJlbCB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
