@@ -132,6 +132,12 @@
         <mark key="." line="24" column="52" />
         <mark key="^" line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/Codility/main.php" timestamp="1502499671502">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/stat.blade.php" timestamp="1500638270604">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="24" />
@@ -754,7 +760,6 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1502458341071" />
     </filemarks>
     <jumps>
       <jump line="10" column="8" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
@@ -860,10 +865,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=8888</text>
+        <text>2147483647</text>
       </register>
       <register name="-" type="4">
-        <text>=8888</text>
+        <text>2147483647</text>
       </register>
       <register name="/" type="4">
         <text>de</text>
