@@ -61,8 +61,8 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502532407582">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1502594884484">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="32" />
@@ -693,7 +693,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502592156268">
+      <file name="/Dummy.txt" timestamp="1502594275451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -805,7 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="67" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="79" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
       <jump line="114" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
@@ -883,7 +882,6 @@
       <jump line="27" column="2" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
       <jump line="348" column="1" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
       <jump line="8" column="12" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
-      <jump line="27" column="25" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
@@ -905,6 +903,8 @@
       <jump line="239" column="21" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
       <jump line="257" column="7" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
+      <jump line="27" column="4" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
