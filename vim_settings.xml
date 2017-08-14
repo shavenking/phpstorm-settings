@@ -289,11 +289,12 @@
         <mark key="." line="105" column="49" />
         <mark key="^" line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1502596974657">
-        <mark key="'" line="26" column="45" />
-        <mark key="[" line="33" column="167" />
-        <mark key="]" line="33" column="167" />
-        <mark key="." line="33" column="167" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1502713491337">
+        <mark key="'" line="55" column="132" />
+        <mark key="[" line="97" column="32" />
+        <mark key="]" line="97" column="32" />
+        <mark key="." line="97" column="32" />
+        <mark key="^" line="97" column="38" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -699,7 +700,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502707082604">
+      <file name="/Dummy.txt" timestamp="1502713509677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -727,11 +728,12 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1501419749358">
-        <mark key="[" line="20" column="281" />
-        <mark key="]" line="20" column="281" />
-        <mark key="." line="20" column="281" />
-        <mark key="^" line="20" column="281" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1502713608948">
+        <mark key="'" line="70" column="16" />
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="34" />
+        <mark key="." line="81" column="34" />
+        <mark key="^" line="81" column="34" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -773,11 +775,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1502709190354">
-        <mark key="[" line="457" column="77" />
-        <mark key="]" line="458" column="30" />
-        <mark key="." line="458" column="30" />
-        <mark key="^" line="458" column="30" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1502713627158">
+        <mark key="'" line="228" column="20" />
+        <mark key="[" line="459" column="28" />
+        <mark key="]" line="459" column="72" />
+        <mark key="." line="459" column="72" />
+        <mark key="^" line="459" column="72" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1501675432936">
         <mark key="[" line="40" column="0" />
@@ -817,9 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="41" filename="$USER_HOME$/Code/shortest-path/index.php" />
-      <jump line="99" column="17" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/extend.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" />
       <jump line="198" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" />
       <jump line="188" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" />
       <jump line="196" column="9" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" />
@@ -917,46 +917,49 @@
       <jump line="457" column="8" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="30" column="21" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="456" column="41" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
+      <jump line="55" column="132" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
+      <jump line="229" column="20" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
+      <jump line="70" column="16" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICRzY29wZS5oYW5kbGVNYXNvbnJ5KHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCBmYWxzZSk7CiAgICAgICAgICAvLyAkc2NvcGUuaGFuZGxlTWFzb25yeSh1aS5pdGVtLmluZGV4KCksIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'Data Updated'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'Data Updated'</text>
       </register>
       <register name="/" type="4">
         <text>budgetData</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAkc2NvcGUuaGFuZGxlTWFzb25yeSA9IGZ1bmN0aW9uIChpbmRleCwgaXNFeHBhbmRlZCkgewogICAgaWYoaXNFeHBhbmRlZCkgewogICAgICAkdGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgJCgnI21hc29ucnknICsgaW5kZXgpLm1hc29ucnkoKTsKICAgICAgfSwgMjAwKTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIENhbiByZW1vdmUgdGhpcyBmb3IgYSBiaXQgc21vb3RoZXIgcmVvcGVuaW5nLiBOb3Qgc3VyZSBvZiBkb3duc2lkZXMuCiAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAgICQoJyNtYXNvbnJ5JyArIGluZGV4KS5tYXNvbnJ5KCdkZXN0cm95Jyk7CiAgICAgIH0sIDIwMCk7CiAgICB9CiAgfTsK</text>
+      <register name="0" type="4">
+        <text>budget-expense-item-wrapper</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICRzY29wZS5oYW5kbGVNYXNvbnJ5KHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCBmYWxzZSk7CiAgICAgICAgICAvLyAkc2NvcGUuaGFuZGxlTWFzb25yeSh1aS5pdGVtLmluZGV4KCksIHRydWUpOwo=</text>
+        <text encoding="base64">ICAkc2NvcGUuaXNFeHBhbmRlZCA9IHt9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuaGFuZGxlTWFzb25yeSA9IGZ1bmN0aW9uIChpbmRleCwgaXNFeHBhbmRlZCkgewogICAgICAgIC8vICAgaWYoaXNFeHBhbmRlZCkgewogICAgICAgIC8vICAgICAkdGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgICAgJCgnI21hc29ucnknICsgaW5kZXgpLm1hc29ucnkoKTsKICAgICAgICAvLyAgICAgfSwgMjAwKTsKICAgICAgICAvLyAgIH0gZWxzZSB7CiAgICAgICAgLy8gICAgIC8vIENhbiByZW1vdmUgdGhpcyBmb3IgYSBiaXQgc21vb3RoZXIgcmVvcGVuaW5nLiBOb3Qgc3VyZSBvZiBkb3duc2lkZXMuCiAgICAgICAgLy8gICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAgIC8vICAgICAgICQoJyNtYXNvbnJ5JyArIGluZGV4KS5tYXNvbnJ5KCdkZXN0cm95Jyk7CiAgICAgICAgLy8gICAgIH0sIDIwMCk7CiAgICAgICAgLy8gICB9CiAgICAgICAgLy8gfTsKICAgICAgICAvLyAkKCcjbWFzb25yeScgKyBpbmRleCkubWFzb25yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciB0ZW1wID0gJHNjb3BlLmlzRXhwYW5kZWRbdWkuaXRlbS5kYXRhWydzdGFydEluZGV4J11dOwogICAgICAgICAgJHNjb3BlLmlzRXhwYW5kZWRbdWkuaXRlbS5kYXRhWydzdGFydEluZGV4J11dID0gJHNjb3BlLmlzRXhwYW5kZWRbdWkuaXRlbS5pbmRleCgpXTsKICAgICAgICAgICRzY29wZS5pc0V4cGFuZGVkW3VpLml0ZW0uaW5kZXgoKV0gPSB0ZW1wOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuaGFuZGxlTWFzb25yeSh1aS5pdGVtLmRhdGEoJ3N0YXJ0SW5kZXgnKSwgZmFsc2UpOwogICAgICAgICRzY29wZS5oYW5kbGVNYXNvbnJ5KHVpLml0ZW0uaW5kZXgoKSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRzY29wZS5pc0V4cGFuZGVkW3VpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpXSA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjJykK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNwbGljZWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FuY2VsOiAnLmdseXBoaWNvbiwgLmlucHV0LWdyb3VwLWFkZG9uJwo=</text>
+        <text encoding="base64">ICAgICAgaGVscGVyOiAnY2xvbmUnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCRzY29wZS5kYXRhKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzY29wZS5kYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1aS5pdGVtLnNvcnRhYmxlLmluZGV4LCB1aS5pdGVtLmluZGV4KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICRzY29wZS5oYW5kbGVNYXNvbnJ5KHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCBmYWxzZSk7CiAgICAgICAgICAvLyAkc2NvcGUuaGFuZGxlTWFzb25yeSh1aS5pdGVtLmluZGV4KCksIHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuaGFuZGxlTWFzb25yeSA9IGZ1bmN0aW9uIChpbmRleCwgaXNFeHBhbmRlZCkgewogICAgICAgIC8vICAgaWYoaXNFeHBhbmRlZCkgewogICAgICAgIC8vICAgICAkdGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgICAgJCgnI21hc29ucnknICsgaW5kZXgpLm1hc29ucnkoKTsKICAgICAgICAvLyAgICAgfSwgMjAwKTsKICAgICAgICAvLyAgIH0gZWxzZSB7CiAgICAgICAgLy8gICAgIC8vIENhbiByZW1vdmUgdGhpcyBmb3IgYSBiaXQgc21vb3RoZXIgcmVvcGVuaW5nLiBOb3Qgc3VyZSBvZiBkb3duc2lkZXMuCiAgICAgICAgLy8gICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAgIC8vICAgICAgICQoJyNtYXNvbnJ5JyArIGluZGV4KS5tYXNvbnJ5KCdkZXN0cm95Jyk7CiAgICAgICAgLy8gICAgIH0sIDIwMCk7CiAgICAgICAgLy8gICB9CiAgICAgICAgLy8gfTsKICAgICAgICAvLyAkKCcjbWFzb25yeScgKyBpbmRleCkubWFzb25yeSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
