@@ -289,12 +289,12 @@
         <mark key="." line="105" column="49" />
         <mark key="^" line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1502713491337">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1502719665089">
         <mark key="'" line="55" column="132" />
-        <mark key="[" line="97" column="32" />
-        <mark key="]" line="97" column="32" />
-        <mark key="." line="97" column="32" />
-        <mark key="^" line="97" column="38" />
+        <mark key="[" line="97" column="41" />
+        <mark key="]" line="97" column="53" />
+        <mark key="." line="97" column="53" />
+        <mark key="^" line="97" column="53" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -700,7 +700,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502713509677">
+      <file name="/Dummy.txt" timestamp="1502719505623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -775,12 +775,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1502713627158">
-        <mark key="'" line="228" column="20" />
-        <mark key="[" line="459" column="28" />
-        <mark key="]" line="459" column="72" />
-        <mark key="." line="459" column="72" />
-        <mark key="^" line="459" column="72" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1502719574630">
+        <mark key="'" line="229" column="20" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1501675432936">
         <mark key="[" line="40" column="0" />
@@ -923,10 +923,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Data Updated'</text>
+        <text>category.</text>
       </register>
       <register name="-" type="4">
-        <text>'Data Updated'</text>
+        <text>category.</text>
       </register>
       <register name="/" type="4">
         <text>budgetData</text>
