@@ -17,11 +17,11 @@
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" timestamp="1502194436296">
-        <mark key="[" line="196" column="8" />
-        <mark key="]" line="197" column="7" />
-        <mark key="." line="197" column="7" />
-        <mark key="^" line="197" column="7" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/new-header-footer/header-new.html" timestamp="1502799854697">
+        <mark key="[" line="129" column="33" />
+        <mark key="]" line="129" column="33" />
+        <mark key="." line="129" column="33" />
+        <mark key="^" line="129" column="33" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionAmountGuesser.php" timestamp="1498977476845">
         <mark key="'" line="6" column="0" />
@@ -422,6 +422,13 @@
         <mark key="." line="321" column="13" />
         <mark key="^" line="322" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1502802711127">
+        <mark key="'" line="240" column="66" />
+        <mark key="[" line="240" column="85" />
+        <mark key="]" line="240" column="85" />
+        <mark key="." line="240" column="92" />
+        <mark key="^" line="240" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="17" column="38" />
@@ -583,6 +590,12 @@
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/template/reminder_tasks.html" timestamp="1502800849186">
+        <mark key="[" line="99" column="40" />
+        <mark key="]" line="99" column="40" />
+        <mark key="^" line="99" column="40" />
+        <mark key="." line="99" column="40" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
         <mark key="]" line="442" column="8" />
@@ -621,11 +634,12 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" timestamp="1502595848646">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" timestamp="1502800148989">
         <mark key="'" line="82" column="16" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1502598062691">
         <mark key="'" line="1080" column="10" />
@@ -700,7 +714,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502722381243">
+      <file name="/Dummy.txt" timestamp="1502802756797">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -742,6 +756,12 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/reminder-list.css" timestamp="1502801321840">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1501308914645">
         <mark key="[" line="82" column="51" />
         <mark key="]" line="82" column="57" />
@@ -774,13 +794,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1502722487032">
-        <mark key="'" line="461" column="17" />
-        <mark key="[" line="464" column="63" />
-        <mark key="]" line="464" column="63" />
-        <mark key="." line="464" column="63" />
-        <mark key="^" line="463" column="9" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1501675432936">
         <mark key="[" line="40" column="0" />
@@ -820,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="24" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="27" column="2" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
       <jump line="348" column="1" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
       <jump line="8" column="12" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
@@ -920,55 +932,56 @@
       <jump line="463" column="33" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="20" column="24" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="461" column="17" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
+      <jump line="240" column="66" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data_</text>
+        <text>date</text>
       </register>
       <register name="-" type="4">
-        <text>data_</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
-        <text>budgetData</text>
+        <text>date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciBzcGxpY2VkID0gJHNjb3BlLmRhdGEuc3BsaWNlKHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCAxKVswXTsKICAgICAgICAgICRzY29wZS5kYXRhLnNwbGljZSh1aS5pdGVtLmluZGV4KCksIDAsIHNwbGljZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNDgwMmM2OS4uLiBGaXggYnVnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LnNhdmVkKTsKPT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnREYXRlID0gbmV3IERhdGUoKTsKICAgICAgY3VycmVudERhdGUuc2V0SG91cnMoMCwgMCwgMCwgMCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBzcGxpY2VkID0gJHNjb3BlLmlzRXhwYW5kZWQuc3BsaWNlKHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCAxKVswXTsKICAgICAgICAgICRzY29wZS5pc0V4cGFuZGVkLnNwbGljZSh1aS5pdGVtLmluZGV4KCksIDAsIHNwbGljZWQpOwoK</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNDgwMmM2OS4uLiBGaXggYnVnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4ZWRjYjhlNS4uLiB5bwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LnNhdmVkKTsKPT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LmRhdGFfc2F2ZWQpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5pc0V4cGFuZGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBzcGxpY2VkID0gJHNjb3BlLmlzRXhwYW5kZWQuc3BsaWNlKHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCAxKVswXTsKICAgICAgICAgICRzY29wZS5pc0V4cGFuZGVkLnNwbGljZSh1aS5pdGVtLmluZGV4KCksIDAsIHNwbGljZWQpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5pc0V4cGFuZGVkKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiA4ZWRjYjhlNS4uLiB5bwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhID0gJHNjb3BlLmRhdGEubWFwKGZ1bmN0aW9uIChjYXRlZ29yeSkgewogICAgICBkZWxldGUgY2F0ZWdvcnkuaXNFeHBhbmRlZDsKCiAgICAgIHJldHVybiBjYXRlZ29yeTsKICAgIH0pCmNvbnNvbGUubG9nKGRhdGEpOwogICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LmRhdGFfc2F2ZWQpOwo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>budgetData</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>budgetData</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>ex</last-substitute>
       <last-dir>1</last-dir>
@@ -976,7 +989,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ng-if</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry>arrow</entry>
         <entry>all</entry>
@@ -996,6 +1008,7 @@
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>class</entry>
         <entry>budgetData</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>24,26y</entry>
