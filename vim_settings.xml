@@ -253,6 +253,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/shopping-list.new.html" timestamp="1502969731912">
+        <mark key="[" line="160" column="74" />
+        <mark key="]" line="160" column="91" />
+        <mark key="^" line="160" column="91" />
+        <mark key="." line="160" column="91" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-airline-report-controller.js" timestamp="1501685398249">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -422,13 +428,6 @@
         <mark key="." line="321" column="13" />
         <mark key="^" line="322" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1502802711127">
-        <mark key="'" line="240" column="66" />
-        <mark key="[" line="240" column="85" />
-        <mark key="]" line="240" column="85" />
-        <mark key="." line="240" column="92" />
-        <mark key="^" line="240" column="30" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="17" column="38" />
@@ -590,11 +589,11 @@
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/template/reminder_tasks.html" timestamp="1502800849186">
-        <mark key="[" line="99" column="40" />
-        <mark key="]" line="99" column="40" />
-        <mark key="^" line="99" column="40" />
-        <mark key="." line="99" column="40" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/template/reminder_tasks.html" timestamp="1502969852942">
+        <mark key="[" line="180" column="56" />
+        <mark key="]" line="180" column="73" />
+        <mark key="^" line="180" column="73" />
+        <mark key="." line="180" column="73" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
@@ -714,7 +713,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502802756797">
+      <file name="/Dummy.txt" timestamp="1502969812493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -935,44 +934,47 @@
       <jump line="240" column="66" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>date</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VDdXJyZW50OiBmYWxzZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>today</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBzcGxpY2VkID0gJHNjb3BlLmRhdGEuc3BsaWNlKHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCAxKVswXTsKICAgICAgICAgICRzY29wZS5kYXRhLnNwbGljZSh1aS5pdGVtLmluZGV4KCksIDAsIHNwbGljZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICcwOC8xMC8yMDE3JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VDdXJyZW50OiBmYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnREYXRlID0gbmV3IERhdGUoKTsKICAgICAgY3VycmVudERhdGUuc2V0SG91cnMoMCwgMCwgMCwgMCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZm9ybWF0LCBbCiAgICAgICAgICAnMDgvMTAvMjAxNycsCiAgICAgICAgICAnMDgvMTAvMjAxNyAxMjowMCcsCiAgICAgICAgXVtmSW5kZXhdKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>[
+          '08/10/2017',
+          '08/10/2017 12:00',
+        ][fIndex]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNDgwMmM2OS4uLiBGaXggYnVnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LnNhdmVkKTsKPT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnREYXRlID0gbmV3IERhdGUoKTsKICAgICAgY3VycmVudERhdGUuc2V0SG91cnMoMCwgMCwgMCwgMCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBzcGxpY2VkID0gJHNjb3BlLmlzRXhwYW5kZWQuc3BsaWNlKHVpLml0ZW0uZGF0YSgnc3RhcnRJbmRleCcpLCAxKVswXTsKICAgICAgICAgICRzY29wZS5pc0V4cGFuZGVkLnNwbGljZSh1aS5pdGVtLmluZGV4KCksIDAsIHNwbGljZWQpOwoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4ZWRjYjhlNS4uLiB5bwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNDgwMmM2OS4uLiBGaXggYnVnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LmRhdGFfc2F2ZWQpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAkc2NvcGUudXBkYXRlRGF0YShhcHBHbG9iYWxTZXR0aW5nLnN0cmluZ0hpbnQuYnVkZ2V0LnNhdmVkKTsKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
