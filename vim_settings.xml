@@ -371,6 +371,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503023226477">
+        <mark key="'" line="152" column="83" />
+        <mark key="[" line="37" column="123" />
+        <mark key="]" line="38" column="104" />
+        <mark key="^" line="38" column="104" />
+        <mark key="." line="38" column="104" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/dependencies/angular-file-upload/dist/angular-file-upload.js" timestamp="1503026379905">
+        <mark key="[" line="1285" column="0" />
+        <mark key="]" line="1287" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/IntentionGuesser.php" timestamp="1498566092203">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="9" column="18" />
@@ -544,6 +555,13 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503026852568">
+        <mark key="'" line="191" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="30" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
         <mark key="]" line="1" column="47" />
@@ -680,6 +698,12 @@
         <mark key="." line="59" column="44" />
         <mark key="^" line="59" column="44" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" timestamp="1503026750775">
+        <mark key="[" line="94" column="14" />
+        <mark key="]" line="94" column="31" />
+        <mark key="." line="94" column="31" />
+        <mark key="^" line="94" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="59" />
@@ -718,7 +742,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503021795054">
+      <file name="/Dummy.txt" timestamp="1503024802082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -746,7 +770,7 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1502722334467">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1503024862239">
         <mark key="'" line="70" column="16" />
         <mark key="[" line="81" column="12" />
         <mark key="]" line="81" column="12" />
@@ -837,9 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
-      <jump line="348" column="1" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
-      <jump line="8" column="12" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
@@ -937,49 +958,49 @@
       <jump line="20" column="24" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="461" column="17" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="240" column="66" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" />
+      <jump line="35" column="18" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
+      <jump line="151" column="83" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
+      <jump line="174" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC8vICRzY29wZS4kYXBwbHkoZnVuY3Rpb24gKCkgewogICAgICAvLyAgICQoJyNpbWFnZS1jcm9wLWFyZWEnKS5jcm9wcGVyKHsKICAgICAgLy8gICAgIGFzcGVjdFJhdGlvOiAxNiAvIDksCiAgICAgIC8vICAgICBjcm9wOiBmdW5jdGlvbihlKSB7CiAgICAgIC8vICAgICAgIC8vIE91dHB1dCB0aGUgcmVzdWx0IGRhdGEgZm9yIGNyb3BwaW5nIGltYWdlLgogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLngpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnkpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLndpZHRoKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5oZWlnaHQpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnJvdGF0ZSk7CiAgICAgIC8vICAgICAgIGNvbnNvbGUubG9nKGUuc2NhbGVYKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5zY2FsZVkpOwogICAgICAvLyAgICAgfQogICAgICAvLyAgIH0pOwogICAgICAvLyB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>today</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICcwOC8xMC8yMDE3JywK</text>
+        <text encoding="base64">CSAgICAgICAgRmlsZUl0ZW0ucHJvdG90eXBlLnJlbW92ZSA9IGZ1bmN0aW9uIHJlbW92ZSgpIHsKCSAgICAgICAgICAgIHRoaXMudXBsb2FkZXIucmVtb3ZlRnJvbVF1ZXVlKHRoaXMpOwoJICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC8vICRzY29wZS4kYXBwbHkoZnVuY3Rpb24gKCkgewogICAgICAvLyAgICQoJyNpbWFnZS1jcm9wLWFyZWEnKS5jcm9wcGVyKHsKICAgICAgLy8gICAgIGFzcGVjdFJhdGlvOiAxNiAvIDksCiAgICAgIC8vICAgICBjcm9wOiBmdW5jdGlvbihlKSB7CiAgICAgIC8vICAgICAgIC8vIE91dHB1dCB0aGUgcmVzdWx0IGRhdGEgZm9yIGNyb3BwaW5nIGltYWdlLgogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLngpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnkpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLndpZHRoKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5oZWlnaHQpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnJvdGF0ZSk7CiAgICAgIC8vICAgICAgIGNvbnNvbGUubG9nKGUuc2NhbGVYKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5zY2FsZVkpOwogICAgICAvLyAgICAgfQogICAgICAvLyAgIH0pOwogICAgICAvLyB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2l0QGdpdGxhYi5jb206aWRvZXhjaGFuZ2UvaWR4LmdpdAo=</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuY3JvcHBpbmcgPSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmJ0bi1kZWZhdWx0IHsKCWNvbG9yOiAjRkZGOwoJYmFja2dyb3VuZC1jb2xvcjogI0I4MTc2OTsKCWJvcmRlcjogMDsKCWZvbnQtd2VpZ2h0OjMwMDsKCWJvcmRlci1yYWRpdXM6IDA7Cn0KCi5idG4tZGVmYXVsdCAuZ2x5cGhpY29uIHsKCWZvbnQtc2l6ZToxMXB4Owp9Cgo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLmNyb3BwaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VDdXJyZW50OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIub25DYW5jZWxJdGVtKGZ1bmN0aW9uIChpdGVtKSB7CiAgICBjb25zb2xlLmxvZygnaGknKQogICAgJHNjb3BlLmNyb3BwZXIuY3JvcHBlcignZGVzdHJveScpOwogIH0pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZm9ybWF0LCBbCiAgICAgICAgICAnMDgvMTAvMjAxNycsCiAgICAgICAgICAnMDgvMTAvMjAxNyAxMjowMCcsCiAgICAgICAgXVtmSW5kZXhdKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>[
-          '08/10/2017',
-          '08/10/2017 12:00',
-        ][fIndex]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuVmRsb2coaXRlbSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuaW1hZ2UgPSBlLnRhcmdldC5yZXN1bHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZS50YXJnZXQucmVzdWx0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnREYXRlID0gbmV3IERhdGUoKTsKICAgICAgY3VycmVudERhdGUuc2V0SG91cnMoMCwgMCwgMCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
