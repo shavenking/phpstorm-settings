@@ -555,12 +555,12 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503026852568">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="30" column="3" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503029017892">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="34" column="47" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
@@ -742,7 +742,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503024802082">
+      <file name="/Dummy.txt" timestamp="1503028437799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -964,10 +964,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIC8vICRzY29wZS4kYXBwbHkoZnVuY3Rpb24gKCkgewogICAgICAvLyAgICQoJyNpbWFnZS1jcm9wLWFyZWEnKS5jcm9wcGVyKHsKICAgICAgLy8gICAgIGFzcGVjdFJhdGlvOiAxNiAvIDksCiAgICAgIC8vICAgICBjcm9wOiBmdW5jdGlvbihlKSB7CiAgICAgIC8vICAgICAgIC8vIE91dHB1dCB0aGUgcmVzdWx0IGRhdGEgZm9yIGNyb3BwaW5nIGltYWdlLgogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLngpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnkpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLndpZHRoKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5oZWlnaHQpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnJvdGF0ZSk7CiAgICAgIC8vICAgICAgIGNvbnNvbGUubG9nKGUuc2NhbGVYKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5zY2FsZVkpOwogICAgICAvLyAgICAgfQogICAgICAvLyAgIH0pOwogICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMud2lkdGggPiAxMDI0IHx8IHRoaXMuaGVpZ2h0ID4gMTAyNCkgewogICAgICAgIHZhciBjYW52YXMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdjYW52YXMnKTsKICAgICAgICBjYW52YXMud2lkdGggPSAxMDI0OwogICAgICAgIGNhbnZhcy5oZWlnaHQgPSAxMDI0OwoKCiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -976,31 +976,31 @@
         <text encoding="base64">CSAgICAgICAgRmlsZUl0ZW0ucHJvdG90eXBlLnJlbW92ZSA9IGZ1bmN0aW9uIHJlbW92ZSgpIHsKCSAgICAgICAgICAgIHRoaXMudXBsb2FkZXIucmVtb3ZlRnJvbVF1ZXVlKHRoaXMpOwoJICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIC8vICRzY29wZS4kYXBwbHkoZnVuY3Rpb24gKCkgewogICAgICAvLyAgICQoJyNpbWFnZS1jcm9wLWFyZWEnKS5jcm9wcGVyKHsKICAgICAgLy8gICAgIGFzcGVjdFJhdGlvOiAxNiAvIDksCiAgICAgIC8vICAgICBjcm9wOiBmdW5jdGlvbihlKSB7CiAgICAgIC8vICAgICAgIC8vIE91dHB1dCB0aGUgcmVzdWx0IGRhdGEgZm9yIGNyb3BwaW5nIGltYWdlLgogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLngpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnkpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLndpZHRoKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5oZWlnaHQpOwogICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhlLnJvdGF0ZSk7CiAgICAgIC8vICAgICAgIGNvbnNvbGUubG9nKGUuc2NhbGVYKTsKICAgICAgLy8gICAgICAgY29uc29sZS5sb2coZS5zY2FsZVkpOwogICAgICAvLyAgICAgfQogICAgICAvLyAgIH0pOwogICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMud2lkdGggPiAxMDI0IHx8IHRoaXMuaGVpZ2h0ID4gMTAyNCkgewogICAgICAgIHZhciBjYW52YXMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdjYW52YXMnKTsKICAgICAgICBjYW52YXMud2lkdGggPSAxMDI0OwogICAgICAgIGNhbnZhcy5oZWlnaHQgPSAxMDI0OwoKCiAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuY3JvcHBpbmcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRoaXMpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmNyb3BwaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIub25DYW5jZWxJdGVtKGZ1bmN0aW9uIChpdGVtKSB7CiAgICBjb25zb2xlLmxvZygnaGknKQogICAgJHNjb3BlLmNyb3BwZXIuY3JvcHBlcignZGVzdHJveScpOwogIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCRzY29wZS5pc1VwbG9hZGluZykgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuVmRsb2coaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuaW1hZ2UgPSBlLnRhcmdldC5yZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHRyYW5zcG9ydCA9IHRoaXMuaXNIVE1MNSA/ICdfeGhyVHJhbnNwb3J0QycgOiAnX2lmcmFtZVRyYW5zcG9ydCc7CiAgICAgIHZhciB0aGF0ID0gdGhpczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZS50YXJnZXQucmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzVXBsb2FkaW5nKSByZXR1cm47CiAgICB2YXIgdHJhbnNwb3J0ID0gdGhpcy5pc0hUTUw1ID8gJ194aHJUcmFuc3BvcnRDJyA6ICdfaWZyYW1lVHJhbnNwb3J0JzsKICAgIHZhciB0aGF0ID0gdGhpczsKICAgIHRoYXRbdHJhbnNwb3J0XShpdGVtKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -1011,9 +1011,9 @@
       <last-offset />
       <last-pattern>date</last-pattern>
       <last-replace>56</last-replace>
-      <last-substitute>ex</last-substitute>
+      <last-substitute>date</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
