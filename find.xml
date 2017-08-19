@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="styles" />
-    <option name="defaultScopeName" value="styles" />
-    <option name="SEARCH_SCOPE" value="styles" />
+    <option name="customScope" value="angular" />
+    <option name="defaultScopeName" value="angular" />
+    <option name="SEARCH_SCOPE" value="angular" />
   </component>
 </application>
