@@ -705,12 +705,12 @@
         <mark key="." line="59" column="44" />
         <mark key="^" line="59" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" timestamp="1503124766120">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" timestamp="1503125495055">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="127" column="20" />
-        <mark key="]" line="127" column="18" />
-        <mark key="." line="127" column="18" />
-        <mark key="^" line="127" column="18" />
+        <mark key="[" line="138" column="89" />
+        <mark key="]" line="138" column="89" />
+        <mark key="." line="138" column="89" />
+        <mark key="^" line="138" column="96" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
         <mark key="[" line="16" column="0" />
@@ -972,10 +972,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nowrap</text>
+        <text encoding="base64">IHN0eWxlPSIi</text>
       </register>
       <register name="-" type="4">
-        <text>nowrap</text>
+        <text encoding="base64">IHN0eWxlPSIi</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
