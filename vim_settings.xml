@@ -168,12 +168,8 @@
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/profile-edit.scss" timestamp="1503111609944">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/profile-edit.scss" timestamp="1503195059134">
         <mark key="'" line="21" column="1" />
-        <mark key="[" line="55" column="1" />
-        <mark key="]" line="58" column="14" />
-        <mark key="." line="58" column="14" />
-        <mark key="^" line="58" column="14" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/raw-css/custom.css" timestamp="1503021650661">
         <mark key="[" line="111" column="0" />
@@ -385,7 +381,7 @@
         <mark key="^" line="38" column="104" />
         <mark key="." line="38" column="104" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/dependencies/angular-file-upload/dist/angular-file-upload.js" timestamp="1503026379905">
+      <file name="$USER_HOME$/Code/idx/frontend/public/dependencies/angular-file-upload/dist/angular-file-upload.js" timestamp="1503195808433">
         <mark key="[" line="1285" column="0" />
         <mark key="]" line="1287" column="11" />
       </file>
@@ -562,12 +558,12 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503111778837">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="43" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503196209075">
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
@@ -705,12 +701,12 @@
         <mark key="." line="59" column="44" />
         <mark key="^" line="59" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" timestamp="1503125495055">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" timestamp="1503194901285">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="138" column="89" />
-        <mark key="]" line="138" column="89" />
-        <mark key="." line="138" column="89" />
-        <mark key="^" line="138" column="96" />
+        <mark key="[" line="107" column="18" />
+        <mark key="]" line="107" column="18" />
+        <mark key="." line="107" column="18" />
+        <mark key="^" line="97" column="43" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/database/migrations/2015_12_13_051056_create_works_table.php" timestamp="1496754062671">
         <mark key="[" line="16" column="0" />
@@ -971,48 +967,44 @@
       <jump line="0" column="12" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPSIi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIuRmlsZVNlbGVjdC5wcm90b3R5cGUuaXNFbXB0eUFmdGVyU2VsZWN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRydWU7CiAgfTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSIi</text>
+        <text>remove</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
+        <text encoding="base64">CSAgICAgICAgRmlsZUl0ZW0ucHJvdG90eXBlLnJlbW92ZSA9IGZ1bmN0aW9uIHJlbW92ZSgpIHsKCSAgICAgICAgICAgIHRoaXMudXBsb2FkZXIucmVtb3ZlRnJvbVF1ZXVlKHRoaXMpOwoJICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIuRmlsZVNlbGVjdC5wcm90b3R5cGUuaXNFbXB0eUFmdGVyU2VsZWN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRydWU7CiAgfTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2ltYWdlLWNyb3AtYXJlYSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAvKiBGaXggc2Nyb2xsaW5nIGlzc3VlICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgJHNjb3BlLiRhcHBseShmdW5jdGlvbiAoKSB7CiAgICAgICAgICBjb25zb2xlLmxvZygkKCcjdXBsb2FkLW1vZGFsJykubW9kYWwoJ2hhbmRsZVVwZGF0ZScpKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">LyogRml4IHNjcm9sbGluZyBpc3N1ZSAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkKCcjdXBsb2FkLW1vZGFsJykub24oJ3Nob3duLmJzLm1vZGFsJywgZnVuY3Rpb24gKGUpIHsKICAgIGNvbnNvbGUubG9nKCdoaScpOwogIH0pOwoK</text>
+        <text encoding="base64">I3VwbG9hZC1tb2RhbCAudXBsb2FkLXBob3RvLW5hbWUgewogIAp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgJHNjb3BlLiRhcHBseShmdW5jdGlvbiAoKSB7CiAgICAgICAgICAkKCcjdXBsb2FkLW1vZGFsJykubW9kYWwoJ2hhbmRsZVVwZGF0ZScpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiN1cGxvYWQtbW9kYWwgLnVwCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-    movable: false,
-    zoomable: false,
-    rotatable: false,
-    scalable: false</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGh0dHBzOi8vZGV2LmlhdHBtLmNvbTo4ODg4L25ldy1zZXNzaW9uLyMvdXNlci9wcm9maWxlLWVkaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
