@@ -558,12 +558,12 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503196209075">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503197537009">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="42" column="55" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
@@ -968,10 +968,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIuRmlsZVNlbGVjdC5wcm90b3R5cGUuaXNFbXB0eUFmdGVyU2VsZWN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRydWU7CiAgfTsKCg==</text>
+        <text encoding="base64">ICAgIHF1ZXVlTGltaXQ6IDEsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>console.log('hi');</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -980,31 +980,31 @@
         <text encoding="base64">CSAgICAgICAgRmlsZUl0ZW0ucHJvdG90eXBlLnJlbW92ZSA9IGZ1bmN0aW9uIHJlbW92ZSgpIHsKCSAgICAgICAgICAgIHRoaXMudXBsb2FkZXIucmVtb3ZlRnJvbVF1ZXVlKHRoaXMpOwoJICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIuRmlsZVNlbGVjdC5wcm90b3R5cGUuaXNFbXB0eUFmdGVyU2VsZWN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRydWU7CiAgfTsKCg==</text>
+        <text encoding="base64">ICAgIHF1ZXVlTGltaXQ6IDEsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIuRmlsZVNlbGVjdC5wcm90b3R5cGUuaXNFbXB0eUFmdGVyU2VsZWN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRydWU7CiAgfTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKiBGaXggc2Nyb2xsaW5nIGlzc3VlICovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyogRml4IHNjcm9sbGluZyBpc3N1ZSAqLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I3VwbG9hZC1tb2RhbCAudXBsb2FkLXBob3RvLW5hbWUgewogIAp9Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAKICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiN1cGxvYWQtbW9kYWwgLnVwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKiBGaXggc2Nyb2xsaW5nIGlzc3VlICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyogRml4IHNjcm9sbGluZyBpc3N1ZSAqLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I3VwbG9hZC1tb2RhbCAudXBsb2FkLXBob3RvLW5hbWUgewogIAp9Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAKICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiN1cGxvYWQtbW9kYWwgLnVwCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
