@@ -61,7 +61,7 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/idx-common.scss" timestamp="1503021697773">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/idx-common.scss" timestamp="1503306585811">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -85,6 +85,10 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/calendar.html" timestamp="1503302881026">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Providers/NaturalLanguageProcessorProvider.php" timestamp="1498967810616">
         <mark key="[" line="20" column="26" />
@@ -369,6 +373,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503307641080">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="220" column="7" />
+        <mark key="]" line="220" column="7" />
+        <mark key="^" line="217" column="32" />
+        <mark key="." line="220" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
         <mark key="[" line="128" column="74" />
@@ -527,11 +538,12 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1503200997676">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1503305540446">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="45" column="10" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="47" column="31" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/App/Guesser/NotFoundException.php" timestamp="1500084896025">
         <mark key="[" line="8" column="0" />
@@ -700,6 +712,10 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/task-list/admin-task-list.html" timestamp="1503302982367">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="164" column="171" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
         <mark key="[" line="59" column="38" />
@@ -752,7 +768,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503201658321">
+      <file name="/Dummy.txt" timestamp="1503306545215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -872,21 +888,15 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503201345498">
-        <mark key="'" line="92" column="6" />
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="5" column="65" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503307751746">
+        <mark key="'" line="36" column="50" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="34" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="712" column="35" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" />
-      <jump line="258" column="17" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
-      <jump line="260" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
-      <jump line="0" column="16" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
-      <jump line="242" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
       <jump line="239" column="21" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
       <jump line="257" column="7" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" />
@@ -981,46 +991,57 @@
       <jump line="30" column="2" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="82" column="35" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" />
       <jump line="151" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" />
+      <jump line="37" column="50" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
+      <jump line="40" column="8" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="209" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFyaWEtaGlkZGVuPSJ0cnVlIg==</text>
+        <text encoding="base64">c3RhcnRkYXRldGltZT0iYWRkSXRlbS5kdWVEYXRlIiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFyaWEtaGlkZGVuPSJ0cnVlIg==</text>
+        <text encoding="base64">c3RhcnRkYXRldGltZT0iYWRkSXRlbS5kdWVEYXRlIiA=</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIuLi9qYXZhc2NyaXB0cy9kaXJlY3RpdmUvYnVkZ2V0LWVkaXQtbW9kYWwtZGlyZWN0aXZlLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhZGQtbmV3LWV2ZW50LW1vZGFsCiAgICAgIHZpc2libGU9ImlzU2hvd0FkZE5ld0V2ZW50TW9kYWwiCiAgICAgIGJhY2tkcm9wPSJzdGF0aWMiCiAgICAgIGtleWJvYXJkPSJmYWxzZSIKICAgICAgYnVkZ2V0LWRhdGE9ImJ1ZGdldERhdGEiCiAgICA+PC9hZGQtbmV3LWV2ZW50LW1vZGFsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGknKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBQcm94aW1hTm92YTsKICAgIGZvbnQtc2l6ZTogc2NhbGUtZm9udCgyMCk7CiAgICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5pc1Nobwo=</text>
+        <text encoding="base64">CiAgaW5wdXQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>::placeholder {
+    font-family: ProximaNova;
+    font-size: scale-font(20);
+    font-weight: bold;
+    color: #9b9b9b;
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIFRoaXMgYSBBbmd1bGFyIGRpcmVjdGl2ZSBmb3IgZWRpdHRpbmcgYnVkZ2V0IG1vZGFsLgogKgogKiBVc2FnZTogPGJ1ZGdldC1lZGl0LW1vZGFsIHZpc2libGU9IiI+PC9idWRnZXQtZWRpdC1tb2RhbD4KICovCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPjwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgYXJpYS1sYWJlbD0iLi4uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYnRuIj4KICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPkFjdGlvbiA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2J1dHRvbj4KICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUgZHJvcGRvd24tbWVudS1yaWdodCI+CiAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Tb21ldGhpbmcgZWxzZSBoZXJlPC9hPjwvbGk+CiAgICAgICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgogICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvZGl2PjwhLS0gL2J0bi1ncm91cCAtLT4KICAgICAgICAgIDwvZGl2PjwhLS0gL2lucHV0LWdyb3VwIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlTGltaXQ6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6MzAwOwogICAgICBib3JkZXItcmFkaXVzOiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkc2NvcGUudXBsb2FkZXIuRmlsZVNlbGVjdC5wcm90b3R5cGUuaXNFbXB0eUFmdGVyU2VsZWN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIHRydWU7CiAgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
