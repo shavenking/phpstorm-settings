@@ -768,7 +768,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503315379482">
+      <file name="/Dummy.txt" timestamp="1503457093438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -888,12 +888,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503307751746">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503456890375">
         <mark key="'" line="36" column="50" />
         <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="34" column="60" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="63" />
       </file>
     </filemarks>
     <jumps>
