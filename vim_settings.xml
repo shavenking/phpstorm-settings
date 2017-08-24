@@ -266,11 +266,12 @@
         <mark key="^" line="160" column="91" />
         <mark key="." line="160" column="91" />
       </file>
-      <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503551940674">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="46" />
-        <mark key="^" line="25" column="46" />
-        <mark key="." line="25" column="46" />
+      <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503554196013">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="91" column="48" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-airline-report-controller.js" timestamp="1501685398249">
         <mark key="[" line="58" column="0" />
@@ -924,7 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="29" column="41" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="36" column="18" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="37" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1024,13 +1024,14 @@
       <jump line="13" column="41" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" />
       <jump line="16" column="13" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
+      <jump line="83" column="0" filename="$USER_HOME$/go/src/gowiki/wiki.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1039,31 +1040,31 @@
         <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgaWYgKHNjb3BlLmV2ZW50RGF0YS50eXBlICE9ICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCIgbmctbW9kZWw9ImV2ZW50RGF0YS50eXBlIj4tLT4KICAgICAgICAgICAgICA8IS0tPG9wdGlvbiB2YWx1ZT0iMSI+QnJpZGFsIFNob3dlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSIyIj5SZWhlYXJzYWwgRGlubmVyPC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjMiPkNlcmVtb255PC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjQiPlJlY2VwdGlvbjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSI1Ij5PdGhlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICA8IS0tPC9zZWxlY3Q+LS0+Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CXRpdGxlIDo9IHIuVVJMLlBhdGhbbGVuKCIvdmlldy8iKTpdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAmOjpiZWZvcmUgewogICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgI2I4MTc2OTsKICAgICAgICAgIGNvbnRlbnQ6ICIiOwogICAgICAgIH0K</text>
+        <text encoding="base64">dmFyIHZhbGlkUGF0aCA9IHJlZ2V4cC5NdXN0Q29tcGlsZSgiXi8oZWRpdHxzYXZlfHZpZXcpLyhbYS16QS1aMC05XSspJCIpCgpmdW5jIGdldFRpdGxlKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSAoc3RyaW5nLCBlcnJvcikgewoJbSA6PSB2YWxpZFBhdGguRmluZFN0cmluZ1N1Ym1hdGNoKHIuVVJMLlBhdGgpCgkKCWlmIG0gPT0gbmlsIHsKCQlodHRwLk5vdEZvdW5kKHcsIHIpCgkJcmV0dXJuICIiLCBlcnJvcnMuTmV3KCJJbnZhbGlkIFBhZ2UgVGl0bGUiKQoJfQoJCglyZXR1cm4gbVsyXSwgbmlsCn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogUHJveGltYU5vdmE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDE1cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
+        <text encoding="base64">CWVyciA9IHQuRXhlY3V0ZSh3LCBwKQoKCWlmIGVyciAhPSBuaWwgewoJCWh0dHAuRXJyb3IodywgZXJyLkVycm9yKCksIGh0dHAuU3RhdHVzSW50ZXJuYWxTZXJ2ZXJFcnJvcikKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CXQsIGVyciA6PSB0ZW1wbGF0ZS5QYXJzZUZpbGVzKHRtcGwgKyAiLmh0bWwiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5pcwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
