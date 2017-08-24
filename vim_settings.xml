@@ -266,6 +266,12 @@
         <mark key="^" line="160" column="91" />
         <mark key="." line="160" column="91" />
       </file>
+      <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503551940674">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-airline-report-controller.js" timestamp="1501685398249">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -1021,10 +1027,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eventData.type != 5</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>eventData.type != 5</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
