@@ -373,11 +373,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503547460056">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503548555822">
         <mark key="'" line="217" column="2" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+        <mark key="[" line="217" column="21" />
+        <mark key="]" line="217" column="21" />
+        <mark key="." line="217" column="21" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -542,12 +542,12 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1503546205623">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1503549045776">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="56" column="12" />
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="69" column="38" />
+        <mark key="." line="69" column="38" />
+        <mark key="^" line="69" column="38" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/App/Guesser/NotFoundException.php" timestamp="1500084896025">
         <mark key="[" line="8" column="0" />
@@ -898,11 +898,11 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503547526680">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="15" column="108" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503549063462">
+        <mark key="[" line="28" column="91" />
+        <mark key="]" line="28" column="102" />
+        <mark key="." line="28" column="102" />
+        <mark key="^" line="28" column="102" />
       </file>
     </filemarks>
     <jumps>
@@ -1008,11 +1008,11 @@
       <jump line="16" column="13" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCIgbmctbW9kZWw9ImV2ZW50RGF0YS50eXBlIj4tLT4KICAgICAgICAgICAgICA8IS0tPG9wdGlvbiB2YWx1ZT0iMSI+QnJpZGFsIFNob3dlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSIyIj5SZWhlYXJzYWwgRGlubmVyPC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjMiPkNlcmVtb255PC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjQiPlJlY2VwdGlvbjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSI1Ij5PdGhlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICA8IS0tPC9zZWxlY3Q+LS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eventData.type != 5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>eventData.type != 5</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1021,31 +1021,31 @@
         <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCIgbmctbW9kZWw9ImV2ZW50RGF0YS50eXBlIj4tLT4KICAgICAgICAgICAgICA8IS0tPG9wdGlvbiB2YWx1ZT0iMSI+QnJpZGFsIFNob3dlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSIyIj5SZWhlYXJzYWwgRGlubmVyPC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjMiPkNlcmVtb255PC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjQiPlJlY2VwdGlvbjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSI1Ij5PdGhlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICA8IS0tPC9zZWxlY3Q+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgaWYgKHNjb3BlLmV2ZW50RGF0YS50eXBlICE9ICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCIgbmctbW9kZWw9ImV2ZW50RGF0YS50eXBlIj4tLT4KICAgICAgICAgICAgICA8IS0tPG9wdGlvbiB2YWx1ZT0iMSI+QnJpZGFsIFNob3dlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSIyIj5SZWhlYXJzYWwgRGlubmVyPC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjMiPkNlcmVtb255PC9vcHRpb24+LS0+CiAgICAgICAgICAgICAgPCEtLTxvcHRpb24gdmFsdWU9IjQiPlJlY2VwdGlvbjwvb3B0aW9uPi0tPgogICAgICAgICAgICAgIDwhLS08b3B0aW9uIHZhbHVlPSI1Ij5PdGhlcjwvb3B0aW9uPi0tPgogICAgICAgICAgICA8IS0tPC9zZWxlY3Q+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAmOjpiZWZvcmUgewogICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgI2I4MTc2OTsKICAgICAgICAgIGNvbnRlbnQ6ICIiOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogUHJveGltYU5vdmE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAmOjpiZWZvcmUgewogICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgI2I4MTc2OTsKICAgICAgICAgIGNvbnRlbnQ6ICIiOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDE1cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb250LWZhbWlseTogUHJveGltYU5vdmE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDE1cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5pcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC5pcwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
