@@ -266,12 +266,12 @@
         <mark key="^" line="160" column="91" />
         <mark key="." line="160" column="91" />
       </file>
-      <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503554196013">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="91" column="48" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="0" />
+      <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503556217281">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="66" column="8" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-airline-report-controller.js" timestamp="1501685398249">
         <mark key="[" line="58" column="0" />
@@ -925,8 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="41" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="36" column="18" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="37" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="38" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="40" column="19" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1025,13 +1023,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" />
       <jump line="16" column="13" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
       <jump line="83" column="0" filename="$USER_HOME$/go/src/gowiki/wiki.go" />
+      <jump line="76" column="4" filename="$USER_HOME$/go/src/gowiki/wiki.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/go/src/gowiki/wiki.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJlcnJvcnMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>saveHandler</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1040,31 +1040,31 @@
         <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJlcnJvcnMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRpdGxlIDo9IHIuVVJMLlBhdGhbbGVuKCIvdmlldy8iKTpdCg==</text>
+        <text encoding="base64">CXRpdGxlLCBlcnIgOj0gZ2V0VGl0bGUodywgcikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybgoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXRpdGxlLCBlcnIgOj0gZ2V0VGl0bGUodywgcikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybgoJfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIHZhbGlkUGF0aCA9IHJlZ2V4cC5NdXN0Q29tcGlsZSgiXi8oZWRpdHxzYXZlfHZpZXcpLyhbYS16QS1aMC05XSspJCIpCgpmdW5jIGdldFRpdGxlKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSAoc3RyaW5nLCBlcnJvcikgewoJbSA6PSB2YWxpZFBhdGguRmluZFN0cmluZ1N1Ym1hdGNoKHIuVVJMLlBhdGgpCgkKCWlmIG0gPT0gbmlsIHsKCQlodHRwLk5vdEZvdW5kKHcsIHIpCgkJcmV0dXJuICIiLCBlcnJvcnMuTmV3KCJJbnZhbGlkIFBhZ2UgVGl0bGUiKQoJfQoJCglyZXR1cm4gbVsyXSwgbmlsCn0KCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyIHZhbGlkUGF0aCA9IHJlZ2V4cC5NdXN0Q29tcGlsZSgiXi8oZWRpdHxzYXZlfHZpZXcpLyhbYS16QS1aMC05XSspJCIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWVyciA9IHQuRXhlY3V0ZSh3LCBwKQoKCWlmIGVyciAhPSBuaWwgewoJCWh0dHAuRXJyb3IodywgZXJyLkVycm9yKCksIGh0dHAuU3RhdHVzSW50ZXJuYWxTZXJ2ZXJFcnJvcikKCX0K</text>
+        <text encoding="base64">ZnVuYyBnZXRUaXRsZSh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgKHN0cmluZywgZXJyb3IpIHsKCW0gOj0gdmFsaWRQYXRoLkZpbmRTdHJpbmdTdWJtYXRjaChyLlVSTC5QYXRoKQoKCWlmIG0gPT0gbmlsIHsKCQlodHRwLk5vdEZvdW5kKHcsIHIpCgkJcmV0dXJuICIiLCBlcnJvcnMuTmV3KCJJbnZhbGlkIFBhZ2UgVGl0bGUiKQoJfQoKCXJldHVybiBtWzJdLCBuaWwKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXQsIGVyciA6PSB0ZW1wbGF0ZS5QYXJzZUZpbGVzKHRtcGwgKyAiLmh0bWwiKQo=</text>
+        <text encoding="base64">CXRpdGxlLCBlcnIgOj0gZ2V0VGl0bGUodywgcikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybgoJfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
