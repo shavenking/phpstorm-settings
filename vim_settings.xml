@@ -510,11 +510,11 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503637429258">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503640654233">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501827452858">
         <mark key="[" line="1" column="0" />
@@ -1033,10 +1033,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Document</text>
+        <text>Server started!</text>
       </register>
       <register name="-" type="4">
-        <text>Document</text>
+        <text>Server started!</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1045,33 +1045,33 @@
         <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIlMiKQoJCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTZXJ2ZXIgc3RhcnRlZCEiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIlMiKQoJCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CWZtdC5QcmludGYoIkhpLCB0aGlzIGlzIHNoYXZlbmtpbmcuXG4iKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>func (w http.ResponseWriter, r *http.Request) {
 
 	}</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
