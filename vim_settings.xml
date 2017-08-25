@@ -54,6 +54,12 @@
         <mark key="." line="2002" column="5" />
         <mark key="^" line="2002" column="21" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" timestamp="1503637478237">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" timestamp="1498976232971">
         <mark key="'" line="22" column="20" />
         <mark key="[" line="49" column="8" />
@@ -500,6 +506,12 @@
         <mark key="]" line="31" column="26" />
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503637429258">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501827452858">
         <mark key="[" line="1" column="0" />
@@ -1029,11 +1041,11 @@
       <jump line="149" column="46" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>Document</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Document</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1041,32 +1053,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIlMiKQoJCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIkhpLCB0aGlzIGlzIHNoYXZlbmtpbmcuXG4iKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNvbnRyb2wiPgo=</text>
+      <register name="5" type="4">
+        <text>func (w http.ResponseWriter, r *http.Request) {
+
+	}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4K</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtcmlnaHQgY29sLXNtLTEyIj4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IiBuZy1jbGljaz0ib25TYXZlQ2xpY2soJGV2ZW50KSI+U2F2ZTwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgbmctY2xpY2s9ImhpZGVNb2RhbCgkZXZlbnQpIj5DYW5jZWw8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
