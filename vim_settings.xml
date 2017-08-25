@@ -396,12 +396,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503572096564">
-        <mark key="'" line="217" column="2" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503661658720">
+        <mark key="'" line="221" column="4" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="45" />
         <mark key="^" line="209" column="16" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -698,10 +698,10 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" timestamp="1502800148989">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" timestamp="1503661628101">
         <mark key="'" line="82" column="16" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="6" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="41" />
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
       </file>
@@ -805,7 +805,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503573715278">
+      <file name="/Dummy.txt" timestamp="1503661614795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -930,7 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="58" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="61" column="13" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="62" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="63" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1030,10 +1029,11 @@
       <jump line="108" column="22" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="109" column="16" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="149" column="46" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
+      <jump line="221" column="4" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Server started!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6ICdwcm94aW1hLW5vdmEnLCBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Server started!</text>
@@ -1042,39 +1042,37 @@
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6ICdwcm94aW1hLW5vdmEnLCBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTZXJ2ZXIgc3RhcnRlZCEiKQo=</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIlMiKQoJCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIkhpLCB0aGlzIGlzIHNoYXZlbmtpbmcuXG4iKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>func (w http.ResponseWriter, r *http.Request) {
-
-	}</text>
-      </register>
-      <register name="8" type="8">
+      <register name="3" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IFByb3hpbWFOb3ZhOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBQcm94aW1hTm92YTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTZXJ2ZXIgc3RhcnRlZCEiKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>232y</text>
       </register>
     </registers>
     <search>
@@ -1110,7 +1108,6 @@
         <entry>date</entry>
       </history-search>
       <history-cmd>
-        <entry>24,26y</entry>
         <entry>help gn</entry>
         <entry>71,73y</entry>
         <entry>93,101y</entry>
@@ -1130,6 +1127,7 @@
         <entry>29y</entry>
         <entry>Noh</entry>
         <entry>noh</entry>
+        <entry>232y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
