@@ -173,9 +173,6 @@
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/profile-edit.scss" timestamp="1503195059134">
-        <mark key="'" line="21" column="1" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/raw-css/custom.css" timestamp="1503021650661">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -212,6 +209,12 @@
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1503639704459">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="49" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="49" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -602,9 +605,6 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1503197537009">
-        <mark key="'" line="208" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
         <mark key="]" line="1" column="47" />
@@ -617,9 +617,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/extend.js" timestamp="1502111209112">
-        <mark key="'" line="99" column="17" />
       </file>
       <file name="$USER_HOME$/Code/idx/customer.ecosystem.config.js" timestamp="1501828287585">
         <mark key="[" line="2" column="12" />
@@ -707,9 +704,6 @@
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1502598062691">
-        <mark key="'" line="1080" column="10" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionType.php" timestamp="1498487006356">
         <mark key="[" line="9" column="28" />
@@ -891,9 +885,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1503200525132">
-        <mark key="'" line="30" column="2" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1501675432936">
         <mark key="[" line="40" column="0" />
