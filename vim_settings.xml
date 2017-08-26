@@ -318,12 +318,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1503574125287">
-        <mark key="'" line="149" column="46" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="12" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1503713881693">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
         <mark key="^" line="67" column="12" />
-        <mark key="." line="199" column="12" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1503200455722">
         <mark key="'" line="29" column="104" />
@@ -396,11 +396,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503711275890">
-        <mark key="[" line="334" column="2" />
-        <mark key="]" line="334" column="3" />
-        <mark key="^" line="334" column="3" />
-        <mark key="." line="334" column="3" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503714506346">
+        <mark key="[" line="270" column="18" />
+        <mark key="]" line="271" column="18" />
+        <mark key="." line="271" column="18" />
+        <mark key="^" line="271" column="18" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -805,7 +805,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503667372780">
+      <file name="/Dummy.txt" timestamp="1503713707555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -922,16 +922,15 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503667265659">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="4" column="71" />
-        <mark key="^" line="4" column="71" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503713116520">
+        <mark key="'" line="44" column="69" />
+        <mark key="[" line="40" column="136" />
+        <mark key="]" line="40" column="136" />
+        <mark key="." line="40" column="136" />
+        <mark key="^" line="44" column="104" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="13" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="62" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="63" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="65" column="19" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="68" column="16" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1030,55 +1029,57 @@
       <jump line="109" column="16" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="149" column="46" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="221" column="4" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="44" column="69" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
+      <jump line="243" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJ1dHRvbiB7CiAgICAgIGhlaWdodDogCiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IG5nLW1vZGVsPSJldmVudERhdGEuc3RhcnREYXRldGltZSI=</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>ng</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYm9yZGVyLWNvbG9yOiAjNGE0YTRhOwogICAgICBib3JkZXItbGVmdC1jb2xvcjogI2NjY2NjYzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
+        <text encoding="base64">ICAgIGJ1dHRvbiB7CiAgICAgIGhlaWdodDogCiAgICB9Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC5idG4gewogICAgICAKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICM0YTRhNGE7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDE4cHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLmlucHV0LWdyb3VwLWFkZG9uIHsKICAgIGJvcmRlci1jb2xvcjogIzRhNGE0YTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAmOmZpcnN0LWNoaWxkIHsKICAgICAgYm9yZGVyLXJpZ2h0LWNvbG9yOiAjY2NjY2NjOwogICAgfQoKICAgICY6bnRoLWNoaWxkKDIpIHsKICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>232y</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>ng</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>ng</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>date</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry>arrow</entry>
         <entry>all</entry>
         <entry>guest in</entry>
@@ -1106,6 +1106,7 @@
         <entry>class</entry>
         <entry>budgetData</entry>
         <entry>date</entry>
+        <entry>ng</entry>
       </history-search>
       <history-cmd>
         <entry>help gn</entry>
@@ -1126,8 +1127,8 @@
         <entry>set rnu</entry>
         <entry>29y</entry>
         <entry>Noh</entry>
-        <entry>noh</entry>
         <entry>232y</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
