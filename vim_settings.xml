@@ -54,11 +54,12 @@
         <mark key="." line="2002" column="5" />
         <mark key="^" line="2002" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" timestamp="1503637478237">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" timestamp="1503747967203">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" timestamp="1498976232971">
         <mark key="'" line="22" column="20" />
@@ -191,6 +192,12 @@
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
         <mark key="^" line="37" column="18" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/test.md" timestamp="1503747392754">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Code/ShortestPath/Map.php" timestamp="1501913319827">
         <mark key="'" line="56" column="47" />
@@ -507,11 +514,10 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503640654233">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503747938798">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501827452858">
         <mark key="[" line="1" column="0" />
@@ -942,8 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="77" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="80" column="21" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="83" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="86" column="32" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1042,13 +1046,15 @@
       <jump line="213" column="11" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="206" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
       <jump line="321" column="16" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="10" column="24" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICA8c3Bhbj4mdGltZXM7PC9zcGFuPgogICAgICAgIDwvYnV0dG9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+c2hhdmVua2luZzwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+CiAgaGksIHRoaXMgaXMgc2hhdmVua2luZyEKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="-" type="4">
-        <text>14px</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
@@ -1056,32 +1062,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjY2NjY2NjOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICA8c3Bhbj4mdGltZXM7PC9zcGFuPgogICAgICAgIDwvYnV0dG9uPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+c2hhdmVua2luZzwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+CiAgaGksIHRoaXMgaXMgc2hhdmVua2luZyEKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxMHB4Owo=</text>
+        <text encoding="base64">CQkKCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkSG91cnM6IHRydWUK</text>
+        <text encoding="base64">CQlodHRwLk5vdEZvdW5kKHJlc3BvbnNlLCByZXF1ZXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
+        <text encoding="base64">CQlpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">CWh0dHAuSGFuZGxlRnVuYygiLyIsIHJlbmRlck1hcmtkb3duKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNjY2NjY2M7Cg==</text>
+        <text encoding="base64">CS8vaHR0cC5IYW5kbGUoIi8iLCBodHRwLkZpbGVTZXJ2ZXIoaHR0cC5EaXIoIi4vc3RhdGljIikpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwo=</text>
+        <text encoding="base64">CWZtdC5GcHJpbnRmKHJlc3BvbnNlLCAiIikK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
