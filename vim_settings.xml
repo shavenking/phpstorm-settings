@@ -118,6 +118,11 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/new-modal-view.scss" timestamp="1503731902492">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/.env.example" timestamp="1498742383869">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="13" />
@@ -395,12 +400,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503729827500">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503731773961">
         <mark key="'" line="206" column="14" />
-        <mark key="[" line="275" column="22" />
-        <mark key="]" line="276" column="23" />
-        <mark key="." line="276" column="23" />
-        <mark key="^" line="276" column="23" />
+        <mark key="[" line="317" column="22" />
+        <mark key="]" line="317" column="23" />
+        <mark key="." line="317" column="23" />
+        <mark key="^" line="323" column="22" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -468,11 +473,10 @@
         <mark key="." line="321" column="13" />
         <mark key="^" line="322" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1503667506020">
-        <mark key="[" line="216" column="17" />
-        <mark key="]" line="216" column="17" />
-        <mark key="." line="216" column="17" />
-        <mark key="^" line="217" column="56" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1503731274546">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_26_141311_create_transaction_types_table.php" timestamp="1498486475574">
         <mark key="[" line="16" column="37" />
@@ -812,7 +816,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503728122557">
+      <file name="/Dummy.txt" timestamp="1503731288918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -929,12 +933,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503728511134">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503731312345">
         <mark key="'" line="44" column="69" />
-        <mark key="[" line="18" column="77" />
-        <mark key="]" line="18" column="77" />
-        <mark key="." line="18" column="77" />
-        <mark key="^" line="15" column="61" />
+        <mark key="[" line="44" column="171" />
+        <mark key="]" line="44" column="185" />
+        <mark key="." line="44" column="185" />
+        <mark key="^" line="44" column="185" />
       </file>
     </filemarks>
     <jumps>
@@ -1040,11 +1044,11 @@
       <jump line="206" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>solid 1px #4a4a4a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
@@ -1053,31 +1057,31 @@
         <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjY2NjY2NjOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVkSG91cnM6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">CiAgICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNjY2NjY2M7Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNjY2NjY2M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwogICAgICAgIC8vYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMDsKICAgICAgICAvL2JvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLXJpZ2h0LXJhZGl1czogMDsKICAgICAgICBib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1czogMDsK</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdC1jb2xvcjogI2NjY2NjYzsKICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwogICAgICAgIC8vYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMDsKICAgICAgICAvL2JvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -1090,7 +1094,7 @@
       <last-replace>56</last-replace>
       <last-substitute>date</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
