@@ -395,6 +395,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503729827500">
+        <mark key="'" line="206" column="14" />
+        <mark key="[" line="275" column="22" />
+        <mark key="]" line="276" column="23" />
+        <mark key="." line="276" column="23" />
+        <mark key="^" line="276" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
         <mark key="[" line="128" column="74" />
@@ -415,10 +422,7 @@
         <mark key="." line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-controller.js" timestamp="1503717262819">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="387" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
         <mark key="[" line="5" column="22" />
@@ -808,7 +812,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503716964213">
+      <file name="/Dummy.txt" timestamp="1503728122557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -925,16 +929,15 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503713116520">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503728511134">
         <mark key="'" line="44" column="69" />
-        <mark key="[" line="40" column="136" />
-        <mark key="]" line="40" column="136" />
-        <mark key="." line="40" column="136" />
-        <mark key="^" line="44" column="104" />
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="18" column="77" />
+        <mark key="." line="18" column="77" />
+        <mark key="^" line="15" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="73" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="75" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="77" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1034,63 +1037,63 @@
       <jump line="122" column="24" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="213" column="11" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
+      <jump line="206" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgb24taGlkZGVuPSJvbkhpZGRlbiI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>solid 1px #4a4a4a</text>
       </register>
       <register name="/" type="4">
-        <text>ng</text>
+        <text>font-size</text>
       </register>
-      <register name="0" type="4">
-        <text>disableAddHouseholdButton</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjY2NjY2NjOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgb24taGlkZGVuPSJvbkhpZGRlbiI=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHlwZW9mIHNjb3BlLm9uSGlkZGVuID09PSAnZnVuY3Rpb24nKSB7CiAgICAgICAgICBzY29wZS5vbkhpZGRlbigpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb25IaWRkZW46ICcmPycK</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNjY2NjY2M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIG9uIGhvdXNlaG9sZCBkZXRhaWwgbW9kYWwgaGlkZGVuCiAgICAkc2NvcGUub25TaG93biA9IGZ1bmN0aW9uICgpIHsKICAgICAgJHNjb3BlLmRpc2FibGVBZGRIb3VzZWhvbGRCdXR0b24gPSBmYWxzZTsKICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGknKQo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXRpbC5sb2FkaW5nSGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoaScpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwogICAgICAgIC8vYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMDsKICAgICAgICAvL2JvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZmluYWxseShmdW5jdGlvbiAoKSB7CiAgICAgICAgICB1dGlsLmxvYWRpbmdIaWRlKCk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLXJpZ2h0LXJhZGl1czogMDsKICAgICAgICBib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1czogMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrIGJlZm9yZSBzaG93aW5nIGxvYWRpbmcgc28gCg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdC1jb2xvcjogI2NjY2NjYzsKICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>ng</last-search>
+      <last-search>font-size</last-search>
       <last-offset />
-      <last-pattern>ng</last-pattern>
+      <last-pattern>font-size</last-pattern>
       <last-replace>56</last-replace>
       <last-substitute>date</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>arrow</entry>
         <entry>all</entry>
         <entry>guest in</entry>
         <entry>th.*guest in</entry>
@@ -1110,6 +1113,7 @@
         <entry>budgetData</entry>
         <entry>date</entry>
         <entry>ng</entry>
+        <entry>font-size</entry>
       </history-search>
       <history-cmd>
         <entry>help gn</entry>
