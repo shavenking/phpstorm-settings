@@ -400,12 +400,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503731773961">
-        <mark key="'" line="206" column="14" />
-        <mark key="[" line="317" column="22" />
-        <mark key="]" line="317" column="23" />
-        <mark key="." line="317" column="23" />
-        <mark key="^" line="323" column="22" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503733464185">
+        <mark key="'" line="322" column="16" />
+        <mark key="[" line="277" column="19" />
+        <mark key="]" line="277" column="22" />
+        <mark key="." line="277" column="22" />
+        <mark key="^" line="277" column="22" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -816,7 +816,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503731288918">
+      <file name="/Dummy.txt" timestamp="1503732678908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -933,16 +933,15 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503731312345">
-        <mark key="'" line="44" column="69" />
-        <mark key="[" line="44" column="171" />
-        <mark key="]" line="44" column="185" />
-        <mark key="." line="44" column="185" />
-        <mark key="^" line="44" column="185" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1503733671664">
+        <mark key="'" line="41" column="69" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="41" column="185" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="75" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="77" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="80" column="21" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1042,13 +1041,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="213" column="11" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="206" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="321" column="16" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICA8c3Bhbj4mdGltZXM7PC9zcGFuPgogICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>14px</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
@@ -1057,31 +1057,31 @@
         <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjY2NjY2NjOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkSG91cnM6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICA8c3Bhbj4mdGltZXM7PC9zcGFuPgogICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxMHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVkSG91cnM6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNjY2NjY2M7Cg==</text>
+        <text encoding="base64">CiAgICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwo=</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAwOwogICAgICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNjY2NjY2M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwogICAgICAgIC8vYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMDsKICAgICAgICAvL2JvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2JvcmRlci1sZWZ0LWNvbG9yOiAjY2NjY2NjOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
