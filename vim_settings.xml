@@ -396,11 +396,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503668257488">
-        <mark key="[" line="349" column="0" />
-        <mark key="]" line="349" column="33" />
-        <mark key="^" line="344" column="32" />
-        <mark key="." line="349" column="0" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503711275890">
+        <mark key="[" line="334" column="2" />
+        <mark key="]" line="334" column="3" />
+        <mark key="^" line="334" column="3" />
+        <mark key="." line="334" column="3" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -1032,11 +1032,11 @@
       <jump line="221" column="4" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWxlZnQtY29sb3I6ICNjY2NjY2M7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>4a4a4a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
