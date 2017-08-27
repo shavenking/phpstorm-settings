@@ -355,12 +355,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1503812025160">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="74" column="21" />
-        <mark key="]" line="48" column="6" />
-        <mark key="^" line="48" column="6" />
-        <mark key="." line="48" column="6" />
+      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1503813229827">
+        <mark key="'" line="73" column="21" />
+        <mark key="[" line="62" column="495" />
+        <mark key="]" line="64" column="63" />
+        <mark key="^" line="64" column="63" />
+        <mark key="." line="64" column="63" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
         <mark key="[" line="4" column="31" />
@@ -934,7 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="32" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="93" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="94" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="95" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1034,6 +1033,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" />
       <jump line="225" column="27" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="25" column="76" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
+      <jump line="72" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
