@@ -355,12 +355,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1503816941734">
-        <mark key="'" line="78" column="21" />
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="77" column="49" />
-        <mark key="." line="77" column="49" />
-        <mark key="^" line="77" column="49" />
+      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1503818459890">
+        <mark key="'" line="79" column="21" />
+        <mark key="[" line="71" column="7" />
+        <mark key="]" line="71" column="159" />
+        <mark key="." line="73" column="34" />
+        <mark key="^" line="73" column="34" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
         <mark key="[" line="4" column="31" />
@@ -1037,7 +1037,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEJSQU5DSF9QT1JU</text>
+        <text>if [[ -z $BRANCH_PORT ]]; then BRANCH_PORT=$(((RANDOM % 1000) + 3000)); while lsof -i :$BRANCH_PORT; do BRANCH_PORT=$(((RANDOM % 1000) + 3000)); done; fi</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEJSQU5DSF9QT1JU</text>
@@ -1046,34 +1046,34 @@
         <text>font-size</text>
       </register>
       <register name="0" type="4">
-        <text>if [[ -z $branch_port ]]; then branch_port=$(((RANDOM % 1000) + 3000)); while lsof -i :$branch_port; do branch_port=$(((RANDOM % 1000) + 3000)); done; fi</text>
+        <text>if [[ -z $BRANCH_PORT ]]; then BRANCH_PORT=$(((RANDOM % 1000) + 3000)); while lsof -i :$BRANCH_PORT; do BRANCH_PORT=$(((RANDOM % 1000) + 3000)); done; fi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gIGVjaG8gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgIGdpdmUgaW5zdGFuY2UgYSByYW5kb20gcG9ydCBpZiBub3QgZXhpc3RzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQVBQX05BTUUsIEJSQU5DSF9QT1JUKTsKZXhpdDsK</text>
+        <text encoding="base64">ICAgICMgIGdpdmUgaW5zdGFuY2UgYSByYW5kb20gcG9ydCBpZiBub3QgZXhpc3RzCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coQVBQX05BTUUsIEJSQU5DSF9QT1JUKTsKZXhpdDsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Y29uc3QgCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+c2hhdmVua2luZzwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+CiAgaGksIHRoaXMgaXMgc2hhdmVua2luZyEKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkKCQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlodHRwLk5vdEZvdW5kKHJlc3BvbnNlLCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
