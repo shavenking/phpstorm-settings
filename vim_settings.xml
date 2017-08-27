@@ -355,12 +355,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1503820244933">
-        <mark key="'" line="79" column="21" />
-        <mark key="[" line="76" column="49" />
-        <mark key="]" line="76" column="56" />
-        <mark key="." line="76" column="56" />
-        <mark key="^" line="76" column="56" />
+      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1503828869546">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="6" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
         <mark key="[" line="4" column="31" />
@@ -934,9 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="103" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="105" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="107" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="109" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="111" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1034,46 +1030,49 @@
       <jump line="2" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
+      <jump line="57" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
+      <jump line="58" column="14" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
+      <jump line="91" column="20" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gIGlmICQocG0yIHN0YXR1cyB8IGdyZXAgLXFvICRBUFBfTkFNRSk7IHRoZW4gcG0yIGRlbGV0ZSAkQVBQX05BTUU7IGZpCg==</text>
+        <text encoding="base64">ICAgIC0gIEFQUF9OQU1FPSIkQ0lfQlVJTERfUkVGX1NMVUciXyIkQlJBTkNIX1BPUlQiCiAgICAtICBlY2hvICJBUFBfTkFNRSBpcyAkQVBQX05BTUUiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG13IA==</text>
+        <text encoding="base64">IG1hbnVhbA==</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
       </register>
-      <register name="0" type="4">
-        <text>if [[ -z $BRANCH_PORT ]]; then BRANCH_PORT=$(((RANDOM % 1000) + 3000)); while lsof -i :$BRANCH_PORT; do BRANCH_PORT=$(((RANDOM % 1000) + 3000)); done; fi</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC0gIEFQUF9OQU1FPSIkQ0lfQlVJTERfUkVGX1NMVUciXyIkQlJBTkNIX1BPUlQiCiAgICAtICBlY2hvICJBUFBfTkFNRSBpcyAkQVBQX05BTUUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gIGlmICQocG0yIHN0YXR1cyB8IGdyZXAgLXFvICRBUFBfTkFNRSk7IHRoZW4gcG0yIGRlbGV0ZSAkQVBQX05BTUU7IGZpCg==</text>
+        <text encoding="base64">ICAgIC0gIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gIGVjaG8gCg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAiUmVtb3ZlIHJldmlldyBhcHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgIGdpdmUgaW5zdGFuY2UgYSByYW5kb20gcG9ydCBpZiBub3QgZXhpc3RzCg==</text>
+        <text encoding="base64">ICAgICMgYW5keS1maXgtc29tZXRoaW5nID09PiBhbmR5X2ZpeF9zb21ldGhpbmcKICAgICMgYW5keSA9PiAxCiAgICAjIGEgPT4gOTcsIHogPT4gMTIyLCBfID0+IDk1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQVBQX05BTUUsIEJSQU5DSF9QT1JUKTsKZXhpdDsK</text>
+        <text encoding="base64">ICAgIC0gIGlmICQocG0yIHN0YXR1cyB8IGdyZXAgLXFvICRBUFBfTkFNRSk7IHRoZW4gcG0yIGRlbGV0ZSAkQVBQX05BTUU7IGZpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIC0gIGVjaG8gCg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+c2hhdmVua2luZzwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+CiAgaGksIHRoaXMgaXMgc2hhdmVua2luZyEKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgIGdpdmUgaW5zdGFuY2UgYSByYW5kb20gcG9ydCBpZiBub3QgZXhpc3RzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkKCQkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coQVBQX05BTUUsIEJSQU5DSF9QT1JUKTsKZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
