@@ -206,6 +206,12 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1503888376611">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" timestamp="1500379866545">
         <mark key="[" line="12" column="59" />
         <mark key="]" line="12" column="59" />
@@ -499,10 +505,11 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503747938798">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503888417802">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501827452858">
         <mark key="[" line="1" column="0" />
@@ -781,6 +788,11 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.gitignore" timestamp="1503888656536">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGusser.php" timestamp="1498566361835">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="22" />
@@ -933,8 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="109" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="111" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="113" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="116" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1033,10 +1043,12 @@
       <jump line="57" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="58" column="14" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="91" column="20" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="25" column="11" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gIEFQUF9OQU1FPSIkQ0lfQlVJTERfUkVGX1NMVUciXyIkQlJBTkNIX1BPUlQiCiAgICAtICBlY2hvICJBUFBfTkFNRSBpcyAkQVBQX05BTUUiCg==</text>
+        <text encoding="base64">Z28uc2hhdmVua2luZy5tZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG1hbnVhbA==</text>
@@ -1048,31 +1060,31 @@
         <text encoding="base64">ICAgIC0gIEFQUF9OQU1FPSIkQ0lfQlVJTERfUkVGX1NMVUciXyIkQlJBTkNIX1BPUlQiCiAgICAtICBlY2hvICJBUFBfTkFNRSBpcyAkQVBQX05BTUUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gIAo=</text>
+        <text encoding="base64">Z28uc2hhdmVua2luZy5tZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAiUmVtb3ZlIHJldmlldyBhcHAiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuZ28iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYW5keS1maXgtc29tZXRoaW5nID09PiBhbmR5X2ZpeF9zb21ldGhpbmcKICAgICMgYW5keSA9PiAxCiAgICAjIGEgPT4gOTcsIHogPT4gMTIyLCBfID0+IDk1Cg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAiUmVtb3ZlIHJldmlldyBhcHAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gIGlmICQocG0yIHN0YXR1cyB8IGdyZXAgLXFvICRBUFBfTkFNRSk7IHRoZW4gcG0yIGRlbGV0ZSAkQVBQX05BTUU7IGZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gIGVjaG8gCg==</text>
+        <text encoding="base64">ICAgICMgYW5keS1maXgtc29tZXRoaW5nID09PiBhbmR5X2ZpeF9zb21ldGhpbmcKICAgICMgYW5keSA9PiAxCiAgICAjIGEgPT4gOTcsIHogPT4gMTIyLCBfID0+IDk1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gIGlmICQocG0yIHN0YXR1cyB8IGdyZXAgLXFvICRBUFBfTkFNRSk7IHRoZW4gcG0yIGRlbGV0ZSAkQVBQX05BTUU7IGZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgIGdpdmUgaW5zdGFuY2UgYSByYW5kb20gcG9ydCBpZiBub3QgZXhpc3RzCg==</text>
+        <text encoding="base64">ICAgIC0gIGVjaG8gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQVBQX05BTUUsIEJSQU5DSF9QT1JUKTsKZXhpdDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
