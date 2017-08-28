@@ -206,11 +206,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1503893546430">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="23" column="14" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1503893587829">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" timestamp="1500379866545">
         <mark key="[" line="12" column="59" />
@@ -1048,11 +1048,11 @@
       <jump line="28" column="5" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Full</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWpzb24uVW5tYXJzaGFsKHJlc3AsICZyZXBvKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Full</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
@@ -1061,31 +1061,31 @@
         <text>b</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWpzb24uVW5tYXJzaGFsKHJlc3AsICZyZXBvKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiUrdiIsIHJlcG8pCg==</text>
+        <text encoding="base64">CWIgOj0gW11ieXRlKGAKCQl7CgkJCSJGdWxsbmFtZSI6ICJzaGF2ZW5raW5nL2FsYnVtIgoJCX0KCWApCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW90aGVycyBtYXBbc3RyaW5nXWludGVyZmFjZXt9IGBqc29uOiItImAK</text>
+        <text encoding="base64">CUYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJuZXQvaHR0cCIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiUrdiIsIHJlcG8pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBqc29uID0gYFt7ImZ1bGxfbmFtZSI6ICJzaGF2ZW5raW5nL2FsYnVtIl1gCg==</text>
+        <text encoding="base64">CW90aGVycyBtYXBbc3RyaW5nXWludGVyZmFjZXt9IGBqc29uOiItImAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWpzb24uVW5tYXJzaGFsCg==</text>
+        <text encoding="base64">CSJuZXQvaHR0cCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZ1bGxfbmFtZSBzdHJpbmcgYGpzb246ImZ1bGxfbmFtZSJgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAK</text>
+        <text encoding="base64">CXZhciBqc29uID0gYFt7ImZ1bGxfbmFtZSI6ICJzaGF2ZW5raW5nL2FsYnVtIl1gCg==</text>
       </register>
       <register name=":" type="4">
         <text>5d</text>
