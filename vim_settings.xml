@@ -206,11 +206,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1503888376611">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1503893546430">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="23" column="14" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/NotFoundException.php" timestamp="1500379866545">
         <mark key="[" line="12" column="59" />
@@ -505,11 +505,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503888417802">
-        <mark key="'" line="25" column="11" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503891121748">
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/db/config.js" timestamp="1501827452858">
         <mark key="[" line="1" column="0" />
@@ -945,7 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="113" column="25" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="116" column="23" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="118" column="27" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1045,49 +1045,50 @@
       <jump line="91" column="20" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="25" column="11" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="28" column="5" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z28uc2hhdmVua2luZy5tZQo=</text>
+      <register name="&quot;" type="4">
+        <text>Full</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1hbnVhbA==</text>
+        <text>Full</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gIEFQUF9OQU1FPSIkQ0lfQlVJTERfUkVGX1NMVUciXyIkQlJBTkNIX1BPUlQiCiAgICAtICBlY2hvICJBUFBfTkFNRSBpcyAkQVBQX05BTUUiCg==</text>
+      <register name="0" type="4">
+        <text>b</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z28uc2hhdmVua2luZy5tZQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnaXRodWIuZ28iCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiUrdiIsIHJlcG8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gIAo=</text>
+        <text encoding="base64">CW90aGVycyBtYXBbc3RyaW5nXWludGVyZmFjZXt9IGBqc29uOiItImAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAiUmVtb3ZlIHJldmlldyBhcHAiCg==</text>
+        <text encoding="base64">CSJuZXQvaHR0cCIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYW5keS1maXgtc29tZXRoaW5nID09PiBhbmR5X2ZpeF9zb21ldGhpbmcKICAgICMgYW5keSA9PiAxCiAgICAjIGEgPT4gOTcsIHogPT4gMTIyLCBfID0+IDk1Cg==</text>
+        <text encoding="base64">CXZhciBqc29uID0gYFt7ImZ1bGxfbmFtZSI6ICJzaGF2ZW5raW5nL2FsYnVtIl1gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gIGlmICQocG0yIHN0YXR1cyB8IGdyZXAgLXFvICRBUFBfTkFNRSk7IHRoZW4gcG0yIGRlbGV0ZSAkQVBQX05BTUU7IGZpCg==</text>
+        <text encoding="base64">CWpzb24uVW5tYXJzaGFsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gIGVjaG8gCg==</text>
+        <text encoding="base64">CWZ1bGxfbmFtZSBzdHJpbmcgYGpzb246ImZ1bGxfbmFtZSJgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CW5hbWUgc3RyaW5nIGBqc29uOiJuYW1lImAK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>5d</text>
       </register>
     </registers>
     <search>
@@ -1123,8 +1124,6 @@
         <entry>font-size</entry>
       </history-search>
       <history-cmd>
-        <entry>help gn</entry>
-        <entry>71,73y</entry>
         <entry>93,101y</entry>
         <entry>w</entry>
         <entry>128,130y</entry>
@@ -1143,6 +1142,8 @@
         <entry>Noh</entry>
         <entry>232y</entry>
         <entry>noh</entry>
+        <entry>6d</entry>
+        <entry>5d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
