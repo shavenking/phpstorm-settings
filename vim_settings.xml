@@ -405,6 +405,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1503995236014">
+        <mark key="[" line="316" column="19" />
+        <mark key="]" line="316" column="31" />
+        <mark key="." line="316" column="31" />
+        <mark key="^" line="316" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
         <mark key="[" line="128" column="74" />
@@ -1048,11 +1054,11 @@
       <jump line="28" column="5" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWpzb24uVW5tYXJzaGFsKHJlc3AsICZyZXBvKQo=</text>
+      <register name="&quot;" type="4">
+        <text>16px</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>16px</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
