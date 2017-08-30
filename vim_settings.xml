@@ -361,9 +361,9 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504060470677">
+      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504061306098">
         <mark key="'" line="57" column="21" />
-        <mark key="[" line="101" column="0" />
+        <mark key="[" line="97" column="18" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
         <mark key="^" line="97" column="17" />
