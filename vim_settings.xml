@@ -405,10 +405,9 @@
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1504165450304">
-        <mark key="'" line="248" column="0" />
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
@@ -611,11 +610,11 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1504154217478">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="39" />
-        <mark key="." line="62" column="39" />
-        <mark key="^" line="62" column="39" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1504177683349">
+        <mark key="[" line="108" column="14" />
+        <mark key="]" line="108" column="16" />
+        <mark key="." line="108" column="16" />
+        <mark key="^" line="108" column="16" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
@@ -1070,11 +1069,11 @@
       <jump line="248" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>400</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>400</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Jg==</text>
