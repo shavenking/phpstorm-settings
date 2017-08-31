@@ -119,10 +119,10 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/new-modal-view.scss" timestamp="1503731902492">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/new-modal-view.scss" timestamp="1504165120107">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env.example" timestamp="1498742383869">
         <mark key="'" line="0" column="0" />
@@ -404,6 +404,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1504165450304">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="." line="385" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1503200961611">
         <mark key="'" line="153" column="83" />
         <mark key="[" line="128" column="74" />
@@ -485,6 +491,9 @@
       </file>
       <file name="/fragment.js" timestamp="1501308604909">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/dependencies/materialize/bower_components/materialize/dist/css/materialize.css" timestamp="1504165382396">
+        <mark key="'" line="2285" column="4" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
@@ -603,7 +612,6 @@
         <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1504154217478">
-        <mark key="'" line="91" column="34" />
         <mark key="[" line="62" column="37" />
         <mark key="]" line="62" column="39" />
         <mark key="." line="62" column="39" />
@@ -652,10 +660,10 @@
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1503201246641">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1504163205205">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
         <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/template/reminder_tasks.html" timestamp="1503019643905">
@@ -726,6 +734,12 @@
         <mark key="]" line="127" column="65" />
         <mark key="." line="127" column="65" />
         <mark key="^" line="127" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/marterialize-custom.scss" timestamp="1504165435990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" timestamp="1496456015754">
         <mark key="'" line="37" column="12" />
@@ -828,7 +842,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504150980221">
+      <file name="/Dummy.txt" timestamp="1504164578895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -954,10 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="27" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="122" column="27" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="126" column="27" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="136" column="15" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="137" column="17" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="138" column="19" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
       <jump line="139" column="21" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
@@ -1054,63 +1064,66 @@
       <jump line="57" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="76" column="11" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-controller.js" />
       <jump line="89" column="34" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" />
+      <jump line="246" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="2285" column="4" filename="$USER_HOME$/Code/idx/frontend/public/dependencies/materialize/bower_components/materialize/dist/css/materialize.css" />
+      <jump line="0" column="29" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/marterialize-custom.scss" />
+      <jump line="248" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>font-size</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMud2lkdGggPSBpbWcud2lkdGg7Cg==</text>
+        <text encoding="base64">ICAgICY6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIsICY6LW1vei1wbGFjZWhvbGRlciwgJjo6LW1vei1wbGFjZWhvbGRlciwgJjotbXMtaW5wdXQtcGxhY2Vob2xkZXIsICY6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHV0aWwubG9hZGluZ1Nob3coKTsK</text>
+        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHV0aWwubG9hZGluZwo=</text>
+        <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyAudG9CbG9iKGZ1bmN0aW9uIChibG9iKSB7CiAgICAvLyAgIGl0ZW0uX2ZpbGUgPSBibG9iOwogICAgLy8gICB0aGF0W3RyYW5zcG9ydF0oaXRlbSk7CiAgICAvLyB9KTsK</text>
+        <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmxvYi5zaXplKTsK</text>
+        <text encoding="base64">Ojotd2ViCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">LyppbnB1dDo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1mYW1pbHk6ICAkZm9udC0tYXJpYWw7CiAgZm9udC1zaXplOiAxNnB4OwogIGxpbmUtaGVpZ2h0OiAxLjU7Cn0qLwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHV0aWwuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBjYW52YXMud2lkdGggPSBpbWcud2lkdGggKiAoMjAwIC8gaW1nLndpZHRoKTsKICAgICAgICAvLyBjYW52YXMuaGVpZ2h0ID0gaW1nLmhlaWdodCAqICgyMDAgLyBpbWcud2lkdGgpOwoKICAgICAgICAvLyBpZiAoaW1nLndpZHRoID49IDEwMDAgfHwgaW1nLmhlaWdodCA+PSAxMDAwKSB7CiAgICAgICAgLy8gICBjYW52YXMud2lkdGggKj0gMjAwOwogICAgICAgIC8vICAgY2FudmFzLmhlaWdodCAqPSAwLjE7CiAgICAgICAgLy8gfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAmOjotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCAmOi1tb3otcGxhY2Vob2xkZXIsICY6Oi1tb3otcGxhY2Vob2xkZXIsICY6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCAmOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgICAgIGZvbnQtZmFtaWx5OiAncHJveGltYS1ub3ZhJywgc2Fucy1zZXJpZiAhaW1wb3J0YW50OwogICAgICBmb250LXNpemU6IHNjYWxlLWZvbnQoMTgpICFpbXBvcnRhbnQ7CiAgICAgIGxpbmUtaGVpZ2h0OiAxMDAlOwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgY29sb3I6ICM5YjliOWI7CiAgICB9CgogICAgJjotbW96LXBsYWNlaG9sZGVyLCAmOjotbW96LXBsYWNlaG9sZGVyIHsKICAgICAgb3BhY2l0eTogMTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>5d</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>font-size</last-search>
+      <last-search encoding="base64">Jg==</last-search>
       <last-offset />
-      <last-pattern>font-size</last-pattern>
-      <last-replace>56</last-replace>
-      <last-substitute>date</last-substitute>
+      <last-pattern encoding="base64">Jg==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
         <entry>guest in</entry>
         <entry>th.*guest in</entry>
         <entry>td.*guest in</entry>
@@ -1130,9 +1143,9 @@
         <entry>date</entry>
         <entry>ng</entry>
         <entry>font-size</entry>
+        <entry encoding="base64">Jg==</entry>
       </history-search>
       <history-cmd>
-        <entry>93,101y</entry>
         <entry>w</entry>
         <entry>128,130y</entry>
         <entry>63,66y</entry>
@@ -1149,9 +1162,10 @@
         <entry>29y</entry>
         <entry>Noh</entry>
         <entry>232y</entry>
-        <entry>noh</entry>
         <entry>6d</entry>
         <entry>5d</entry>
+        <entry encoding="base64">JzwsJz5zLyYvL2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
