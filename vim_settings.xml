@@ -602,12 +602,12 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1504152478153">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1504154217478">
         <mark key="'" line="91" column="34" />
         <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="62" column="37" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
+        <mark key="^" line="62" column="39" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/models/mUserDetails.js" timestamp="1501827544463">
         <mark key="[" line="1" column="47" />
@@ -1057,10 +1057,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.5</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
@@ -1069,31 +1069,31 @@
         <text encoding="base64">ICAgICAgICBjYW52YXMud2lkdGggPSBpbWcud2lkdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyAudG9CbG9iKGZ1bmN0aW9uIChibG9iKSB7CiAgICAvLyAgIGl0ZW0uX2ZpbGUgPSBibG9iOwogICAgLy8gICB0aGF0W3RyYW5zcG9ydF0oaXRlbSk7CiAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgIHV0aWwubG9hZGluZ1Nob3coKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHV0aWwubG9hZGluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvLyAudG9CbG9iKGZ1bmN0aW9uIChibG9iKSB7CiAgICAvLyAgIGl0ZW0uX2ZpbGUgPSBibG9iOwogICAgLy8gICB0aGF0W3RyYW5zcG9ydF0oaXRlbSk7CiAgICAvLyB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmxvYi5zaXplKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHV0aWwuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmxvYi5zaXplKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBjYW52YXMud2lkdGggPSBpbWcud2lkdGggKiAoMjAwIC8gaW1nLndpZHRoKTsKICAgICAgICAvLyBjYW52YXMuaGVpZ2h0ID0gaW1nLmhlaWdodCAqICgyMDAgLyBpbWcud2lkdGgpOwoKICAgICAgICAvLyBpZiAoaW1nLndpZHRoID49IDEwMDAgfHwgaW1nLmhlaWdodCA+PSAxMDAwKSB7CiAgICAgICAgLy8gICBjYW52YXMud2lkdGggKj0gMjAwOwogICAgICAgIC8vICAgY2FudmFzLmhlaWdodCAqPSAwLjE7CiAgICAgICAgLy8gfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHV0aWwuCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMud2lkdGggPSBpbWcud2lkdGggKiAwLjE7CiAgICAgICAgY2FudmFzLmhlaWdodCA9IGltZy5oZWlnaHQgKiAwLjE7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBjYW52YXMud2lkdGggPSBpbWcud2lkdGggKiAoMjAwIC8gaW1nLndpZHRoKTsKICAgICAgICAvLyBjYW52YXMuaGVpZ2h0ID0gaW1nLmhlaWdodCAqICgyMDAgLyBpbWcud2lkdGgpOwoKICAgICAgICAvLyBpZiAoaW1nLndpZHRoID49IDEwMDAgfHwgaW1nLmhlaWdodCA+PSAxMDAwKSB7CiAgICAgICAgLy8gICBjYW52YXMud2lkdGggKj0gMjAwOwogICAgICAgIC8vICAgY2FudmFzLmhlaWdodCAqPSAwLjE7CiAgICAgICAgLy8gfQ==</text>
       </register>
       <register name=":" type="4">
         <text>5d</text>
