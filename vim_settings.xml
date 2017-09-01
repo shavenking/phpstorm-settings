@@ -869,12 +869,11 @@
         <mark key="." line="81" column="12" />
         <mark key="^" line="81" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504239963689">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
+      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504242946494">
+        <mark key="'" line="11" column="184" />
+        <mark key="[" line="11" column="215" />
+        <mark key="]" line="11" column="215" />
+        <mark key="." line="11" column="215" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -967,9 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="19" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="139" column="21" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/my-wedding-details.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/guest-list-custom-report-controller.js" />
       <jump line="26" column="45" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="15" column="20" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="1080" column="10" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
@@ -1067,65 +1063,142 @@
       <jump line="0" column="29" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/marterialize-custom.scss" />
       <jump line="248" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
       <jump line="78" column="0" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
+      <jump line="59" column="20" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
+      <jump line="11" column="184" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/home/gitlab-runner/.env</text>
+        <text>7.1</text>
       </register>
       <register name="-" type="4">
-        <text>/home/gitlab-runner/.env</text>
+        <text>7.1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>php7.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICY6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIsICY6LW1vei1wbGFjZWhvbGRlciwgJjo6LW1vei1wbGFjZWhvbGRlciwgJjotbXMtaW5wdXQtcGxhY2Vob2xkZXIsICY6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
+      <register name="1" type="4">
+        <text># Official framework image. Look for the different tagged releases at:
+# https://hub.docker.com/r/library/php
+image: php:7.1.8
+
+# Pick zero or more services to be used on all builds.
+# Only needed when using a docker container to run your tests in.
+# Check out: http://docs.gitlab.com/ce/ci/docker/using_docker_images.html#what-is-a-service
+services:
+  - mysql:5.7.19
+
+variables:
+  MYSQL_DATABASE: root
+  MYSQL_ROOT_PASSWORD: secret
+
+# This folder is cached between builds
+# http://docs.gitlab.com/ce/ci/yaml/README.html#cache
+#cache:
+#  paths:
+#  - vendor/
+#  - node_modules/
+
+# This is a basic example for a gem or script which doesn't use
+# services such as redis or postgres
+before_script:
+  # Update packages
+  - apt-get update -yqq
+
+  # Upgrade to Node 7
+  #  - curl -sL https://deb.nodesource.com/setup_7.x | bash -
+
+  # Install dependencies
+  - apt-get install git nodejs libcurl4-gnutls-dev libicu-dev libmcrypt-dev libvpx-dev libjpeg-dev libpng-dev libxpm-dev zlib1g-dev libfreetype6-dev libxml2-dev libexpat1-dev libbz2-dev libgmp3-dev libldap2-dev unixodbc-dev libpq-dev libsqlite3-dev libaspell-dev libsnmp-dev libpcre3-dev libtidy-dev -yqq
+
+  # Install php extensions
+  - docker-php-ext-install mbstring mcrypt pdo_mysql curl json intl gd xml zip bz2 opcache
+
+  # Install Composer and project dependencies.
+  - curl -sS https://getcomposer.org/installer | php
+  - php composer.phar install
+
+  # Install Node dependencies.
+  # comment this out if you don't have a node dependency
+  #  - npm install
+
+  # Copy over testing configuration.
+  # Don't forget to set the database config in .env.testing correctly
+  # DB_HOST=mysql
+  # DB_DATABASE=project_name
+  # DB_USERNAME=root
+  # DB_PASSWORD=secret
+  - cp .env.gitlab-ci .env
+
+  # Run npm build
+  # comment this out if you don't have a frontend build
+  # you can change this to to your frontend building script like
+  # npm run build
+  #  - npm run dev
+
+  # Generate an application key. Re-cache.
+  - php artisan key:generate
+  - php artisan config:cache
+
+  # Run database migrations.
+  - php artisan migrate
+
+  # Run database seed
+  - php artisan db:seed
+
+test:
+ script:
+ # run laravel tests
+ - php vendor/bin/phpunit --coverage-text --colors=never
+
+ # run frontend tests
+ # if you have any task for testing frontend
+ # set it in your package.json script
+ # comment this out if you don't have a frontend test
+#  - npm test</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
+        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ojotd2ViCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyppbnB1dDo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1mYW1pbHk6ICAkZm9udC0tYXJpYWw7CiAgZm9udC1zaXplOiAxNnB4OwogIGxpbmUtaGVpZ2h0OiAxLjU7Cn0qLwoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ojotd2ViCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyppbnB1dDo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1mYW1pbHk6ICAkZm9udC0tYXJpYWw7CiAgZm9udC1zaXplOiAxNnB4OwogIGxpbmUtaGVpZ2h0OiAxLjU7Cn0qLwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAmOjotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCAmOi1tb3otcGxhY2Vob2xkZXIsICY6Oi1tb3otcGxhY2Vob2xkZXIsICY6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCAmOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgICAgIGZvbnQtZmFtaWx5OiAncHJveGltYS1ub3ZhJywgc2Fucy1zZXJpZiAhaW1wb3J0YW50OwogICAgICBmb250LXNpemU6IHNjYWxlLWZvbnQoMTgpICFpbXBvcnRhbnQ7CiAgICAgIGxpbmUtaGVpZ2h0OiAxMDAlOwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgY29sb3I6ICM5YjliOWI7CiAgICB9CgogICAgJjotbW96LXBsYWNlaG9sZGVyLCAmOjotbW96LXBsYWNlaG9sZGVyIHsKICAgICAgb3BhY2l0eTogMTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL3BocDcuMC9waHA3LjEvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Jg==</last-search>
+      <last-search>php7.0</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Jg==</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">Jg==</last-substitute>
+      <last-pattern>php7.0</last-pattern>
+      <last-replace>php7.1</last-replace>
+      <last-substitute>php7.0</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>guest in</entry>
-        <entry>th.*guest in</entry>
-        <entry>td.*guest in</entry>
         <entry>class=&quot;arrow&quot;</entry>
         <entry>row-title</entry>
         <entry>if</entry>
@@ -1143,11 +1216,11 @@
         <entry>ng</entry>
         <entry>font-size</entry>
         <entry encoding="base64">Jg==</entry>
+        <entry>7.0</entry>
+        <entry>php7.1</entry>
+        <entry>php7.0</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>128,130y</entry>
-        <entry>63,66y</entry>
         <entry>175,178y</entry>
         <entry>213,221y</entry>
         <entry>set !rnu</entry>
@@ -1165,6 +1238,9 @@
         <entry>5d</entry>
         <entry encoding="base64">JzwsJz5zLyYvL2c=</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zLzcuMC83LjEvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3BocDcuMS9waHAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3BocDcuMC9waHA3LjEvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
