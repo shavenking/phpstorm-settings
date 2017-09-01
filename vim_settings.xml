@@ -335,6 +335,12 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/routes/api.php" timestamp="1504249280135">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_07_20_115523_create_tags_table.php" timestamp="1500551932455">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="26" />
@@ -653,6 +659,9 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/.env.example" timestamp="1504249213681">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/shopping-list.scss" timestamp="1502539653538">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="1" column="0" />
@@ -869,11 +878,11 @@
         <mark key="." line="81" column="12" />
         <mark key="^" line="81" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504247001385">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="17" />
+      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504248289819">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -966,7 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="45" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="15" column="20" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="1080" column="10" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
       <jump line="277" column="8" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
@@ -1066,13 +1074,14 @@
       <jump line="59" column="20" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
       <jump line="11" column="184" filename="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/live-pika/.env.example" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcGhwIGFydGlzYW4ga2V5OmdlbmVyYXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>/home/gitlab-runner</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>php7.0</text>
@@ -1081,18 +1090,21 @@
         <text encoding="base64">ICAgICY6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIsICY6LW1vei1wbGFjZWhvbGRlciwgJjo6LW1vei1wbGFjZWhvbGRlciwgJjotbXMtaW5wdXQtcGxhY2Vob2xkZXIsICY6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcGhwIGFydGlzYW4ga2V5OmdlbmVyYXRlCg==</text>
+        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2F1dGg6YXBpJyktPmdldCgnL3VzZXInLCBmdW5jdGlvbiAoUmVxdWVzdCAkcmVxdWVzdCkgewogICAgcmV0dXJuICRyZXF1ZXN0LT51c2VyKCk7Cn0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY3AgLWYgLmVudi5leGFtcGxlIC5lbnYK</text>
+        <text encoding="base64">ICAgIC0gcGhwIGFydGlzYW4ga2V5OmdlbmVyYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIHBocDcuMSBwaHA3LjEtYmNtYXRoIHBocDcuMS1iejIgcGhwNy4xLWNsaSBwaHA3LjEtY29tbW9uIHBocDcuMS1jdXJsIHBocDcuMS1mcG0gcGhwNy4xLWludGwgcGhwNy4xLWpzb24gcGhwNy4xLW1ic3RyaW5nIHBocDcuMS1tY3J5cHQgcGhwNy4xLW15c3FsIHBocDcuMS1vcGNhY2hlIHBocDcuMS1yZWFkbGluZSBwaHAtcmVkaXMgcGhwNy4xLXhtbCBwaHA3LjEtemlwIHBocDcuMS1iejIK</text>
+        <text encoding="base64">ICAgIC0gY3AgLWYgLmVudi5leGFtcGxlIC5lbnYK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIHBocDcuMSBwaHA3LjEtYmNtYXRoIHBocDcuMS1iejIgcGhwNy4xLWNsaSBwaHA3LjEtY29tbW9uIHBocDcuMS1jdXJsIHBocDcuMS1mcG0gcGhwNy4xLWludGwgcGhwNy4xLWpzb24gcGhwNy4xLW1ic3RyaW5nIHBocDcuMS1tY3J5cHQgcGhwNy4xLW15c3FsIHBocDcuMS1vcGNhY2hlIHBocDcuMS1yZWFkbGluZSBwaHAtcmVkaXMgcGhwNy4xLXhtbCBwaHA3LjEtemlwIHBocDcuMS1iejIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC0gCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text># Official framework image. Look for the different tagged releases at:
 # https://hub.docker.com/r/library/php
 image: php:7.1.8
@@ -1172,20 +1184,17 @@ test:
  # comment this out if you don't have a frontend test
 #  - npm test</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
+        <text encoding="base64">Cjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwgOi1tb3otcGxhY2Vob2xkZXIsIDo6LW1vei1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciwgOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CiAgZm9udC1zaXplOiAKfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ojotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyLCA6LW1vei1wbGFjZWhvbGRlciwgOjotbW96LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyLCA6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBmb250LXNpemUKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3BocDcuMC9waHA3LjEvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1221,7 +1230,6 @@ test:
         <entry>php7.0</entry>
       </history-search>
       <history-cmd>
-        <entry>175,178y</entry>
         <entry>213,221y</entry>
         <entry>set !rnu</entry>
         <entry>set nu</entry>
@@ -1241,6 +1249,7 @@ test:
         <entry encoding="base64">JzwsJz5zLzcuMC83LjEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3BocDcuMS9waHAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3BocDcuMC9waHA3LjEvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
