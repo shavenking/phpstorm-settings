@@ -366,12 +366,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/routes/web.php" timestamp="1504449663174">
+      <file name="$USER_HOME$/Code/live-pika/routes/web.php" timestamp="1504450469947">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="90" column="66" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="10" />
+        <mark key="." line="100" column="10" />
+        <mark key="^" line="100" column="10" />
       </file>
       <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504412138686">
         <mark key="'" line="3" column="0" />
@@ -1054,7 +1054,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdW5hYmxlIHRvIHN1YnNjcmliZSBhcHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFwcHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHJlc3BvbnNlLT5nZXREZWNvZGVkQm9keSgpWydkYXRhJ11bJ3N1Y2Nlc3MnXQ==</text>
@@ -1066,31 +1066,31 @@
         <text encoding="base64">ICBmb250LWZhbWlseTogJ3Byb3hpbWEtbm92YScsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiBzY2FsZS1mb250KDE4KSAhaW1wb3J0YW50OwogIGxpbmUtaGVpZ2h0OiAxMDAlOwogIGZvbnQtd2VpZ2h0OiBib2xkOwogIGNvbG9yOiAjOWI5YjliOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdW5hYmxlIHRvIHN1YnNjcmliZSBhcHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFwcHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKCRwYWdlcyk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdW5hYmxlIHRvIHN1YnNjcmliZSBhcHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdoaSc7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCRwYWdlcyk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzcG9uc2UgPSAkZmItPnBvc3QoIi97JHBhZ2VbJ2lkJ119L3N1YnNjcmliZWRfYXBwcyIsIFtdLCAkcGFnZVsnYWNjZXNzX3Rva2VuJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdoaSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdoaScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gJGZiLT5nZXQoIi97JHBhZ2VbJ2lkJ119L3N1YnNjcmliZWRfYXBwcyIsICRwYWdlWydhY2Nlc3NfdG9rZW4nXSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzcG9uc2UgPSAkZmItPnBvc3QoIi97JHBhZ2VbJ2lkJ119L3N1YnNjcmliZWRfYXBwcyIsIFtdLCAkcGFnZVsnYWNjZXNzX3Rva2VuJ10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdoaScK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
