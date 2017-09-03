@@ -373,11 +373,12 @@
         <mark key="." line="88" column="49" />
         <mark key="^" line="86" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504409596158">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="65" column="32" />
+      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504412138686">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="31" />
+        <mark key="." line="66" column="31" />
+        <mark key="^" line="66" column="31" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
         <mark key="[" line="4" column="31" />
@@ -950,8 +951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" />
-      <jump line="54" column="49" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="53" column="86" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="463" column="33" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
       <jump line="20" column="24" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
@@ -1050,55 +1049,57 @@
       <jump line="24" column="10" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="89" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="97" column="72" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
+      <jump line="65" column="53" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBOT0RFX0VOVjogcHJvZHVjdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnBtIHBydW5lICYmIG5wbSBzZXQgcHJvZ3Jlc3M9ZmFsc2UgJiYgbnBtIGluc3RhbGwgLS1jYWNoZS1taW4taW5maW5pdHk=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">bnBtIHBydW5lICYmIG5wbSBzZXQgcHJvZ3Jlc3M9ZmFsc2UgJiYgbnBtIGluc3RhbGwgLS1jYWNoZS1taW4taW5maW5pdHk=</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb250LWZhbWlseTogJ3Byb3hpbWEtbm92YScsIHNhbnMtc2VyaWY7CiAgZm9udC1zaXplOiBzY2FsZS1mb250KDE4KSAhaW1wb3J0YW50OwogIGxpbmUtaGVpZ2h0OiAxMDAlOwogIGZvbnQtd2VpZ2h0OiBib2xkOwogIGNvbG9yOiAjOWI5YjliOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBOT0RFX0VOVjogcHJvZHVjdGlvbgo=</text>
+        <text encoding="base64">ICAgIC0gIG5wbSBzZXQgcHJvZ3Jlc3M9ZmFsc2UgJiYgbnBtIGluc3RhbGwgLS1jYWNoZS1taW4taW5maW5pdHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcmV2ZW50IAo=</text>
+        <text encoding="base64">ICAgIC0gIHRhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGknKTsK</text>
+        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBOT0RFX0VOVjogcHJvZHVjdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCk7IC8vIHRoaXMgcHJldmVudCBjbGljayBldmVudCBiZWluZyBmaXJlZCBpbiBlbGVtZW50LmJpbmQoJ2NsaWNrJy4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcmV2ZW50IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXNjb3BlLmVkaXRIb3VzZUhvbGRUaXRsZSkgewogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGknKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9CiAgICAgICAgLy8gY29uc29sZS5sb2coZS50YXJnZXQpCiAgICAgICAgLy8KICAgICAgICAvLwogICAgICAgIC8vIGlmIChlbGUuaWQuaW5kZXhPZignaG91c2Vob2xkdGl0bGUnKSA9PSAtMSAmJiBlbGUuY2xhc3NOYW1lLmluZGV4T2YoJ2hvdXNlaG9sZC10aXRsZScpID09IC0xKSB7CiAgICAgICAgLy8gICAkdGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgIHNjb3BlLmVkaXRIb3VzZUhvbGRUaXRsZSA9IGZhbHNlOwogICAgICAgIC8vICAgfSwgMTAwKTsKICAgICAgICAvLyAgIHJldHVybjsKICAgICAgICAvLyB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCk7IC8vIHRoaXMgcHJldmVudCBjbGljayBldmVudCBiZWluZyBmaXJlZCBpbiBlbGVtZW50LmJpbmQoJ2NsaWNrJy4uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAvLwogICAgICAgIC8vIC8vIGlmIChzY29wZS5lZGl0SG91c2VIb2xkVGl0bGUpIHsKICAgICAgICAvLyAvLyAgIGNvbnNvbGUubG9nKHNjb3BlLmVkaXRIb3VzZUhvbGRUaXRsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXNjb3BlLmVkaXRIb3VzZUhvbGRUaXRsZSkgewogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9CiAgICAgICAgLy8gY29uc29sZS5sb2coZS50YXJnZXQpCiAgICAgICAgLy8KICAgICAgICAvLwogICAgICAgIC8vIGlmIChlbGUuaWQuaW5kZXhPZignaG91c2Vob2xkdGl0bGUnKSA9PSAtMSAmJiBlbGUuY2xhc3NOYW1lLmluZGV4T2YoJ2hvdXNlaG9sZC10aXRsZScpID09IC0xKSB7CiAgICAgICAgLy8gICAkdGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgIHNjb3BlLmVkaXRIb3VzZUhvbGRUaXRsZSA9IGZhbHNlOwogICAgICAgIC8vICAgfSwgMTAwKTsKICAgICAgICAvLyAgIHJldHVybjsKICAgICAgICAvLyB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbGUuaWQpOwpjb25zb2xlLmxvZyhlbGUuaWQgPT0gJ2hvdXNlaG9sZE5hbWVJbnB1dCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAvLwogICAgICAgIC8vIC8vIGlmIChzY29wZS5lZGl0SG91c2VIb2xkVGl0bGUpIHsKICAgICAgICAvLyAvLyAgIGNvbnNvbGUubG9nKHNjb3BlLmVkaXRIb3VzZUhvbGRUaXRsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>dir</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>dir</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>-1</last-dir>
@@ -1106,7 +1107,6 @@
     </search>
     <history>
       <history-search>
-        <entry>if</entry>
         <entry>un</entry>
         <entry>1234</entry>
         <entry>start</entry>
@@ -1126,6 +1126,7 @@
         <entry>php7.0</entry>
         <entry encoding="base64">Jjo=</entry>
         <entry>title</entry>
+        <entry>dir</entry>
       </history-search>
       <history-cmd>
         <entry>set !rnu</entry>
