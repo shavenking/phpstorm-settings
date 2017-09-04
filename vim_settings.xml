@@ -48,6 +48,13 @@
         <mark key="." line="74" column="24" />
         <mark key="^" line="74" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="58" column="76" />
+        <mark key="]" line="58" column="76" />
+        <mark key="." line="58" column="76" />
+        <mark key="^" line="58" column="76" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1500641247877">
         <mark key="'" line="2012" column="20" />
         <mark key="[" line="2002" column="5" />
@@ -133,6 +140,12 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/live-pika/app/PageAccessToken.php" timestamp="1504533744806">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496666957879">
         <mark key="'" line="6" column="7" />
@@ -229,6 +242,12 @@
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_04_135618_create_page_access_tokens_table.php" timestamp="1504533706895">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="42" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1503639704459">
         <mark key="[" line="4" column="49" />
@@ -334,12 +353,10 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/routes/api.php" timestamp="1504497207417">
-        <mark key="'" line="32" column="2" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="52" column="29" />
-        <mark key="." line="52" column="29" />
-        <mark key="^" line="52" column="29" />
+      <file name="$USER_HOME$/Code/live-pika/routes/api.php" timestamp="1504534306178">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_07_20_115523_create_tags_table.php" timestamp="1500551932455">
         <mark key="[" line="20" column="20" />
@@ -373,12 +390,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/routes/web.php" timestamp="1504497348134">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="112" column="33" />
-        <mark key="]" line="112" column="39" />
-        <mark key="." line="112" column="39" />
-        <mark key="^" line="112" column="39" />
+      <file name="$USER_HOME$/Code/live-pika/routes/web.php" timestamp="1504537411578">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="124" column="65" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504412138686">
         <mark key="'" line="3" column="0" />
@@ -836,7 +853,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504402979064">
+      <file name="/Dummy.txt" timestamp="1504533893372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/index-controller.js" timestamp="1502111614595">
@@ -885,11 +902,12 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1504497283022">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="14" />
-        <mark key="^" line="10" column="14" />
-        <mark key="." line="10" column="14" />
+      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1504537246818">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1501308914645">
         <mark key="[" line="82" column="51" />
@@ -964,16 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="24" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
-      <jump line="461" column="17" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
-      <jump line="240" column="66" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" />
-      <jump line="35" column="18" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
-      <jump line="151" column="83" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
-      <jump line="174" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" />
-      <jump line="138" column="49" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" />
-      <jump line="21" column="1" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/profile-edit.scss" />
-      <jump line="0" column="12" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" />
-      <jump line="162" column="3" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" />
       <jump line="92" column="6" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
       <jump line="14" column="50" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" />
       <jump line="166" column="5" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
@@ -1064,46 +1072,56 @@
       <jump line="3" column="0" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
       <jump line="32" column="2" filename="$USER_HOME$/Code/live-pika/routes/api.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/live-pika/routes/api.php" />
+      <jump line="66" column="26" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
+      <jump line="101" column="16" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
+      <jump line="32" column="35" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="28" column="11" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="22" column="31" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>validate live video status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRyZXNwb25zZSA9ICRmYi0+Z2V0KCIveyRwYWdlWydpZCddfS9saXZlX3ZpZGVvcz9icm9hZGNhc3Rfc3RhdHVzW109TElWRSZmaWVsZHM9cGVybWFsaW5rX3VybCIsICRwYWdlWydhY2Nlc3NfdG9rZW4nXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>validate live video status</text>
+        <text>Document</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRmYiA9IGFwcChcRmFjZWJvb2tcRmFjZWJvb2s6OmNsYXNzLCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gJGZiLT5nZXQoIi97JHBhZ2VbJ2lkJ119L2xpdmVfdmlkZW9zP2Jyb2FkY2FzdF9zdGF0dXNbXT1MSVZFJmZpZWxkcz1wZXJtYWxpbmtfdXJsIiwgJHBhZ2VbJ2FjY2Vzc190b2tlbiddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRyZXNwb25zZSA9ICRmYi0+Z2V0KCIveyRwYWdlWydpZCddfS9saXZlX3ZpZGVvcz9icm9hZGNhc3Rfc3RhdHVzW109TElWRSZmaWVsZHM9cGVybWFsaW5rX3VybCIsICRwYWdlWydhY2Nlc3NfdG9rZW4nXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRhY2Nlc3NUb2tlbiA9IHNlc3Npb24oInBhZ2VzLnskcmVxdWVzdFsncGFnZV9pZCddfS5hY2Nlc3NfdG9rZW4iKTsKICAgICRmYiA9IGFwcChcRmFjZWJvb2tcRmFjZWJvb2s6OmNsYXNzLCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXSk7CiAgICAkZmItPnBvc3QoIi97JHJlcXVlc3QtPmlucHV0KCd2aWRlb19pZCcpfS9jb21tZW50cyIsIFsKICAgICAgICAnbWVzc2FnZScgPT4gJ2hpJyAuIHJhbmQoKQogICAgXSwgJGFjY2Vzc1Rva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmN1cnJlbnRCaWRDb250ZW50ID0gZGF0YVsnbWVzc2FnZSddOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlLT5nZXREZWNvZGVkQm9keSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRhbmdlciIgdi1zaG93PSJiaWRkaW5nIj7ntZDmqJk8L2J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlLT5nZXREZWNvZGVkQm9keSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiB2LWJpbmQ6ZGlzYWJsZWQ9ImJpZGRpbmciPui1t+aomTwvYnV0dG9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoJHBhZ2VzKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50QmlkQ29udGVudCA9IGRhdGFbJ21lc3NhZ2UnXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRmYi0+cG9zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BCaWRkaW5nOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgJC5wb3N0KCRmb3JtLmF0dHIoJ2FjdGlvbicpLCB7fSwgJ2pzb24nKS50aGVuKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5iaWRkaW5nID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9LmJpbmQodGhpcykpOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZCgoc3RyaW5nKSAkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Im1lc3NhZ2UiPuertuaomeeJqeWTgeaPj+i/sDwvbGFiZWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZiLXZpZGVvIgogICAgICAgICBkYXRhLWhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS97eyAkcGFnZVsnbGl2ZV92aWRlbyddWydwZXJtYWxpbmtfdXJsJ10gfX0iCiAgICAgICAgIGRhdGEtd2lkdGg9IjUwMCIKICAgICAgICAgZGF0YS1zaG93LXRleHQ9ImZhbHNlIgogICAgICAgICBkYXRhLWF1dG9wbGF5PSJmYWxzZSIKICAgID48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT48L2xpPgogICAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>

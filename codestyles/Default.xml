@@ -11,11 +11,6 @@
       <option name="INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
