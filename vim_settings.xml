@@ -435,10 +435,10 @@
       </file>
       <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504412138686">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="31" />
-        <mark key="." line="66" column="31" />
-        <mark key="^" line="66" column="31" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
         <mark key="[" line="4" column="31" />
@@ -634,12 +634,12 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1503549045776">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1504616989368">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="38" />
-        <mark key="." line="69" column="38" />
-        <mark key="^" line="69" column="38" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/App/Guesser/NotFoundException.php" timestamp="1500084896025">
         <mark key="[" line="8" column="0" />
@@ -929,6 +929,9 @@
         <mark key="." line="70" column="29" />
         <mark key="^" line="70" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1504616934110">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="31" />
@@ -1168,11 +1171,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRCaWQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5iaWRzLmZpbHRlcihmdW5jdGlvbiAoYmlkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBiaWQuc3RhdHVzID09PSAwOwogICAgICAgICAgICAgICAgICAgIH0pLnNoaWZ0KCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Showen</text>
       </register>
       <register name="-" type="4">
-        <text>'CANCELED'</text>
+        <text>Showen</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
