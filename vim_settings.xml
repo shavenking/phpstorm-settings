@@ -644,6 +644,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" timestamp="1504575998519">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/idx/customer.ecosystem.config.js" timestamp="1501828287585">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="0" column="39" />
@@ -840,12 +846,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" timestamp="1504574989229">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="23" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="23" />
+      <file name="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" timestamp="1504576041181">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1503490460245">
         <mark key="'" line="282" column="14" />
@@ -996,7 +1002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="11" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" />
       <jump line="29" column="104" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" />
       <jump line="30" column="2" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" />
@@ -1096,13 +1101,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" />
       <jump line="152" column="8" filename="$USER_HOME$/Code/live-pika/config/app.php" />
+      <jump line="4" column="4" filename="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXQ==</text>
+        <text>Facebook</text>
       </register>
       <register name="-" type="4">
-        <text>Connection</text>
+        <text>Facebook</text>
       </register>
       <register name="/" type="4">
         <text>fun</text>
@@ -1110,8 +1116,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAgICAgJ2FwcF9zZWNyZXQnID0+IGVudignRkFDRUJPT0tfQVBQX1NFQ1JFVCcpLAogICAgICAgICAgICAnZGVmYXVsdF9ncmFwaF92ZXJzaW9uJyA9PiAndjIuMTAnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">LCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXQ==</text>
@@ -1122,20 +1128,20 @@
       <register name="4" type="4">
         <text encoding="base64">LCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">LCBbCiAgICAgICAgJ2FwcF9pZCcgPT4gZW52KCdGQUNFQk9PS19BUFBfSUQnKSwKICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgJ2RlZmF1bHRfZ3JhcGhfdmVyc2lvbicgPT4gJ3YyLjEwJwogICAgXQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQm9vdHN0cmFwIHRoZSBhcHBsaWNhdGlvbiBzZXJ2aWNlcy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGJvb3QoKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQm9vdHN0cmFwIHRoZSBhcHBsaWNhdGlvbiBzZXJ2aWNlcy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGJvb3QoKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZmIgPSBhcHAoXEZhY2Vib29rXEZhY2Vib29rOjpjbGFzcywgWwogICAgICAgICAgICAnYXBwX2lkJyA9PiBlbnYoJ0ZBQ0VCT09LX0FQUF9JRCcpLAogICAgICAgICAgICAnYXBwX3NlY3JldCcgPT4gZW52KCdGQUNFQk9PS19BUFBfU0VDUkVUJyksCiAgICAgICAgICAgICdkZWZhdWx0X2dyYXBoX3ZlcnNpb24nID0+ICd2Mi4xMCcKICAgICAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
