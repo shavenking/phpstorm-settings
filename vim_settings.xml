@@ -452,11 +452,11 @@
         <mark key="." line="65" column="31" />
         <mark key="^" line="65" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FetchVideoComment.php" timestamp="1504686328205">
-        <mark key="[" line="57" column="45" />
-        <mark key="]" line="57" column="45" />
-        <mark key="." line="57" column="45" />
-        <mark key="^" line="57" column="45" />
+      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FetchVideoComment.php" timestamp="1504687198073">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="84" column="14" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/App/Guesser/TransactionAmountNotFound.php" timestamp="1500089521281">
         <mark key="[" line="4" column="31" />
@@ -1191,10 +1191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgkY29tbWVudFsnbWVzc2FnZSddKTsK</text>
+        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb247Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[0-9]</text>
+        <text>CANCELED</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -1203,31 +1203,31 @@
         <text encoding="base64">ICAgICAgICAkY29tbWVudElkID0gYXJyYXlfZ2V0KCRjb21tZW50LCAnaWQnKTsKICAgICAgICAkYWNjZXNzVG9rZW4gPSBhcnJheV9nZXQoJGNvbW1lbnQsICdhY2Nlc3NfdG9rZW4nKTsKICAgICAgICAkZmllbGRzUGFyYW0gPSBpbXBsb2RlKCcsJywgJGZpZWxkcyk7CgogICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5zZGstPmdldCgiLyRjb21tZW50SWQ/ZmllbGRzPSRmaWVsZHNQYXJhbSIsICRhY2Nlc3NUb2tlbik7CgogICAgICAgcmV0dXJuICRyZXNwb25zZS0+Z2V0RGVjb2RlZEJvZHkoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgkY29tbWVudFsnbWVzc2FnZSddKTsK</text>
+        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgnaGknKTsK</text>
+        <text encoding="base64">CiAgICAgICAgTG9nOjppbmZvKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgnaGknKTsK</text>
+        <text encoding="base64">CiAgICAgICAgZGQoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgkc3RhcnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpZC0+ZmluYWxfcHJpY2UgPSBtYXgoJHByaWNlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgkc3RhcnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkYmlkLT5jb250ZW50LCAkcHJpY2VzLCBtYXgoJHByaWNlcykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCRjb21tZW50WydpZCddKTsK</text>
+        <text encoding="base64">Ly8KLy8KLy8gICAgICAgIGRvIHsKLy8gICAgICAgICAgICB2YXJfZHVtcCgkY29tbWVudHNFZGdlLT5hc0FycmF5KCkpOwovLyAgICAgICAgfSB3aGlsZSAoJGNvbW1lbnRzRWRnZSA9ICRmYi0+bmV4dCgkY29tbWVudHNFZGdlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkc3RhcnRDb21tZW50SWQsICRlbmRDb21tZW50SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGNvbW1lbnRzLT5hc0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1heCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCRjb21tZW50WydtZXNzYWdlJ10pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
