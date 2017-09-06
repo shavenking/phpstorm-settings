@@ -122,10 +122,10 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_05_113322_create_bids_table.php" timestamp="1504613749303">
+      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_05_113322_create_bids_table.php" timestamp="1504662656402">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="37" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="50" />
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
@@ -343,6 +343,11 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_015007_create_live_videos_table.php" timestamp="1504662657792">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503556217281">
         <mark key="'" line="85" column="0" />
@@ -1055,11 +1060,11 @@
         <mark key="." line="43" column="52" />
         <mark key="^" line="43" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" timestamp="1504583575267">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" timestamp="1504663747668">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="66" column="18" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/VideoController.php" timestamp="1504583099622">
         <mark key="[" line="7" column="10" />
@@ -1171,44 +1176,44 @@
       <jump line="43" column="4" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Showen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnY2hhbmdlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGQnID0+ICdsaXZlX3ZpZGVvcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAndW5wdWJsaXNoZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJzQ4ODYzNjQ4NDg0ODk1NCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGQnID0+ICdsb2NhdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAndW5wdWJsaXNoZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJzQ4ODYzNjQ4NDg0ODk1NCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgJ2lkJyA9PiAnNDg3NDIyMzQ0OTcwMzY4JywKICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gMTUwNDQ1MDQ5MywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Showen</text>
+        <text>live_videos</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRCaWRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnY2hhbmdlcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGQnID0+ICdsaXZlX3ZpZGVvcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAndW5wdWJsaXNoZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJzQ4ODYzNjQ4NDg0ODk1NCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGQnID0+ICdsb2NhdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAndW5wdWJsaXNoZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJzQ4ODYzNjQ4NDg0ODk1NCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgJ2lkJyA9PiAnNDg3NDIyMzQ0OTcwMzY4JywKICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gMTUwNDQ1MDQ5MywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRCaWQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5iaWRzLmZpbHRlcihmdW5jdGlvbiAoYmlkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBiaWQuc3RhdHVzID09PSAwOwogICAgICAgICAgICAgICAgICAgIH0pLnNoaWZ0KCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgbWItMyIgdi1zaG93PSJiaWRkaW5nIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtaGVhZGVyIGJnLXByaW1hcnkgdGV4dC13aGl0ZSI+56ysIEB7eyBiaWRzLmxlbmd0aCArIDEgfX0g5qiZPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1ib2R5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHByZSBjbGFzcz0ibWItMCI+QHt7IGN1cnJlbnRCaWRDb250ZW50IH19PC9wcmU+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5iaWRzLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudDogdGhpcy5jdXJyZW50QmlkQ29udGVudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1czogJ0NBTkNFTEVEJwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5iaWRzLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudDogdGhpcy5jdXJyZW50QmlkQ29udGVudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1czogJ0VOREVEJwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPm9iamVjdCAhPT0gJ3BhZ2UnKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhWydtZXNzYWdlJ10gPSB0aGlzLnN0b3BCaWRkaW5nTWVzc2FnZTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYmlkLCAkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oKHN0cmluZykgJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRCaWQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5iaWRzLmZpbHRlcihmdW5jdGlvbiAoYmlkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBiaWQuc3RhdHVzID09PSAwOwogICAgICAgICAgICAgICAgICAgIH0pLnNoaWZ0KCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgbWItMyIgdi1zaG93PSJiaWRkaW5nIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtaGVhZGVyIGJnLXByaW1hcnkgdGV4dC13aGl0ZSI+56ysIEB7eyBiaWRzLmxlbmd0aCArIDEgfX0g5qiZPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1ib2R5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHByZSBjbGFzcz0ibWItMCI+QHt7IGN1cnJlbnRCaWRDb250ZW50IH19PC9wcmU+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
