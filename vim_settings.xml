@@ -201,6 +201,9 @@
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/payment-tracker-controller.js" timestamp="1504696830198">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/transaction.blade.php" timestamp="1500555570834">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="3" column="3" />
@@ -734,7 +737,6 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/config/queue.php" timestamp="1504682113576" />
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
         <mark key="[" line="12" column="64" />
@@ -952,7 +954,7 @@
         <mark key="." line="70" column="29" />
         <mark key="^" line="70" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504672773039">
+      <file name="/Dummy.txt" timestamp="1504698514135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1035,6 +1037,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1504698458399">
+        <mark key="[" line="96" column="56" />
+        <mark key="]" line="96" column="56" />
+        <mark key="." line="96" column="56" />
+        <mark key="^" line="96" column="70" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1501304664455">
         <mark key="'" line="304" column="0" />
         <mark key="[" line="560" column="3" />
@@ -1088,7 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="4" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
       <jump line="44" column="69" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" />
       <jump line="243" column="0" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="56" column="39" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" />
@@ -1188,46 +1195,47 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_040105_create_pages_table.php" />
       <jump line="57" column="136" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_070037_create_jobs_table.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/payment-tracker-controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, 1500</text>
       </register>
       <register name="-" type="4">
-        <text>CANCELED</text>
+        <text>, 1500</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWVudElkID0gYXJyYXlfZ2V0KCRjb21tZW50LCAnaWQnKTsKICAgICAgICAkYWNjZXNzVG9rZW4gPSBhcnJheV9nZXQoJGNvbW1lbnQsICdhY2Nlc3NfdG9rZW4nKTsKICAgICAgICAkZmllbGRzUGFyYW0gPSBpbXBsb2RlKCcsJywgJGZpZWxkcyk7CgogICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5zZGstPmdldCgiLyRjb21tZW50SWQ/ZmllbGRzPSRmaWVsZHNQYXJhbSIsICRhY2Nlc3NUb2tlbik7CgogICAgICAgcmV0dXJuICRyZXNwb25zZS0+Z2V0RGVjb2RlZEJvZHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGVsZW1lbnQuZmluZCgndHI6bGFzdC1jaGlsZCB0ZC5lZGl0IGkuZmEtcGVuY2lsLXNxdWFyZS1vJykudHJpZ2dlckhhbmRsZXIoJ2NsaWNrJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgTG9nOjppbmZvKCRyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZGQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNjcm9sbFRvcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpZC0+ZmluYWxfcHJpY2UgPSBtYXgoJHByaWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjcm9sbFRvcCA9IGVsZW1lbnQuZmluZCgndHI6bGFzdC1jaGlsZCB0ZC5lZGl0IGkuZmEtcGVuY2lsLXNxdWFyZS1vJykub2Zmc2V0KCkudG9wIC0gMTgwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkYmlkLT5jb250ZW50LCAkcHJpY2VzLCBtYXgoJHByaWNlcykpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8KLy8KLy8gICAgICAgIGRvIHsKLy8gICAgICAgICAgICB2YXJfZHVtcCgkY29tbWVudHNFZGdlLT5hc0FycmF5KCkpOwovLyAgICAgICAgfSB3aGlsZSAoJGNvbW1lbnRzRWRnZSA9ICRmYi0+bmV4dCgkY29tbWVudHNFZGdlKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgTG9nOjppbmZvKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHUK</text>
+        <text encoding="base64">CiAgICAgICAgZGQoMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpZC0+ZmluYWxfcHJpY2UgPSBtYXgoJHByaWNlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCRjb21tZW50WydtZXNzYWdlJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkYmlkLT5jb250ZW50LCAkcHJpY2VzLCBtYXgoJHByaWNlcykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
