@@ -494,6 +494,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1504767933377">
+        <mark key="'" line="199" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1504765498928">
         <mark key="'" line="42" column="0" />
       </file>
@@ -1104,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="76" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="72" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="33" column="14" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="34" column="28" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
@@ -1204,6 +1206,7 @@
       <jump line="2" column="76" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
       <jump line="233" column="92" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
+      <jump line="199" column="30" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
