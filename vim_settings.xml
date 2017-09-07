@@ -404,11 +404,6 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/routes/api.php" timestamp="1504673698322">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_07_20_115523_create_tags_table.php" timestamp="1500551932455">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="26" />
@@ -498,6 +493,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1504765498928">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/IntentionGuesser.php" timestamp="1498566092203">
         <mark key="[" line="4" column="18" />
@@ -964,7 +962,7 @@
         <mark key="." line="70" column="29" />
         <mark key="^" line="70" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504698514135">
+      <file name="/Dummy.txt" timestamp="1504765586265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -981,12 +979,12 @@
         <mark key="^" line="36" column="40" />
         <mark key="." line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1503024862239">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="81" column="12" />
-        <mark key="]" line="81" column="12" />
-        <mark key="." line="81" column="12" />
-        <mark key="^" line="81" column="34" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1504765778077">
+        <mark key="'" line="233" column="92" />
+        <mark key="[" line="0" column="210" />
+        <mark key="]" line="0" column="221" />
+        <mark key="." line="0" column="221" />
+        <mark key="^" line="0" column="221" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504674250527">
         <mark key="[" line="10" column="0" />
@@ -1014,11 +1012,12 @@
         <mark key="." line="69" column="94" />
         <mark key="^" line="69" column="94" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1501308914645">
-        <mark key="[" line="82" column="51" />
-        <mark key="]" line="82" column="57" />
-        <mark key="^" line="82" column="57" />
-        <mark key="." line="82" column="57" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1504767101132">
+        <mark key="'" line="2" column="76" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="26" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="26" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/resources/views/introduction.blade.php" timestamp="1500292126882">
         <mark key="[" line="9" column="31" />
@@ -1105,9 +1104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="24" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" />
-      <jump line="225" column="27" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="25" column="76" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
       <jump line="72" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="33" column="14" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
@@ -1205,13 +1201,16 @@
       <jump line="114" column="37" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="59" column="20" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" />
+      <jump line="2" column="76" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" />
+      <jump line="233" column="92" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGxpdmVWaWRlbyA9IA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGxpdmVWaWRlbyA9IA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -1219,32 +1218,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCIgdi1pZj0iYmlkLndpbm5lcnMubGVuZ3RoIj7lvpfmqJnogIXvvJpAe3sgYmlkLndpbm5lcnNbMF0uZnVsbF9uYW1lIH19PC9wPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHN0YXR1cyA9PT0gJ0xJVkVfU1RPUFBFRCcpIHsKICAgICAgICAgICAgICAgICAgICBGZXRjaFZpZGVvQ29tbWVudDo6ZGlzcGF0Y2goJGxpdmVWaWRlbyktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZFNlY29uZHMoMTApKTsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>fadeIn(200, function(){
+      col.style.display='table-cell';
+    });</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXEZldGNoVmlkZW9Db21tZW50Owo=</text>
+      <register name="2" type="4">
+        <text>fadeOut(200, function(){
+      col.style.display='none';
+    });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
+      <register name="3" type="4">
+        <text>fadeOut(200, function(){
+      col.style.display='none';
+    });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHN0YXR1cyA9PT0gJ0xJVkVfU1RPUFBFRCcpIHsKICAgICAgICAgICAgICAgICAgICBGZXRjaFZpZGVvQ29tbWVudDo6ZGlzcGF0Y2goJGxpdmVWaWRlbyktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZFNlY29uZHMoMTApKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxKb2JzXEZldGNoVmlkZW9Db21tZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmlkLT51cGRhdGUoWwogICAgICAgICAgICAnZmluYWxfcHJpY2UnID0+ICRmaW5hbFByaWNlCiAgICAgICAgXSk7Cgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdGhpcy0+YmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGNvbW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmlkLT51cGRhdGUoWwogICAgICAgICAgICAnZmluYWxfcHJpY2UnID0+ICRmaW5hbFByaWNlCiAgICAgICAgXSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
