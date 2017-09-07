@@ -494,8 +494,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1504767933377">
-        <mark key="'" line="199" column="30" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1504768971030">
+        <mark key="'" line="373" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1504765498928">
         <mark key="'" line="42" column="0" />
@@ -1107,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="33" column="14" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="34" column="28" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/idx/ecosystem.config.js" />
@@ -1137,7 +1136,6 @@
       <jump line="89" column="0" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
       <jump line="247" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
       <jump line="381" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
-      <jump line="373" column="3" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
       <jump line="24" column="10" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="89" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="97" column="72" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
@@ -1207,10 +1205,12 @@
       <jump line="233" column="92" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" />
       <jump line="199" column="30" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="374" column="1" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
+      <jump line="373" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ago=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -1221,14 +1221,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCIgdi1pZj0iYmlkLndpbm5lcnMubGVuZ3RoIj7lvpfmqJnogIXvvJpAe3sgYmlkLndpbm5lcnNbMF0uZnVsbF9uYW1lIH19PC9wPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>fadeIn(200, function(){
-      col.style.display='table-cell';
-    });</text>
+      <register name="1" type="2">
+        <text encoding="base64">ago=</text>
       </register>
       <register name="2" type="4">
-        <text>fadeOut(200, function(){
-      col.style.display='none';
+        <text>fadeIn(200, function(){
+      col.style.display='table-cell';
     });</text>
       </register>
       <register name="3" type="4">
@@ -1236,23 +1234,25 @@
       col.style.display='none';
     });</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHN0YXR1cyA9PT0gJ0xJVkVfU1RPUFBFRCcpIHsKICAgICAgICAgICAgICAgICAgICBGZXRjaFZpZGVvQ29tbWVudDo6ZGlzcGF0Y2goJGxpdmVWaWRlbyktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZFNlY29uZHMoMTApKTsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="4" type="4">
+        <text>fadeOut(200, function(){
+      col.style.display='none';
+    });</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXEZldGNoVmlkZW9Db21tZW50Owo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHN0YXR1cyA9PT0gJ0xJVkVfU1RPUFBFRCcpIHsKICAgICAgICAgICAgICAgICAgICBGZXRjaFZpZGVvQ29tbWVudDo6ZGlzcGF0Y2goJGxpdmVWaWRlbyktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZFNlY29uZHMoMTApKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
+        <text encoding="base64">dXNlIEFwcFxKb2JzXEZldGNoVmlkZW9Db21tZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmdldEJpZHMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmlkLT51cGRhdGUoWwogICAgICAgICAgICAnZmluYWxfcHJpY2UnID0+ICRmaW5hbFByaWNlCiAgICAgICAgXSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
