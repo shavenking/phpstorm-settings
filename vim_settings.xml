@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" timestamp="1504770773279">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" timestamp="1504771908490">
         <mark key="'" line="715" column="35" />
-        <mark key="[" line="656" column="25" />
-        <mark key="]" line="656" column="26" />
-        <mark key="." line="656" column="26" />
-        <mark key="^" line="656" column="26" />
+        <mark key="[" line="657" column="0" />
+        <mark key="]" line="657" column="0" />
+        <mark key="." line="657" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/pages.blade.php" timestamp="1504669432841">
         <mark key="[" line="12" column="27" />
@@ -1213,50 +1212,46 @@
       <jump line="373" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>12</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiBzY2FsZS1oZWlnaHQoMjEpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuLi9pbWFnZXMvaWNvbi9lZGl0LTA5LnN2ZyIgY2xhc3M9Imljb24tZWRpdCIgLz4K</text>
+        <text encoding="base64">ICAgIGhlaWdodDogc2NhbGUtaGVpZ2h0KDIxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiBzY2FsZS1oZWlnaHQoMjEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiBzY2FsZS13aWR0aCg4KTsK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogc2NhbGUtaGVpZ2h0KDIxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXBsdXMiPjwvaT4K</text>
+        <text encoding="base64">ICAgIHdpZHRoOiBzY2FsZS13aWR0aCgyMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmc+PHVzZSB4bGluazpocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW5jaGFybS9Gb250LUF3ZXNvbWUtU1ZHLVBORy9tYXN0ZXIvYmxhY2svc3ZnL3BsdXMuc3ZnIj48L3VzZT48L3N2Zz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiBzY2FsZS13aWR0aCg4KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXBsdXMiPjwvaT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmc+PHVzZSB4bGluazpocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW5jaGFybS9Gb250LUF3ZXNvbWUtU1ZHLVBORy9tYXN0ZXIvYmxhY2svc3ZnL3BsdXMuc3ZnIj48L3VzZT48L3N2Zz4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ago=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>fadeIn(200, function(){
       col.style.display='table-cell';
     });</text>
-      </register>
-      <register name="7" type="4">
-        <text>fadeOut(200, function(){
-      col.style.display='none';
-    });</text>
-      </register>
-      <register name="8" type="4">
-        <text>fadeOut(200, function(){
-      col.style.display='none';
-    });</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHN0YXR1cyA9PT0gJ0xJVkVfU1RPUFBFRCcpIHsKICAgICAgICAgICAgICAgICAgICBGZXRjaFZpZGVvQ29tbWVudDo6ZGlzcGF0Y2goJGxpdmVWaWRlbyktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZFNlY29uZHMoMTApKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
