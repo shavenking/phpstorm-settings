@@ -260,12 +260,12 @@
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1504765498928">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1504851372078">
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1504853188104">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="96" column="43" />
-        <mark key="]" line="96" column="43" />
-        <mark key="." line="96" column="43" />
-        <mark key="^" line="99" column="107" />
+        <mark key="[" line="96" column="78" />
+        <mark key="]" line="96" column="41" />
+        <mark key="." line="96" column="41" />
+        <mark key="^" line="96" column="41" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496757828281">
         <mark key="'" line="13" column="30" />
@@ -426,8 +426,8 @@
         <mark key="[" line="1411" column="0" />
         <mark key="]" line="1424" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" timestamp="1504851211151">
-        <mark key="'" line="103" column="0" />
+      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" timestamp="1504852700603">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="67" />
         <mark key="." line="58" column="0" />
@@ -540,12 +540,12 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1504842589987">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="86" column="153" />
-        <mark key="]" line="86" column="153" />
-        <mark key="." line="86" column="153" />
-        <mark key="^" line="86" column="152" />
+      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1504852265265">
+        <mark key="'" line="86" column="153" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="58" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="224" column="57" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1504767101132">
         <mark key="'" line="2" column="76" />
@@ -598,8 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="20" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
-      <jump line="7" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="25" column="11" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="28" column="5" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="57" column="21" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
@@ -698,19 +696,21 @@
       <jump line="49" column="12" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="228" column="73" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="86" column="153" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy0+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50QmlkT2tGb3JFeHRyYSA9IGZhbHNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+</text>
+        <text>!this.currentBidOkForExtra;</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpZC0+dXBkYXRlKFsKICAgICAgICAgICAgICAgICdleHRyYV9jb21tZW50X2lkJyA9PiBpbXBsb2RlKCcsJywgYXJyYXlfZmlsdGVyKFskYmlkLT5leHRyYV9jb21tZW50X2lkLCAkY29tbWVudElkXSkpLAogICAgICAgICAgICAgICAgJ29rX2Zvcl9leHRyYScgPT4gdHJ1ZQogICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50QmlkT2tGb3JFeHRyYSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
