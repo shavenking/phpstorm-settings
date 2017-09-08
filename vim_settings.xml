@@ -533,6 +533,12 @@
         <mark key="." line="0" column="221" />
         <mark key="^" line="0" column="221" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504855270824">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="93" column="42" />
@@ -700,11 +706,11 @@
       <jump line="57" column="0" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50QmlkT2tGb3JFeHRyYSA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="-" type="4">
-        <text>!this.currentBidOkForExtra;</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
