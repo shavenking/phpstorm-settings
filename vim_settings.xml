@@ -143,10 +143,10 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504935153496">
+      <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504941336388">
         <mark key="'" line="128" column="14" />
-        <mark key="[" line="93" column="47" />
-        <mark key="]" line="93" column="47" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="126" column="10" />
         <mark key="." line="93" column="47" />
         <mark key="^" line="141" column="32" />
       </file>
@@ -178,6 +178,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="23" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/tests/Feature/BidTest.php" timestamp="1504941673454">
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="^" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="26" column="13" />
@@ -206,12 +212,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Bid.php" timestamp="1504836993897">
+      <file name="$USER_HOME$/Code/live-pika/app/Bid.php" timestamp="1504940902448">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="61" />
       </file>
       <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503556217281">
         <mark key="'" line="85" column="0" />
@@ -300,12 +306,19 @@
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1504765498928">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1504853188104">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="96" column="78" />
-        <mark key="]" line="96" column="41" />
-        <mark key="." line="96" column="41" />
-        <mark key="^" line="96" column="41" />
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1504941569407">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" timestamp="1504941059572">
+        <mark key="'" line="18" column="30" />
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496757828281">
         <mark key="'" line="13" column="30" />
@@ -456,12 +469,6 @@
       <file name="$USER_HOME$/Code/live-pika/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php" timestamp="1504839967266">
         <mark key="'" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" timestamp="1504835377355">
-        <mark key="'" line="73" column="61" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
         <mark key="[" line="12" column="64" />
@@ -475,12 +482,6 @@
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" timestamp="1504852700603">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="67" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496838914531">
         <mark key="'" line="221" column="103" />
@@ -559,7 +560,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504923427794">
+      <file name="/Dummy.txt" timestamp="1504941330173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -653,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="97" column="72" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
       <jump line="65" column="53" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/idx/.gitlab-ci.yml" />
@@ -753,49 +753,50 @@
       <jump line="45" column="0" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
       <jump line="151" column="10" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
       <jump line="128" column="14" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
+      <jump line="15" column="30" filename="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcm0gLXJmIHN0b3JhZ2UvOyBsbiAtc2YgJEhPTUUvc3RvcmFnZSAuLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>$pageId</text>
       </register>
       <register name="/" type="4">
         <text>inde</text>
       </register>
-      <register name="0" type="4">
-        <text>rm -rf storage/; ln -sfn $HOME/storage ./</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkYmlkID0gZmFjdG9yeShCaWQ6OmNsYXNzKS0+Y3JlYXRlKCk7CgogICAgICAgIFBhZ2U6OmNyZWF0ZShbCiAgICAgICAgICAgICdwYWdlX2lkJyA9PiAkYmlkLT5wYWdlX2lkLAogICAgICAgICAgICAnYWNjZXNzX3Rva2VuJyA9PiAndGhpcyBpcyBjb29sJwogICAgICAgIF0pOwoKICAgICAgICAkdGhpcwogICAgICAgICAgICAtPmpzb24oJ0dFVCcsICcvYmlkcycsIFsKICAgICAgICAgICAgICAgICdwYWdlX2lkJyA9PiAkYmlkLT5wYWdlX2lkLAogICAgICAgICAgICAgICAgJ2xpdmVfdmlkZW9faWQnID0+ICRiaWQtPmxpdmVfdmlkZW9faWQsCiAgICAgICAgICAgICAgICAndmlkZW9faWQnID0+ICRiaWQtPnZpZGVvX2lkCiAgICAgICAgICAgIF0pCiAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDQwMyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcm0gLXJmIHN0b3JhZ2UvOyBsbiAtc2YgJEhPTUUvc3RvcmFnZSAuLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gcGhwdW5pdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZUlkID0gJHJlcXVlc3QtPnBhZ2VfaWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIHZhbGlkYXRlIHBhZ2Ugb3duZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZmItPmFsbG93cygpLT5nZXRMaXZlVmlkZW8oKS0+YW5kUmV0dXJucygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnY3JlYXRpb25fdGltZScgPT4gQ2FyYm9uOjpub3coKSwKICAgICAgICAgICAgJ3ZpZGVvJyA9PiBbCiAgICAgICAgICAgICAgICAnbGVuZ3RoJyA9PiAxNDQwMAogICAgICAgICAgICBdCiAgICAgICAgXQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnaWQnID0+ICc0OTAzNDM3OTQ2NzgyMjMnLAogICAgICAgICAgICAnYWNjZXNzX3Rva2VuJyA9PiAndGhpcyBpcyBjb29sJwogICAgICAgIF0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgICAgICRiaWQtPnRvQXJyYXkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZmIgPSAkdGhpcy0+Y3JlYXRlTW9jayhGYWNlYm9vazo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnY2FuY2VsZWRfYXQnID0+IENhcmJvbjo6bm93KCktPnN1YlNlY29uZHMoJGZha2VyLT5yYW5kb21OdW1iZXIoMSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>12y</text>
       </register>
     </registers>
     <search>
@@ -831,7 +832,6 @@
         <entry>inde</entry>
       </history-search>
       <history-cmd>
-        <entry>set nornu</entry>
         <entry>7d</entry>
         <entry>91,94y</entry>
         <entry>220,228y</entry>
@@ -851,6 +851,7 @@
         <entry>80d</entry>
         <entry>46d</entry>
         <entry>noh</entry>
+        <entry>12y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
