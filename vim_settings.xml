@@ -143,10 +143,10 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504941336388">
+      <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504953431258">
         <mark key="'" line="128" column="14" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="126" column="10" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="121" column="45" />
         <mark key="." line="93" column="47" />
         <mark key="^" line="141" column="32" />
       </file>
@@ -178,11 +178,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/tests/Feature/BidTest.php" timestamp="1504941673454">
-        <mark key="[" line="49" column="43" />
-        <mark key="]" line="49" column="43" />
-        <mark key="^" line="49" column="43" />
-        <mark key="." line="49" column="43" />
+      <file name="$USER_HOME$/Code/live-pika/tests/Feature/BidTest.php" timestamp="1504954317099">
+        <mark key="[" line="108" column="28" />
+        <mark key="]" line="108" column="52" />
+        <mark key="." line="108" column="52" />
+        <mark key="^" line="108" column="52" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
         <mark key="'" line="44" column="0" />
@@ -306,12 +306,12 @@
       <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1504765498928">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1504941569407">
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1504954213075">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="63" column="63" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" timestamp="1504941059572">
         <mark key="'" line="18" column="30" />
@@ -756,44 +756,44 @@
       <jump line="15" column="30" filename="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new Carbon($comment['created_time'])</text>
       </register>
       <register name="-" type="4">
-        <text>$pageId</text>
+        <text>new Carbon($comment['created_time'])</text>
       </register>
       <register name="/" type="4">
         <text>inde</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlkID0gZmFjdG9yeShCaWQ6OmNsYXNzKS0+Y3JlYXRlKCk7CgogICAgICAgIFBhZ2U6OmNyZWF0ZShbCiAgICAgICAgICAgICdwYWdlX2lkJyA9PiAkYmlkLT5wYWdlX2lkLAogICAgICAgICAgICAnYWNjZXNzX3Rva2VuJyA9PiAndGhpcyBpcyBjb29sJwogICAgICAgIF0pOwoKICAgICAgICAkdGhpcwogICAgICAgICAgICAtPmpzb24oJ0dFVCcsICcvYmlkcycsIFsKICAgICAgICAgICAgICAgICdwYWdlX2lkJyA9PiAkYmlkLT5wYWdlX2lkLAogICAgICAgICAgICAgICAgJ2xpdmVfdmlkZW9faWQnID0+ICRiaWQtPmxpdmVfdmlkZW9faWQsCiAgICAgICAgICAgICAgICAndmlkZW9faWQnID0+ICRiaWQtPnZpZGVvX2lkCiAgICAgICAgICAgIF0pCiAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDQwMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhZ2VfaWQnID0+ICRyZXF1ZXN0LT5pbnB1dCgncGFnZV9pZCcpLAogICAgICAgICAgICAnbGl2ZV92aWRlb19pZCcgPT4gJHJlcXVlc3QtPmlucHV0KCdsaXZlX3ZpZGVvX2lkJyksCiAgICAgICAgICAgICd2aWRlb19pZCcgPT4gJHJlcXVlc3QtPmlucHV0KCd2aWRlb19pZCcpLAogICAgICAgICAgICAnY29tbWVudF9pZCcgPT4gJGNvbW1lbnRbJ2lkJ10sCiAgICAgICAgICAgICdzdGF0dXMnID0+IEJpZDo6U1RBUlRFRCwKICAgICAgICAgICAgJ2NvbnRlbnQnID0+ICRyZXF1ZXN0LT5pbnB1dCgnY29udGVudCcpLAogICAgICAgICAgICAnc3RhcnRpbmdfcHJpY2UnID0+ICRyZXF1ZXN0LT5pbnB1dCgnc3RhcnRpbmdfcHJpY2UnLCAwKSwKICAgICAgICAgICAgJ29rX2Zvcl9leHRyYScgPT4gMCwKICAgICAgICAgICAgJ3N0YXJ0ZWRfYXQnID0+IG5ldyBDYXJib24oJGNvbW1lbnRbJ2NyZWF0ZWRfdGltZSddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhZ2VfaWQnCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAkYmlkID0gQmlkOjp3aGVyZVBhZ2VJZCgkcGFnZS0+aWQpLT5maXJzdCgpOwoKICAgICAgICAkcmVzcG9uc2UtPmFzc2VydEpzb24oJGJpZC0+dG9BcnJheSgpKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZUlkID0gJHJlcXVlc3QtPnBhZ2VfaWQ7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJGJpZC0+cmVmcmVzaCgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIHZhbGlkYXRlIHBhZ2Ugb3duZXIK</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRpb25UaW1lID0gQ2FyYm9uOjpub3coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRKc29uKFsKCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2NyZWF0aW9uX3RpbWUnID0+ICRjcmVhdGlvblRpbWUtPnRvSXNvODYwMVN0cmluZygpLAogICAgICAgICAgICAgICAgJ3ZpZGVvJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ2xlbmd0aCcgPT4gMjE0LjY2CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgICAgICRiaWQtPnRvQXJyYXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY2FuY2VsZWRfYXQnID0+IENhcmJvbjo6bm93KCktPnN1YlNlY29uZHMoJGZha2VyLT5yYW5kb21OdW1iZXIoMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>12y</text>
