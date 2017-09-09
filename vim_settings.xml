@@ -150,12 +150,12 @@
         <mark key="." line="93" column="47" />
         <mark key="^" line="141" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/.env" timestamp="1504682119302">
+      <file name="$USER_HOME$/Code/live-pika/.env" timestamp="1504936918985">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" timestamp="1504405103187">
         <mark key="'" line="56" column="39" />
@@ -469,12 +469,12 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/.env.example" timestamp="1504251423970">
+      <file name="$USER_HOME$/Code/live-pika/.env.example" timestamp="1504936935304">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" timestamp="1504852700603">
         <mark key="'" line="57" column="0" />
@@ -583,11 +583,10 @@
         <mark key="." line="0" column="221" />
         <mark key="^" line="0" column="221" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504936123167">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="75" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="51" />
+      <file name="$USER_HOME$/Code/live-pika/.gitlab-ci.yml" timestamp="1504937175877">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -756,8 +755,8 @@
       <jump line="128" column="14" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cm0gLXJmIHN0b3JhZ2UvIHx8IG1rZGlyIC1wIHN0b3JhZ2UgJiYgbG4gLXNmbiAkSE9NRS9zdG9yYWdlLyBzdG9yYWdlLw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gcm0gLXJmIHN0b3JhZ2UvOyBsbiAtc2YgJEhPTUUvc3RvcmFnZSAuLwo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -766,34 +765,34 @@
         <text>inde</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cm0gLXJmIHN0b3JhZ2UvIHx8IG1rZGlyIC1wIHN0b3JhZ2UgJiYgbG4gLXNmbiAkSE9NRS9zdG9yYWdlLyBzdG9yYWdlLw==</text>
+        <text>rm -rf storage/; ln -sfn $HOME/storage ./</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcGhwdW5pdAo=</text>
+        <text encoding="base64">ICAgIC0gcm0gLXJmIHN0b3JhZ2UvOyBsbiAtc2YgJEhPTUUvc3RvcmFnZSAuLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgIC0gcGhwdW5pdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkZmItPmFsbG93cygpLT5nZXRMaXZlVmlkZW8oKS0+YW5kUmV0dXJucygpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnY3JlYXRpb25fdGltZScgPT4gQ2FyYm9uOjpub3coKSwKICAgICAgICAgICAgJ3ZpZGVvJyA9PiBbCiAgICAgICAgICAgICAgICAnbGVuZ3RoJyA9PiAxNDQwMAogICAgICAgICAgICBdCiAgICAgICAgXQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnaWQnID0+ICc0OTAzNDM3OTQ2NzgyMjMnLAogICAgICAgICAgICAnYWNjZXNzX3Rva2VuJyA9PiAndGhpcyBpcyBjb29sJwogICAgICAgIF0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZmIgPSAkdGhpcy0+Y3JlYXRlTW9jayhGYWNlYm9vazo6Y2xhc3MpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZmIgPSAkdGhpcy0+Y3JlYXRlTW9jayhGYWNlYm9vazo6Y2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
