@@ -295,11 +295,12 @@
         <mark key="." line="129" column="60" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1505189246937">
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="75" />
-        <mark key="." line="41" column="75" />
-        <mark key="^" line="41" column="75" />
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1505198286866">
+        <mark key="'" line="43" column="24" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" timestamp="1505184921331">
         <mark key="'" line="14" column="34" />
@@ -620,12 +621,12 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1505189891665">
+      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1505198680519">
         <mark key="'" line="128" column="48" />
-        <mark key="[" line="180" column="49" />
-        <mark key="]" line="180" column="48" />
-        <mark key="." line="180" column="48" />
-        <mark key="^" line="180" column="48" />
+        <mark key="[" line="163" column="20" />
+        <mark key="]" line="163" column="26" />
+        <mark key="." line="163" column="26" />
+        <mark key="^" line="163" column="26" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1504767101132">
         <mark key="'" line="2" column="76" />
@@ -776,12 +777,12 @@
       <jump line="85" column="98" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="18" column="32" filename="$USER_HOME$/Code/live-pika/app/Bid.php" />
-      <jump line="43" column="54" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="128" column="48" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="43" column="24" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZTsK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -793,37 +794,37 @@
         <text>inde</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYmlkLT5pblByb2dyZXNzUGx1c09uZUR1cmF0aW9uLT51cGRhdGUoWwogICAgICAgICAgICAgICAgICAgICAgICAnc3RvcHBpbmdfY29tbWVudF9pZCcgPT4gJGJpZC0+c3RvcHBpbmdfY29tbWVudF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgJ3N0b3BwZWRfYXQnID0+ICRiaWQtPnN0b3BwZWRfYXQKICAgICAgICAgICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICAgICAgICAgRmluZFBsdXNPbmVXaW5uZXJzOjpkaXNwYXRjaCgkYmlkLT5pblByb2dyZXNzUGx1c09uZUR1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRCaWRzKCkudGhlbihmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmRpc2FibGVCdXR0b25zID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgIH0uYmluZCh0aGlzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYXNJblByb2dyZXNzUGx1c09uZSA9IChpblByb2dyZXNzUGx1c09uZUR1cmF0aW9ucyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuaGFzSW5Qcm9ncmVzc1BsdXNPbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRCaWRzKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGlzYWJsZUJ1dHRvbnMgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYXNJblByb2dyZXNzUGx1c09uZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5kaXNhYmxlQnV0dG9ucyA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYXNJblByb2dyZXNzUGx1c09uZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhZ2UtPmxhdGVzdEJpZC0+aW5Qcm9ncmVzc1BsdXNPbmVEdXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYXNJblByb2dyZXNzUGx1c09uZSA9IChpblByb2dyZXNzUGx1c09uZUR1cmF0aW9ucyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuaGFzSW5Qcm9ncmVzc1BsdXNPbmUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9IFBhZ2U6OmZpbmRPckZhaWwoJHJlcXVlc3QtPmlucHV0KCdwYWdlX2lkJykpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9IFBhZ2U6OmZpbmQoJHJlcXVlc3QtPmlucHV0KCdwYWdlJykpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYXNJblByb2dyZXNzUGx1c09uZSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYXNJblByb2dyZXNzUGx1c09uZSA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
