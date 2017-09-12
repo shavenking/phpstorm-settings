@@ -307,12 +307,12 @@
         <mark key="." line="26" column="75" />
         <mark key="^" line="26" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" timestamp="1505102945718">
-        <mark key="'" line="13" column="34" />
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="37" column="32" />
-        <mark key="." line="37" column="32" />
-        <mark key="^" line="37" column="32" />
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" timestamp="1505184921331">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="74" column="52" />
+        <mark key="." line="74" column="52" />
+        <mark key="^" line="74" column="52" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" timestamp="1504941059572">
         <mark key="'" line="18" column="30" />
@@ -355,10 +355,10 @@
         <mark key="^" line="233" column="57" />
         <mark key="." line="233" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" timestamp="1505100463800">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" timestamp="1505184200159">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="117" column="4" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="52" column="13" />
       </file>
@@ -374,7 +374,6 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/dependencies/materialize/bower_components/materialize/dist/css/materialize.css" timestamp="1505131312853" />
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
         <mark key="[" line="19" column="39" />
@@ -473,6 +472,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindPlusOneWinners.php" timestamp="1505186295093">
+        <mark key="'" line="43" column="16" />
+        <mark key="[" line="96" column="75" />
+        <mark key="]" line="96" column="85" />
+        <mark key="." line="96" column="85" />
+        <mark key="^" line="96" column="85" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" timestamp="1505048374092">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="124" column="12" />
@@ -500,11 +506,11 @@
         <mark key="]" line="57" column="67" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/PlusOneDuration.php" timestamp="1505097521916">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="14" column="51" />
+      <file name="$USER_HOME$/Code/live-pika/app/PlusOneDuration.php" timestamp="1505184293533">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496838914531">
         <mark key="'" line="221" column="103" />
@@ -620,12 +626,12 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1505118651784">
-        <mark key="'" line="82" column="50" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="90" column="234" />
+      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1505183970330">
+        <mark key="'" line="90" column="240" />
+        <mark key="[" line="78" column="53" />
+        <mark key="]" line="78" column="53" />
+        <mark key="." line="78" column="53" />
+        <mark key="^" line="66" column="57" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1504767101132">
         <mark key="'" line="2" column="76" />
@@ -678,8 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" />
-      <jump line="152" column="8" filename="$USER_HOME$/Code/live-pika/config/app.php" />
       <jump line="4" column="4" filename="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" />
       <jump line="15" column="20" filename="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" />
       <jump line="30" column="47" filename="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" />
@@ -715,7 +719,6 @@
       <jump line="57" column="136" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_070037_create_jobs_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/payment-tracker-controller.js" />
-      <jump line="16" column="18" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
       <jump line="2508" column="20" filename="$USER_HOME$/Code/live-pika/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="50" column="8" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
@@ -775,55 +778,58 @@
       <jump line="202" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="85" column="166" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="12" column="34" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" />
-      <jump line="90" column="234" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="82" column="50" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="40" column="14" filename="$USER_HOME$/Code/idx/frontend/public/dependencies/materialize/bower_components/materialize/sass/components/_form.scss" />
+      <jump line="90" column="240" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="16" column="4" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
+      <jump line="32" column="4" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindPlusOneWinners.php" />
+      <jump line="42" column="16" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindPlusOneWinners.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3stLTxmb3JtIGFjdGlvbj0iL2JpZHMvQHt7IGJpZC5pZCB9fS9wbHVzLW9uZS1kdXJhdGlvbnMvIiBtZXRob2Q9IlBPU1QiIGNsYXNzPSJkLWlubGluZS1ibG9jayIgdi1vbjpzdWJtaXQucHJldmVudD0ic3RhcnRQbHVzT25lRHVyYXRpb24oYmlkKSI+LS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLXt7IGNzcmZfZmllbGQoKSB9fS0tfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS17eyBtZXRob2RfZmllbGQoJ1BVVCcpIH19LS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBhZ2VfaWQiIHZhbHVlPSJ7eyAkcGFnZUlkIH19Ij4tLX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ey0tPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ibGl2ZV92aWRlb19pZCIgdmFsdWU9Int7ICRsaXZlVmlkZW9JZCB9fSI+LS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InZpZGVvX2lkIiB2YWx1ZT0ie3sgJHZpZGVvSWQgfX0iPi0tfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS08aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJva19mb3JfZXh0cmEiIHZhbHVlPSIxIj4tLX19CgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLTxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyIgdi1zaG93PSJiaWRkaW5nICYmIGN1cnJlbnRCaWRPa0ZvckV4dHJhIiB2LWJpbmQ6ZGlzYWJsZWQ9ImRpc2FibGVCdXR0b25zIj7ntZDmnZ8gKzE8L2J1dHRvbj4tLX19CiAgICAgICAgICAgICAgICAgICAgICAgIHt7LS08L2Zvcm0+IC0tfX0K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>inde</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZvcm0gdi1iaW5kOmFjdGlvbj0iJy9iaWRzLycgKyBiaWQuaWQgKyAnL3BsdXMtb25lLWR1cmF0aW9ucyciIG1ldGhvZD0iUE9TVCIgY2xhc3M9ImQtaW5saW5lLWJsb2NrIiB2LW9uOnN1Ym1pdC5wcmV2ZW50PSJzdGFydFBsdXNPbmVEdXJhdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBjc3JmX2ZpZWxkKCkgfX0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiIHYtYmluZDpkaXNhYmxlZD0iZGlzYWJsZUJ1dHRvbnMiPumWi+aUviArMTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBEaXNwYXRjaGFibGUsIEludGVyYWN0c1dpdGhRdWV1ZSwgUXVldWVhYmxlLCBTZXJpYWxpemVzTW9kZWxzOwoKICAgIHByb3RlY3RlZCAkYmlkOwoKICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqCiAgICAgKiBAcGFyYW0gQmlkICRiaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KEJpZCAkYmlkKQogICAgewogICAgICAgICR0aGlzLT5iaWQgPSAkYmlkOwogICAgfQoKICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaGFuZGxlKEZhY2Vib29rICRmYikKICAgIHsKICAgICAgICBpZiAoJHRoaXMtPmJpZC0+c3RhdHVzICE9PSBCaWQ6OkVOREVEKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgICRwYWdlID0gUGFnZTo6d2hlcmVQYWdlSWQoJHRoaXMtPmJpZC0+cGFnZV9pZCktPmZpcnN0T3JGYWlsKCk7CgogICAgICAgICRyZXNwb25zZSA9ICRmYi0+Z2V0TGl2ZVZpZGVvQ29tbWVudHMoWwogICAgICAgICAgICAnaWQnID0+ICR0aGlzLT5iaWQtPmxpdmVfdmlkZW9faWQsCiAgICAgICAgICAgICdhY2Nlc3NfdG9rZW4nID0+ICRwYWdlLT5hY2Nlc3NfdG9rZW4KICAgICAgICBdLCBbCiAgICAgICAgICAgICdmaWx0ZXInID0+ICdzdHJlYW0nLAogICAgICAgICAgICAnbGl2ZV9maWx0ZXInID0+ICdub19maWx0ZXInLAogICAgICAgICAgICAnb3JkZXInID0+ICdjaHJvbm9sb2dpY2FsJywKICAgICAgICAgICAgJ3NpbmNlJyA9PiAkdGhpcy0+YmlkLT5zdGFydGVkX2F0LT5zdWJTZWNvbmQoKS0+dG9Jc284NjAxU3RyaW5nKCkKICAgICAgICBdKTsKCiAgICAgICAgJGZpbmFsUHJpY2UgPSAwOwogICAgICAgICRzdGFydCA9IGZhbHNlOwogICAgICAgICRoYXNCaWRkZXIgPSBmYWxzZTsKCiAgICAgICAgJGNvbW1lbnRzID0gJHJlc3BvbnNlLT5nZXRHcmFwaEVkZ2UoKTsKCiAgICAgICAgZG8gewogICAgICAgICAgICBmb3JlYWNoICgkY29tbWVudHMgYXMgJGNvbW1lbnQpIHsKICAgICAgICAgICAgICAgIGlmICgkdGhpcy0+YmlkLT5zdGFydGluZ19jb21tZW50X2lkID09PSAkY29tbWVudFsnaWQnXSkgewogICAgICAgICAgICAgICAgICAgICRzdGFydCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5iaWQtPnN0b3BwaW5nX2NvbW1lbnRfaWQgPT09ICRjb21tZW50WydpZCddKSB7CiAgICAgICAgICAgICAgICAgICAgJHN0YXJ0ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgYnJlYWsgMjsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBpZiAoJHN0YXJ0KSB7CiAgICAgICAgICAgICAgICAgICAgJG1hdGNoZXMgPSBbXTsKICAgICAgICAgICAgICAgICAgICBwcmVnX21hdGNoKCcvXlxkKyQvJywgJGNvbW1lbnRbJ21lc3NhZ2UnXSwgJG1hdGNoZXMpOwoKICAgICAgICAgICAgICAgICAgICBpZiAoIWlzc2V0KCRtYXRjaGVzWzBdKSkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICRoYXNCaWRkZXIgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgICRwcmljZSA9IChpbnQpICRtYXRjaGVzWzBdOwoKICAgICAgICAgICAgICAgICAgICBpZiAoJHByaWNlIDwgJHRoaXMtPmJpZC0+c3RhcnRpbmdfcHJpY2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAoJHByaWNlIDw9ICRmaW5hbFByaWNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgJGZpbmFsUHJpY2UgPSAkcHJpY2U7CiAgICAgICAgICAgICAgICAgICAgJHdpbm5lckZhY2Vib29rVXNlcklkID0gYXJyYXlfZ2V0KCRjb21tZW50LCAnZnJvbS5pZCcpOwogICAgICAgICAgICAgICAgICAgICR3aW5uZXJGYWNlYm9va05hbWUgPSBhcnJheV9nZXQoJGNvbW1lbnQsICdmcm9tLm5hbWUnKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0gd2hpbGUgKCRjb21tZW50cyA9ICRmYi0+bmV4dCgkY29tbWVudHMpKTsKCiAgICAgICAgaWYgKCFpc3NldCgkd2lubmVyRmFjZWJvb2tVc2VySWQpKSB7CiAgICAgICAgICAgICR0aGlzLT5iaWQtPnVwZGF0ZShbCiAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAkaGFzQmlkZGVyID8gQmlkOjpFTkRFRF9XSVRIX1NUQVJUSU5HX1BSSUNFX05PVF9NQVRDSCA6IEJpZDo6RU5ERURfV0lUSF9OT19CSURERVIKICAgICAgICAgICAgXSk7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICAkd2lubmVyID0gV2lubmVyOjp1cGRhdGVPckNyZWF0ZSgKICAgICAgICAgICAgWydmYWNlYm9va191c2VyX2lkJyA9PiAkd2lubmVyRmFjZWJvb2tVc2VySWRdLAogICAgICAgICAgICBbJ2Z1bGxfbmFtZScgPT4gJHdpbm5lckZhY2Vib29rTmFtZV0KICAgICAgICApOwoKICAgICAgICAkdGhpcy0+YmlkLT51cGRhdGUoWwogICAgICAgICAgICAnZmluYWxfcHJpY2UnID0+ICRmaW5hbFByaWNlCiAgICAgICAgXSk7CgogICAgICAgICR0aGlzLT5iaWQtPndpbm5lcnMoKS0+c3luY1dpdGhvdXREZXRhY2hpbmcoWwogICAgICAgICAgICAkd2lubmVyLT5pZCA9PiBbJ2lzX3BsdXNfb25lJyA9PiBmYWxzZV0KICAgICAgICBdKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3stLTxmb3JtIGFjdGlvbj0iL2JpZHMvQHt7IGJpZC5pZCB9fS9wbHVzLW9uZS1kdXJhdGlvbnMvIiBtZXRob2Q9IlBPU1QiIGNsYXNzPSJkLWlubGluZS1ibG9jayIgdi1vbjpzdWJtaXQucHJldmVudD0ic3RhcnRQbHVzT25lRHVyYXRpb24oYmlkKSI+LS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLXt7IGNzcmZfZmllbGQoKSB9fS0tfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS17eyBtZXRob2RfZmllbGQoJ1BVVCcpIH19LS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBhZ2VfaWQiIHZhbHVlPSJ7eyAkcGFnZUlkIH19Ij4tLX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ey0tPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ibGl2ZV92aWRlb19pZCIgdmFsdWU9Int7ICRsaXZlVmlkZW9JZCB9fSI+LS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InZpZGVvX2lkIiB2YWx1ZT0ie3sgJHZpZGVvSWQgfX0iPi0tfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS08aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJva19mb3JfZXh0cmEiIHZhbHVlPSIxIj4tLX19CgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLTxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyIgdi1zaG93PSJiaWRkaW5nICYmIGN1cnJlbnRCaWRPa0ZvckV4dHJhIiB2LWJpbmQ6ZGlzYWJsZWQ9ImRpc2FibGVCdXR0b25zIj7ntZDmnZ8gKzE8L2J1dHRvbj4tLX19CiAgICAgICAgICAgICAgICAgICAgICAgIHt7LS08L2Zvcm0+IC0tfX0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoJGJpZC0+d2lubmVycygpLT53aGVyZVBpdm90KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQHt7ICFiaWQuaW5fcHJvZ3Jlc3NfcGx1c19vbmVfZHVyYXRpb24gfX0K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzd2l0Y2ggKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICBzdwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlkcyA9ICRiaWRzLT5lYWNoKGZ1bmN0aW9uICgkYmlkKSB7CiAgICAgICAgICAgICRiaWQtPmFkZFZpc2libGUoWwogICAgICAgICAgICAgICAgJ2xhc3RfcGx1c19vbmVfZHVyYXRpb24nID0+IGVuZCgkYmlkLT5wbHVzX29uZV9kdXJhdGlvbnMpID86IG51bGwKICAgICAgICAgICAgXSk7CiAgICAgICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmlkLT53aW5uZXJzKCktPnN5bmNXaXRob3V0RGV0YWNoaW5nKFsKICAgICAgICAgICAgJHdpbm5lci0+aWQgPT4gWydpc19wbHVzX29uZScgPT4gZmFsc2VdCiAgICAgICAgXSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YXJyYXlfbWVyZ2UoJGJpZC0+dG9BcnJheSgpLCBbCiAgICAgICAgICAgICAgICAnbGFzdF9wbHVzX29uZV9kdXJhdGlvbicgPT4gZW5kKCRiaWQtPnBsdXNfb25lX2R1cmF0aW9ucykKICAgICAgICAgICAgXSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmlkLT51cGRhdGUoWwogICAgICAgICAgICAnZmluYWxfcHJpY2UnID0+ICRmaW5hbFByaWNlCiAgICAgICAgXSk7Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJGJpZC0+dG9BcnJheSgKICAgICAgICAgICAgXQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkd2lubmVyID0gV2lubmVyOjp1cGRhdGVPckNyZWF0ZSgKICAgICAgICAgICAgWydmYWNlYm9va191c2VyX2lkJyA9PiAkd2lubmVyRmFjZWJvb2tVc2VySWRdLAogICAgICAgICAgICBbJ2Z1bGxfbmFtZScgPT4gJHdpbm5lckZhY2Vib29rTmFtZV0KICAgICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmJpZC0+dXBkYXRlKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRoYXNCaWRkZXIgPyBCaWQ6OkVOREVEX1dJVEhfU1RBUlRJTkdfUFJJQ0VfTk9UX01BVENIIDogQmlkOjpFTkRFRF9XSVRIX05PX0JJRERFUgogICAgICAgICAgICBdKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
