@@ -461,12 +461,12 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1505214317870">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1505300687649">
         <mark key="'" line="66" column="36" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="36" />
-        <mark key="^" line="66" column="36" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="7" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/User.php" timestamp="1498738289747">
         <mark key="'" line="7" column="6" />
@@ -542,6 +542,13 @@
         <mark key="]" line="57" column="67" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1505300933612">
+        <mark key="'" line="131" column="5" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/PlusOneDuration.php" timestamp="1505184293533">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="18" column="43" />
@@ -588,6 +595,13 @@
         <mark key="]" line="180" column="0" />
         <mark key="^" line="179" column="51" />
         <mark key="." line="180" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" timestamp="1505300885547">
+        <mark key="'" line="10" column="79" />
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
@@ -722,12 +736,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1505214553187">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1505299519817">
         <mark key="'" line="44" column="69" />
-        <mark key="[" line="4" column="61" />
-        <mark key="]" line="4" column="72" />
-        <mark key="." line="4" column="72" />
-        <mark key="^" line="4" column="72" />
+        <mark key="[" line="47" column="87" />
+        <mark key="]" line="47" column="90" />
+        <mark key="." line="47" column="90" />
+        <mark key="^" line="47" column="90" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" timestamp="1504933252018">
         <mark key="'" line="24" column="0" />
@@ -738,8 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
-      <jump line="39" column="7" filename="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" />
       <jump line="824" column="20" filename="$USER_HOME$/Code/live-pika/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="72" column="61" filename="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PageController.php" />
@@ -838,52 +850,96 @@
       <jump line="43" column="24" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="66" column="36" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
+      <jump line="10" column="79" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" />
+      <jump line="130" column="5" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>inde</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">44CQ56ysIHt7ICRudW1iZXJPZkJpZCB9fSDmqJnjgJHntZDmqJnvvIzoqIjnrpflvpfmqJnogIXkuK0uLi4K</text>
+        <text encoding="base64">ICAgIDxldmVudC1tb2RhbAogICAgICB2aXNpYmxlPSJpc1Nob3dBZGROZXdFdmVudE1vZGFsIgogICAgICBiYWNrZHJvcD0ic3RhdGljIgogICAgICBrZXlib2FyZD0iZmFsc2UiCiAgICA+PC9ldmVudC1tb2RhbD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IHt7ICRiaWRDb250ZW50IH19Cg==</text>
+      <register name="1" type="4">
+        <text>: 'REHEARSAL DINNER',
+            date: genFakeDate(2017, 6, 24),
+            address: 'Four Seasons Hotel',
+            attendings: 28,
+            invited: 78,
+            documents: 2,
+            type: 2,
+            time: '7pm-10pm',
+          },
+          {
+            name: 'CEREMONY',
+            date: genFakeDate(2017, 7, 2),
+            address: 'Four Seasons Hotel',
+            attendings: 87,
+            invited: 101,
+            documents: 16,
+            type: 3,
+            time: '6pm-9am',
+          },
+          {
+            name: 'RECEPTION',
+            date: genFakeDate(2017, 7, 2),
+            address: 'Taco Bell Express',
+            attendings: 78,
+            invited: 99,
+            documents: 4,
+            type: 4,
+            time: '11pm- No End Time',
+          },
+        ]
+      };
+    };
+
+    /**
+     * Sync event items in the right order.
+     *
+     * @param {object} event The event type
+     * @param {object} ui The ui elements
+     * @return None
+     */
+    function syncItems(evt, ui) {
+      $scope.$apply(function() {
+        var spliced = $scope.eventsData.events.splice(ui.item.context.dataset.drag</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IHshISAkYmlkQ29udGVudCAhIX0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2NvcGUuZXZlbnREYXRhKSB7CiAgICAgICAgICBzY29wZS5ldmVudERhdGEudGl0bGUgPSBzY29wZS5ldmVudFR5cGVzLmZpbmQoZnVuY3Rpb24gKGV2ZW50VHlwZSkgewogICAgICAgICAgICByZXR1cm4gZXZlbnRUeXBlLmlkID09PSBzY29wZS5ldmVudERhdGEudHlwZTsKICAgICAgICAgIH0pLm5hbWU7CiAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbnVtYmVyT2ZCaWQgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnRpbmdQcmljZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2NvcGUuZXZlbnREYXRhKSB7CiAgICAgICAgICBzY29wZS5ldmVudERhdGEudGl0bGUgPSBzY29wZS5ldmVudFR5cGVzLmZpbmQoZnVuY3Rpb24gKGV2ZW50VHlwZSkgewogICAgICAgICAgICByZXR1cm4gZXZlbnRUeXBlLmlkID09PSBzY29wZS5ldmVudERhdGEudHlwZTsKICAgICAgICAgIH0pLm5hbWU7CiAgICAgICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUNyZWF0ZWRBdCgnPD0nLCAkYmlkLT5jcmVhdGVkX2F0KQogICAgICAgICAgICAtPm9sZGVzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNjb3BlLmV2ZW50RGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaFRhZ3MgPSBbQmlkOjpFTkRFRCA9PiAnI+e1kOaomScsIEJpZDo6Q0FOQ0VMRUQgPT4gJyPmtYHmqJknXTsKICAgICAgICAkaGFzaFRhZyA9ICRoYXNoVGFnc1tjb25zdGFudChCaWQ6OmNsYXNzIC4gIjo6eyRyZXF1ZXN0LT5pbnB1dCgnc3RhdHVzJyl9IildOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNjb3BlLmV2ZW50RGF0YSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaFRhZ3MgPSBbQmlkOjpFTkRFRCA9PiAnI+e1kOaomScsIEJpZDo6Q0FOQ0VMRUQgPT4gJyPmtYHmqJknXTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -896,7 +952,7 @@
       <last-replace>:</last-replace>
       <last-substitute>inde</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
