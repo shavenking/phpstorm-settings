@@ -316,10 +316,10 @@
         <mark key="." line="129" column="60" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1505304020857">
-        <mark key="[" line="268" column="24" />
-        <mark key="]" line="269" column="20" />
-        <mark key="." line="269" column="20" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1505386807518">
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="25" />
+        <mark key="." line="73" column="25" />
         <mark key="^" line="269" column="20" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
@@ -716,6 +716,9 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
+      <file name="/Dummy.txt" timestamp="1505386785709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="31" />
@@ -922,14 +925,14 @@
       <jump line="49" column="61" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKS0+bnVsbGFibGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>2.4</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>receiver_name</text>
+        <text>2.4</text>
       </register>
       <register name="/" type="4">
         <text>inde</text>
