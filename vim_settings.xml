@@ -167,12 +167,12 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="99" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1505391875106">
-        <mark key="'" line="0" column="14" />
-        <mark key="[" line="86" column="14" />
-        <mark key="]" line="86" column="20" />
-        <mark key="." line="86" column="20" />
-        <mark key="^" line="86" column="20" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1505475772375">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="85" column="78" />
+        <mark key="]" line="85" column="79" />
+        <mark key="." line="85" column="79" />
+        <mark key="^" line="85" column="78" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -315,11 +315,10 @@
         <mark key="." line="129" column="60" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1505391094043">
-        <mark key="[" line="202" column="18" />
-        <mark key="]" line="203" column="48" />
-        <mark key="." line="203" column="48" />
-        <mark key="^" line="203" column="48" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1505476385275">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -600,12 +599,10 @@
         <mark key="]" line="57" column="67" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1505392023594">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="47" column="58" />
-        <mark key="]" line="48" column="25" />
-        <mark key="." line="48" column="25" />
-        <mark key="^" line="48" column="25" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1505475400701">
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="42" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/PlusOneDuration.php" timestamp="1505184293533">
         <mark key="[" line="14" column="52" />
@@ -711,6 +708,11 @@
         <mark key="." line="42" column="49" />
         <mark key="^" line="42" column="49" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" timestamp="1505474122499">
+        <mark key="'" line="374" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="51" column="12" />
@@ -718,7 +720,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505459915717">
+      <file name="/Dummy.txt" timestamp="1505474317954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -825,11 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_070037_create_jobs_table.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/payment-tracker-controller.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
-      <jump line="2508" column="20" filename="$USER_HOME$/Code/live-pika/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <jump line="50" column="8" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
       <jump line="114" column="37" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="59" column="20" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" />
@@ -925,52 +922,57 @@
       <jump line="19" column="40" filename="$USER_HOME$/Code/live-pika/vendor/geocoder-php/google-maps-provider/Model/GoogleAddress.php" />
       <jump line="38" column="53" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="9" column="141" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
+      <jump line="374" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/guest-household-detail-modal-directive.js" />
+      <jump line="104" column="10" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" />
+      <jump line="5" column="67" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" />
+      <jump line="39" column="24" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRvZGF5ID0gbmV3IERhdGU7Cgo=</text>
+        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IDAgcmdiYSgwLCAwLCAwLCAwLjUpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>getDate</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>re</text>
       </register>
-      <register name="0" type="4">
-        <text>bootstrap-datetime-picker</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAnJG5nQ29uZmlybScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRvZGF5ID0gbmV3IERhdGU7Cgo=</text>
+        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IDAgcmdiYSgwLCAwLCAwLCAwLjUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0RGF0ZTogW3RvZGF5LmdldEZ1bGxZZWFyKCksIHRvZGF5LmdldE1vbnRoKCksIHRvZGF5LmdldERhdGUoKV0uam9pbignLScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyAkc2NvcGUuZXZlbnRzRGF0YS5ldmVudHMgPSAkc2NvcGUuZXZlbnRzRGF0YS5ldmVudHMuZmlsdGVyKGZ1bmN0aW9uIChjYW5kaWRhdGUpIHsKICAgICAgICAgICAgICAvLyAgIHJldHVybiBjYW5kaWRhdGUuaWQgIT09IGV2ZW50LmlkOwogICAgICAgICAgICAgIC8vIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzY29wZS5pc1Nob3dFdmVudE1vZGFsID0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLmlzU2hvd0V2ZW50TW9kYWwgPSBmYWxzZTsKICAgICAgJHNjb3BlLmV2ZW50c0RhdGEuZXZlbnRzID0gJHNjb3BlLmV2ZW50c0RhdGEuZXZlbnRzLmZpbHRlcihmdW5jdGlvbiAoY2FuZGlkYXRlKSB7CiAgICAgICAgcmV0dXJuIGNhbmRpZGF0ZS5pZCAhPT0gZXZlbnQuaWQ7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRhZGRyZXNzKSkgewo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnJG5nQ29uZmlybScsCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAkbmdDb25maXJtKHsKICAgICAgICAgICAgYm94V2lkdGg6ICc0MDBweCcsCiAgICAgICAgICAgIHVzZUJvb3RzdHJhcDogZmFsc2UsCiAgICAgICAgICAgIHRpdGxlOiBgPHN0cm9uZz4ke2FwcEdsb2JhbFNldHRpbmcuc3RyaW5nSGludC5zaGFyZS5kZWxldGV9PC9zdHJvbmc+YCwKICAgICAgICAgICAgYnV0dG9uczogewogICAgICAgICAgICAgIHllczogewogICAgICAgICAgICAgICAgdGV4dDogYXBwR2xvYmFsU2V0dGluZy5zdHJpbmdIaW50LnNoYXJlLmRlbGV0ZSwKICAgICAgICAgICAgICAgIGFjdGlvbjogZnVuY3Rpb24oc2NvcGUpIHsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBidG5DbGFzczogJ2J0bi1yZWQnLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgbm86IHsKICAgICAgICAgICAgICAgIHRleHQ6IGFwcEdsb2JhbFNldHRpbmcuc3RyaW5nSGludC5zaGFyZS5jYW5jZWwsCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRlbGl2ZXJ5LT5zZW5kZXJfemlwX2NvZGUgPSBhcHAoJ2dlb2NvZGVyJyktPmdlb2NvZGUoJHJlcXVlc3QtPnNlbmRlcl9hZGRyZXNzKS0+Z2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
