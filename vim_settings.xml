@@ -10,12 +10,12 @@
         <mark key="^" line="1045" column="34" />
         <mark key="." line="1045" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" timestamp="1505373570792">
-        <mark key="'" line="51" column="61" />
-        <mark key="[" line="33" column="77" />
-        <mark key="]" line="33" column="85" />
-        <mark key="." line="33" column="85" />
-        <mark key="^" line="33" column="85" />
+      <file name="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" timestamp="1505456842086">
+        <mark key="'" line="64" column="119" />
+        <mark key="[" line="64" column="134" />
+        <mark key="]" line="64" column="139" />
+        <mark key="." line="64" column="139" />
+        <mark key="^" line="64" column="139" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496838650279">
         <mark key="'" line="19" column="28" />
@@ -704,11 +704,11 @@
         <mark key="^" line="59" column="2" />
         <mark key="." line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1505372985155">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
+      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1505456961067">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
         <mark key="'" line="25" column="7" />
@@ -824,7 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="21" column="15" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="96" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="24" column="70" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
@@ -924,61 +923,62 @@
       <jump line="84" column="19" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="70" column="20" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="49" column="61" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
+      <jump line="64" column="119" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50UGxhY2Vob2xkZXJzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>ID</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ID</text>
       </register>
       <register name="/" type="4">
-        <text>inde</text>
+        <text>re</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW5kaW5nczogMTUsCiAgICAgICAgICAgIGludml0ZWQ6IDM4LAogICAgICAgICAgICBkb2N1bWVudHM6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ0FsbFBheUxvZ2lzdGljc0lEJywgMjApLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50UGxhY2Vob2xkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50c0RhdGEuZXZlbnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3JlY2VpdmVyX3Bob25lX251bWJlcicsIDIwKS0+bnVsbGFibGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3JlY2VpdmVyX25hbWUnLCAyMCktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzY28pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50UGxhY2Vob2xkZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50c0RhdGEuZXZlbnRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD7lgpnoqLs8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChzY28pCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>inde</last-search>
+      <last-search>re</last-search>
       <last-offset />
-      <last-pattern>inde</last-pattern>
+      <last-pattern>re</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>inde</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stop</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>class</entry>
         <entry>budgetData</entry>
@@ -1006,6 +1005,7 @@
         <entry>sec</entry>
         <entry>name</entry>
         <entry>inde</entry>
+        <entry>re</entry>
       </history-search>
       <history-cmd>
         <entry>7d</entry>
