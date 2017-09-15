@@ -222,12 +222,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Bid.php" timestamp="1505368850671">
+      <file name="$USER_HOME$/Code/live-pika/app/Bid.php" timestamp="1505457659030">
         <mark key="'" line="18" column="32" />
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="." line="26" column="42" />
-        <mark key="^" line="26" column="34" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_015007_create_live_videos_table.php" timestamp="1505100360803">
         <mark key="[" line="21" column="20" />
@@ -444,11 +443,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" timestamp="1505372927330">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="46" />
-        <mark key="^" line="14" column="46" />
-        <mark key="." line="14" column="46" />
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" timestamp="1505458150333">
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/main.js" timestamp="1496753397779">
         <mark key="'" line="3" column="24" />
@@ -717,7 +716,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505388523935">
+      <file name="/Dummy.txt" timestamp="1505458536637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -926,14 +925,14 @@
       <jump line="64" column="119" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>ID</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>re</text>
@@ -942,34 +941,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ0FsbFBheUxvZ2lzdGljc0lEJywgMjApLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb3JkZXItPmRlbGl2ZXJ5LT51cGRhdGUoWwogICAgICAgICAgICAgICAgICAgICAgICAnc2VuZGVyX25hbWUnID0+ICRkZWxpdmVyeS0+c2VuZGVyX25hbWUsCiAgICAgICAgICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3JlY2VpdmVyX3Bob25lX251bWJlcicsIDIwKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoISRvcmRlci0+ZGVsaXZlcnktPnNlbmRlcl9uYW1lKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRvcmRlci0+ZGVsaXZlcnktPnNlbmRlcl9uYW1lID0gJGRlbGl2ZXJ5LT5zZW5kZXJfbmFtZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3JlY2VpdmVyX25hbWUnLCAyMCktPm51bGxhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50UGxhY2Vob2xkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmhhcygnc2VuZCcpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmV2ZW50c0RhdGEuZXZlbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3JlY2VpdmVyX3Bob25lX251bWJlcicsIDIwKS0+bnVsbGFibGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzY28pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3JlY2VpdmVyX25hbWUnLCAyMCktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
