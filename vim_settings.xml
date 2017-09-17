@@ -17,6 +17,12 @@
         <mark key="." line="69" column="59" />
         <mark key="^" line="69" column="59" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/custom-report.html" timestamp="1505631616995">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="74" column="49" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496838650279">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="35" column="41" />
@@ -356,11 +362,6 @@
         <mark key="^" line="50" column="81" />
         <mark key="." line="50" column="81" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/new-session/index.html" timestamp="1505302632408">
-        <mark key="[" line="127" column="42" />
-        <mark key="]" line="127" column="42" />
-        <mark key="." line="127" column="42" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1505364815772">
         <mark key="[" line="331" column="19" />
         <mark key="]" line="331" column="19" />
@@ -434,11 +435,6 @@
         <mark key="." line="321" column="13" />
         <mark key="^" line="322" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1505302858098">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" timestamp="1505368053519">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="128" column="10" />
@@ -471,11 +467,6 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/tests/Feature/LiveVideoBidTest.php" timestamp="1505356624323">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" timestamp="1505533204475">
         <mark key="'" line="31" column="23" />
@@ -572,11 +563,6 @@
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_05_113759_create_winners_table.php" timestamp="1505374863762">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/winners.blade.php" timestamp="1505288440539">
         <mark key="[" line="0" column="65" />
         <mark key="]" line="0" column="65" />
@@ -623,21 +609,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_054407_create_orders_table.php" timestamp="1505368931515">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidExtraWinners.php" timestamp="1504852700603">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="67" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1505475400701">
-        <mark key="[" line="51" column="42" />
-        <mark key="]" line="51" column="42" />
-        <mark key="." line="51" column="42" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" timestamp="1505550387824">
         <mark key="'" line="0" column="0" />
@@ -740,10 +716,13 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" timestamp="1505548334287">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" timestamp="1505631956723">
+        <mark key="a" line="102" column="31" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="109" column="35" />
+        <mark key="]" line="110" column="25" />
+        <mark key="." line="110" column="25" />
+        <mark key="^" line="110" column="25" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" timestamp="1504577386211">
         <mark key="'" line="4" column="4" />
@@ -772,7 +751,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505551044399">
+      <file name="/Dummy.txt" timestamp="1505631564354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -890,8 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DashboardController.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DashboardController.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DashboardController.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/live-pika/tests/Feature/DashboardTest.php" />
       <jump line="12" column="7" filename="$USER_HOME$/Code/live-pika/tests/Feature/DashboardTest.php" />
@@ -990,52 +967,54 @@
       <jump line="1" column="13" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" />
       <jump line="293" column="29" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" />
+      <jump line="100" column="31" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>6px</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>6px</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>
       </register>
       <register name="0" type="4">
-        <text>guest-list-icon-wrapper</text>
+        <text>togglShareModal()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLmJvcmRlci1jaXJjbGUgewogICAgd2lkdGg6IDM2cHg7CiAgICBoZWlnaHQ6IDM2cHg7CiAgICBib3JkZXItcmFkaXVzOiAxOHB4OwogICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7CiAgICBib3gtc2hhZG93OiAwcHggMXB4IDFweCAwcHggcmdiYSg1MCwgNTAsIDUwLCAwLjU5KTsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CgogICAgLmNvbG9yLWNpcmNsZSB7CiAgICAgIHdpZHRoOiAzMnB4OwogICAgICBoZWlnaHQ6IDMycHg7CiAgICAgIGJvcmRlci1yYWRpdXM6IDE2cHg7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwoKICAgICAgLmZhIHsKICAgICAgICBjb2xvcjogd2hpdGU7CiAgICAgICAgZm9udC1zaXplOiAyMHB4OwogICAgICAgIHRleHQtc2hhZG93OiAjMDAwIDBweCAxcHggMHB4OwogICAgICB9CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LXNoYWRvdzogbm9uZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYm9yZGVyLWNpcmNsZSI+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY29sb3ItY2lyY2xlIGJ1dHRvbi1hZGQiPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdXNlci1wbHVzIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJib3JkZXItY2lyY2xlIiBuZy1jbGljaz0idG9nZ2xTaGFyZU1vZGFsKCkiPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjb2xvci1jaXJjbGUgYnV0dG9uLXNoYXJlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXNoYXJlLXNxdWFyZS1vIj48L2k+CiAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogc2NhbGUtZm9udCgxMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJib3JkZXItY2lyY2xlIiBuZy1jbGljaz0ic2hvd0RlbGV0ZVJlcG9ydENvbmZpcm0oKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY29sb3ItY2lyY2xlIGJ1dHRvbi1kZWxldGUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCEtLTxkaXYgY2xhc3M9Imljby1idXR0b24tY2lyY2xlIiBzdHlsZT0ibWFyZ2luLXJpZ2h0OiA1cHg7Ij4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPHNwYW4gY2xhc3M9ImZhIGZhLXVzZXItcGx1cyIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4tLT4KICAgICAgICAgICAgICAgICAgPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0OiAxcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBib3JkZXI6IG5vbmU7CiAgdGV4dC1hbGlnbjogcmlnaHQ7Ki8K</text>
+        <text encoding="base64">ICAgICAgLmZhIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogI0U4QjQwQTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogNXB4Owo=</text>
+        <text encoding="base64">ICAgICAgLmZhIHsKICAgICAgICBsZWZ0OiAwcHg7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICNDRTdDQjQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmZmZmOwo=</text>
+        <text encoding="base64">CiAgICAuYnV0dG9uLWRlbGV0ZSB7CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -1048,7 +1027,7 @@
       <last-replace>:</last-replace>
       <last-substitute>inde</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
