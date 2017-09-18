@@ -798,12 +798,12 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1505717643388">
-        <mark key="'" line="85" column="36" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="146" />
-        <mark key="." line="101" column="76" />
-        <mark key="^" line="101" column="76" />
+      <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1505718395135">
+        <mark key="'" line="86" column="36" />
+        <mark key="[" line="103" column="48" />
+        <mark key="]" line="104" column="31" />
+        <mark key="." line="104" column="31" />
+        <mark key="^" line="104" column="31" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_18_062133_create_plus_one_quotas_table.php" timestamp="1505717446063">
         <mark key="'" line="6" column="6" />
@@ -988,14 +988,14 @@
       <jump line="85" column="36" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVNlc3Npb246OmhhcygicGFnZXMueyRiaWQtPnBhZ2VfaWR9LmFjY2Vzc190b2tlbiIpKSB7CiAgICAgICAgICAgIGFib3J0KDQwMyk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>
