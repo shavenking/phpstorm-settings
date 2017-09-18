@@ -37,12 +37,12 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" timestamp="1505723623689">
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" timestamp="1505734865104">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="21" column="76" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="21" column="76" />
-        <mark key="^" line="21" column="75" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
@@ -173,6 +173,13 @@
         <mark key="]" line="121" column="45" />
         <mark key="." line="93" column="47" />
         <mark key="^" line="141" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/live-pika/.env" timestamp="1505734924969">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" timestamp="1505550271137">
         <mark key="'" line="56" column="39" />
@@ -735,7 +742,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505716446289">
+      <file name="/Dummy.txt" timestamp="1505735039620">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -860,7 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
       <jump line="151" column="10" filename="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" />
@@ -960,16 +966,17 @@
       <jump line="152" column="22" filename="$USER_HOME$/Code/live-pika/resources/views/orders/create-plus-one.blade.php" />
       <jump line="116" column="58" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="17" column="63" filename="$USER_HOME$/Code/live-pika/resources/views/orders/create-plus-one.blade.php" />
+      <jump line="28" column="19" filename="$USER_HOME$/Code/live-pika/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZmllbGRzUGFyYW0gPSBpbXBsb2RlKCcsJywgJGZpZWxkcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>local</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>
