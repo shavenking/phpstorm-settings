@@ -731,12 +731,12 @@
         <mark key="]" line="55" column="23" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1503490460245">
-        <mark key="'" line="282" column="14" />
-        <mark key="[" line="56" column="62" />
-        <mark key="]" line="59" column="2" />
-        <mark key="^" line="59" column="2" />
-        <mark key="." line="59" column="2" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1505817643857">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="37" />
+        <mark key="^" line="15" column="59" />
+        <mark key="." line="29" column="37" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1505456961067">
         <mark key="[" line="40" column="33" />
@@ -767,12 +767,12 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1503490422624">
-        <mark key="'" line="65" column="14" />
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="36" column="40" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="36" column="40" />
+      <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1505817448866">
+        <mark key="'" line="95" column="27" />
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="38" column="41" />
+        <mark key="^" line="38" column="41" />
+        <mark key="." line="38" column="41" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1504765778077">
         <mark key="'" line="233" column="92" />
@@ -876,9 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="30" filename="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" />
-      <jump line="45" column="62" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" />
-      <jump line="42" column="41" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" />
       <jump line="9" column="6" filename="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" />
       <jump line="45" column="51" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
@@ -976,69 +973,71 @@
       <jump line="34" column="3" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneQuotaController.php" />
       <jump line="151" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="134" column="180" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="94" column="27" filename="$USER_HOME$/Code/idx/backend/app.js" />
+      <jump line="1598" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="15" column="16" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7ey0tYXhpb3MucG9zdCgne3sgcm91dGUoJ29yZGVycy5zdG9yZScsICRiaWQtPmlkKSB9fScsIHstLX19CiAgICAgICAgICAgIHt7LS1fdG9rZW46ICd7eyBjc3JmX3Rva2VuKCkgfX0nLC0tfX0KICAgICAgICAgICAge3stLWlzX3BsdXNfb25lOiB0cnVlLS19fQogICAgICAgIHt7LS19KS50aGVuKGZ1bmN0aW9uICgpIHstLX19CiAgICAgICAgICAgIHt7LS1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9hZGluZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7LS19fQogICAgICAgICAgICB7ey0tZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3N1Y2Nlc3MnKS5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJzstLX19CiAgICAgICAge3stLX0pLmNhdGNoKGZ1bmN0aW9uICgpIHstLX19CiAgICAgICAgICAgIHt7LS1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9hZGluZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7LS19fQogICAgICAgICAgICB7ey0tZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ZhaWxlZCcpLnN0eWxlLmRpc3BsYXkgPSAnYmxvY2snOy0tfX0KICAgICAgICB7ey0tfSk7LS19fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>, results</text>
       </register>
       <register name="/" type="4">
-        <text>receiver</text>
+        <text encoding="base64">XDx1cGRhdGVMYXN0QWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbWVzc2FnZSA9IHRyaW0odmlldygnYmlkcy5wbHVzLW9uZS1saW5rJywgWwogICAgICAgICAgICAnbnVtYmVyT2ZCaWQnID0+IEJpZDo6d2hlcmVMaXZlVmlkZW9JZCgkYmlkLT5saXZlX3ZpZGVvX2lkKS0+d2hlcmUoJ2lkJywgJzwnLCAkYmlkLT5pZCktPmNvdW50KCkgKyAxLAogICAgICAgICAgICAncGx1c09uZUxpbmsnID0+IHJvdXRlKCdvcmRlcnMuY3JlYXRlJywgJGJpZC0+aWQpCiAgICAgICAgXSktPnJlbmRlcigpKTsKCiAgICAgICAgJHRoaXMtPmZiLT5jb21tZW50T25WaWRlbygkbWVzc2FnZSwgWwogICAgICAgICAgICAnaWQnID0+ICRiaWQtPnZpZGVvX2lkLAogICAgICAgICAgICAnYWNjZXNzX3Rva2VuJyA9PiBzZXNzaW9uKCJwYWdlcy57JGJpZC0+cGFnZV9pZH0uYWNjZXNzX3Rva2VuIikKICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7ey0tYXhpb3MucG9zdCgne3sgcm91dGUoJ29yZGVycy5zdG9yZScsICRiaWQtPmlkKSB9fScsIHstLX19CiAgICAgICAgICAgIHt7LS1fdG9rZW46ICd7eyBjc3JmX3Rva2VuKCkgfX0nLC0tfX0KICAgICAgICAgICAge3stLWlzX3BsdXNfb25lOiB0cnVlLS19fQogICAgICAgIHt7LS19KS50aGVuKGZ1bmN0aW9uICgpIHstLX19CiAgICAgICAgICAgIHt7LS1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9hZGluZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7LS19fQogICAgICAgICAgICB7ey0tZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3N1Y2Nlc3MnKS5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJzstLX19CiAgICAgICAge3stLX0pLmNhdGNoKGZ1bmN0aW9uICgpIHstLX19CiAgICAgICAgICAgIHt7LS1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9hZGluZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7LS19fQogICAgICAgICAgICB7ey0tZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ZhaWxlZCcpLnN0eWxlLmRpc3BsYXkgPSAnYmxvY2snOy0tfX0KICAgICAgICB7ey0tfSk7LS19fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2dvZ29nbycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIubWVzc2FnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cnt7ICRwbHVzT25lTGluayB9fQo=</text>
+        <text encoding="base64">ICBlbHNlewogICAgcmVzLnNlbmRTdGF0dXMoMzAyKTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWdub3JlIGVycm9ycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7ey0tYXhpb3MucG9zdCgne3sgcm91dGUoJ29yZGVycy5zdG9yZScsICRiaWQtPmlkKSB9fScsIHstLX19CiAgICAgICAgICAgIHt7LS1fdG9rZW46ICd7eyBjc3JmX3Rva2VuKCkgfX0nLC0tfX0KICAgICAgICAgICAge3stLWlzX3BsdXNfb25lOiB0cnVlLS19fQogICAgICAgIHt7LS19KS50aGVuKGZ1bmN0aW9uICgpIHstLX19CiAgICAgICAgICAgIHt7LS1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9hZGluZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7LS19fQogICAgICAgICAgICB7ey0tZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3N1Y2Nlc3MnKS5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJzstLX19CiAgICAgICAge3stLX0pLmNhdGNoKGZ1bmN0aW9uICgpIHstLX19CiAgICAgICAgICAgIHt7LS1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9hZGluZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7LS19fQogICAgICAgICAgICB7ey0tZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ZhaWxlZCcpLnN0eWxlLmRpc3BsYXkgPSAnYmxvY2snOy0tfX0KICAgICAgICB7ey0tfSk7LS19fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2dvZ29nbycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cnt7ICRwbHVzT25lTGluayB9fQo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgJG1lc3NhZ2UgPSB0cmltKHZpZXcoJ2JpZHMucGx1cy1vbmUtc3VjY2VzcycsIFsKICAgICAgICAgICAgJ251bWJlck9mQmlkJyA9PiBCaWQ6OndoZXJlTGl2ZVZpZGVvSWQoJGJpZC0+bGl2ZV92aWRlb19pZCktPndoZXJlKCdpZCcsICc8JywgJGJpZC0+aWQpLT5jb3VudCgpICsgMSwKICAgICAgICAgICAgJ3dpbm5lck5hbWUnID0+ICR3aW5uZXItPmZ1bGxfbmFtZQogICAgICAgIF0pLT5yZW5kZXIoKSk7CgogICAgICAgICR0aGlzLT5mYi0+Y29tbWVudE9uVmlkZW8oJG1lc3NhZ2UsIFsKICAgICAgICAgICAgJ2lkJyA9PiAkYmlkLT52aWRlb19pZCwKICAgICAgICAgICAgJ2FjY2Vzc190b2tlbicgPT4gUGFnZTo6CiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWdub3JlIGVycm9ycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BsdXNPbmVMaW5rJyA9PiByb3V0ZSgnb3JkZXJzLmNyZWF0ZScsICRiaWQtPmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>14,16y</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>receiver</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVMYXN0QWN0aXZlXD4=</last-search>
       <last-offset />
-      <last-pattern>receiver</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVMYXN0QWN0aXZlXD4=</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>inde</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>budgetData</entry>
         <entry>date</entry>
         <entry>ng</entry>
@@ -1058,6 +1057,7 @@
         <entry>inde</entry>
         <entry>re</entry>
         <entry>receiver</entry>
+        <entry encoding="base64">XDx1cGRhdGVMYXN0QWN0aXZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>220,228y</entry>
@@ -1077,9 +1077,9 @@
         <entry>80d</entry>
         <entry>46d</entry>
         <entry>12y</entry>
-        <entry>noh</entry>
         <entry>8d</entry>
         <entry>14,16y</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
