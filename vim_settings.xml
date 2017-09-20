@@ -670,6 +670,12 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1505893816884">
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="407" column="65" />
+        <mark key="^" line="531" column="16" />
+        <mark key="." line="531" column="16" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" timestamp="1496456015754">
         <mark key="'" line="37" column="12" />
         <mark key="[" line="58" column="0" />
@@ -739,11 +745,12 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="34" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1505820448874">
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="42" column="1" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1505896340076">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="92" column="24" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1505456961067">
         <mark key="[" line="40" column="33" />
@@ -758,7 +765,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505875379665">
+      <file name="/Dummy.txt" timestamp="1505892364138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -774,12 +781,12 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1505817448866">
-        <mark key="'" line="95" column="27" />
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="38" column="41" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="38" column="41" />
+      <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1505894673863">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="57" column="28" />
+        <mark key="." line="57" column="28" />
+        <mark key="^" line="57" column="47" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1504765778077">
         <mark key="'" line="233" column="92" />
@@ -890,9 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
-      <jump line="202" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="12" column="34" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" />
       <jump line="82" column="50" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="40" column="14" filename="$USER_HOME$/Code/idx/frontend/public/dependencies/materialize/bower_components/materialize/sass/components/_form.scss" />
@@ -990,52 +994,55 @@
       <jump line="252" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" />
       <jump line="329" column="24" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
+      <jump line="36" column="30" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="55" column="31" filename="$USER_HOME$/Code/idx/backend/app.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/idx/backend/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kU3RhdHVzKDIwMSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>console.log(result)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVMYXN0QWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsPuWCmeiouzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBuYW1lPSJub3RlcyIgY29scz0iMzAiIHJvd3M9IjUiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9Im9yZGVyLmRlbGl2ZXJ5Lm5vdGVzIj48L3RleHRhcmVhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KHsgZXJyb3I6ICdpbnZhbGlkIGhvdXNlaG9sZCBpZCcgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kU3RhdHVzKDIwMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic2VuZGVyX25hbWUiIHZhbHVlPSJhd2Vzb21lIj4K</text>
+        <text encoding="base64">ICAgICAgaWQ6IDUsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdvcmRlcnMtbGluaycpLnN0eWxlLmRpc3BsYXkgPSAnYmxvY2snOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LnRoZW4ocmVzdWx0ID0+IHsKICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsKICAgIH0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmYWlsZWQnKS5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIgdGV4dC1jZW50ZXIiPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ29yZGVycy5pbmRleCcpIH19IiBpZD0ib3JkZXJzLWxpbmsiPuacieepuuaZguWFiOm7nuaIkeWhq+WuhemFjeizh+aWmeWTpu+8gTwvYT4K</text>
+        <text encoding="base64">ICByZXEuc2FuaXRpemVCb2R5KCcnKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3LTEwMCI+PC9kaXY+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LmNhdGNoKHJlc3VsdCA9PiB7CiAgfSk=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wiPgogICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnb3JkZXJzLmluZGV4JykgfX0iIGlkPSJvcmRlcnMtbGluayI+5pyJ56m65pmC5YWI6bue5oiR5aGr5a6F6YWN6LOH5paZ5ZOm77yBPC9hPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHJlcy5zdGF0dXMoNDAwKS5zZW5kKHJlc3VsdC5tYXBwZWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
