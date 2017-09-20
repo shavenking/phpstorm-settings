@@ -745,12 +745,12 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="34" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1505896340076">
-        <mark key="'" line="47" column="30" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="92" column="24" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1505908239024">
+        <mark key="'" line="49" column="23" />
+        <mark key="[" line="108" column="46" />
+        <mark key="]" line="192" column="15" />
+        <mark key="." line="192" column="15" />
+        <mark key="^" line="192" column="15" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1505456961067">
         <mark key="[" line="40" column="33" />
@@ -765,7 +765,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505892364138">
+      <file name="/Dummy.txt" timestamp="1505907243673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -897,9 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="34" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" />
-      <jump line="82" column="50" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="40" column="14" filename="$USER_HOME$/Code/idx/frontend/public/dependencies/materialize/bower_components/materialize/sass/components/_form.scss" />
       <jump line="90" column="240" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="16" column="4" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" />
       <jump line="32" column="4" filename="$USER_HOME$/Code/live-pika/app/Jobs/FindPlusOneWinners.php" />
@@ -997,52 +994,55 @@
       <jump line="36" column="30" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="55" column="31" filename="$USER_HOME$/Code/idx/backend/app.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/idx/backend/app.js" />
+      <jump line="92" column="17" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="49" column="23" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kU3RhdHVzKDIwMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eventId</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(result)</text>
+        <text>eventId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVMYXN0QWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KHsgZXJyb3I6ICdpbnZhbGlkIGhvdXNlaG9sZCBpZCcgfSk7Cg==</text>
+        <text encoding="base64">ICAvLyAgICAgICB0eXBlOiByZXEuYm9keS50eXBlLAogIC8vICAgICAgIHRpdGxlOiByZXEuYm9keS50aXRsZSwKICAvLyAgICAgICBsb2NhdGlvbjogcmVxLmJvZHkubG9jYXRpb24sCiAgLy8gICAgICAgc3RhcnRfZGF0ZTogcmVxLmJvZHkuc3RhcnRfZGF0ZSwKICAvLyAgICAgICBlbmRfZGF0ZTogcmVxLmJvZHkuZW5kX2RhdGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kU3RhdHVzKDIwMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRyeC51cGRhdGUoewogICAgICAgIHVzZXJfaWQ6IHJlcS51c2VyLmlkLAogICAgICB9KS5pbnRvKCdldl9ldmVudCcpLnJldHVybmluZygnaWQnKS50aGVuKGV2ZW50SWQgPT4gewoKICAgICAgICByZXR1cm4gdHJ4Lmluc2VydChkZXRhaWwpLmludG8oJ2V2X2RldGFpbCcpLnJldHVybmluZygnZXZlbnRfaWQnKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IDUsCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LnRoZW4ocmVzdWx0ID0+IHsKICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsKICAgIH0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZXZlbnQgPSBfLm1lcmdlKHt9LCB7CiAgICAgICAgdHlwZTogcmVxLmJvZHkudHlwZSwKICAgICAgICB0aXRsZTogcmVxLmJvZHkudGl0bGUsCiAgICAgICAgbG9jYXRpb246IHJlcS5ib2R5LmxvY2F0aW9uLAogICAgICAgIHN0YXJ0X2RhdGU6IHJlcS5ib2R5LnN0YXJ0X2RhdGUsCiAgICAgICAgZW5kX2RhdGU6IHJlcS5ib2R5LmVuZF9kYXRlCiAgICAgIH0pOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgICAgICBjb25zdCBkZXRhaWwgPSBfLm1lcmdlKHtldmVudF9pZDogcGFyc2VJbnQoZXZlbnRJZCl9LCB7CiAgLy8gICAgICAgICBtZW51OiBKU09OLnN0cmluZ2lmeShyZXEuYm9keS5tZW51KSwKICAvLyAgICAgICAgIGJhcl9zZWxlY3Rpb246IEpTT04uc3RyaW5naWZ5KHJlcS5ib2R5LmJhcl9zZWxlY3Rpb24pLAogIC8vICAgICAgICAgZmxvcmFsczogcmVxLmJvZHkuZmxvcmFscywKICAvLyAgICAgICAgIGVudGVydGFpbm1lbnQ6IEpTT04uc3RyaW5naWZ5KHJlcS5ib2R5LmVudGVydGFpbm1lbnQpLAogIC8vICAgICAgICAgZGVjb3I6IEpTT04uc3RyaW5naWZ5KHJlcS5ib2R5LmRlY29yKQogIC8vICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXEuc2FuaXRpemVCb2R5KCcnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LmNhdGNoKHJlc3VsdCA9PiB7CiAgfSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXN1bHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcy5zdGF0dXMoNDAwKS5zZW5kKHJlc3VsdC5tYXBwZWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
