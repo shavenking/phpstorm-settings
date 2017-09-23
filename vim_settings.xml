@@ -808,7 +808,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506133940621">
+      <file name="/Dummy.txt" timestamp="1506137584936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -944,18 +944,15 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1506135488515">
-        <mark key="'" line="982" column="0" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="19" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1506138257928">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="61" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="29" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" />
-      <jump line="100" column="31" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_18_062133_create_plus_one_quotas_table.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_015007_create_live_videos_table.php" />
@@ -1053,52 +1050,55 @@
       <jump line="24" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
       <jump line="619" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
       <jump line="977" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="137" column="4" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>checkBody</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>checkBody</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>$sParameters</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVxLmdldFZhbGlkYXRpb25SZXN1bHQoKTsK</text>
+        <text encoding="base64">ICByZXEuY2hlY2tCb2R5KCd1c2VybmFtZScpLm5vdEVtcHR5KCk7CiAgcmVxLnNhbml0aXplQm9keSgndXNlcm5hbWUnKS50cmltKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBjaGVja1NpZ25VcEJvZHkocmVxKS50aGVuKCgpID0+IHt9KQo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRGV0YWlscy51cGRhdGVPYXV0aFVzZXIoZGF0YSwgZnVuY3Rpb24gKGVyciwgZGF0YSkgewogICAgICAgICAgICAvLyBIYW5kbGUgRXJyb3JzCiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzLnNlbmRTdGF0dXMoNDAwKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlewoKICAgICAgICAgICAgICAgIGlmIChkYXRhLmlzT2F1dGhVc2VyKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIk5ldyBPYXV0aFVzZXI6ICIgKyBKU09OLnN0cmluZ2lmeShkYXRhKSk7CiAgICAgICAgICAgICAgICAgICAgcmVzLmpzb24oe2lzT2F1dGhVc2VyOiBkYXRhLmlzT2F1dGhVc2VyfSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9CgogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGF0YSA9IHsKICAgICAgICAgICAgbG9naW5faWQ6IHJlcS51c2VyLmxvZ2luX2lkLAogICAgICAgICAgICB1c2VyX2lkOiByZXEudXNlci5pZCwKICAgICAgICAgICAgYWNjb3VudFR5cGU6IHJlcS5ib2R5LmFjY291bnRUeXBlLAogICAgICAgICAgICBhY2NvdW50U3ViVHlwZTogcmVxLmJvZHkuYWNjb3VudFN1YlR5cGUsCiAgICAgICAgICAgIGlwX2FkZHJlc3M6IHJlcS5oZWFkZXJzWyd4LWZvcndhcmRlZC1mb3InXSB8fAogICAgICAgICAgICAgICAgICAgICAgICByZXEuY29ubmVjdGlvbi5yZW1vdGVBZGRyZXNzIHx8CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5zb2NrZXQucmVtb3RlQWRkcmVzcyB8fAogICAgICAgICAgICAgICAgICAgICAgICByZXEuY29ubmVjdGlvbi5zb2NrZXQucmVtb3RlQWRkcmVzcywKICAgICAgICAgICAgZm5hbWU6IHJlcS5ib2R5LmZuYW1lLAogICAgICAgICAgICBsbmFtZTogcmVxLmJvZHkubG5hbWUsCiAgICAgICAgICAgIHNleDogcmVxLmJvZHkuc2V4LAogICAgICAgICAgICBzcG91c2VfZm5hbWU6IHJlcS5ib2R5LnNwb3VzZV9mbmFtZSwKICAgICAgICAgICAgc3BvdXNlX2xuYW1lOiByZXEuYm9keS5zcG91c2VfbG5hbWUsCiAgICAgICAgICAgIHNwb3VzZV9zZXg6IHJlcS5ib2R5LnNwb3VzZV9zZXgsCiAgICAgICAgICAgIGRhdGU6IHJlcS5ib2R5LmRhdGUsCiAgICAgICAgICAgIGxvY2F0aW9uOnJlcS5ib2R5LmxvY2F0aW9uLAogICAgICAgICAgICBjb3VudHJ5OnJlcS5ib2R5LmNvdW50cnksCiAgICAgICAgICAgIGN1bHR1cmU6IHJlcS5ib2R5LmN1bHR1cmUsCiAgICAgICAgICAgIGNpdHk6cmVxLmJvZHkuY2l0eSwKICAgICAgICAgICAgZ3Vlc3RzOnJlcS5ib2R5Lmd1ZXN0cywKICAgICAgICAgICAgYnVkZ2V0OiByZXEuYm9keS5idWRnZXQsCiAgICAgICAgICAgIHN0eWxlOiByZXEuYm9keS5zdHlsZSwKICAgICAgICAgICAgdHlwZTogcmVxLmJvZHkudHlwZSwKICAgICAgICAgICAgY29sb3I6IHJlcS5ib2R5LmNvbG9yLAogICAgICAgICAgICB0b2tlbjogJ3ZhbGlkYXRlZCcKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGNoZWNrU2lnblVwQm9keShyZXEpLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXEuZ2V0UmV1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcS5jaGVja0JvZHkoJ2lwX2FkZHJlc3MnKS5ub3RFbXB0eSgpLmlzSVAoKTsKICAgIHJlcS5zYW5pdGl6ZUJvZHkoJ2lwX2FkZHJlc3MnKS50cmltKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcS5jaGVja0JvZHkoJ3Nwb3VzZV9mbmFtZScpLm5vdEVtcHR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRzUGFyYW1ldGVycy8kcGFyYW1zL2c=</text>
