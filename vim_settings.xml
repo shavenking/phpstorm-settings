@@ -808,7 +808,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506131833171">
+      <file name="/Dummy.txt" timestamp="1506133940621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -944,10 +944,15 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1506134137253">
+        <mark key="'" line="667" column="36" />
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" />
-      <jump line="2" column="40" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/sub-menu.html" />
       <jump line="120" column="31" filename="$USER_HOME$/Code/idx/frontend/public/style/raw-css/custom.css" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/raw-css/custom.css" />
       <jump line="1" column="13" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" />
@@ -1046,52 +1051,54 @@
       <jump line="97" column="14" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" />
       <jump line="84" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" />
       <jump line="24" column="109" filename="$USER_HOME$/Code/live-pika/resources/views/pages.blade.php" />
+      <jump line="587" column="36" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="645" column="36" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgJy8n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlcS5jaGVja0JvZHkoJ3NleCcpLm5vdEVtcHR5KCkuaXNJbihbJ20nLCAnZiddKTsKICAgIHJlcS5zYW5pdGl6ZUJvZHkoJ3NleCcpLnRyaW0oKTsK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJy8n</text>
+        <text>fname</text>
       </register>
       <register name="/" type="4">
         <text>$sParameters</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+dmlldygnZGVsaXZlcmllcy1kb2N1bWVudC1hbGwnLCBjb21wYWN0KCdsaXZlVmlkZW8nKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcS5jaGVja0JvZHkoJ3NleCcpLm5vdEVtcHR5KCkuaXNJbihbJ20nLCAnZiddKTsKICAgIHJlcS5zYW5pdGl6ZUJvZHkoJ3NleCcpLnRyaW0oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAogICAgQGVuZGZvcmVhY2gK</text>
+        <text encoding="base64">ICAgIHJlcS5jaGVja0JvZHkoJ3Nwb3VzZV9mbmFtZScpLm5vdEVtcHR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBmb3JlYWNoICgkbGl2ZVZpZGVvLT5iaWRzIGFzICRiaWQpCiAgICAgICAgQGZvcmVhY2ggKCRiaWQtPm9yZGVycyBhcyAkb3JkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAogICAgQGVuZGZvcmVhY2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAkZGVsaXZlcnkgPSAkZWNwYXktPmNyZWF0ZU9yZGVyKCRkZWxpdmVyeSk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBhYm9ydCg1MDAsICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIEBmb3JlYWNoICgkbGl2ZVZpZGVvLT5iaWRzIGFzICRiaWQpCiAgICAgICAgQGZvcmVhY2ggKCRiaWQtPm9yZGVycyBhcyAkb3JkZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+c3RyZWFtKGZ1bmN0aW9uICgpIHVzZSAoJGRlbGl2ZXJ5KSB7CiAgICAgICAgICAgIHJlYWRmaWxlKCRkZWxpdmVyeS0+dHJhZGVfZG9jdW1lbnRfdXJsKTsKICAgICAgICB9LCAyMDAsIFsKICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZScgPT4gJ2FwcGxpY2F0aW9uL29jdGV0LXN0cmVhbScsCiAgICAgICAgICAgICdDb250ZW50LURpc3Bvc2l0aW9uJyA9PiAiYXR0YWNobWVudDsgZmlsZW5hbWU9JGRlbGl2ZXJ5LT5ib29raW5nX25vdGUuanBnIgogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAkZGVsaXZlcnkgPSAkZWNwYXktPmNyZWF0ZU9yZGVyKCRkZWxpdmVyeSk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBhYm9ydCg1MDAsICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+c3RyZWFtKGZ1bmN0aW9uICgpIHVzZSAoJGRlbGl2ZXJ5KSB7CiAgICAgICAgICAgIHJlYWRmaWxlKCRkZWxpdmVyeS0+dHJhZGVfZG9jdW1lbnRfdXJsKTsKICAgICAgICB9LCAyMDAsIFsKICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZScgPT4gJ2FwcGxpY2F0aW9uL29jdGV0LXN0cmVhbScsCiAgICAgICAgICAgICdDb250ZW50LURpc3Bvc2l0aW9uJyA9PiAiYXR0YWNobWVudDsgZmlsZW5hbWU9JGRlbGl2ZXJ5LT5ib29raW5nX25vdGUuanBnIgogICAgICAgIF0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0cmFkZV9kb2N1bWVudF91cmwnID0+ICR0aGlzLT5nZXRUcmFkZURvY3VtZW50VXJsKCRkZWxpdmVyeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RyYWRlX2RvY3VtZW50X3VybCcgPT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0cmFkZV9kb2N1bWVudF91cmwnID0+ICR0aGlzLT5nZXRUcmFkZURvY3VtZW50VXJsKCRkZWxpdmVyeSkK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RyYWRlX2RvY3VtZW50X3VybCcgPT4gJHRoaXMtPmdldFRyYWRlRG9jdW1lbnRVcmwoJGRlbGl2ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYWRlX2RvY3VtZW50X3VybCcgPT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNldEludGVydmFsKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHRoaXMuZ2V0T3JkZXJzKCk7CiAgICAgICAgICAgIH0uYmluZCh0aGlzKSwgMiAqIDEwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYWRlX2RvY3VtZW50X3VybCcgPT4gJHRoaXMtPmdldFRyYWRlRG9jdW1lbnRVcmwoJGRlbGl2ZXJ5KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRzUGFyYW1ldGVycy8kcGFyYW1zL2c=</text>
