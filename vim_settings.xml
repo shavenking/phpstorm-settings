@@ -51,6 +51,12 @@
         <mark key="." line="58" column="38" />
         <mark key="^" line="58" column="38" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/repos.html" timestamp="1506223605209">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="66" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="53" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="58" column="76" />
@@ -246,6 +252,11 @@
         <mark key="]" line="108" column="52" />
         <mark key="." line="108" column="52" />
         <mark key="^" line="108" column="52" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/index.html" timestamp="1506225239777">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
         <mark key="'" line="44" column="0" />
@@ -493,6 +504,12 @@
         <mark key="." line="63" column="68" />
         <mark key="^" line="63" column="68" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/how-i-deploy-this-site.md" timestamp="1506225406803">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PageController.php" timestamp="1505969924169">
         <mark key="'" line="34" column="19" />
         <mark key="[" line="43" column="57" />
@@ -534,12 +551,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506220128350">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="19" column="22" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506225060600">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+        <mark key="^" line="19" column="59" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
@@ -913,6 +930,11 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.md" timestamp="1506222608477">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1505551440933">
         <mark key="[" line="645" column="14" />
         <mark key="]" line="644" column="14" />
@@ -924,6 +946,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/article.html" timestamp="1506222558751">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1505542285732">
         <mark key="'" line="44" column="69" />
@@ -966,10 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="44" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="296" column="17" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="124" column="91" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/live-pika/app/Jobs/PageNotify.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneQuotaController.php" />
       <jump line="295" column="34" filename="$USER_HOME$/Code/live-pika/resources/views/orders/create-plus-one.blade.php" />
       <jump line="152" column="22" filename="$USER_HOME$/Code/live-pika/resources/views/orders/create-plus-one.blade.php" />
@@ -1066,61 +1089,65 @@
       <jump line="26" column="21" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
       <jump line="23" column="4" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
       <jump line="6" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="19" column="7" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWguSGFuZGxlRnVuYygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>repos</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>blog</text>
+        <text>repos</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXEuY2hlY2tCb2R5KCd1c2VybmFtZScpLm5vdEVtcHR5KCk7CiAgcmVxLnNhbml0aXplQm9keSgndXNlcm5hbWUnKS50cmltKCk7Cg==</text>
+        <text encoding="base64">CXQsIF8gOj0gdGVtcGxhdGUuUGFyc2VGaWxlcygiLi90ZW1wbGF0ZXMvcmVwb3MuaHRtbCIpCgoJcmVzcG9uc2UuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IikKCXQuRXhlY3V0ZShyZXNwb25zZSwgcmVwb3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWguSGFuZGxlRnVuYygpCg==</text>
+        <text encoding="base64">ICA8aDI+R2l0SHViIFJlcG9zPC9oMj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICA8aDI+UmVwb3M8L2gyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vImZtdCIK</text>
+        <text encoding="base64">ICAgICAgICA8dWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vImZtdCIK</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">ICAgIDxsaT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcG9zKQoKCXJldHVybiBbXVJlcG97fSwgbmlsCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">QVdFU09NRXt7Ln19Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoaSIpCg==</text>
+        <text encoding="base64">e3sufX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJlcG9zIDo9IFJlcG9ze30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>7d</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>$params</last-replace>
       <last-substitute>$sParameters</last-substitute>
       <last-dir>1</last-dir>
@@ -1128,7 +1155,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Jg==</entry>
         <entry>7.0</entry>
         <entry>php7.1</entry>
         <entry>php7.0</entry>
@@ -1148,6 +1174,7 @@
         <entry>url</entry>
         <entry>$sParameters</entry>
         <entry>make</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>29y</entry>
@@ -1167,9 +1194,9 @@
         <entry>8d</entry>
         <entry>14,16y</entry>
         <entry encoding="base64">JzwsJz5zLyRzUGFyYW1ldGVycy8kcGFyYW1zL2c=</entry>
-        <entry>noh</entry>
         <entry>4d</entry>
         <entry>7d</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
