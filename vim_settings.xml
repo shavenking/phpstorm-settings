@@ -106,6 +106,12 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/head.html" timestamp="1506220406334">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/TagGuesser.php" timestamp="1500553264368">
         <mark key="'" line="27" column="20" />
         <mark key="[" line="15" column="47" />
@@ -528,12 +534,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506219227947">
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506220128350">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="18" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
@@ -1062,8 +1068,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>blog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWguSGFuZGxlRnVuYygpCg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1078,34 +1084,34 @@
         <text encoding="base64">ICByZXEuY2hlY2tCb2R5KCd1c2VybmFtZScpLm5vdEVtcHR5KCk7CiAgcmVxLnNhbml0aXplQm9keSgndXNlcm5hbWUnKS50cmltKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWguSGFuZGxlRnVuYygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vImZtdCIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CS8vImZtdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CS8vImZtdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcG9zKQoKCXJldHVybiBbXVJlcG97fSwgbmlsCg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcG9zKQoKCXJldHVybiBbXVJlcG97fSwgbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoaSIpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJlcG9zIDo9IFJlcG9ze30K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoaSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSBSZXBvcyBzdHJ1Y3QgewoJUmVwbyBbXVJlcG8KfQoK</text>
+        <text encoding="base64">CXJlcG9zIDo9IFJlcG9ze30K</text>
       </register>
       <register name=":" type="4">
         <text>7d</text>
