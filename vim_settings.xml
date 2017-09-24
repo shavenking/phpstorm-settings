@@ -245,6 +245,12 @@
         <mark key="." line="85" column="79" />
         <mark key="^" line="85" column="78" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1506232662432">
+        <mark key="[" line="2" column="83" />
+        <mark key="]" line="2" column="83" />
+        <mark key="^" line="2" column="83" />
+        <mark key="." line="2" column="83" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
         <mark key="[" line="65" column="78" />
@@ -359,12 +365,11 @@
         <mark key="." line="193" column="20" />
         <mark key="^" line="193" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.travis.yml" timestamp="1506227371690">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.travis.yml" timestamp="1506232376289">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/stop.blade.php" timestamp="1505287968311">
         <mark key="[" line="0" column="0" />
@@ -1114,14 +1119,14 @@
       <jump line="7" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbGljYXRpb246IHNoYXZlbmtpbmctbWUK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>repos</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -1130,34 +1135,34 @@
         <text encoding="base64">CXQsIF8gOj0gdGVtcGxhdGUuUGFyc2VGaWxlcygiLi90ZW1wbGF0ZXMvcmVwb3MuaHRtbCIpCgoJcmVzcG9uc2UuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IikKCXQuRXhlY3V0ZShyZXNwb25zZSwgcmVwb3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbGljYXRpb246IHNoYXZlbmtpbmctbWUK</text>
+        <text encoding="base64">ZGVwbG95OgogIHByb3ZpZGVyOiBnYWUKICBrZXlmaWxlOiBjbGllbnQtc2VjcmV0Lmpzb24KICBwcm9qZWN0OiBzaGF2ZW5raW5nLW1lCmJlZm9yZV9pbnN0YWxsOgotIG9wZW5zc2wgYWVzLTI1Ni1jYmMgLUsgJGVuY3J5cHRlZF8wNDI1NDg3ZTUzYTNfa2V5IC1pdiAkZW5jcnlwdGVkXzA0MjU0ODdlNTNhM19pdgogIC1pbiBjbGllbnQtc2VjcmV0Lmpzb24uZW5jIC1vdXQgY2xpZW50LXNlY3JldC5qc29uIC1kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8aDI+R2l0SHViIFJlcG9zPC9oMj4K</text>
+        <text encoding="base64">YXBwbGljYXRpb246IHNoYXZlbmtpbmctbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8aDI+UmVwb3M8L2gyPgo=</text>
+        <text encoding="base64">ICA8aDI+R2l0SHViIFJlcG9zPC9oMj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dWw+Cg==</text>
+        <text encoding="base64">ICA8aDI+UmVwb3M8L2gyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dWw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsaT4K</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIDxsaT4K</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVdFU09NRXt7Ln19Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sufX0K</text>
+        <text encoding="base64">QVdFU09NRXt7Ln19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
