@@ -186,6 +186,13 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1506218941339">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="25" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504953431258">
         <mark key="'" line="128" column="14" />
         <mark key="[" line="104" column="0" />
@@ -521,12 +528,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1503891121748">
-        <mark key="'" line="28" column="5" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="15" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506219227947">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
@@ -953,11 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/custom-report.scss" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_18_062133_create_plus_one_quotas_table.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_015007_create_live_videos_table.php" />
-      <jump line="85" column="36" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="115" column="155" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="127" column="44" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="296" column="17" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="124" column="91" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
@@ -1053,61 +1055,66 @@
       <jump line="137" column="4" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
       <jump line="63" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="26" column="21" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
+      <jump line="23" column="4" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>blog</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>blog</text>
       </register>
       <register name="/" type="4">
-        <text>$sParameters</text>
+        <text>make</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXEuY2hlY2tCb2R5KCd1c2VybmFtZScpLm5vdEVtcHR5KCk7CiAgcmVxLnNhbml0aXplQm9keSgndXNlcm5hbWUnKS50cmltKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">CS8vImZtdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vImZtdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcG9zKQoKCXJldHVybiBbXVJlcG97fSwgbmlsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoZWNrU2lnblVwQm9keShyZXEpLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoaSIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">CXJlcG9zIDo9IFJlcG9ze30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dHlwZSBSZXBvcyBzdHJ1Y3QgewoJUmVwbyBbXVJlcG8KfQoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyRzUGFyYW1ldGVycy8kcGFyYW1zL2c=</text>
+        <text>7d</text>
       </register>
     </registers>
     <search>
-      <last-search>$sParameters</last-search>
+      <last-search>make</last-search>
       <last-offset />
-      <last-pattern>$sParameters</last-pattern>
+      <last-pattern>make</last-pattern>
       <last-replace>$params</last-replace>
       <last-substitute>$sParameters</last-substitute>
       <last-dir>1</last-dir>
@@ -1115,7 +1122,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font-size</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>7.0</entry>
         <entry>php7.1</entry>
@@ -1135,10 +1141,9 @@
         <entry>each</entry>
         <entry>url</entry>
         <entry>$sParameters</entry>
+        <entry>make</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5ub2g=</entry>
-        <entry>set rnu</entry>
         <entry>29y</entry>
         <entry>Noh</entry>
         <entry>232y</entry>
@@ -1155,8 +1160,10 @@
         <entry>12y</entry>
         <entry>8d</entry>
         <entry>14,16y</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLyRzUGFyYW1ldGVycy8kcGFyYW1zL2c=</entry>
+        <entry>noh</entry>
+        <entry>4d</entry>
+        <entry>7d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
