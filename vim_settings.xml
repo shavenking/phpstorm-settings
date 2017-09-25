@@ -43,12 +43,11 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" timestamp="1506307948977">
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" timestamp="1506323213310">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/repos.html" timestamp="1506223605209">
         <mark key="[" line="12" column="53" />
@@ -56,6 +55,7 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php" timestamp="1506323253742" />
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="58" column="76" />
@@ -674,12 +674,12 @@
         <mark key="." line="1686" column="37" />
         <mark key="^" line="1686" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" timestamp="1505723882967">
+      <file name="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" timestamp="1506323266529">
         <mark key="'" line="9" column="6" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-        <mark key="." line="36" column="19" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
@@ -1086,13 +1086,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>getLoginUrl</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>getLoginUrl</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -1101,34 +1101,34 @@
         <text encoding="base64">ICAgICAgICAuaC0xMDAgewogICAgICAgICAgICBtaW4taGVpZ2h0OiAxMDAlOwogICAgICAgICAgICBtaW4taGVpZ2h0OiAxMDB2aDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2ZhY2Vib29rX2dldF90b2tlbicpIH19Ij7pu57miJHkvb/nlKjoh4nmm7jnmbvlhaXvvIE8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImRpc3BsYXktMSI+TGl2ZSBQaWthPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2ZhY2Vib29rX2dldF90b2tlbicpIH19Ij7pu57miJHkvb/nlKjoh4nmm7jnmbvlhaXvvIE8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIGgtMTAwIj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImRpc3BsYXktMSI+TGl2ZSBQaWthPC9wPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBoLTEwMCBhbGlnbi1pdGVtcy1jZW50ZXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgIDxwIGNsYXNzPSJkaXNwbGF5LTEiPkxpdmUgUGlrYTwvcD4KICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2ZhY2Vib29rX2dldF90b2tlbicpIH19Ij7pu57miJHkvb/nlKjoh4nmm7jnmbvlhaXvvIE8L2E+CiAgICAgICAgICAgIDxocj4KICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtc2Vjb25kYXJ5Ij4KICAgICAgICAgICAgICAgIOWuouacje+8miBzaGF2ZW5raW5nQGdtYWlsLmNvbSB8IDxhIGhyZWY9Int7IHJvdXRlKCdwcml2YWN5LXBvbGljeScpIH19Ij7pmrHnp4HmlL/nrZY8L2E+CiAgICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIGgtMTAwIj4KPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBoLTEwMCBhbGlnbi1pdGVtcy1jZW50ZXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgIDxwIGNsYXNzPSJkaXNwbGF5LTEiPkxpdmUgUGlrYTwvcD4KICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2ZhY2Vib29rX2dldF90b2tlbicpIH19Ij7pu57miJHkvb/nlKjoh4nmm7jnmbvlhaXvvIE8L2E+CiAgICAgICAgICAgIDxocj4KICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtc2Vjb25kYXJ5Ij4KICAgICAgICAgICAgICAgIOWuouacje+8miBzaGF2ZW5raW5nQGdtYWlsLmNvbSB8IDxhIGhyZWY9Int7IHJvdXRlKCdwcml2YWN5LXBvbGljeScpIH19Ij7pmrHnp4HmlL/nrZY8L2E+CiAgICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c3R5bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LXNlY29uZGFyeSI+5a6i5pyN77yaIHNoYXZlbmtpbmdAZ21haWwuY29tPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3R5bGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvbD4KICAgICAgICAgICAgICAgICAgICA8bGk+aGk8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT53b3JsZDwvbGk+CiAgICAgICAgICAgICAgICA8L29sPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LXNlY29uZGFyeSI+5a6i5pyN77yaIHNoYXZlbmtpbmdAZ21haWwuY29tPC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
