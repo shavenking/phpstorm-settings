@@ -56,7 +56,6 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php" timestamp="1506323253742" />
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="58" column="76" />
@@ -238,12 +237,8 @@
         <mark key="." line="120" column="27" />
         <mark key="^" line="118" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1505475772375">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1506327418877">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="85" column="78" />
-        <mark key="]" line="85" column="79" />
-        <mark key="." line="85" column="79" />
-        <mark key="^" line="85" column="78" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1506232662432">
         <mark key="[" line="2" column="83" />
@@ -406,11 +401,11 @@
         <mark key="." line="129" column="60" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1505549529366">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506326442947">
+        <mark key="[" line="200" column="30" />
+        <mark key="]" line="200" column="31" />
         <mark key="^" line="40" column="5" />
-        <mark key="." line="34" column="32" />
+        <mark key="." line="200" column="31" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -642,12 +637,12 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/event-modal.html" timestamp="1505391280661">
-        <mark key="'" line="41" column="34" />
-        <mark key="[" line="48" column="68" />
-        <mark key="]" line="48" column="78" />
-        <mark key="^" line="48" column="78" />
-        <mark key="." line="48" column="78" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/event-modal.html" timestamp="1506326717428">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="48" column="49" />
+        <mark key="]" line="48" column="53" />
+        <mark key="^" line="48" column="53" />
+        <mark key="." line="48" column="53" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/winners.blade.php" timestamp="1505878967861">
         <mark key="[" line="2" column="0" />
@@ -774,12 +769,12 @@
         <mark key="^" line="180" column="58" />
         <mark key="." line="180" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" timestamp="1505548768046">
-        <mark key="'" line="54" column="20" />
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="83" column="20" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" timestamp="1506327291917">
+        <mark key="'" line="77" column="14" />
+        <mark key="[" line="83" column="41" />
+        <mark key="]" line="83" column="47" />
+        <mark key="." line="83" column="47" />
+        <mark key="^" line="83" column="47" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
@@ -848,6 +843,9 @@
         <mark key="]" line="51" column="12" />
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506326719424">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
@@ -977,15 +975,9 @@
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1506235195160">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="61" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneQuotaController.php" />
-      <jump line="32" column="68" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="34" column="3" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneQuotaController.php" />
       <jump line="151" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="134" column="180" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
@@ -1084,16 +1076,18 @@
       <jump line="38" column="41" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" />
       <jump line="88" column="25" filename="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" />
+      <jump line="31" column="18" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/event-modal.html" />
+      <jump line="77" column="14" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>manage_pages</text>
+        <text>default</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>manage_pages</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
