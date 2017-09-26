@@ -3,6 +3,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_CARET_BLINKING" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
@@ -10,5 +11,8 @@
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="3" />
   </component>
 </application>
