@@ -97,7 +97,7 @@
         <mark key="^" line="92" column="13" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1503816895103">
+      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1506421005559">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="20" />
         <mark key="]" line="34" column="20" />
@@ -700,11 +700,6 @@
         <mark key="]" line="289" column="23" />
         <mark key="." line="289" column="23" />
         <mark key="^" line="289" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1506411402363">
-        <mark key="[" line="82" column="63" />
-        <mark key="]" line="82" column="63" />
-        <mark key="." line="82" column="63" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1505542820859">
         <mark key="[" line="284" column="54" />
