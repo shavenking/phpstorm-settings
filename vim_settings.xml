@@ -827,11 +827,12 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="34" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506408553762">
-        <mark key="'" line="323" column="12" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506428032475">
+        <mark key="'" line="352" column="4" />
+        <mark key="[" line="335" column="45" />
+        <mark key="]" line="336" column="70" />
+        <mark key="." line="336" column="70" />
+        <mark key="^" line="336" column="70" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1506063224146">
         <mark key="'" line="6" column="6" />
@@ -978,12 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1137" column="37" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="315" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="252" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" />
-      <jump line="329" column="24" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="36" column="30" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="55" column="31" filename="$USER_HOME$/Code/idx/backend/app.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/idx/backend/app.js" />
       <jump line="92" column="17" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
@@ -1026,7 +1021,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="56" column="8" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="165" column="40" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="167" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="107" column="59" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
@@ -1078,67 +1072,62 @@
       <jump line="138" column="20" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
       <jump line="76" column="28" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="324" column="21" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="297" column="40" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="314" column="23" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="360" column="86" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="350" column="4" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.then(function (response) {
-          $scope.events.push(Object.assign(response.data, {
-            attendings: 15,
-            invited: 38,
-            documents: 0
-          }));
-        })</text>
+        <text>'*'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>'*'</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmV2ZW50cy5wdXNoKE9iamVjdC5hc3NpZ24ocmVzcG9uc2UuZGF0YSwgewogICAgICAgICAgICAgIGF0dGVuZGluZ3M6IDE1LAogICAgICAgICAgICAgIGludml0ZWQ6IDM4LAogICAgICAgICAgICAgIGRvY3VtZW50czogMAogICAgICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIC5sZWZ0Sm9pbignZXZfZGV0YWlsJywgJ2V2X2V2ZW50LmlkJywgJ2V2X2RldGFpbC5ldmVudF9pZCcpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.then(function (response) {
-          $scope.events.push(Object.assign(response.data, {
-            attendings: 15,
-            invited: 38,
-            documents: 0
-          }));
-        })</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QXR0YWNobWVudChyZXEucGFyYW1zLmV2ZW50SWQsIHJlcS5wYXJhbXMuYXR0YWNobWVudElkKS50aGVuKGF0dGFjaG1lbnQgPT4gewoKICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBrbmV4KCdldl9hdHRhY2htZW50Jykud2hlcmUoe2lkOiByZXEucGFyYW1zLmF0dGFjaG1lbnRJZCwgZXZlbnRfaWQ6IHJlcS5wYXJhbXMuZXZlbnRJZH0pLmRlbCgpLnRoZW4oKCkgPT4gewogICAgICAgICAgICBpZiAoYXR0YWNobWVudC50eXBlID09PSAnZmlsZScpIHsKICAgICAgICAgICAgICByZXR1cm4ga25leCgnZXZfYXR0YWNobWVudF9jb250ZW50Jykud2hlcmUoe2lkOiBhdHRhY2htZW50LmF0dGFjaG1lbnRfaWR9KS5kZWwoKS50aGVuKCgpID0+IHJlcy5zZW5kU3RhdHVzKDIwNCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gcmVzLnNlbmRTdGF0dXMoMjA0KTsKICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gbmV3bHkgY3JlYXRlZCBldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghYXR0YWNobWVudCkgewogICAgICAgICAgICByZXR1cm4gcmVzLnNlbmRTdGF0dXMoNDA0KTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLmV2ZW50cyA9IHNjb3BlLmV2ZW50cy5maWx0ZXIoZnVuY3Rpb24gKGNhbmRpZGF0ZSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gY2FuZGlkYXRlLmlkICE9PSBldmVudC5pZDsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5zZW5kU3RhdHVzKDIwNCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuZXZlbnRzRGF0YS5ldmVudHMucHVzaChPYmplY3QuYXNzaWduKGV2ZW50LCB7CiAgICAgICAgLy8gICBpZDogTWF0aC5yYW5kb20oKSwKICAgICAgICAvLyAgIGF0dGVuZGluZ3M6IDE1LAogICAgICAgIC8vICAgaW52aXRlZDogMzgsCiAgICAgICAgLy8gICBkb2N1bWVudHM6IDAsCiAgICAgICAgLy8gfSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5kb3dubG9hZChhdHRhY2htZW50LiwgYXR0YWNobWVudC5uYW1lLCBmdW5jdGlvbiAoZXJyb3IpIHsKICAgICAgICAgICAgICBpZiAoZXJyb3IpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXMuc2VuZFN0YXR1cyg1MDApOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGdldEF0dGFjaG1lbnQocmVxLnBhcmFtcy5ldmVudElkLCByZXEucGFyYW1zLmF0dGFjaG1lbnRJZCkudGhlbihhdHRhY2htZW50ID0+IHsKICAgICAgICAgICAgaWYgKCFhdHRhY2htZW50IHx8IGF0dGFjaG1lbnQudHlwZSAhPT0gJ2ZpbGUnKSB7CiAgICAgICAgICAgICAgcmV0dXJuIHJlcy5zZW5kU3RhdHVzKDQwNCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLiRhcHBseShmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>391y</text>
       </register>
     </registers>
     <search>
@@ -1174,7 +1163,6 @@
         <entry>path</entry>
       </history-search>
       <history-cmd>
-        <entry>29y</entry>
         <entry>Noh</entry>
         <entry>232y</entry>
         <entry>6d</entry>
@@ -1194,6 +1182,7 @@
         <entry>4d</entry>
         <entry>7d</entry>
         <entry>noh</entry>
+        <entry>391y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
