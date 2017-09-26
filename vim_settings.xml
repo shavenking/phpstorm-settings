@@ -347,12 +347,6 @@
         <mark key="." line="193" column="20" />
         <mark key="^" line="193" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.travis.yml" timestamp="1506232376289">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/stop.blade.php" timestamp="1505287968311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -464,12 +458,6 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_040105_create_pages_table.php" timestamp="1506310002439">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ShortestPath/index.php" timestamp="1501913548946">
         <mark key="'" line="10" column="15" />
@@ -887,6 +875,7 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/live-pika/package.json" timestamp="1506395392932" />
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_18_062133_create_plus_one_quotas_table.php" timestamp="1505972787602">
         <mark key="'" line="6" column="6" />
         <mark key="[" line="18" column="37" />
