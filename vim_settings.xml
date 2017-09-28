@@ -713,6 +713,9 @@
         <mark key="^" line="42" column="19" />
         <mark key="." line="42" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/idx/package.json" timestamp="1506581528331">
+        <mark key="'" line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" timestamp="1505550387824">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="288" column="28" />
@@ -853,11 +856,11 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506580078727">
-        <mark key="'" line="273" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506585389997">
+        <mark key="'" line="90" column="17" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
         <mark key="'" line="25" column="7" />
@@ -866,7 +869,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506510127552">
+      <file name="/Dummy.txt" timestamp="1506585402086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1004,13 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="13" column="48" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="199" column="11" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="284" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="217" column="0" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="220" column="10" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
-      <jump line="92" column="12" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="18" column="4" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="215" column="43" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
@@ -1103,17 +1099,24 @@
       <jump line="446" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" />
       <jump line="217" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" />
       <jump line="452" column="14" filename="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" />
+      <jump line="5" column="8" filename="$USER_HOME$/Code/idx/package.json" />
+      <jump line="3" column="5" filename="$USER_HOME$/Code/idx/package.json" />
       <jump line="281" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="254" column="46" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="189" column="28" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="211" column="33" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="39" column="40" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="90" column="17" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2FuaXRpemUob3JpZ2luYWxPYmplY3QsIHNjaGVtYSkgewogIGlmICghXy5pc05pbChzY2hlbWEpKSB7CiAgICBjb25zdCB1blBlcm1pdHRlZEtleXMgPSBfLmRpZmZlcmVuY2UoXy5rZXlzKG9yaWdpbmFsT2JqZWN0KSwgXy5rZXlzKHNjaGVtYSkpOwogICAgcmV0dXJuIF8ob3JpZ2luYWxPYmplY3QpLm9taXQodW5QZXJtaXR0ZWRLZXlzKS5vbWl0QnkoXy5pc1VuZGVmaW5lZCkudmFsdWUoKTsKICB9CiAgcmV0dXJuIG9yaWdpbmFsT2JqZWN0Owp9Cgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0QXR0YWNobWVudChldmVudElkLCBhdHRhY2htZW50SWQpIHsKICByZXR1cm4ga25leC5zZWxlY3QoWwogICAgJ2lkJywgJ2V2ZW50X2lkJywgJ2NhdGVnb3J5JywgJ25hbWUnLCAndHlwZScsICdwYXRoJywgJ3NpemUnCiAgXSkuZnJvbSgnZXZfYXR0YWNobWVudCcpCiAgICAud2hlcmUoe2lkOiBhdHRhY2htZW50SWQsIGV2ZW50X2lkOiBldmVudElkfSkKICAgIC50aGVuKHJlc3VsdCA9PiBfLmZpcnN0KHJlc3VsdCkpOwp9Cgo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>stack-1x</text>
+        <text>400</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -1122,37 +1125,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNlc3Npb246OnB1dCgicGFnZXMueyRwYWdlLT5pZH0uYWNjZXNzX3Rva2VuIiwgJHBhZ2UtPmFjY2Vzc190b2tlbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2FuaXRpemUob3JpZ2luYWxPYmplY3QsIHNjaGVtYSkgewogIGlmICghXy5pc05pbChzY2hlbWEpKSB7CiAgICBjb25zdCB1blBlcm1pdHRlZEtleXMgPSBfLmRpZmZlcmVuY2UoXy5rZXlzKG9yaWdpbmFsT2JqZWN0KSwgXy5rZXlzKHNjaGVtYSkpOwogICAgcmV0dXJuIF8ob3JpZ2luYWxPYmplY3QpLm9taXQodW5QZXJtaXR0ZWRLZXlzKS5vbWl0QnkoXy5pc1VuZGVmaW5lZCkudmFsdWUoKTsKICB9CiAgcmV0dXJuIG9yaWdpbmFsT2JqZWN0Owp9Cgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0QXR0YWNobWVudChldmVudElkLCBhdHRhY2htZW50SWQpIHsKICByZXR1cm4ga25leC5zZWxlY3QoWwogICAgJ2lkJywgJ2V2ZW50X2lkJywgJ2NhdGVnb3J5JywgJ25hbWUnLCAndHlwZScsICdwYXRoJywgJ3NpemUnCiAgXSkuZnJvbSgnZXZfYXR0YWNobWVudCcpCiAgICAud2hlcmUoe2lkOiBhdHRhY2htZW50SWQsIGV2ZW50X2lkOiBldmVudElkfSkKICAgIC50aGVuKHJlc3VsdCA9PiBfLmZpcnN0KHJlc3VsdCkpOwp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAocmVxLmJvZHkudHlwZSAhPT0gJ2ZpbGUnKSB7CiAgICByZXR1cm4gcmVzLnNlbmRTdGF0dXMoNTAwKTsKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuZmEgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgZm9udC1zaXplOiBpbmhlcml0OwogIH0KCiAgLmZhLXN0YWNrLTJ4IHsKICAgIGZvbnQtc2l6ZTogMmVtOwogIH0K</text>
+        <text encoding="base64">ZnVuY3Rpb24gYmFkUmVxdWVzdChlcnJvcikgewogIAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICM5QzQ0OEU7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICNDRTdDQjQ7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICM3OUI3Mzc7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gY2hlY2tCb2R5Rm9yQXR0YWNobWVudChyZXEpLnRoZW4oZXJyb3IgPT4gewogICAgaWYgKCFlcnJvci5pc0VtcHR5KCkpIHsKICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoNDAwKS5zZW5kKGVycm9yLm1hcHBlZCgpKTsKICAgIH0KCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSguOSwgLjkpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gY2hlY2tQYXJhbUZvckF0dGFjaG1lbnQocmVxKS50aGVuKGVycm9yID0+IHsKICAgIGlmICghZXJyb3IuaXNFbXB0eSgpKSB7CiAgICAgIHJldHVybiByZXMuc3RhdHVzKDQwMCkuc2VuZChlcnJvci5tYXBwZWQoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>9,14y</text>
+        <text>381d</text>
       </register>
     </registers>
     <search>
@@ -1188,8 +1191,6 @@
         <entry>path</entry>
       </history-search>
       <history-cmd>
-        <entry>232y</entry>
-        <entry>6d</entry>
         <entry>5d</entry>
         <entry encoding="base64">JzwsJz5zLyYvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzcuMC83LjEvZw==</entry>
@@ -1208,6 +1209,8 @@
         <entry>noh</entry>
         <entry>391y</entry>
         <entry>9,14y</entry>
+        <entry>282d</entry>
+        <entry>381d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
