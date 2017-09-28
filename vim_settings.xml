@@ -856,8 +856,8 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506585389997">
-        <mark key="'" line="90" column="17" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506586501007">
+        <mark key="'" line="136" column="0" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
@@ -869,7 +869,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506585402086">
+      <file name="/Dummy.txt" timestamp="1506586217591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1007,7 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" />
       <jump line="215" column="43" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
       <jump line="83" column="52" filename="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" />
@@ -1107,6 +1106,7 @@
       <jump line="211" column="33" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="39" column="40" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="90" column="17" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
