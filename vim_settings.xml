@@ -104,11 +104,12 @@
         <mark key="." line="34" column="20" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/semantic-versioning.md" timestamp="1506650468408">
-        <mark key="[" line="22" column="69" />
-        <mark key="]" line="22" column="68" />
-        <mark key="^" line="22" column="68" />
-        <mark key="." line="22" column="68" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/semantic-versioning.md" timestamp="1506654386573">
+        <mark key="'" line="148" column="16" />
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
         <mark key="'" line="23" column="0" />
@@ -1027,7 +1028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="22" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="132" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="243" column="15" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="225" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
@@ -1127,6 +1127,7 @@
       <jump line="295" column="13" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="296" column="15" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="79" column="118" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
+      <jump line="146" column="16" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/semantic-versioning.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
