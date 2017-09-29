@@ -251,12 +251,12 @@
         <mark key="." line="120" column="27" />
         <mark key="^" line="118" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1506410365046">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="32" column="17" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1506686230660">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="53" />
+        <mark key="." line="43" column="53" />
+        <mark key="^" line="43" column="53" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1506232662432">
         <mark key="[" line="2" column="83" />
@@ -420,11 +420,11 @@
         <mark key="." line="129" column="60" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506409279045">
-        <mark key="[" line="352" column="36" />
-        <mark key="]" line="352" column="48" />
-        <mark key="^" line="352" column="48" />
-        <mark key="." line="352" column="48" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506686040957">
+        <mark key="[" line="389" column="23" />
+        <mark key="]" line="389" column="29" />
+        <mark key="." line="389" column="29" />
+        <mark key="^" line="389" column="29" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -510,11 +510,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1506409103956">
-        <mark key="[" line="217" column="25" />
-        <mark key="]" line="217" column="101" />
-        <mark key="^" line="217" column="101" />
-        <mark key="." line="217" column="101" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" timestamp="1506686241712">
+        <mark key="'" line="234" column="23" />
+        <mark key="[" line="243" column="18" />
+        <mark key="]" line="243" column="21" />
+        <mark key="." line="243" column="21" />
+        <mark key="^" line="243" column="21" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Services/ECPayLogistics.php" timestamp="1506068181919">
         <mark key="[" line="63" column="52" />
@@ -662,11 +663,11 @@
         <mark key="^" line="443" column="3" />
         <mark key="." line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/event-modal.html" timestamp="1506410114425">
-        <mark key="[" line="49" column="95" />
-        <mark key="]" line="49" column="102" />
-        <mark key="." line="49" column="102" />
-        <mark key="^" line="49" column="102" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/event-modal.html" timestamp="1506683768730">
+        <mark key="[" line="49" column="320" />
+        <mark key="]" line="49" column="362" />
+        <mark key="." line="49" column="362" />
+        <mark key="^" line="49" column="362" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/winners.blade.php" timestamp="1505878967861">
         <mark key="[" line="2" column="0" />
@@ -890,7 +891,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506680039190">
+      <file name="/Dummy.txt" timestamp="1506682211385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1028,8 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="243" column="15" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="225" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="249" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="213" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
@@ -1128,52 +1127,54 @@
       <jump line="296" column="15" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="79" column="118" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="146" column="16" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/semantic-versioning.md" />
+      <jump line="232" column="18" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" />
+      <jump line="234" column="23" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/date-direactive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log(process.env.SERVER_PORT);</text>
+        <text>false</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(process.env.SERVER_PORT);</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jb250ZW50ID0gJyc7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc3RhcnRpbmdfcHJpY2UgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkKGVsZW1lbnQpLmZpbmQoJy5idG4tc3RhcnQtdGltZS11bmRlY2lkZWQnKS5odG1sKCdObyBTdGFydCBUaW1lJykub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5maW5kKCcuYm9vdHN0cmFwLWRhdGV0aW1lcGlja2VyLXdpZGdldCcpLnRvZ2dsZSgpOwogICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLmN1cnJlbnRCaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYmlkZGluZyA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpZGRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQ6ICdVbmRlY2lkZWQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5iaWRkaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBvbkNsaWNrSGFuZGxlciA9IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIH07CgogICAgICAgICAgc3dpdGNoICh0eXBlKSB7CiAgICAgICAgICAgIGNhc2UgJ2RhdGUnOgogICAgICAgICAgICAgICQoJy5idG4tZGF0ZS11bmRlY2lkZWQnKS5odG1sKCdVbmRlY2lkZWQnKS5vbignY2xpY2snLCBvbkNsaWNrSGFuZGxlcik7CiAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ3N0YXJ0X3RpbWUnOgogICAgICAgICAgICAgICQoJy5idG4tc3RhcnQtdGltZS11bmRlY2lkZWQnKS5odG1sKCdObyBTdGFydCBUaW1lJykub24oJ2NsaWNrJywgb25DbGlja0hhbmRsZXIpOwogICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICdlbmRfdGltZSc6CiAgICAgICAgICAgICAgLy8gJCgnLmJ0bi1lbmQtdGltZS11bmRlY2lkZWQnKS5odG1sKCdObyBFbmQgVGltZScpLm9uKCdjbGljaycsIG9uQ2xpY2tIYW5kbGVyKTsKICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5iaWRkaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5iaWRkaW5nID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLmJvb3RzdHJhcC1kYXRldGltZXBpY2tlci13aWRnZXQuZHJvcGRvd24tbWVudScpLmhpZGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50QmlkQ29udGVudCA9ICcnOwogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmN1cnJlbnRCaWRJZCA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciAkZWxlbWVudCA9ICQoZWxlbWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50QmlkQ29udGVudCA9ICcnOwogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmN1cnJlbnRCaWRJZCA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50QmlkSWQ6ICcnLAogICAgICAgICAgICAgICAgICAgIGN1cnJlbnRCaWRDb250ZW50OiAnJywKICAgICAgICAgICAgICAgICAgICBjdXJyZW50QmlkU3RhcnRpbmdQcmljZTogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoJGVsZW1lbnQuZmluZCgnLmJ0bi1lbmQtdGltZS11bmRlY2lkZWQnKS5odG1sKCkgIT09ICdObyBFbmQgVGltZScpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaWRkaW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>381d</text>
