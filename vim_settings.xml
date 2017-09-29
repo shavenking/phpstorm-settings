@@ -450,12 +450,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1506599203605">
+      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1506665371402">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="50" column="8" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" timestamp="1505184921331">
         <mark key="'" line="14" column="34" />
