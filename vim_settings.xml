@@ -251,9 +251,9 @@
         <mark key="." line="120" column="27" />
         <mark key="^" line="118" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1506686230660">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1506753655310">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="43" column="50" />
+        <mark key="[" line="15" column="21" />
         <mark key="]" line="43" column="53" />
         <mark key="." line="43" column="53" />
         <mark key="^" line="43" column="53" />
@@ -420,11 +420,11 @@
         <mark key="." line="129" column="60" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506686040957">
-        <mark key="[" line="389" column="23" />
-        <mark key="]" line="389" column="29" />
-        <mark key="." line="389" column="29" />
-        <mark key="^" line="389" column="29" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506753410518">
+        <mark key="[" line="407" column="29" />
+        <mark key="]" line="408" column="23" />
+        <mark key="." line="408" column="23" />
+        <mark key="^" line="408" column="23" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -735,6 +735,12 @@
         <mark key="." line="289" column="23" />
         <mark key="^" line="289" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1506752949064">
+        <mark key="[" line="136" column="36" />
+        <mark key="]" line="136" column="45" />
+        <mark key="^" line="136" column="45" />
+        <mark key="." line="136" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1505542820859">
         <mark key="[" line="284" column="54" />
         <mark key="]" line="284" column="54" />
@@ -874,12 +880,6 @@
         <mark key="]" line="40" column="25" />
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506586501007">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
         <mark key="'" line="25" column="7" />
@@ -1129,14 +1129,14 @@
       <jump line="63" column="4" filename="$USER_HOME$/Code/idx/backend/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>checkStep5Body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyogICAgICBvcGFjaXR5OiAuNTsKICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IDAgcmdiYSgwLCAwLCAwLCAwLjUpOyovCg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>checkStep5Body</text>
+        <text>$scope.eve</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -1145,37 +1145,37 @@
         <text encoding="base64">ICByZXR1cm4gc2VuZEJhZFJlcXVlc3RJZlZhbGlkYXRpb25GYWlsZWQocmVxLCByZXMsIG5leHQpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">LyogICAgICBvcGFjaXR5OiAuNTsKICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IDAgcmdiYSgwLCAwLCAwLCAwLjUpOyovCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
     min: 0,
     max: 9999
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgLy8gVE9ETzogVmFsaWRhdGUgUGFyYW1zCgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICByZXEuc2FuaXRpemVCb2R5KCd1bmRlY2lkZWRfZGF0ZScpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICByZXEK</text>
+        <text encoding="base64">ICAgIGlzCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICByZXEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgLy8gVE9ETzogVmFsaWRhdGUgUGFyYW1zCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41y</text>
