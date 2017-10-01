@@ -4,11 +4,12 @@
     <property name="created">2017-09-20T10:19:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-20T10:25:40</property>
+    <property name="modified">2017-10-01T13:06:02</property>
     <property name="originalScheme">Darcula - dlsniper</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <attributes>
     <option name="GO_EXPORTED_FUNCTION">
       <value>

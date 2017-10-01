@@ -496,6 +496,12 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="20" column="66" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1506835048837">
+        <mark key="'" line="11" column="52" />
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500697049517">
         <mark key="'" line="259" column="0" />
         <mark key="[" line="321" column="12" />
@@ -727,19 +733,18 @@
         <mark key="^" line="42" column="19" />
         <mark key="." line="42" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/middlewares/ensureAuthenticated.js" timestamp="1506834920348">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" timestamp="1505550387824">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="288" column="28" />
         <mark key="]" line="289" column="23" />
         <mark key="." line="289" column="23" />
         <mark key="^" line="289" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" timestamp="1506832941849">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="171" column="10" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1505542820859">
         <mark key="[" line="284" column="54" />
@@ -894,7 +899,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506682211385">
+      <file name="/Dummy.txt" timestamp="1506835087868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1032,7 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="52" column="34" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
@@ -1132,10 +1136,11 @@
       <jump line="151" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
       <jump line="26" column="25" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
+      <jump line="11" column="52" filename="$USER_HOME$/Code/idx/backend/routes/rIndex.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1151,7 +1156,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>\s\s</text>
