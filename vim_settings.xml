@@ -23,6 +23,12 @@
         <mark key="^" line="59" column="77" />
         <mark key="." line="59" column="89" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rAdmin.js" timestamp="1506837810991">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/custom-report.html" timestamp="1505631616995">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -55,6 +61,12 @@
         <mark key="]" line="12" column="66" />
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/list-controller.js" timestamp="1506838298889">
+        <mark key="[" line="446" column="42" />
+        <mark key="]" line="446" column="44" />
+        <mark key="." line="446" column="44" />
+        <mark key="^" line="446" column="44" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
@@ -124,12 +136,30 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/my-budget-controller.js" timestamp="1506838326009">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/pages/show.blade.php" timestamp="1506480959390">
         <mark key="'" line="22" column="39" />
         <mark key="[" line="19" column="71" />
         <mark key="]" line="19" column="74" />
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/list-controller-default.js" timestamp="1506838244086">
+        <mark key="[" line="404" column="41" />
+        <mark key="]" line="404" column="43" />
+        <mark key="." line="404" column="43" />
+        <mark key="^" line="404" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/calendar-directive.js" timestamp="1506838384817">
+        <mark key="[" line="86" column="35" />
+        <mark key="]" line="86" column="37" />
+        <mark key="." line="86" column="37" />
+        <mark key="^" line="86" column="37" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Guesser/TagGuesser.php" timestamp="1500553264368">
         <mark key="'" line="27" column="20" />
@@ -157,6 +187,12 @@
         <mark key="]" line="21" column="65" />
         <mark key="^" line="17" column="34" />
         <mark key="." line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rReminderLists.js" timestamp="1506837358914">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="70" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/welcome-diverge.blade.php" timestamp="1506338561059">
         <mark key="[" line="24" column="88" />
@@ -209,6 +245,12 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/shopping-list-controller-new.js" timestamp="1506838367353">
+        <mark key="[" line="435" column="42" />
+        <mark key="]" line="435" column="44" />
+        <mark key="." line="435" column="44" />
+        <mark key="^" line="435" column="44" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" timestamp="1500380275602">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="37" column="12" />
@@ -230,6 +272,18 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="25" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rTaskList.js" timestamp="1506837044417">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/my-wedding-details-controller.js" timestamp="1506838295829">
+        <mark key="[" line="333" column="39" />
+        <mark key="]" line="333" column="41" />
+        <mark key="." line="333" column="41" />
+        <mark key="^" line="333" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504953431258">
         <mark key="'" line="128" column="14" />
         <mark key="[" line="104" column="0" />
@@ -250,12 +304,6 @@
         <mark key="]" line="120" column="27" />
         <mark key="." line="120" column="27" />
         <mark key="^" line="118" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/event-modal-directive.js" timestamp="1506757548280">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1506232662432">
         <mark key="[" line="2" column="83" />
@@ -309,6 +357,12 @@
         <mark key="]" line="37" column="50" />
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rShoppingList.js" timestamp="1506837474985">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="73" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Bid.php" timestamp="1505972418372">
         <mark key="'" line="18" column="32" />
@@ -364,6 +418,12 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
         <mark key="^" line="98" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/calendar-controller.js" timestamp="1506838359765">
+        <mark key="[" line="853" column="43" />
+        <mark key="]" line="853" column="45" />
+        <mark key="." line="853" column="45" />
+        <mark key="^" line="853" column="45" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1505551197378">
         <mark key="[" line="187" column="33" />
@@ -424,6 +484,12 @@
         <mark key="]" line="408" column="23" />
         <mark key="." line="408" column="23" />
         <mark key="^" line="408" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/shopping-list-default-controller-new.js" timestamp="1506838329131">
+        <mark key="[" line="391" column="41" />
+        <mark key="]" line="391" column="43" />
+        <mark key="." line="391" column="43" />
+        <mark key="^" line="391" column="43" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -496,11 +562,12 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1506835048837">
-        <mark key="'" line="11" column="52" />
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1506836728732">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500697049517">
         <mark key="'" line="259" column="0" />
@@ -594,12 +661,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="104" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rRegister.js" timestamp="1506750189753">
-        <mark key="'" line="153" column="4" />
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rRegister.js" timestamp="1506836891665">
+        <mark key="'" line="198" column="46" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="70" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" timestamp="1499581078964">
         <mark key="'" line="40" column="4" />
@@ -654,6 +721,18 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rMyWeddingDetails.js" timestamp="1506837199085">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="8" column="70" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/shopping-list-default-controller.js" timestamp="1506838270000">
+        <mark key="[" line="239" column="45" />
+        <mark key="]" line="239" column="47" />
+        <mark key="." line="239" column="47" />
+        <mark key="^" line="239" column="47" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/tests/Feature/DashboardTest.php" timestamp="1504924378006">
         <mark key="'" line="21" column="29" />
         <mark key="[" line="43" column="42" />
@@ -673,6 +752,12 @@
         <mark key="]" line="16" column="104" />
         <mark key="." line="16" column="104" />
         <mark key="^" line="16" column="125" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1506838373854">
+        <mark key="[" line="237" column="37" />
+        <mark key="]" line="237" column="39" />
+        <mark key="." line="237" column="39" />
+        <mark key="^" line="237" column="39" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/winners.blade.php" timestamp="1505878967861">
         <mark key="[" line="2" column="0" />
@@ -733,11 +818,11 @@
         <mark key="^" line="42" column="19" />
         <mark key="." line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/middlewares/ensureAuthenticated.js" timestamp="1506834920348">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+      <file name="$USER_HOME$/Code/idx/backend/middlewares/ensureAuthenticated.js" timestamp="1506836378486">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" timestamp="1505550387824">
         <mark key="'" line="0" column="0" />
@@ -751,6 +836,12 @@
         <mark key="]" line="284" column="54" />
         <mark key="." line="284" column="54" />
         <mark key="^" line="284" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/event-detail.controller.js" timestamp="1506838334559">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/plus-one-link.blade.php" timestamp="1505795181724">
         <mark key="[" line="0" column="30" />
@@ -798,11 +889,12 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1505893816884">
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="65" />
-        <mark key="^" line="531" column="16" />
-        <mark key="." line="531" column="16" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1506838105608">
+        <mark key="'" line="1569" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="11" column="70" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" timestamp="1496456015754">
         <mark key="'" line="37" column="12" />
@@ -824,6 +916,12 @@
         <mark key="]" line="83" column="28" />
         <mark key="." line="83" column="28" />
         <mark key="^" line="83" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/shopping-list-controller.js" timestamp="1506838281418">
+        <mark key="[" line="237" column="45" />
+        <mark key="]" line="237" column="47" />
+        <mark key="." line="237" column="47" />
+        <mark key="^" line="237" column="47" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
@@ -865,6 +963,12 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rCalendar.js" timestamp="1506837700267">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="70" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" timestamp="1506046727045">
         <mark key="'" line="40" column="6" />
         <mark key="[" line="25" column="0" />
@@ -879,6 +983,12 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="34" column="75" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/create-event-controller.js" timestamp="1506838398103">
+        <mark key="[" line="119" column="41" />
+        <mark key="]" line="119" column="43" />
+        <mark key="." line="119" column="43" />
+        <mark key="^" line="119" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1506063224146">
         <mark key="'" line="6" column="6" />
         <mark key="[" line="40" column="20" />
@@ -886,11 +996,12 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506586501007">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Code/idx/backend/routes/rEvents.js" timestamp="1506838137470">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="73" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
         <mark key="'" line="25" column="7" />
@@ -899,7 +1010,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506835087868">
+      <file name="/Dummy.txt" timestamp="1506838410962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -922,12 +1033,12 @@
         <mark key="." line="63" column="4" />
         <mark key="^" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1504765778077">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1506838303967">
         <mark key="'" line="233" column="92" />
-        <mark key="[" line="0" column="210" />
-        <mark key="]" line="0" column="221" />
-        <mark key="." line="0" column="221" />
-        <mark key="^" line="0" column="221" />
+        <mark key="[" line="403" column="38" />
+        <mark key="]" line="403" column="40" />
+        <mark key="." line="403" column="40" />
+        <mark key="^" line="403" column="40" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -977,6 +1088,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1506838362614">
+        <mark key="[" line="430" column="37" />
+        <mark key="]" line="430" column="39" />
+        <mark key="." line="430" column="39" />
+        <mark key="^" line="430" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1505213043366">
         <mark key="[" line="46" column="80" />
         <mark key="]" line="46" column="81" />
@@ -1023,6 +1140,18 @@
         <mark key="." line="32" column="84" />
         <mark key="^" line="32" column="83" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rBudget.js" timestamp="1506837520231">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="5" column="70" />
+      </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/factory/userAuthFactory.js" timestamp="1506838410143">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/LiveVideoController.php" timestamp="1505973448036">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="57" />
@@ -1035,41 +1164,15 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1506836652014">
+        <mark key="'" line="607" column="24" />
+        <mark key="[" line="19" column="60" />
+        <mark key="]" line="20" column="70" />
+        <mark key="." line="20" column="70" />
+        <mark key="^" line="20" column="70" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="34" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="56" column="8" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="167" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="107" column="59" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="306" column="31" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="169" column="19" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="272" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="404" column="24" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/live-pika/.env.example" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/live-pika/.env.example" />
-      <jump line="40" column="6" filename="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" />
-      <jump line="33" column="8" filename="$USER_HOME$/Code/live-pika/app/Providers/ECPayLogisticsServiceProvider.php" />
-      <jump line="39" column="6" filename="$USER_HOME$/Code/live-pika/app/Providers/ECPayLogisticsServiceProvider.php" />
-      <jump line="65" column="19" filename="$USER_HOME$/Code/live-pika/app/Services/ECPayLogistics.php" />
-      <jump line="76" column="21" filename="$USER_HOME$/Code/live-pika/app/Services/ECPayLogistics.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" />
-      <jump line="97" column="14" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" />
-      <jump line="24" column="109" filename="$USER_HOME$/Code/live-pika/resources/views/pages.blade.php" />
-      <jump line="587" column="36" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="645" column="36" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="619" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="977" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="137" column="4" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="26" column="21" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
       <jump line="23" column="4" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
       <jump line="6" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
@@ -1137,10 +1240,43 @@
       <jump line="17" column="0" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
       <jump line="26" column="25" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/events-controller.js" />
       <jump line="11" column="52" filename="$USER_HOME$/Code/idx/backend/routes/rIndex.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/Code/idx/backend/routes/rIndex.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/idx/backend/middlewares/ensureAuthenticated.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rIndex.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/idx/backend/middlewares/ensureAuthenticated.js" />
+      <jump line="606" column="28" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="20" column="52" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="224" column="66" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="237" column="31" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="258" column="28" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="293" column="45" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="338" column="25" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="355" column="30" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="360" column="34" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="607" column="24" filename="$USER_HOME$/Code/idx/backend/routes/rUsers.js" />
+      <jump line="257" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
+      <jump line="12" column="52" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
+      <jump line="96" column="21" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
+      <jump line="114" column="3" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
+      <jump line="129" column="22" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
+      <jump line="199" column="46" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
+      <jump line="13" column="58" filename="$USER_HOME$/Code/idx/backend/routes/rTaskList.js" />
+      <jump line="14" column="45" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="11" column="52" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="43" column="28" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="55" column="26" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="1257" column="14" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="1294" column="62" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="1437" column="69" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="1545" column="42" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="1557" column="58" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="1569" column="42" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>302</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1156,63 +1292,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>302</text>
       </register>
       <register name="/" type="4">
-        <text>\s\s</text>
+        <text>ensure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAge2lkOiAxLCBuYW1lOiAnQnJpZGFsIFNob3dlcid9LAogICAgICB7aWQ6IDIsIG5hbWU6ICdSZWhlYXJzYWwgRGlubmVyJ30sCiAgICAgIHtpZDogMywgbmFtZTogJ0NlcmVtb255J30sCiAgICAgIHtpZDogNCwgbmFtZTogJ1JlY2VwdGlvbid9LAogICAgICB7aWQ6IDUsIG5hbWU6ICdPdGhlcid9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnRzKTsK</text>
+        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoaScpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogIGlmIChyZXEuaXNBdXRoZW50aWNhdGVkKCkpIHsKICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsIGZ1bmN0aW9uKGVycikgewogICAgICBpZihlcnIpIHsKICAgICAgICBjb25zb2xlLmxvZyhlcnIubWVzc2FnZSk7CiAgICAgIH0KICAgIH0pOwogICAgcmV0dXJuIG5leHQoKTsKICB9CgogIHJlcy5zZW5kU3RhdHVzKDMwMik7Cn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkc2NvcGUuZWRpdGluZywgZXZlbnQsICRzY29wZS5jdXJyZW50RWRpdGluZ0V2ZW50KTsK</text>
+        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpJyk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogICAgaWYgKHJlcS5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsZnVuY3Rpb24oZXJyLCByZXN1bHRzKXsKICAgICAgICBpZihlcnIpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgfQogICAgZWxzZXsKICAgICAgICByZXMuc2VuZFN0YXR1cygzMDIpOwogICAgfQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLnJlZnJlc2hFdmVudFR5cGVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS4kd2F0Y2goJ2V2ZW50RGF0YScsIGZ1bmN0aW9uIChldmVudERhdGEpIHsKICAgICAgICAgIGlmIChzY29wZS5lZGl0aW5nKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQogICAgICAgIH0pOwoK</text>
+        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS4kd2F0Y2goJ2VkaXRpbmcnLCBmdW5jdGlvbiAoZWRpdGluZykgewogICAgICAgICAgaWYgKGVkaXRpbmcpIHsKICAgICAgICAgICAgc2NvcGUuZXZlbnRUeXBlcy5wdXNoKHsKICAgICAgICAgICAgICBpZDogc2NvcGUuZXZlbnREYXRhLnR5cGUsCiAgICAgICAgICAgICAgbmFtZTogc2NvcGUuZXZlbnREYXRhLnRpdGxlCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogICAgaWYgKHJlcS5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsZnVuY3Rpb24oZXJyLCByZXN1bHRzKXsKICAgICAgICBpZihlcnIpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgfQogICAgZWxzZXsKICAgICAgICByZXMuc2VuZFN0YXR1cygzMDIpOwogICAgfQp9Cgo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5ldmVudFR5cGVzID0gWwogICAgICB7aWQ6IDEsIG5hbWU6ICdCcmlkYWwgU2hvd2VyJ30sCiAgICAgIHtpZDogMiwgbmFtZTogJ1JlaGVhcnNhbCBEaW5uZXInfSwKICAgICAge2lkOiAzLCBuYW1lOiAnQ2VyZW1vbnknfSwKICAgICAge2lkOiA0LCBuYW1lOiAnUmVjZXB0aW9uJ30sCiAgICAgIHtpZDogNSwgbmFtZTogJ090aGVyJ30KICAgIF07Cgo=</text>
+        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHtpZDogMSwgbmFtZTogJ0JyaWRhbCBTaG93ZXInfSwKICAgICAge2lkOiAyLCBuYW1lOiAnUmVoZWFyc2FsIERpbm5lcid9LAogICAgICB7aWQ6IDMsIG5hbWU6ICdDZXJlbW9ueSd9LAogICAgICB7aWQ6IDQsIG5hbWU6ICdSZWNlcHRpb24nfSwKICAgICAge2lkOiA1LCBuYW1lOiAnT3RoZXI=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogICAgaWYgKHJlcS5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsZnVuY3Rpb24oZXJyLCByZXN1bHRzKXsKICAgICAgICBpZihlcnIpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgfQogICAgZWxzZXsKICAgICAgICByZXMuc2VuZFN0YXR1cygzMDIpOwogICAgfQp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>\s\s</last-search>
+      <last-search>ensure</last-search>
       <last-offset />
-      <last-pattern>\s\s</last-pattern>
+      <last-pattern>ensure</last-pattern>
       <last-replace>\s</last-replace>
       <last-substitute>\s\s</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>dir</entry>
         <entry>fun</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFRvTG9naW5cPg==</entry>
@@ -1232,6 +1367,7 @@
         <entry>\S</entry>
         <entry>\s</entry>
         <entry>\s\s</entry>
+        <entry>ensure</entry>
       </history-search>
       <history-cmd>
         <entry>46d</entry>
@@ -1251,9 +1387,9 @@
         <entry encoding="base64">JzwsJz5zL1xTL3cvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xzLysvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xzXHMvXHMvZw==</entry>
-        <entry>noh</entry>
         <entry>@x</entry>
         <entry>f vd</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
