@@ -331,6 +331,12 @@
         <mark key="." line="108" column="52" />
         <mark key="^" line="108" column="52" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/index.html" timestamp="1506923225464">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="26" column="13" />
@@ -650,12 +656,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506225060600">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="19" column="56" />
-        <mark key="." line="19" column="56" />
-        <mark key="^" line="19" column="59" />
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506923177798">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="29" column="81" />
+        <mark key="]" line="29" column="82" />
+        <mark key="." line="29" column="82" />
+        <mark key="^" line="29" column="102" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
@@ -1176,12 +1182,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="21" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
       <jump line="23" column="4" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" />
       <jump line="6" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="19" column="7" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="11" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
-      <jump line="25" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
       <jump line="7" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.travis.yml" />
       <jump line="67" column="51" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
@@ -1276,10 +1280,12 @@
       <jump line="1545" column="42" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
       <jump line="1557" column="58" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
       <jump line="1569" column="42" filename="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
+      <jump line="25" column="8" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>302</text>
+        <text encoding="base64">Pnt7Lk5hbWV9fSAtIA==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1295,55 +1301,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>302</text>
+        <text encoding="base64">Pnt7Lk5hbWV9fSAtIA==</text>
       </register>
       <register name="/" type="4">
-        <text>ensure</text>
+        <text>201</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAge2lkOiAxLCBuYW1lOiAnQnJpZGFsIFNob3dlcid9LAogICAgICB7aWQ6IDIsIG5hbWU6ICdSZWhlYXJzYWwgRGlubmVyJ30sCiAgICAgIHtpZDogMywgbmFtZTogJ0NlcmVtb255J30sCiAgICAgIHtpZDogNCwgbmFtZTogJ1JlY2VwdGlvbid9LAogICAgICB7aWQ6IDUsIG5hbWU6ICdPdGhlcid9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
+        <text encoding="base64">ZnVuYyAoYXJ0aWNsZSBBcnRpY2xlKSBMZW4oKSBpbnQgeyByZXR1cm4gbGVuKGFydGljbGUpIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogIGlmIChyZXEuaXNBdXRoZW50aWNhdGVkKCkpIHsKICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsIGZ1bmN0aW9uKGVycikgewogICAgICBpZihlcnIpIHsKICAgICAgICBjb25zb2xlLmxvZyhlcnIubWVzc2FnZSk7CiAgICAgIH0KICAgIH0pOwogICAgcmV0dXJuIG5leHQoKTsKICB9CgogIHJlcy5zZW5kU3RhdHVzKDMwMik7Cn0KCg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogICAgaWYgKHJlcS5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsZnVuY3Rpb24oZXJyLCByZXN1bHRzKXsKICAgICAgICBpZihlcnIpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgfQogICAgZWxzZXsKICAgICAgICByZXMuc2VuZFN0YXR1cygzMDIpOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">CXQuRXhlY3V0ZShyZXNwb25zZSwgYXJ0aWNsZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm10LlByaW50bG4oImNvb2wiKQpmbXQuUHJpbnQoImNvb2wiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
+        <text encoding="base64">CXQuRXhlY3V0ZShyZXNwb25zZSwgYXJ0aWNsZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogICAgaWYgKHJlcS5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsZnVuY3Rpb24oZXJyLCByZXN1bHRzKXsKICAgICAgICBpZihlcnIpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgfQogICAgZWxzZXsKICAgICAgICByZXMuc2VuZFN0YXR1cygzMDIpOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">CXQuRXhlY3V0ZShyZXNwb25zZSwgYXJ0aWNsZXMpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIFVzZXJEZXRhaWxzID0gcmVxdWlyZSgnLi4vbW9kZWxzL21Vc2VyRGV0YWlscycpOwo=</text>
+        <text encoding="base64">CXQuRXhlY3V0ZShyZXNwb25zZSwgYXJ0aWNsZXMpCg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZW5zdXJlQXV0aGVudGljYXRlZChyZXEsIHJlcywgbmV4dCkgewogICAgaWYgKHJlcS5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgIFVzZXJEZXRhaWxzLnVwZGF0ZUxhc3RBY3RpdmUocmVxLnVzZXIuaWQsZnVuY3Rpb24oZXJyLCByZXN1bHRzKXsKICAgICAgICBpZihlcnIpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgfQogICAgZWxzZXsKICAgICAgICByZXMuc2VuZFN0YXR1cygzMDIpOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">CXQsIF8gOj0gdGVtcGxhdGUuUGFyc2VGaWxlcygiLi90ZW1wbGF0ZXMvaW5kZXguaHRtbCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>ensure</last-search>
+      <last-search>201</last-search>
       <last-offset />
-      <last-pattern>ensure</last-pattern>
+      <last-pattern>201</last-pattern>
       <last-replace>\s</last-replace>
       <last-substitute>\s\s</last-substitute>
       <last-dir>1</last-dir>
@@ -1351,7 +1357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dir</entry>
         <entry>fun</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFRvTG9naW5cPg==</entry>
         <entry>fb</entry>
@@ -1371,6 +1376,7 @@
         <entry>\s</entry>
         <entry>\s\s</entry>
         <entry>ensure</entry>
+        <entry>201</entry>
       </history-search>
       <history-cmd>
         <entry>46d</entry>
