@@ -1062,13 +1062,13 @@
         <mark key="." line="294" column="0" />
         <mark key="^" line="168" column="114" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1507093263595">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1507094651793">
         <mark key="'" line="2" column="76" />
         <mark key="k" line="60" column="6" />
-        <mark key="[" line="52" column="61" />
-        <mark key="]" line="52" column="71" />
-        <mark key="." line="52" column="71" />
-        <mark key="^" line="52" column="71" />
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="29" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_07_09_111108_create_pending_messages_table.php" timestamp="1499599127230">
         <mark key="'" line="33" column="0" />
@@ -1109,12 +1109,12 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1507093229336">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1507094284937">
         <mark key="'" line="470" column="14" />
-        <mark key="[" line="606" column="0" />
-        <mark key="]" line="606" column="15" />
-        <mark key="." line="606" column="15" />
-        <mark key="^" line="606" column="15" />
+        <mark key="[" line="592" column="12" />
+        <mark key="]" line="592" column="14" />
+        <mark key="." line="592" column="14" />
+        <mark key="^" line="592" column="14" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/cancel.blade.php" timestamp="1505285500069">
         <mark key="[" line="1" column="0" />
@@ -1279,7 +1279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IC0zMCU7</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1295,46 +1295,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IC0zMCU7</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>201</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDMwJTsK</text>
+        <text encoding="base64">ICAgIGpRdWVyeShjb2wpLmFuaW1hdGUoewogICAgICBsZWZ0OiAtMTAwJQogICAgfSwgMTAwMCwgJ3N3aW5nJywgZnVuY3Rpb24gKCkgewogICAgICBqUXVlcnkoY29sKS5oaWRlKCk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eTogdmlzaWJsZTsKICAgICAgb3BhY2l0eTogMTsK</text>
+        <text encoding="base64">ICAgIGpRdWVyeShjb2wpLnJlbW92ZUNsYXNzKCdzbGlkZS1yaWdodCcpLmFkZENsYXNzKCdzbGlkZS1sZWZ0Jykuc2hvdygxMDAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eTogdmlzaWJsZTsKICAgICAgb3BhY2l0eTogMTsK</text>
+        <text encoding="base64">ICAgIGpRdWVyeShjb2wpLnJlbW92ZUNsYXNzKCdzbGlkZS1sZWZ0JykuYWRkQ2xhc3MoJ3NsaWRlLXJpZ2h0JykuaGlkZSgxMDAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IC0zMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgb3BhY2l0eTogMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eTogaGlkZGVuOwogICAgICBvcGFjaXR5OiAwOwo=</text>
+        <text encoding="base64">ICAgICAgb3BhY2l0eTogMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eTogaGlkZGVuOwogICAgICBvcGFjaXR5OiAwOwo=</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDMwJTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246IGFsbCAwLjVzOwo=</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDAlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3BhY2l0eTogMDsK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDAlOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3BhY2l0eTogMTsK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDMwJTsK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3BhY2l0eTogMTsK</text>
+        <text encoding="base64">ICAgICAgdmlzaWJpbGl0eTogdmlzaWJsZTsKICAgICAgb3BhY2l0eTogMTsK</text>
       </register>
       <register name=":" type="4">
         <text>589y</text>
