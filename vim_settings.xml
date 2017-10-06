@@ -68,6 +68,13 @@
         <mark key="." line="446" column="44" />
         <mark key="^" line="446" column="44" />
       </file>
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/travel-modal.directive.js" timestamp="1507272107009">
+        <mark key="'" line="97" column="47" />
+        <mark key="[" line="50" column="87" />
+        <mark key="]" line="50" column="87" />
+        <mark key="^" line="50" column="87" />
+        <mark key="." line="50" column="87" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="58" column="76" />
@@ -434,7 +441,8 @@
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/mbeaudru-modern-js-cheatsheet.md" timestamp="1506918523445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1505551197378">
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1507271513790">
+        <mark key="'" line="240" column="11" />
         <mark key="[" line="187" column="33" />
         <mark key="]" line="187" column="55" />
         <mark key="." line="193" column="20" />
@@ -840,11 +848,12 @@
         <mark key="." line="289" column="23" />
         <mark key="^" line="289" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1507269903955">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="72" />
-        <mark key="." line="25" column="72" />
-        <mark key="^" line="25" column="72" />
+      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1507273643407">
+        <mark key="'" line="20" column="40" />
+        <mark key="[" line="109" column="18" />
+        <mark key="]" line="109" column="18" />
+        <mark key="." line="109" column="18" />
+        <mark key="^" line="201" column="31" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/event-detail.controller.js" timestamp="1506838334559">
         <mark key="[" line="41" column="35" />
@@ -1012,7 +1021,7 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507086067115">
+      <file name="/Dummy.txt" timestamp="1507273954052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1062,8 +1071,12 @@
         <mark key="." line="294" column="0" />
         <mark key="^" line="168" column="114" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1507094651793">
+      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1507274413059">
         <mark key="'" line="2" column="76" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_07_09_111108_create_pending_messages_table.php" timestamp="1499599127230">
         <mark key="'" line="33" column="0" />
@@ -1104,11 +1117,12 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1507269657886">
+      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1507273624689">
         <mark key="'" line="470" column="14" />
-        <mark key="[" line="606" column="0" />
-        <mark key="]" line="606" column="0" />
-        <mark key="." line="606" column="0" />
+        <mark key="[" line="620" column="0" />
+        <mark key="]" line="620" column="0" />
+        <mark key="^" line="622" column="14" />
+        <mark key="." line="620" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/cancel.blade.php" timestamp="1505285500069">
         <mark key="[" line="1" column="0" />
@@ -1170,10 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/.travis.yml" />
-      <jump line="67" column="51" filename="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" />
       <jump line="41" column="40" filename="$USER_HOME$/Code/live-pika/.env" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/live-pika/.env" />
       <jump line="38" column="41" filename="$USER_HOME$/Code/live-pika/routes/web.php" />
@@ -1270,10 +1280,14 @@
       <jump line="106" column="23" filename="$USER_HOME$/Code/idx/backend/app.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Code/idx/backend/app.js" />
       <jump line="318" column="23" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
+      <jump line="25" column="48" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
+      <jump line="20" column="40" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
+      <jump line="88" column="47" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/travel-modal.directive.js" />
+      <jump line="240" column="11" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyMCU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5bycpCg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1289,55 +1303,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>console.log('hi');</text>
       </register>
       <register name="/" type="4">
-        <text>201</text>
+        <text>max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpRdWVyeShjb2wpLmFuaW1hdGUoewogICAgICBsZWZ0OiAtMTAwJQogICAgfSwgMTAwMCwgJ3N3aW5nJywgZnVuY3Rpb24gKCkgewogICAgICBqUXVlcnkoY29sKS5oaWRlKCk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGggY2xhc3M9InBsYWNlaG9sZGVyIiBuZy1yZXBlYXQ9InBsYWNlaG9sZGVyIGluIGd1ZXN0UGxhY2Vob2xkZXJzIHRyYWNrIGJ5ICRpbmRleCI+PC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyMCU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5bycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyMCU7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygkc2NvcGUuJHBhcmVudC5ob3VzZWhvbGQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpRdWVyeShjb2wpLnJlbW92ZUNsYXNzKCdzbGlkZS1yaWdodCcpLmFkZENsYXNzKCdzbGlkZS1sZWZ0Jykuc2hvdygxMDAwKTsK</text>
+        <text encoding="base64">ICAuZ3Vlc3QgewogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpRdWVyeShjb2wpLnJlbW92ZUNsYXNzKCdzbGlkZS1sZWZ0JykuYWRkQ2xhc3MoJ3NsaWRlLXJpZ2h0JykuaGlkZSgxMDAwKTsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNi42JTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3BhY2l0eTogMDsK</text>
+        <text encoding="base64">ICAgIHdpdGRoOiAyNSU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3BhY2l0eTogMTsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyNSU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDMwJTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGggbmctcmVwZWF0PSJwbGFjZWhvbGRlciBpbiBndWVzdFBsYWNlaG9sZGVyIj48L3RoPgo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzY29wZS5ndWVzdFBsYWNlaG9sZGVyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>589y</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>201</last-search>
+      <last-search>max</last-search>
       <last-offset />
-      <last-pattern>201</last-pattern>
+      <last-pattern>max</last-pattern>
       <last-replace>\s</last-replace>
       <last-substitute>\s\s</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,7 +1359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fun</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFRvTG9naW5cPg==</entry>
         <entry>fb</entry>
         <entry>sec</entry>
@@ -1365,6 +1378,7 @@
         <entry>\s\s</entry>
         <entry>ensure</entry>
         <entry>201</entry>
+        <entry>max</entry>
       </history-search>
       <history-cmd>
         <entry>12y</entry>
@@ -1385,8 +1399,8 @@
         <entry encoding="base64">JzwsJz5zL1xzXHMvXHMvZw==</entry>
         <entry>@x</entry>
         <entry>f vd</entry>
-        <entry>noh</entry>
         <entry>589y</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
