@@ -814,6 +814,12 @@
         <mark key="." line="96" column="85" />
         <mark key="^" line="96" column="85" />
       </file>
+      <file name="$USER_HOME$/Code/max_school/application/views/homepage.php" timestamp="1509086755424">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1505364919379">
         <mark key="[" line="1693" column="35" />
         <mark key="]" line="1686" column="37" />
