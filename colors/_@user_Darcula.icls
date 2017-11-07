@@ -4,14 +4,14 @@
     <property name="created">2017-06-02T22:12:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-10-01T13:07:17</property>
+    <property name="modified">2017-11-07T10:16:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="384c38" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
