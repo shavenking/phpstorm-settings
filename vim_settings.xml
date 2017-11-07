@@ -10,12 +10,12 @@
         <mark key="." line="639" column="0" />
         <mark key="^" line="637" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/create.blade.php" timestamp="1510046609765">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/create.blade.php" timestamp="1510055491134">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="39" column="119" />
-        <mark key="]" line="39" column="112" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="39" column="217" />
+        <mark key="]" line="39" column="130" />
+        <mark key="." line="39" column="130" />
+        <mark key="^" line="39" column="130" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/config/app.php" timestamp="1510026862797">
         <mark key="[" line="79" column="19" />
@@ -302,6 +302,9 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/mbeaudru-modern-js-cheatsheet.md" timestamp="1506918523445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1507271513790">
         <mark key="'" line="240" column="11" />
         <mark key="[" line="187" column="33" />
@@ -327,12 +330,12 @@
         <mark key="." line="30" column="152" />
         <mark key="^" line="30" column="199" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510046538386">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510056300873">
         <mark key="'" line="26" column="124" />
-        <mark key="[" line="32" column="94" />
-        <mark key="]" line="32" column="94" />
-        <mark key="^" line="119" column="21" />
-        <mark key="." line="32" column="94" />
+        <mark key="[" line="17" column="90" />
+        <mark key="]" line="17" column="90" />
+        <mark key="^" line="17" column="93" />
+        <mark key="." line="17" column="90" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -650,6 +653,9 @@
         <mark key="." line="119" column="43" />
         <mark key="^" line="119" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1510056253963">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="31" />
@@ -826,9 +832,9 @@
         <mark key="^" line="7" column="70" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" timestamp="1510041969559">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" timestamp="1510055862049">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="8" column="0" />
+        <mark key="[" line="40" column="99" />
         <mark key="]" line="8" column="88" />
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
@@ -935,11 +941,11 @@
         <mark key="." line="391" column="43" />
         <mark key="^" line="391" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/index.blade.php" timestamp="1510043610372">
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="54" />
-        <mark key="^" line="51" column="49" />
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/index.blade.php" timestamp="1510056497827">
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+        <mark key="^" line="60" column="35" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -979,12 +985,12 @@
         <mark key="." line="74" column="52" />
         <mark key="^" line="74" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/_navbar.blade.php" timestamp="1510044449515">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/_navbar.blade.php" timestamp="1510056228826">
         <mark key="'" line="22" column="3" />
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="63" />
-        <mark key="^" line="3" column="63" />
-        <mark key="." line="3" column="63" />
+        <mark key="[" line="25" column="121" />
+        <mark key="]" line="25" column="126" />
+        <mark key="^" line="25" column="126" />
+        <mark key="." line="25" column="126" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" timestamp="1504941059572">
         <mark key="'" line="18" column="30" />
@@ -1439,8 +1445,8 @@
       <jump line="26" column="124" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>（格式：2017-10-10）</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1456,49 +1462,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>（格式：2017-10-10）</text>
+        <text encoding="base64">IHRleHQtd2hpdGU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlcGlja2VyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>data-date-language=&quot;zh-TW&quot; data-date-format=&quot;yyyy-mm-dd&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ3JlY29yZHMuY3JlYXRlJykgfX0iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPuaWsOWinuS4gOethuizh+aWmTwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImJhZGdlIGJhZGdlLXBpbGwgYmFkZ2Utc2Vjb25kYXJ5IHRleHQtYmxhY2siPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjcmVjb3Jkcy1idG4tY2FsZW5kYXInKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CgogICAgICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcignc2hvdycpOwogICAgICAgIH0pOwogICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcigpLm9uKCdoaWRlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcignZGVzdHJveScpOwogICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImJhZGdlIGJhZGdlLXBpbGwgYmFkZ2Utc2Vjb25kYXJ5IHRleHQtYmxhY2siPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im9pIG9pLXBlcnNvbiI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdXNlci0+dHlwZSA9PT0gXEFwcFxVc2VyOjpBRE1JTikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDnrqHnkIblk6EKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbHNlaWYgKCR1c2VyLT50eXBlID09PSBcQXBwXFVzZXI6OlJFQURPTkxZKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOeuoeeQhuWToe+8iOiugO+8iQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDnrqHnkIblk6HvvIjoroDjgIHmlrDlop7vvIkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI3JlY29yZHMtaW5wdXQtcScpLmRhdGVwY2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxzbWFsbD48c3BhbiBjbGFzcz0ib2kgb2ktY2FsZW5kYXIiPjwvc3Bhbj4mbmJzcDt7eyAkdXNlci0+Y3JlYXRlZF9hdC0+Zm9ybWF0KCdZLW0tZCcpIH19IOWKoOWFpTwvc21hbGw+PC9saT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-                format: 'mm/dd/yyyy',
-                startDate: '-3d'
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQ+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJCgnI3JlY29yZHMtaW5wdXQtcScpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjcmVjb3Jkcy1idG4tY2FsZW5kYXInKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CgogICAgICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcignc2hvdycpOwogICAgICAgIH0pOwogICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcigpLm9uKCdoaWRlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcignZGVzdHJveScpOwogICAgICAgIH0pOwoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRtZXNzYWdlcy8kcmVjb3Jkcy9n</text>
