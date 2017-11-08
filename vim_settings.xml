@@ -506,12 +506,12 @@
         <mark key="." line="43" column="62" />
         <mark key="^" line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510043732153">
+      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510124611784">
         <mark key="'" line="157" column="20" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="181" column="49" />
-        <mark key="^" line="181" column="49" />
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="79" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1500554948624">
         <mark key="'" line="20" column="6" />
@@ -1456,8 +1456,8 @@
       <jump line="23" column="15" filename="$USER_HOME$/Code/eric-case-3/app/User.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RydG90aW1lKCRyZXF1ZXN0LT5xKQ==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1473,13 +1473,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isSuperUser</text>
+        <text encoding="base64">c3RydG90aW1lKCRyZXF1ZXN0LT5xKQ==</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICghJHVzZXItPmlzU3VwZXJBZG1pbigpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGZvcm0gbWV0aG9kPSJQT1NUIiBhY3Rpb249Int7IHJvdXRlKCd1c2Vycy5kZXN0cm95JywgJHVzZXItPmlkKSB9fSIgY2xhc3M9ImZvcm0taW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBjc3JmX2ZpZWxkKCkgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBtZXRob2RfZmllbGQoJ0RFTEVURScpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLWxpbmsgdGV4dC1kYW5nZXIiPjxzcGFuIGNsYXNzPSJvaSBvaS10cmFzaCI+PC9zcGFuPiZuYnNwO+WIqumZpDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGF0ZV9jcmVhdGVfZnJvbV9mb3JtYXQoJ1ktbS1kJywgJHJlcXVlc3QtPnEp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
