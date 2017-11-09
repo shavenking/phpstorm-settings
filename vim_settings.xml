@@ -17,6 +17,13 @@
         <mark key="." line="39" column="130" />
         <mark key="^" line="39" column="130" />
       </file>
+      <file name="$USER_HOME$/Code/eric-case-3/database/seeds/RecordPerformanceTestSeeder.php" timestamp="1510191228810">
+        <mark key="'" line="13" column="30" />
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
       <file name="$USER_HOME$/Code/eric-case-3/config/app.php" timestamp="1510026862797">
         <mark key="[" line="79" column="19" />
         <mark key="]" line="79" column="21" />
@@ -506,12 +513,11 @@
         <mark key="." line="43" column="62" />
         <mark key="^" line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510124611784">
-        <mark key="'" line="157" column="20" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="79" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="18" column="49" />
+      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510191219707">
+        <mark key="'" line="180" column="8" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="8" />
+        <mark key="." line="180" column="8" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1500554948624">
         <mark key="'" line="20" column="6" />
@@ -526,9 +532,9 @@
         <mark key="." line="237" column="39" />
         <mark key="^" line="237" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_07_030856_create_records_table.php" timestamp="1510026578112">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="51" />
+      <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_07_030856_create_records_table.php" timestamp="1510189553447">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="23" column="52" />
         <mark key="." line="23" column="51" />
         <mark key="^" line="23" column="51" />
       </file>
@@ -1360,9 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
-      <jump line="12" column="52" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
-      <jump line="96" column="21" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
       <jump line="114" column="3" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
       <jump line="129" column="22" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
       <jump line="199" column="46" filename="$USER_HOME$/Code/idx/backend/routes/rRegister.js" />
@@ -1460,10 +1463,13 @@
       <jump line="20" column="39" filename="$USER_HOME$/Code/eric-case-3/resources/views/users/edit.blade.php" />
       <jump line="132" column="33" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/UserController.php" />
       <jump line="23" column="15" filename="$USER_HOME$/Code/eric-case-3/app/User.php" />
+      <jump line="11" column="30" filename="$USER_HOME$/Code/eric-case-3/database/seeds/RecordPerformanceTestSeeder.php" />
+      <jump line="79" column="8" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="180" column="8" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1479,46 +1485,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RydG90aW1lKCRyZXF1ZXN0LT5xKQ==</text>
+        <text>app/</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGF0ZV9jcmVhdGVfZnJvbV9mb3JtYXQoJ1ktbS1kJywgJHJlcXVlc3QtPnEp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnLCAzMCktPmluZGV4KCk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdwaG9uZScsIDMwKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2lkZW50aXR5X251bWJlcicsIDEwKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5kYXRlKCdiaXJ0aGRheScpLT5pbmRleCgpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnYXZhdGFyJyktPm51bGxhYmxlKCk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdub3RlcycsIDUwMCktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlY29yZC0+YXZhdGFyKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoImhpIik7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKCEkdXNlci0+aXNTdXBlckFkbWluKCkpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgU3RvcmFnZTo6</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Zm9ybSBtZXRob2Q9IlBPU1QiIGFjdGlvbj0ie3sgcm91dGUoJ3VzZXJzLmRlc3Ryb3knLCAkdXNlci0+aWQpIH19IiBjbGFzcz0iZm9ybS1pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgY3NyZl9maWVsZCgpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBtZXRob2RfZmllbGQoJ0RFTEVURScpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tbGluayB0ZXh0LWRhbmdlciI+PHNwYW4gY2xhc3M9Im9pIG9pLXRyYXNoIj48L3NwYW4+Jm5ic3A75Yiq6ZmkPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRpZgo=</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpkZWxldGUoc3RvcmFnZV9wYXRoKCJhcHAveyRyZWNvcmQtPmF2YXRhcn0iKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoISR1c2VyLT5pc1N1cGVyQWRtaW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXZhdGFyJyA9PiAkZmFrZXItPmltYWdlKHN0b3JhZ2VfcGF0aCgnYXBwL2ltYWdlcycpLCAxMDAsIDEwMCksCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">dXNlIEZha2VyXEdlbmVyYXRvciBhcyBGYWtlcjsK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBpbnQgJGlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXZhdGFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
