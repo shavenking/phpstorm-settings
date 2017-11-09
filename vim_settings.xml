@@ -339,12 +339,12 @@
         <mark key="." line="30" column="152" />
         <mark key="^" line="30" column="199" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510056300873">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510192887795">
         <mark key="'" line="26" column="124" />
-        <mark key="[" line="17" column="90" />
-        <mark key="]" line="17" column="90" />
-        <mark key="^" line="17" column="93" />
-        <mark key="." line="17" column="90" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="125" column="11" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -712,12 +712,12 @@
         <mark key="^" line="28" column="41" />
         <mark key="." line="28" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/UserController.php" timestamp="1510108990163">
-        <mark key="'" line="132" column="33" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="160" column="8" />
-        <mark key="." line="159" column="29" />
-        <mark key="^" line="159" column="29" />
+      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/UserController.php" timestamp="1510192278733">
+        <mark key="'" line="135" column="33" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="56" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" timestamp="1500121011047">
         <mark key="'" line="21" column="0" />
@@ -1469,7 +1469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1485,7 +1485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app/</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -1494,37 +1494,37 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnLCAzMCktPmluZGV4KCk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdwaG9uZScsIDMwKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2lkZW50aXR5X251bWJlcicsIDEwKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5kYXRlKCdiaXJ0aGRheScpLT5pbmRleCgpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnYXZhdGFyJyktPm51bGxhYmxlKCk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdub3RlcycsIDUwMCktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlY29yZC0+YXZhdGFyKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoImhpIik7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgU3RvcmFnZTo6</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcigpLm9uKCdoaWRlJywgZnVuY3Rpb24gKGUpIHsKICAgICAgICAgICAgJCgnI3JlY29yZHMtaW5wdXQtcScpLmRhdGVwaWNrZXIoJ2Rlc3Ryb3knKTsKICAgICAgICB9KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjcmVjb3Jkcy1pbnB1dC1xJykuZGF0ZXBpY2tlcih7CiAgICAgICAgICAgIGxhbmd1YWdlOiAiemgtVFciLAogICAgICAgICAgICBmb3JtYXQ6ICJ5eXl5LW1tLWRkIiwKICAgICAgICAgICAgYXV0b2Nsb3NlOiAidHJ1ZSIsCiAgICAgICAgICAgIGZvcmNlUGFyc2U6IGZhbHNlLAogICAgICAgICAgICBzaG93T25Gb2N1czogZmFsc2UKICAgICAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpkZWxldGUoc3RvcmFnZV9wYXRoKCJhcHAveyRyZWNvcmQtPmF2YXRhcn0iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlY29yZC0+YXZhdGFyKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXZhdGFyJyA9PiAkZmFrZXItPmltYWdlKHN0b3JhZ2VfcGF0aCgnYXBwL2ltYWdlcycpLCAxMDAsIDEwMCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoImhpIik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEZha2VyXEdlbmVyYXRvciBhcyBGYWtlcjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgU3RvcmFnZTo6</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXZhdGFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
