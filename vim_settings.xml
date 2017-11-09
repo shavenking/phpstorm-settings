@@ -10,12 +10,12 @@
         <mark key="." line="639" column="0" />
         <mark key="^" line="637" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/create.blade.php" timestamp="1510106607704">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/create.blade.php" timestamp="1510226806203">
         <mark key="'" line="39" column="130" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="52" column="13" />
-        <mark key="." line="39" column="130" />
-        <mark key="^" line="39" column="130" />
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="53" />
+        <mark key="." line="47" column="53" />
+        <mark key="^" line="47" column="53" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/seeds/RecordPerformanceTestSeeder.php" timestamp="1510191228810">
         <mark key="'" line="13" column="30" />
@@ -24,11 +24,12 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/config/app.php" timestamp="1510026862797">
-        <mark key="[" line="79" column="19" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="79" column="21" />
-        <mark key="." line="79" column="21" />
+      <file name="$USER_HOME$/Code/eric-case-3/config/app.php" timestamp="1510232872348">
+        <mark key="'" line="179" column="53" />
+        <mark key="[" line="228" column="57" />
+        <mark key="]" line="179" column="53" />
+        <mark key="^" line="179" column="53" />
+        <mark key="." line="179" column="53" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionAmountGuesser.php" timestamp="1498977476845">
         <mark key="'" line="6" column="0" />
@@ -339,11 +340,11 @@
         <mark key="." line="30" column="152" />
         <mark key="^" line="30" column="199" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510212291075">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510232320359">
+        <mark key="[" line="70" column="194" />
+        <mark key="]" line="70" column="205" />
+        <mark key="." line="70" column="205" />
+        <mark key="^" line="70" column="205" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -379,11 +380,12 @@
         <mark key="." line="408" column="23" />
         <mark key="^" line="408" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Record.php" timestamp="1510024428185">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="101" />
+      <file name="$USER_HOME$/Code/eric-case-3/app/Record.php" timestamp="1510227472839">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="95" />
+        <mark key="]" line="8" column="109" />
+        <mark key="." line="8" column="109" />
+        <mark key="^" line="8" column="109" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1506665371402">
         <mark key="'" line="18" column="0" />
@@ -519,12 +521,12 @@
         <mark key="." line="43" column="62" />
         <mark key="^" line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510215559510">
-        <mark key="'" line="7" column="11" />
-        <mark key="[" line="225" column="36" />
-        <mark key="]" line="225" column="37" />
-        <mark key="." line="225" column="37" />
-        <mark key="^" line="226" column="49" />
+      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510233356861">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="227" column="49" />
+        <mark key="]" line="227" column="49" />
+        <mark key="." line="227" column="49" />
+        <mark key="^" line="227" column="32" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1500554948624">
         <mark key="'" line="20" column="6" />
@@ -539,9 +541,9 @@
         <mark key="." line="237" column="39" />
         <mark key="^" line="237" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_07_030856_create_records_table.php" timestamp="1510189553447">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="23" column="52" />
+      <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_07_030856_create_records_table.php" timestamp="1510227317025">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="48" />
         <mark key="." line="23" column="51" />
         <mark key="^" line="23" column="51" />
       </file>
@@ -592,11 +594,12 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/show.blade.php" timestamp="1510109067171">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/show.blade.php" timestamp="1510226637300">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+        <mark key="^" line="17" column="64" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/plus-one-link.blade.php" timestamp="1505795181724">
         <mark key="[" line="0" column="30" />
@@ -676,7 +679,7 @@
         <mark key="." line="119" column="43" />
         <mark key="^" line="119" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510056253963">
+      <file name="/Dummy.txt" timestamp="1510231968068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -732,6 +735,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_09_193342_add_real_avatar.php" timestamp="1510227353986">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="28" column="42" />
+        <mark key="^" line="28" column="42" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/budget-controller.js" timestamp="1507276106975">
         <mark key="[" line="39" column="19" />
@@ -835,12 +844,12 @@
         <mark key="." line="34" column="20" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/routes/web.php" timestamp="1510042485469">
-        <mark key="'" line="13" column="58" />
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="46" />
-        <mark key="^" line="8" column="46" />
+      <file name="$USER_HOME$/Code/eric-case-3/routes/web.php" timestamp="1510233019230">
+        <mark key="'" line="15" column="58" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="80" />
+        <mark key="." line="5" column="80" />
+        <mark key="^" line="5" column="80" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/pages/show.blade.php" timestamp="1506480959390">
         <mark key="'" line="22" column="39" />
@@ -868,12 +877,12 @@
         <mark key="^" line="7" column="70" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" timestamp="1510107587320">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="49" column="13" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="27" />
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" timestamp="1510232264659">
+        <mark key="'" line="16" column="105" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="34" column="185" />
+        <mark key="^" line="34" column="185" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/welcome-diverge.blade.php" timestamp="1506338561059">
         <mark key="[" line="24" column="88" />
@@ -983,11 +992,12 @@
         <mark key="." line="391" column="43" />
         <mark key="^" line="391" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/index.blade.php" timestamp="1510109053434">
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/index.blade.php" timestamp="1510226613348">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="77" column="41" />
-        <mark key="." line="79" column="28" />
+        <mark key="[" line="44" column="138" />
+        <mark key="]" line="44" column="144" />
+        <mark key="." line="44" column="144" />
+        <mark key="^" line="44" column="144" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -1013,12 +1023,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/edit.blade.php" timestamp="1510041082081">
-        <mark key="'" line="42" column="20" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/edit.blade.php" timestamp="1510231981708">
+        <mark key="'" line="69" column="120" />
+        <mark key="[" line="44" column="70" />
+        <mark key="]" line="44" column="70" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" timestamp="1505184921331">
         <mark key="'" line="14" column="34" />
@@ -1378,21 +1388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Code/idx/backend/app.js" />
-      <jump line="318" column="23" filename="$USER_HOME$/Code/idx/backend/routes/rEvents.js" />
-      <jump line="25" column="48" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="20" column="40" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" />
-      <jump line="88" column="47" filename="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/travel-modal.directive.js" />
-      <jump line="240" column="11" filename="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" />
-      <jump line="23" column="22" filename="$USER_HOME$/Code/eric-case-3/resources/views/login.blade.php" />
-      <jump line="9" column="53" filename="$USER_HOME$/Code/eric-case-3/resources/views/login.blade.php" />
-      <jump line="13" column="75" filename="$USER_HOME$/Code/eric-case-3/resources/views/login.blade.php" />
-      <jump line="8" column="48" filename="$USER_HOME$/Code/eric-case-3/resources/views/login.blade.php" />
-      <jump line="15" column="34" filename="$USER_HOME$/Code/eric-case-3/resources/views/login.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/eric-case-3/resources/views/_layout.blade.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/AuthController.php" />
-      <jump line="9" column="58" filename="$USER_HOME$/Code/eric-case-3/routes/web.php" />
-      <jump line="32" column="21" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" />
       <jump line="13" column="57" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" />
       <jump line="6" column="8" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" />
       <jump line="8" column="32" filename="$USER_HOME$/Code/eric-case-3/resources/views/_navbar.blade.php" />
@@ -1478,10 +1473,25 @@
       <jump line="102" column="37" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
       <jump line="157" column="40" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
       <jump line="7" column="11" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/eric-case-3/resources/views/users/show.blade.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Record.php" />
+      <jump line="69" column="120" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/edit.blade.php" />
+      <jump line="43" column="102" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" />
+      <jump line="47" column="28" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" />
+      <jump line="66" column="40" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" />
+      <jump line="16" column="105" filename="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/Code/eric-case-3/config/app.php" />
+      <jump line="179" column="53" filename="$USER_HOME$/Code/eric-case-3/config/app.php" />
+      <jump line="135" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="235" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="230" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="227" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="224" column="12" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$path</text>
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1497,55 +1507,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$path</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>car</text>
       </register>
-      <register name="0" type="4">
-        <text>storage_path(&quot;app/$path&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1wcmV2IiBocmVmPSIjcmVjb3JkLWF2YXRhci1jYXJvdXNlbC1jb250cm9sLXt7ICRyZWNvcmQtPmlkIH19IiByb2xlPSJidXR0b24iIGRhdGEtc2xpZGU9InByZXYiIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiAjNDM0MzQzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtcHJldi1pY29uIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+UHJldmlvdXM8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLW5leHQiIGhyZWY9IiNyZWNvcmQtYXZhdGFyLWNhcm91c2VsLWNvbnRyb2wte3sgJHJlY29yZC0+aWQgfX0iIHJvbGU9ImJ1dHRvbiIgZGF0YS1zbGlkZT0ibmV4dCIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICM0MzQzNDMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1uZXh0LWljb24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij5OZXh0PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDI3MGRlZykgcm90YXRlWSgxODBkZWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGV4Y2VsLT5zZXRUaXRsZSgndGl0bGUnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDI3MGRlZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNTogJycsCiAgICAgICAgICAgIDY6ICcnLAogICAgICAgICAgICA3OiAnJywKICAgICAgICAgICAgODogJycK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICA0OiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLXByZXYiIGhyZWY9IiNyZWNvcmQtYXZhdGFyLWNhcm91c2VsLWNvbnRyb2wte3sgJHJlY29yZC0+aWQgfX0iIHJvbGU9ImJ1dHRvbiIgZGF0YS1zbGlkZT0icHJldiIgc3R5bGU9ImJhY2tncm91bmQ6IHJhZGlhbC1ncmFkaWVudChjaXJjbGUsICM0MzQzNDMsICM0MzQzNDMsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQpIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1wcmV2LWljb24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPlByZXZpb3VzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtbmV4dCIgaHJlZj0iI3JlY29yZC1hdmF0YXItY2Fyb3VzZWwtY29udHJvbC17eyAkcmVjb3JkLT5pZCB9fSIgcm9sZT0iYnV0dG9uIiBkYXRhLXNsaWRlPSJuZXh0IiBzdHlsZT0iYmFja2dyb3VuZDogcmFkaWFsLWdyYWRpZW50KGNpcmNsZSwgIzQzNDM0MywgIzQzNDM0MywgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLW5leHQtaWNvbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+TmV4dDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMzogJ3JvdGF0ZSgxODBkZWcpJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWltZy1vdmVybGF5Ij48cCBjbGFzcz0iY2FyZC10ZXh0Ij5oaTwvcD48L2Rpdj4K</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMjogJ3JvdGF0ZVkoMTgwZGVnKScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLXByZXYiIGhyZWY9IiNyZWNvcmQtYXZhdGFyLWNhcm91c2VsLWNvbnRyb2wte3sgJHJlY29yZC0+aWQgfX0iIHJvbGU9ImJ1dHRvbiIgZGF0YS1zbGlkZT0icHJldiIgc3R5bGU9ImJhY2tncm91bmQ6IHJhZGlhbC1ncmFkaWVudChjaXJjbGUsICM0MzQzNDMsICM0MzQzNDMsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQpIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1wcmV2LWljb24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPlByZXZpb3VzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtbmV4dCIgaHJlZj0iI3JlY29yZC1hdmF0YXItY2Fyb3VzZWwtY29udHJvbC17eyAkcmVjb3JkLT5pZCB9fSIgcm9sZT0iYnV0dG9uIiBkYXRhLXNsaWRlPSJuZXh0IiBzdHlsZT0iYmFja2dyb3VuZDogcmFkaWFsLWdyYWRpZW50KGNpcmNsZSwgIzQzNDM0MywgIzQzNDM0MywgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCwgdHJhbnNwYXJlbnQsIHRyYW5zcGFyZW50LCB0cmFuc3BhcmVudCkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLW5leHQtaWNvbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+TmV4dDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlM0QoMCwgMSwgMCwgMTgwZGVnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoJHJlY29yZC0+YXZhdGFyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSJ7eyByb3V0ZSgncmVjb3Jkcy5hdmF0YXInLCAkcmVjb3JkLT5pZCkgfX0iIGFsdD0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRpZgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>car</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>car</last-pattern>
       <last-replace>input-name</last-replace>
       <last-substitute>input-email</last-substitute>
       <last-dir>1</last-dir>
@@ -1553,9 +1563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
-        <entry>mt</entry>
-        <entry>exampleInputEmail1</entry>
         <entry>email</entry>
         <entry>ar</entry>
         <entry>-name</entry>
@@ -1573,6 +1580,9 @@
         <entry>input-email</entry>
         <entry>store</entry>
         <entry>create</entry>
+        <entry>ava</entry>
+        <entry>style</entry>
+        <entry>car</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xTL3cvZw==</entry>
