@@ -693,6 +693,11 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/laradock-php56/docker-compose.yml" timestamp="1510369176430">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="93" column="42" />
