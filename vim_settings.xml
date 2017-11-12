@@ -71,11 +71,12 @@
         <mark key="^" line="50" column="87" />
         <mark key="." line="50" column="87" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/create.blade.php" timestamp="1510476555108">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/create.blade.php" timestamp="1510479258944">
+        <mark key="'" line="13" column="52" />
+        <mark key="[" line="9" column="137" />
+        <mark key="]" line="9" column="142" />
+        <mark key="." line="9" column="142" />
+        <mark key="^" line="9" column="142" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
         <mark key="'" line="32" column="0" />
@@ -376,10 +377,11 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Tag.php" timestamp="1510476386165">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Code/c-1/app/Tag.php" timestamp="1510480193796">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -562,11 +564,6 @@
         <mark key="." line="43" column="62" />
         <mark key="^" line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/RecordController.php" timestamp="1510286479016">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1500554948624">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="443" column="0" />
@@ -691,9 +688,9 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" timestamp="1510476467896">
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" timestamp="1510478378237">
         <mark key="'" line="18" column="30" />
-        <mark key="[" line="13" column="40" />
+        <mark key="[" line="13" column="50" />
         <mark key="]" line="13" column="60" />
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="60" />
@@ -704,6 +701,12 @@
         <mark key="]" line="180" column="8" />
         <mark key="^" line="180" column="58" />
         <mark key="." line="180" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/c-1/app/TagDirectChildren.php" timestamp="1510479999819">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/shopping-list-controller.js" timestamp="1506838281418">
         <mark key="[" line="237" column="45" />
@@ -769,11 +772,6 @@
         <mark key="]" line="35" column="13" />
         <mark key="^" line="16" column="69" />
         <mark key="." line="14" column="107" />
-      </file>
-      <file name="$USER_HOME$/Code/laradock-php56/docker-compose.yml" timestamp="1510369709578">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
         <mark key="'" line="45" column="16" />
@@ -847,11 +845,11 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" timestamp="1510476346631">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="34" />
+      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" timestamp="1510479881759">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="43" column="41" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/factory/userAuthFactory.js" timestamp="1506838410143">
         <mark key="[" line="22" column="34" />
@@ -1370,6 +1368,12 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/app/TagAncestor.php" timestamp="1510479827645">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" timestamp="1498967571543">
         <mark key="'" line="35" column="12" />
         <mark key="[" line="17" column="42" />
@@ -1425,11 +1429,11 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" timestamp="1510476427441">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="7" />
+      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" timestamp="1510479449827">
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/terms-of-service.blade.php" timestamp="1506337791325">
         <mark key="[" line="28" column="0" />
@@ -1561,7 +1565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="711" column="4" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="695" column="18" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="54" column="17" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="713" column="4" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
@@ -1661,10 +1664,11 @@
       <jump line="19" column="90" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" />
       <jump line="33" column="40" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" />
       <jump line="38" column="30" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" />
+      <jump line="11" column="52" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/create.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG1iLTM=</text>
+        <text>ancestor</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1680,55 +1684,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1iLTM=</text>
+        <text>ancestor</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>pas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwoJCSAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcigndGFnX2lkJyk7CgkJICAgICR0YWJsZS0+c3RyaW5nKCdhbmNlc3RvcnMnLCA0MDApOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbJ3RhZ19pZCcsICdjb250ZW50J107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAaWYgKCR0YWdzLT5pc0VtcHR5KCkpCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1zZWNvbmRhcnkiIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICAgICAgICAgICDnm67liY3mspLmnInku7vkvZXnlKLlk4HliIbpoZ7vvIw8YSBocmVmPSJ7eyByb3V0ZSgndGFncy5jcmVhdGUnKSB9fSI+6KuL6bue5oiR5paw5aKePC9hPuOAggogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIEBlbmRpZgoKICAgICAgICBAZm9yZWFjaCAoJHRhZ3MgYXMgJHRhZykK</text>
+        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3RhZ19hbmNlc3RvcnMnKS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAaWYgKHNlc3Npb24oJ2RlbGV0ZWQnKSkKICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiIHJvbGU9ImFsZXJ0Ij7os4fmlpnlt7LliKrpmaTvvIE8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgQGVuZGlmCgo=</text>
+        <text encoding="base64">CgogICAgLy8KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CgkvLwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkvLwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCAkZmlsbGFibGUgPSBbJ25hbWUnXTsKCg==</text>
+        <text encoding="base64">CSAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiPgogICAgICAgICAgICAgICAgICAgICAgICBDaGVjayBtZSBvdXQKICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3AoJ3RhZ3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGwgaWQ9ImVtYWlsSGVscCIgY2xhc3M9ImZvcm0tdGV4dCB0ZXh0LW11dGVkIj5XZSdsbCBuZXZlciBzaGFyZSB5b3VyIGVtYWlsIHdpdGggYW55b25lIGVsc2UuPC9zbWFsbD4K</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3AoJ3RhZ3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICBAaWYgKCR0YWdzLT5pc0VtcHR5KCkpCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1zZWNvbmRhcnkiIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICAgICAgICAgICDnm67liY3mspLmnInku7vkvZXnlKLlk4HliIbpoZ7vvIw8YSBocmVmPSJ7eyByb3V0ZSgndGFncy5jcmVhdGUnKSB9fSI+6KuL6bue5oiR5paw5aKePC9hPuOAggogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIEBlbmRpZgoKICAgICAgICBAZm9yZWFjaCAoJHRhZ3MgYXMgJHRhZykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRuZXdzLyRtb2RlbC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>pas</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>pas</last-pattern>
       <last-replace>$model</last-replace>
       <last-substitute>$news</last-substitute>
       <last-dir>1</last-dir>
@@ -1736,7 +1740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>volumes_from</entry>
         <entry>mess</entry>
         <entry>mes</entry>
         <entry>_</entry>
@@ -1756,6 +1759,7 @@
         <entry>new</entry>
         <entry>news</entry>
         <entry>model</entry>
+        <entry>pas</entry>
       </history-search>
       <history-cmd>
         <entry>f vd</entry>
