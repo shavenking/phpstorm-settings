@@ -1032,7 +1032,7 @@
         <mark key="^" line="46" column="74" />
       </file>
       <file name="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" timestamp="1510472194241">
-        <mark key="^" line="33" column="95" />
+        <mark key="^" line="26" column="95" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
         <mark key="'" line="54" column="5" />
@@ -1324,11 +1324,11 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" timestamp="1510471961946">
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="35" column="38" />
-        <mark key="." line="35" column="38" />
-        <mark key="^" line="35" column="38" />
+      <file name="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" timestamp="1510474657971">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="25" column="50" />
+        <mark key="." line="25" column="50" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/Code/c-1/app/News.php" timestamp="1510448870915">
         <mark key="[" line="6" column="27" />
@@ -1623,8 +1623,8 @@
       <jump line="35" column="35" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIHt7IFJlcXVlc3Q6OmlzKCdkYXNoYm9hcmQvbWVzc2FnZXMqJykgPyAnYWN0aXZlJyA6ICcnIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSJ7eyByb3V0ZSgnZGFzaGJvYXJkLm1lc3NhZ2VzLmluZGV4JykgfX0iPuioquWuoueVmeiogDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1640,7 +1640,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>標題</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
