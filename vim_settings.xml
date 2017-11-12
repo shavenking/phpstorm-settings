@@ -377,11 +377,11 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Tag.php" timestamp="1510480193796">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="27" />
+      <file name="$USER_HOME$/Code/c-1/app/Tag.php" timestamp="1510483560227">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
         <mark key="'" line="2" column="0" />
@@ -845,11 +845,11 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" timestamp="1510479881759">
-        <mark key="[" line="43" column="41" />
-        <mark key="]" line="43" column="41" />
-        <mark key="^" line="43" column="41" />
-        <mark key="." line="43" column="41" />
+      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" timestamp="1510483469618">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/factory/userAuthFactory.js" timestamp="1506838410143">
         <mark key="[" line="22" column="34" />
@@ -1565,10 +1565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="695" column="18" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="54" column="17" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="713" column="4" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="694" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="204" column="6" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="195" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
@@ -1665,10 +1661,14 @@
       <jump line="33" column="40" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" />
       <jump line="38" column="30" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" />
       <jump line="11" column="52" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/create.blade.php" />
+      <jump line="27" column="43" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
+      <jump line="19" column="24" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ancestor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEthbG5veVxOZXN0ZWRzZXRcTm9kZVRyYWl0Owo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1684,7 +1684,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ancestor</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text>pas</text>
@@ -1693,37 +1693,37 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbJ3RhZ19pZCcsICdjb250ZW50J107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3RhZ19hbmNlc3RvcnMnKS0+Cg==</text>
+        <text encoding="base64">dXNlIEthbG5veVxOZXN0ZWRzZXRcTm9kZVRyYWl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgLy8KCg==</text>
+        <text encoding="base64">ICAgIHVzZSBOb2RlVHJhaXQ7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgkvLwoK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgkvLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd0YWdzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgTmVzdGVkU2V0Ojpkcm9wQ29sdW1ucygkdGFibGUpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICB0cnkgewo=</text>
+        <text encoding="base64">dXNlIEthbG5veVxOZXN0ZWRzZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiPgogICAgICAgICAgICAgICAgICAgICAgICBDaGVjayBtZSBvdXQKICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3AoJ3RhZ19hbmNlc3RvcnMnKTsKICAgICAgICBTY2hlbWE6OmRyb3AoJ3RhZ19kaXJlY3RfY2hpbGRyZW4nKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGwgaWQ9ImVtYWlsSGVscCIgY2xhc3M9ImZvcm0tdGV4dCB0ZXh0LW11dGVkIj5XZSdsbCBuZXZlciBzaGFyZSB5b3VyIGVtYWlsIHdpdGggYW55b25lIGVsc2UuPC9zbWFsbD4K</text>
+        <text encoding="base64">CgkJU2NoZW1hOjpjcmVhdGUoJ3RhZ19hbmNlc3RvcnMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewoJCSAgICAkdGFibGUtPmluY3JlbWVudHMoJ2lkJyk7CgkJICAgICR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCd0YWdfaWQnKTsKCQkgICAgJHRhYmxlLT5zdHJpbmcoJ2NvbnRlbnQnLCA0MDApOwogICAgICAgIH0pOwoKICAgICAgICBTY2hlbWE6OmNyZWF0ZSgndGFnX2RpcmVjdF9jaGlsZHJlbicsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3RhZ19pZCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnY29udGVudCcsIDQwMCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAaWYgKCR0YWdzLT5pc0VtcHR5KCkpCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1zZWNvbmRhcnkiIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICAgICAgICAgICDnm67liY3mspLmnInku7vkvZXnlKLlk4HliIbpoZ7vvIw8YSBocmVmPSJ7eyByb3V0ZSgndGFncy5jcmVhdGUnKSB9fSI+6KuL6bue5oiR5paw5aKePC9hPuOAggogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIEBlbmRpZgoKICAgICAgICBAZm9yZWFjaCAoJHRhZ3MgYXMgJHRhZykK</text>
+        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3RhZ19hbmNlc3RvcnMnKS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRuZXdzLyRtb2RlbC9n</text>
