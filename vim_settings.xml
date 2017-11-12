@@ -291,12 +291,6 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/news.blade.php" timestamp="1510465459517">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="36" column="155" />
-        <mark key="]" line="36" column="159" />
-        <mark key="." line="36" column="155" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rShoppingList.js" timestamp="1506837474985">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -350,6 +344,13 @@
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/edit.blade.php" timestamp="1510498864426">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="17" column="62" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1507271513790">
         <mark key="'" line="240" column="11" />
@@ -688,12 +689,11 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" timestamp="1510478378237">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="13" column="60" />
-        <mark key="." line="13" column="60" />
-        <mark key="^" line="13" column="60" />
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/index.blade.php" timestamp="1510495892610">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/config/app.php" timestamp="1506047173947">
         <mark key="'" line="152" column="8" />
@@ -894,6 +894,13 @@
         <mark key="." line="120" column="12" />
         <mark key="^" line="120" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/Tag.php" timestamp="1510493212323">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/custom-report.html" timestamp="1505631616995">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -1063,8 +1070,11 @@
         <mark key="." line="46" column="74" />
         <mark key="^" line="46" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" timestamp="1510472194241">
-        <mark key="^" line="26" column="95" />
+      <file name="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" timestamp="1510498285919">
+        <mark key="[" line="36" column="87" />
+        <mark key="]" line="36" column="87" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="87" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
         <mark key="'" line="54" column="5" />
@@ -1143,6 +1153,12 @@
         <mark key="]" line="74" column="52" />
         <mark key="." line="74" column="52" />
         <mark key="^" line="74" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/c-1/config/app.php" timestamp="1510493051534">
+        <mark key="[" line="145" column="45" />
+        <mark key="]" line="147" column="44" />
+        <mark key="^" line="147" column="44" />
+        <mark key="." line="147" column="44" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/resources/views/_navbar.blade.php" timestamp="1510056228826">
         <mark key="'" line="22" column="3" />
@@ -1387,6 +1403,11 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_212426_create_tags_table.php" timestamp="1510493123211">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1506838105608">
         <mark key="'" line="1569" column="42" />
         <mark key="[" line="3" column="0" />
@@ -1429,11 +1450,12 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" timestamp="1510479449827">
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="56" column="20" />
-        <mark key="." line="56" column="20" />
-        <mark key="^" line="56" column="20" />
+      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" timestamp="1510499373010">
+        <mark key="'" line="77" column="12" />
+        <mark key="[" line="124" column="10" />
+        <mark key="]" line="124" column="18" />
+        <mark key="." line="124" column="18" />
+        <mark key="^" line="124" column="18" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/terms-of-service.blade.php" timestamp="1506337791325">
         <mark key="[" line="28" column="0" />
@@ -1565,11 +1587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="204" column="6" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="195" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="192" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="181" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="178" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="159" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
       <jump line="156" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
@@ -1665,10 +1682,15 @@
       <jump line="20" column="0" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
       <jump line="19" column="24" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/c-1/Tag.php" />
+      <jump line="23" column="45" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
+      <jump line="7" column="16" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/edit.blade.php" />
+      <jump line="77" column="12" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEthbG5veVxOZXN0ZWRzZXRcTm9kZVRyYWl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JyZuYnNwOzxzbWFsbD58PC9zbWFsbD4mbmJzcDsnIC4gJzxhIGhyZWY9IicgLiByb3V0ZSgnZGFzaGJvYXJkLnRhZ3MuZGVzdHJveScsIFskbm9kZS0+aWQsICdfbWV0aG9kJyA9PiAnREVMRVRFJ10pIC4gJyI+PHNtYWxsPuWIqumZpDwvc21hbGw+PC9hPicgLg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1684,55 +1706,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text encoding="base64">JHRhZyA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pas</text>
+        <text>token</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbJ3RhZ19pZCcsICdjb250ZW50J107Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JyZuYnNwOzxzbWFsbD58PC9zbWFsbD4mbmJzcDsnIC4gJzxhIGhyZWY9IicgLiByb3V0ZSgnZGFzaGJvYXJkLnRhZ3MuZGVzdHJveScsIFskbm9kZS0+aWQsICdfbWV0aG9kJyA9PiAnREVMRVRFJ10pIC4gJyI+PHNtYWxsPuWIqumZpDwvc21hbGw+PC9hPicgLg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEthbG5veVxOZXN0ZWRzZXRcTm9kZVRyYWl0Owo=</text>
+        <text encoding="base64">CSAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZSBOb2RlVHJhaXQ7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJwYXJlbnQiIHZhbHVlPSJ7eyAkdGFnLT5wYXJlbnQgPyAkdGFnLXBhcmVudC0+aWQgOiAnJyB9fSI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0W3R5cGU9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd0YWdzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgTmVzdGVkU2V0Ojpkcm9wQ29sdW1ucygkdGFibGUpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEthbG5veVxOZXN0ZWRzZXQ7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJGh0bWwgLj0gJzxhIGhyZWY9IicgLiByb3V0ZSgnZGFzaGJvYXJkLnRhZ3MuY3JlYXRlJywgWydwYXJlbnQnID0+ICRub2RlLT5pZF0pIC4gJyIgY2xhc3M9Im10LTMgbWItMyI+PHNtYWxsPjxzcGFuIGNsYXNzPSJvaSBvaS1wbHVzIj48L3NwYW4+Jm5ic3A75a2Q6aGe5YilPC9zbWFsbD48L2E+JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3AoJ3RhZ19hbmNlc3RvcnMnKTsKICAgICAgICBTY2hlbWE6OmRyb3AoJ3RhZ19kaXJlY3RfY2hpbGRyZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkJU2NoZW1hOjpjcmVhdGUoJ3RhZ19hbmNlc3RvcnMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewoJCSAgICAkdGFibGUtPmluY3JlbWVudHMoJ2lkJyk7CgkJICAgICR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCd0YWdfaWQnKTsKCQkgICAgJHRhYmxlLT5zdHJpbmcoJ2NvbnRlbnQnLCA0MDApOwogICAgICAgIH0pOwoKICAgICAgICBTY2hlbWE6OmNyZWF0ZSgndGFnX2RpcmVjdF9jaGlsZHJlbicsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3RhZ19pZCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnY29udGVudCcsIDQwMCk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkaHRtbCAuPSAnPGxpPicgLiAkbm9kZS0+bmFtZSAuICcgLSA8YSBocmVmPSInIC4gcm91dGUoJ2Rhc2hib2FyZC50YWdzLmNyZWF0ZScsIFsncGFyZW50JyA9PiAkbm9kZS0+aWRdKSAuICciPuaWsOWinuWtkOmhnuWIpTwvYT4nOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3RhZ19hbmNlc3RvcnMnKS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJG5vZGUtPmlzTGVhZigpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyRuZXdzLyRtb2RlbC9n</text>
+        <text>22,43d</text>
       </register>
     </registers>
     <search>
-      <last-search>pas</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>pas</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>$model</last-replace>
       <last-substitute>$news</last-substitute>
       <last-dir>1</last-dir>
@@ -1740,7 +1762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mess</entry>
         <entry>mes</entry>
         <entry>_</entry>
         <entry>me</entry>
@@ -1760,9 +1781,9 @@
         <entry>news</entry>
         <entry>model</entry>
         <entry>pas</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
-        <entry>f vd</entry>
         <entry>589y</entry>
         <entry encoding="base64">JzwsJz5zL2V4YW1wbGVJbnB1dEVtYWlsMS9sb2dpbi1pbnB1dC1lbWFpbC9n</entry>
         <entry encoding="base64">JzwsJz5zL2V4YW1wbGVJbnB1dFBhc3N3b3JkMS9sb2dpbi1pbnB1dC1wYXNzd29yZC9n</entry>
@@ -1782,6 +1803,7 @@
         <entry encoding="base64">JzwsJz5zLyRtb2RlbC8kbmV3cy9n</entry>
         <entry encoding="base64">JzwsJz5zLyRuZXdzL21vZGVsL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyRuZXdzLyRtb2RlbC9n</entry>
+        <entry>22,43d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
