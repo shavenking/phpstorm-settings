@@ -51,10 +51,10 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/create.blade.php" timestamp="1510468699543">
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/create.blade.php" timestamp="1510569848185">
         <mark key="'" line="22" column="65" />
-        <mark key="[" line="10" column="81" />
-        <mark key="]" line="14" column="48" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="21" />
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
@@ -90,6 +90,12 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/products/create.blade.php" timestamp="1510569870137">
+        <mark key="[" line="21" column="112" />
+        <mark key="]" line="21" column="112" />
+        <mark key="." line="21" column="112" />
+        <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" timestamp="1503747967203">
         <mark key="'" line="0" column="0" />
@@ -518,6 +524,13 @@
         <mark key="." line="29" column="82" />
         <mark key="^" line="29" column="102" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" timestamp="1510572243287">
+        <mark key="'" line="89" column="33" />
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="64" />
+        <mark key="^" line="32" column="64" />
+      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rRegister.js" timestamp="1506836891665">
         <mark key="'" line="198" column="46" />
         <mark key="[" line="10" column="0" />
@@ -733,6 +746,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183748_create_product_tag_table.php" timestamp="1510569523485">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/c-1/resources/views/index.blade.php" timestamp="1510465143027">
         <mark key="'" line="19" column="20" />
         <mark key="[" line="17" column="0" />
@@ -874,6 +894,13 @@
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/ProductController.php" timestamp="1510572937074">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="128" column="22" />
+        <mark key="]" line="128" column="39" />
+        <mark key="." line="128" column="39" />
+        <mark key="^" line="128" column="39" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" timestamp="1506599840257">
         <mark key="'" line="79" column="118" />
@@ -1038,6 +1065,12 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="31" column="66" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/products/show.blade.php" timestamp="1510572982154">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1506232662432">
         <mark key="[" line="2" column="83" />
         <mark key="]" line="2" column="83" />
@@ -1070,11 +1103,11 @@
         <mark key="." line="46" column="74" />
         <mark key="^" line="46" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" timestamp="1510498285919">
-        <mark key="[" line="36" column="87" />
-        <mark key="]" line="36" column="87" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="36" column="87" />
+      <file name="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" timestamp="1510570702803">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="77" />
+        <mark key="^" line="36" column="77" />
+        <mark key="." line="36" column="77" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
         <mark key="'" line="54" column="5" />
@@ -1252,12 +1285,18 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" timestamp="1510462801142">
+      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" timestamp="1510570798272">
         <mark key="'" line="81" column="13" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="37" column="13" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="154" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/c-1/app/Product.php" timestamp="1510571232596">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
         <mark key="'" line="97" column="0" />
@@ -1279,11 +1318,11 @@
         <mark key="^" line="69" column="89" />
         <mark key="." line="69" column="90" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/routes.php" timestamp="1510475866058">
-        <mark key="[" line="119" column="55" />
-        <mark key="]" line="121" column="44" />
-        <mark key="." line="121" column="44" />
-        <mark key="^" line="121" column="44" />
+      <file name="$USER_HOME$/Code/c-1/app/Http/routes.php" timestamp="1510569178757">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="121" column="52" />
+        <mark key="." line="121" column="52" />
+        <mark key="^" line="121" column="52" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/User.php" timestamp="1498738289747">
         <mark key="'" line="7" column="6" />
@@ -1539,6 +1578,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183358_create_products_table.php" timestamp="1510569488587">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="14" column="61" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1505213043366">
         <mark key="[" line="46" column="80" />
         <mark key="]" line="46" column="81" />
@@ -1587,18 +1631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="159" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="156" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="147" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="123" column="6" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="109" column="0" filename="$USER_HOME$/Code/laradock-php56/docker-compose.yml" />
-      <jump line="191" column="21" filename="$USER_HOME$/Code/c-1/.phpstorm.meta.php" />
-      <jump line="9" column="45" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
-      <jump line="34" column="35" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
-      <jump line="35" column="142" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
-      <jump line="36" column="139" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
-      <jump line="46" column="29" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
       <jump line="48" column="62" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
       <jump line="51" column="29" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" />
       <jump line="13" column="62" filename="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" />
@@ -1687,10 +1719,22 @@
       <jump line="113" column="0" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
       <jump line="7" column="16" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/edit.blade.php" />
       <jump line="77" column="12" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
+      <jump line="14" column="61" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183748_create_product_tag_table.php" />
+      <jump line="29" column="8" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183748_create_product_tag_table.php" />
+      <jump line="46" column="160" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="47" column="36" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="48" column="217" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="58" column="87" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="73" column="33" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="75" column="66" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="78" column="33" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
+      <jump line="32" column="22" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/ProductController.php" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/ProductController.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/show.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JyZuYnNwOzxzbWFsbD58PC9zbWFsbD4mbmJzcDsnIC4gJzxhIGhyZWY9IicgLiByb3V0ZSgnZGFzaGJvYXJkLnRhZ3MuZGVzdHJveScsIFskbm9kZS0+aWQsICdfbWV0aG9kJyA9PiAnREVMRVRFJ10pIC4gJyI+PHNtYWxsPuWIqumZpDwvc21hbGw+PC9hPicgLg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAoKICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgICAgICAgICA8bmF2PgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJwYWdpbmF0aW9uIGp1c3RpZnktY29udGVudC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIEBpZiAoJHByb2R1Y3RzLT5wcmV2aW91c1BhZ2VVcmwoKSkKICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0ie3sgJHByb2R1Y3RzLT5wcmV2aW91c1BhZ2VVcmwoKSB9fSIgdGFiaW5kZXg9Ii0xIj7kuIrkuIDpoIE8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgQGlmICgkcHJvZHVjdHMtPm5leHRQYWdlVXJsKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9Int7ICRwcm9kdWN0cy0+bmV4dFBhZ2VVcmwoKSB9fSI+5LiL5LiA6aCBPC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9uYXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1706,55 +1750,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRhZyA9IA==</text>
+        <text>whereHas</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text>cus</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JyZuYnNwOzxzbWFsbD58PC9zbWFsbD4mbmJzcDsnIC4gJzxhIGhyZWY9IicgLiByb3V0ZSgnZGFzaGJvYXJkLnRhZ3MuZGVzdHJveScsIFskbm9kZS0+aWQsICdfbWV0aG9kJyA9PiAnREVMRVRFJ10pIC4gJyI+PHNtYWxsPuWIqumZpDwvc21hbGw+PC9hPicgLg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5vcldoZXJlSGFzKCd0YWdzJywgZnVuY3Rpb24gKCRxKSB1c2UgKCRzZWFyY2gpIHsKICAgICAgICAgICAgICAgICRxLT53aGVyZSgnbmFtZScsICdMSUtFJywgIiUkc2VhcmNoJSIpOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktCg==</text>
+        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAoKICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgICAgICAgICA8bmF2PgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJwYWdpbmF0aW9uIGp1c3RpZnktY29udGVudC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIEBpZiAoJHByb2R1Y3RzLT5wcmV2aW91c1BhZ2VVcmwoKSkKICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0ie3sgJHByb2R1Y3RzLT5wcmV2aW91c1BhZ2VVcmwoKSB9fSIgdGFiaW5kZXg9Ii0xIj7kuIrkuIDpoIE8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgQGlmICgkcHJvZHVjdHMtPm5leHRQYWdlVXJsKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9Int7ICRwcm9kdWN0cy0+bmV4dFBhZ2VVcmwoKSB9fSI+5LiL5LiA6aCBPC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9uYXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJwYXJlbnQiIHZhbHVlPSJ7eyAkdGFnLT5wYXJlbnQgPyAkdGFnLXBhcmVudC0+aWQgOiAnJyB9fSI+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQGlmICgkcHJvZHVjdHMtPmlzRW1wdHkoKSkKICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXNlY29uZGFyeSIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgIOebruWJjeaykuaciee2reS/rumgheebruOAggogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIEBlbmRpZgoKICAgICAgICBAZm9yZWFjaCAoJHByb2R1Y3RzIGFzICRwcm9kdWN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIgbXQtMyI+CiAgICAgICAgICAgIDxmb3JtIG1ldGhvZD0iR0VUIiBhY3Rpb249Int7IHJvdXRlKCdkYXNoYm9hcmQucHJvZHVjdHMuaW5kZXgnKSB9fSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJkYXNoYm9hcmQtcHJvZHVjdHMtaW5wdXQtc2VhcmNoIiBjbGFzcz0ic3Itb25seSI+5pCc5bCLPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJxIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iZGFzaGJvYXJkLXByb2R1Y3RzLWlucHV0LXNlYXJjaCIgdmFsdWU9Int7IGFwcCgncmVxdWVzdCcpLT5xIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWJ0biI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+5pCc5bCLPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8c21hbGwgY2xhc3M9ImZvcm0tdGV4dCB0ZXh0LW11dGVkIj7mkJzlsIvntq3kv67poIXnm67jgIHliIbpoZ48L3NtYWxsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgPGhyPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0W3R5cGU9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYnRuLXRvb2xiYXIganVzdGlmeS1jb250ZW50LWJldHdlZW4iPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgJGh0bWwgLj0gJzxhIGhyZWY9IicgLiByb3V0ZSgnZGFzaGJvYXJkLnRhZ3MuY3JlYXRlJywgWydwYXJlbnQnID0+ICRub2RlLT5pZF0pIC4gJyIgY2xhc3M9Im10LTMgbWItMyI+PHNtYWxsPjxzcGFuIGNsYXNzPSJvaSBvaS1wbHVzIj48L3NwYW4+Jm5ic3A75a2Q6aGe5YilPC9zbWFsbD48L2E+JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2PiA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHJvdXRlKCdkYXNoYm9hcmQudGFncy5pbmRleCcpIH19IiBjbGFzcz0iYnRuIGJ0bi1zZWNvbmRhcnkiPueuoeeQhumhnuWIpTwvYT4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnZGFzaGJvYXJkLnByb2R1Y3RzLmNyZWF0ZScpIH19IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij7mlrDlop48L2E+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkaHRtbCAuPSAnPGxpPicgLiAkbm9kZS0+bmFtZSAuICcgLSA8YSBocmVmPSInIC4gcm91dGUoJ2Rhc2hib2FyZC50YWdzLmNyZWF0ZScsIFsncGFyZW50JyA9PiAkbm9kZS0+aWRdKSAuICciPuaWsOWinuWtkOmhnuWIpTwvYT4nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKFJlcXVlc3Q6OmhhcygncScpKQo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG5vZGUtPmlzTGVhZigpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJ0bi1ncm91cCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>22,43d</text>
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search>cus</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern>cus</last-pattern>
       <last-replace>$model</last-replace>
       <last-substitute>$news</last-substitute>
       <last-dir>1</last-dir>
@@ -1762,7 +1806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mes</entry>
         <entry>_</entry>
         <entry>me</entry>
         <entry>inde</entry>
@@ -1782,6 +1825,7 @@
         <entry>model</entry>
         <entry>pas</entry>
         <entry>token</entry>
+        <entry>cus</entry>
       </history-search>
       <history-cmd>
         <entry>589y</entry>
