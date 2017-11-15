@@ -10,6 +10,13 @@
         <mark key="." line="639" column="0" />
         <mark key="^" line="637" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/c-3/vendor/composer/ClassLoader.php" timestamp="1510749896693">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="135" column="51" />
+        <mark key="]" line="135" column="52" />
+        <mark key="." line="135" column="52" />
+        <mark key="^" line="135" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/create.blade.php" timestamp="1510226806203">
         <mark key="'" line="39" column="130" />
         <mark key="[" line="47" column="49" />
@@ -162,6 +169,12 @@
         <mark key="]" line="23" column="8" />
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/c-3/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/InstantiatorTest.php" timestamp="1510749046440">
+        <mark key="[" line="213" column="98" />
+        <mark key="]" line="213" column="98" />
+        <mark key="." line="213" column="98" />
+        <mark key="^" line="213" column="98" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/.env.example" timestamp="1498742383869">
         <mark key="'" line="0" column="0" />
@@ -795,7 +808,7 @@
         <mark key="." line="119" column="43" />
         <mark key="^" line="119" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510665516259">
+      <file name="/Dummy.txt" timestamp="1510749086609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1523,6 +1536,13 @@
         <mark key="." line="18" column="82" />
         <mark key="^" line="18" column="102" />
       </file>
+      <file name="$USER_HOME$/Code/c-3/vendor/composer/autoload_real.php" timestamp="1510749783491">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="16" />
+        <mark key="." line="67" column="16" />
+        <mark key="^" line="67" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" timestamp="1499598716257">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="16" column="0" />
@@ -1674,8 +1694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="34" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
-      <jump line="70" column="67" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
       <jump line="73" column="34" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
       <jump line="75" column="67" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
       <jump line="5" column="6" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_140950_create_customers_table.php" />
@@ -1774,10 +1792,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/public/index.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/composer/autoload_real.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/composer/ClassLoader.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(new DeepCopy($useCloneMethod))</text>
+        <text>array(</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1793,7 +1813,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(new DeepCopy($useCloneMethod))</text>
+        <text>array(</text>
       </register>
       <register name="/" type="4">
         <text>dash</text>
