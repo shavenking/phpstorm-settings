@@ -350,6 +350,9 @@
         <mark key="^" line="18" column="70" />
         <mark key="." line="18" column="70" />
       </file>
+      <file name="$USER_HOME$/Code/c-3/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1510748405853">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/get-token.blade.php" timestamp="1504250840741">
         <mark key="'" line="1" column="13" />
         <mark key="[" line="7" column="11" />
@@ -1449,6 +1452,10 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="41" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/c-3/public/index.php" timestamp="1510748197137">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/c-1/app/News.php" timestamp="1510448870915">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="43" />
@@ -1548,6 +1555,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="70" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/c-3/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php" timestamp="1510748353698">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/orders/create-plus-one.blade.php" timestamp="1505968347886">
         <mark key="'" line="34" column="75" />
@@ -1660,9 +1674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="79" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
-      <jump line="49" column="69" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
-      <jump line="53" column="108" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
       <jump line="68" column="34" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
       <jump line="70" column="67" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
       <jump line="73" column="34" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" />
@@ -1760,10 +1771,13 @@
       <jump line="15" column="0" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/edit.blade.php" />
       <jump line="152" column="37" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/ProductController.php" />
       <jump line="176" column="37" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/ProductController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/public/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBob3RmaXg6IGFza2VkIGJ5IGJvc3MKICAgICAgICAkcXVlcnktPndoZXJlKCdlbWFpbCcsICchPScsICdiajgxOTZAZ21haWwuY29tJyk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>(new DeepCopy($useCloneMethod))</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1779,7 +1793,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(new DeepCopy($useCloneMethod))</text>
       </register>
       <register name="/" type="4">
         <text>dash</text>
