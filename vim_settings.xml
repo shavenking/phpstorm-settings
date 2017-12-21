@@ -671,12 +671,6 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/ProductController.php" timestamp="1512180205707">
-        <mark key="[" line="45" column="77" />
-        <mark key="]" line="45" column="77" />
-        <mark key="^" line="45" column="76" />
-        <mark key="." line="45" column="77" />
-      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
         <mark key="[" line="12" column="64" />
@@ -835,6 +829,12 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/c-2/resources/views/errors/403.blade.php" timestamp="1513859767068">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/show.blade.php" timestamp="1510471600438">
         <mark key="'" line="8" column="8" />
