@@ -275,11 +275,11 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" timestamp="1514608542563">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="120" column="45" />
+      <file name="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" timestamp="1514616160107">
+        <mark key="[" line="33" column="103" />
+        <mark key="]" line="33" column="88" />
+        <mark key="." line="33" column="88" />
+        <mark key="^" line="33" column="88" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" timestamp="1505550271137">
         <mark key="'" line="56" column="39" />
@@ -488,11 +488,11 @@
         <mark key="." line="225" column="7" />
         <mark key="^" line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514600749898">
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="66" column="33" />
+      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514612542473">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="40" column="58" />
+        <mark key="." line="41" column="35" />
+        <mark key="^" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506753410518">
         <mark key="[" line="407" column="29" />
@@ -733,11 +733,6 @@
         <mark key="]" line="22" column="56" />
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/ProductController.php" timestamp="1514201002407">
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="21" />
-        <mark key="." line="60" column="21" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
         <mark key="'" line="6" column="9" />
@@ -986,18 +981,24 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/ImportController.php" timestamp="1514600958344">
-        <mark key="[" line="87" column="70" />
-        <mark key="]" line="89" column="50" />
-        <mark key="." line="89" column="50" />
-        <mark key="^" line="89" column="50" />
+      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/ImportController.php" timestamp="1514614485446">
+        <mark key="[" line="89" column="11" />
+        <mark key="]" line="89" column="11" />
+        <mark key="." line="89" column="11" />
+        <mark key="^" line="87" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/routes/web.php" timestamp="1514599085499">
+      <file name="$USER_HOME$/Code/fan-xian/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1514615387312">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/fan-xian/routes/web.php" timestamp="1514615363120">
         <mark key="'" line="20" column="39" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="20" column="47" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="79" />
+        <mark key="." line="23" column="79" />
+        <mark key="^" line="23" column="79" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/database/migrations/2017_12_30_015624_create_imports_table.php" timestamp="1514599162021">
         <mark key="[" line="17" column="44" />
@@ -1178,11 +1179,6 @@
         <mark key="]" line="435" column="44" />
         <mark key="." line="435" column="44" />
         <mark key="^" line="435" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/show.blade.php" timestamp="1514202802813">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="73" column="22" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1506218941339">
         <mark key="'" line="22" column="4" />
@@ -1412,11 +1408,6 @@
         <mark key="]" line="63" column="50" />
         <mark key="." line="63" column="50" />
         <mark key="^" line="63" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/c-3/app/Http/Controllers/UserController.php" timestamp="1510746418961">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PageController.php" timestamp="1506480421602">
         <mark key="'" line="41" column="0" />
@@ -1842,13 +1833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
-      <jump line="19" column="24" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_164334_create_tags_table.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/c-1/Tag.php" />
-      <jump line="23" column="45" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
-      <jump line="113" column="0" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
-      <jump line="7" column="16" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/edit.blade.php" />
       <jump line="77" column="12" filename="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" />
       <jump line="14" column="61" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183748_create_product_tag_table.php" />
       <jump line="29" column="8" filename="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183748_create_product_tag_table.php" />
@@ -1942,10 +1926,17 @@
       <jump line="41" column="63" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="123" column="33" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="117" column="31" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="130" column="93" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="55" column="18" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="39" column="34" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="175" column="59" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="170" column="62" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="83" column="64" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzLmRhdGFbMF0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1961,65 +1952,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.length</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>len</text>
+        <text>si</text>
       </register>
       <register name="0" type="4">
         <text>rowsUploadProgress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzLmRhdGFbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lSGVhZGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRzLmRhdGEubWFwKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2dWUuY3N2ID0gZmlsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJlYW0ucGF1c2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdHJlYW0pOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyZWFtLnJlc3VtZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIDEwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLiRuZXh0VGljayhmdW5jdGlvbiAoKSB7fSk7CiAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJlYW0ucGF1c2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRzLm1ldGEuY3Vyc29yLCB0aGlzLmNzdlswXS5zaXplKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNodW5rUHJvZ3Jlc3MgPSByZXN1bHRzLm1ldGEuY3Vyc29yIC8gY3N2LnNpemUgKiAxMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNzdi5wYXJzZSh7CiAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZTogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5pbmNvcnJlY3RDU1YgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfS5iaW5kKHRoaXMpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25maWc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2aWV3OiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGU6IGZ1bmN0aW9uIChyZXN1bHRzLCBmaWxlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdHMuZXJyb3JzLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmluY29ycmVjdENTViA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuaGVhZGVycyA9IHJlc3VsdHMuZGF0YVswXS5tYXAoZnVuY3Rpb24gKGhlYWRlcikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogaGVhZGVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ2lnbm9yZScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdnVlLmNzdiA9IGZpbGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nb1N0ZXAoMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0uYmluZCh0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb2dyZXNzID0gCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0uYmluZCh0aGlzKSwgMTAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icHJvZ3Jlc3MiIHYtc2hvdz0ic3RlcCA9PT0gMyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwcm9ncmVzcy1iYXIiIHYtYmluZDpjbGFzcz0ie3dpZHRoOiByb3dzVXBsb2FkUHJvZ3Jlc3MgKyAnJSd9IiB2LWJpbmQ6YXJpYS12YWx1ZW5vdz0icm93c1VwbG9hZFByb2dyZXNzIiBhcmlhLXZhbHVlbWluPSIwIiBhcmlhLXZhbHVlbWF4PSIxMDAiPkB7eyByb3dzVXBsb2FkUHJvZ3Jlc3MgfX0lPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdnVlID0gdGhpczsK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd3NVcGxvYWRQcm9ncmVzczogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobnVtYmVyID09IDIgJiYgKF8uaXNFbXB0eSh0aGlzLmlzc3VlKSB8fCBfLmlzRW1wdHkodGhpcy5yZW1hcmtzKSB8fCBfLmlzRW1wdHkodGhpcy5jc3YpKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3F1ZXJ5L3EvZw==</text>
+        <text encoding="base64">JzwsJz5zL2xlbmd0aC9zaXplL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>len</last-search>
+      <last-search>si</last-search>
       <last-offset />
-      <last-pattern>len</last-pattern>
-      <last-replace>q</last-replace>
-      <last-substitute>clas</last-substitute>
+      <last-pattern>si</last-pattern>
+      <last-replace>size</last-replace>
+      <last-substitute>length</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>haspre</entry>
-        <entry>hasP</entry>
-        <entry>hasN</entry>
         <entry>query</entry>
         <entry>smal</entry>
         <entry>h4</entry>
@@ -2037,9 +2025,11 @@
         <entry>pro</entry>
         <entry>progress</entry>
         <entry>len</entry>
+        <entry>length</entry>
+        <entry>size</entry>
+        <entry>si</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2V4YW1wbGVJbnB1dFBhc3N3b3JkMS9sb2dpbi1pbnB1dC1wYXNzd29yZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2V4YW1wbGVJbnB1dEVtYWlsMS9jcmVhdGUtcmVjb3JkLWlucHV0LW5hbWUvZw==</entry>
         <entry encoding="base64">JzwsJz5zLy1uYW1lLy1waG9uZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3Bob25lL2FkZHJlc3MvZw==</entry>
@@ -2059,6 +2049,7 @@
         <entry>22,43d</entry>
         <entry>103y</entry>
         <entry encoding="base64">JzwsJz5zL3F1ZXJ5L3EvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2xlbmd0aC9zaXplL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
