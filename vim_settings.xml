@@ -282,11 +282,11 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" timestamp="1514622063192">
-        <mark key="[" line="156" column="103" />
-        <mark key="]" line="156" column="108" />
-        <mark key="." line="156" column="108" />
-        <mark key="^" line="156" column="108" />
+      <file name="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" timestamp="1514627647985">
+        <mark key="[" line="38" column="114" />
+        <mark key="]" line="38" column="114" />
+        <mark key="." line="38" column="114" />
+        <mark key="^" line="38" column="106" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" timestamp="1505550271137">
         <mark key="'" line="56" column="39" />
@@ -495,11 +495,11 @@
         <mark key="." line="225" column="7" />
         <mark key="^" line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514624763939">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="33" />
+      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514627887218">
+        <mark key="[" line="88" column="37" />
+        <mark key="]" line="89" column="54" />
+        <mark key="." line="89" column="54" />
+        <mark key="^" line="89" column="54" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506753410518">
         <mark key="[" line="407" column="29" />
@@ -763,12 +763,12 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/transactions/index.blade.php" timestamp="1514624833514">
+      <file name="$USER_HOME$/Code/fan-xian/resources/views/transactions/index.blade.php" timestamp="1514627854581">
         <mark key="'" line="16" column="95" />
-        <mark key="[" line="16" column="115" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="54" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="29" column="59" />
+        <mark key="." line="29" column="59" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Transaction.php" timestamp="1514617307079">
         <mark key="[" line="8" column="0" />
@@ -1956,8 +1956,8 @@
       <jump line="16" column="95" filename="$USER_HOME$/Code/fan-xian/resources/views/transactions/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGwgaWQ9ImVtYWlsSGVscCIgY2xhc3M9ImZvcm0tdGV4dCB0ZXh0LW11dGVkIj5XZSdsbCBuZXZlciBzaGFyZSB5b3VyIGVtYWlsIHdpdGggYW55b25lIGVsc2UuPC9zbWFsbD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1973,7 +1973,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFyaWEtZGVzY3JpYmVkYnk9ImVtYWlsSGVscCIgcGxhY2Vob2xkZXI9IkVudGVyIGVtYWlsIg==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>ar</text>
