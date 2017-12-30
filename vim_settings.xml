@@ -144,6 +144,13 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/fan-xian/resources/views/_layout.blade.php" timestamp="1514596157008">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="8" column="219" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/list-controller-default.js" timestamp="1506838244086">
         <mark key="[" line="404" column="41" />
         <mark key="]" line="404" column="43" />
@@ -264,6 +271,12 @@
         <mark key="]" line="12" column="59" />
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" timestamp="1514596387192">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" timestamp="1505550271137">
         <mark key="'" line="56" column="39" />
@@ -952,11 +965,11 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/routes/web.php" timestamp="1514548188990">
-        <mark key="[" line="20" column="69" />
-        <mark key="]" line="21" column="61" />
-        <mark key="." line="21" column="61" />
-        <mark key="^" line="21" column="61" />
+      <file name="$USER_HOME$/Code/fan-xian/routes/web.php" timestamp="1514596038850">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/factory/userAuthFactory.js" timestamp="1506838410143">
         <mark key="[" line="22" column="34" />
@@ -1209,11 +1222,12 @@
         <mark key="^" line="36" column="77" />
         <mark key="." line="36" column="77" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/login.blade.php" timestamp="1514548087624">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+      <file name="$USER_HOME$/Code/fan-xian/resources/views/login.blade.php" timestamp="1514596216923">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="8" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
         <mark key="'" line="54" column="5" />
@@ -1791,11 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="95" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
-      <jump line="47" column="51" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
-      <jump line="52" column="38" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
-      <jump line="54" column="71" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
       <jump line="57" column="38" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
       <jump line="59" column="71" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
       <jump line="36" column="100" filename="$USER_HOME$/Code/c-1/resources/views/customers.blade.php" />
@@ -1891,10 +1900,15 @@
       <jump line="56" column="76" filename="$USER_HOME$/Code/c-2/app/Policies/ProductPolicy.php" />
       <jump line="4" column="6" filename="$USER_HOME$/Code/fan-xian/database/seeds/DatabaseSeeder.php" />
       <jump line="21" column="38" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/AuthController.php" />
+      <jump line="20" column="18" filename="$USER_HOME$/Code/fan-xian/resources/views/_layout.blade.php" />
+      <jump line="2" column="5" filename="$USER_HOME$/Code/fan-xian/resources/views/login.blade.php" />
+      <jump line="30" column="8" filename="$USER_HOME$/Code/fan-xian/resources/views/login.blade.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
+      <jump line="2" column="16" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVsbG8gd29ybGQK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1910,7 +1924,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGNvbC1tZC02</text>
       </register>
       <register name="/" type="4">
         <text>Auth</text>
@@ -1919,37 +1933,37 @@
         <text encoding="base64">ICAgICAgICBVc2VyOjpjcmVhdGUoWwogICAgICAgICAgICAnbmFtZScgPT4gJ2FkbWluQGVtYWlsLmNvbScsCiAgICAgICAgICAgICdlbWFpbCcgPT4gJ2FkbWluQGVtYWlsLmNvbScsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gYmNyeXB0KCdhZG1pbicpCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVsbG8gd29ybGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhpcyBpcyBhIGRhbmdlciBhbGVydOKAlGNoZWNrIGl0IG91dCEK</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgJycgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdsb2dpbi1mYWlsZWQnKSkKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LWRhbmdlciIgcm9sZT0iYWxlcnQiPueZu+WFpeWkseaVlzwvZGl2PgogICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgPGZvcm0gbWV0aG9kPSJQT1NUIiBhY3Rpb249Int7IHJvdXRlKCdwb3N0LWxvZ2luJykgfX0iPgogICAgICAgICAgICAgICAge3sgY3NyZl9maWVsZCgpIH19CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJpbnB1dC1sb2dpbi1lbWFpbCI+5L+h566xPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZW1haWwiIG5hbWU9ImVtYWlsIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iaW5wdXQtbG9naW4tZW1haWwiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJpbnB1dC1sb2dpbi1wYXNzd29yZCI+5a+G56K8PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iaW5wdXQtbG9naW4tcGFzc3dvcmQiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+55m75YWlPC9idXR0b24+CiAgICAgICAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cn0pLT5uYW1lKCdob21lJyk7Cg==</text>
+        <text encoding="base64">QHNlY3Rpb24oJ3N0eWxlJykKICAgIDxzdHlsZT4KICAgICAgICBib2R5IHsKICAgICAgICAgICAgcGFkZGluZy10b3A6IDMwcHg7CiAgICAgICAgfQogICAgPC9zdHlsZT4KQHN0b3AKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgaWQ9ImV4YW1wbGVDaGVjazEiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tY2hlY2stbGFiZWwiIGZvcj0iZXhhbXBsZUNoZWNrMSI+Q2hlY2sgbWUgb3V0PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CiAgICA8IS0tIE9wdGlvbmFsIEphdmFTY3JpcHQgLS0+CiAgICA8IS0tIGpRdWVyeSBmaXJzdCwgdGhlbiBQb3BwZXIuanMsIHRoZW4gQm9vdHN0cmFwIEpTIC0tPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY29kZS5qcXVlcnkuY29tL2pxdWVyeS0zLjIuMS5zbGltLm1pbi5qcyIgaW50ZWdyaXR5PSJzaGEzODQtS0ozbzJES3RJa3ZZSUszVUVOem1NN0tDa1JyL3JFOS9RcGc2YUFaR0p3RkRNVk5BL0dwR0ZGOTNoWHBHNUtrTiIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvcG9wcGVyLmpzLzEuMTIuOS91bWQvcG9wcGVyLm1pbi5qcyIgaW50ZWdyaXR5PSJzaGEzODQtQXBOYmdoOUIrWTFRS3R2M1JuN1czbWdQeGhVOUsvU2NRc0FQN2hVaWJYMzlqN2Zha0ZQc2t2WHVzdmZhMGI0USIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvNC4wLjAtYmV0YS4zL2pzL2Jvb3RzdHJhcC5taW4uanMiIGludGVncml0eT0ic2hhMzg0LWE1TjdZL2FLM3FOZWgxNWVKS0dXeHNxdG5YL3dXZFNaU0twKzgxWWpUbVMxNW52bnZ4S0h1emFXd1hIRGxpKzQiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1tdXRlZCI+V2UnbGwgbmV2ZXIgc2hhcmUgeW91ciBlbWFpbCB3aXRoIGFueW9uZSBlbHNlLjwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJvZHk+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxoMT5IZWxsbywgd29ybGQhPC9oMT4K</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gT3B0aW9uYWwgSmF2YVNjcmlwdCAtLT4KICAgIDwhLS0galF1ZXJ5IGZpcnN0LCB0aGVuIFBvcHBlci5qcywgdGhlbiBCb290c3RyYXAgSlMgLS0+Cg==</text>
+        <text encoding="base64">CiAgICA8dGl0bGU+6L+U54++PC90aXRsZT4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3F1ZXJ5L3EvZw==</text>
@@ -1960,7 +1974,7 @@
       <last-offset />
       <last-pattern>Auth</last-pattern>
       <last-replace>q</last-replace>
-      <last-substitute>query</last-substitute>
+      <last-substitute>Auth</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
