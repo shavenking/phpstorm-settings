@@ -516,11 +516,11 @@
         <mark key="." line="225" column="7" />
         <mark key="^" line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514727378009">
-        <mark key="[" line="49" column="49" />
-        <mark key="]" line="49" column="65" />
-        <mark key="^" line="49" column="65" />
-        <mark key="." line="49" column="65" />
+      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514728656016">
+        <mark key="'" line="47" column="116" />
+        <mark key="[" line="49" column="73" />
+        <mark key="]" line="49" column="73" />
+        <mark key="." line="49" column="73" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506753410518">
         <mark key="[" line="407" column="29" />
@@ -1902,7 +1902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Code/c-1/app/Http/routes.php" />
       <jump line="3" column="20" filename="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/c-1/resources/views/products.blade.php" />
       <jump line="60" column="192" filename="$USER_HOME$/Code/c-1/resources/views/products.blade.php" />
@@ -2002,10 +2001,11 @@
       <jump line="4" column="4" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/edit.blade.php" />
       <jump line="5" column="38" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/edit.blade.php" />
       <jump line="45" column="28" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
+      <jump line="47" column="116" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>total</text>
+        <text>, 'point_periods.top'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -2021,55 +2021,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>total</text>
+        <text>, 'point_periods.top'</text>
       </register>
       <register name="/" type="4">
-        <text>sto</text>
+        <text>AS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LWRhcmsiPuebruWJjeaykuacieepjeWIhuaute+8jDxhIGhyZWY9Int7IHJvdXRlKCdwb2ludC1wZXJpb2RzLmNyZWF0ZScpIH19Ij7pu57miJHmlrDlop7nqY3liIbmrrU8L2E+77yBPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndG90YWwnLCAnPj0nLCBEQjo6cmF3KCdJRk5VTEwodG9wLCAwKScpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRxdWVyeSA9IERCOjp0YWJsZSgKLy8gICAgICAgICAgICAgICAgREI6OnRhYmxlKChuZXcgVHJhbnNhY3Rpb24pLT5nZXRUYWJsZSgpKQovLyAgICAgICAgICAgICAgICAgICAgLT5zZWxlY3QoJ3VzZXJuYW1lJywgREI6OnJhdygnU1VNKGFtb3VudCkgQVMgdG90YWwnKSwgJ3Byb2R1Y3QnKQovLyAgICAgICAgICAgICkKLy8gICAgICAgICAgICAtPnNlbGVjdCgndXNlcm5hbWUnLCAndG90YWwnLCBEQjo6cmF3KCdNQVgodG9wKScpLCAncmV3YXJkX2Ftb3VudCcpCi8vICAgICAgICAgICAgLT53aGVyZUluKCdpbXBvcnRfaWQnLCAkaW1wb3J0cykKLy8gICAgICAgICAgICAtPmdyb3VwQnkoJ3VzZXJuYW1lJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNFTEVDVCB1c2VybmFtZSwgdG90YWwsIE1BWCh0b3ApLCBmYW5feGlhbgovLyAgICAgICAgRlJPTSAoCi8vICAgICAgICAgICAgU0VMRUNUIHVzZXJuYW1lLCBTVU0oYW1vdW50KSBBUyB0b3RhbCwgdHJhbnNhY3Rpb25zLnByb2R1Y3RfaWQgQVMgcHJvZHVjdF9pZCwgU1VNKGFtb3VudCkgKiAoSUZOVUxMKHJld2FyZHMucGVyY2VudCwgMCkgLyAxMDApIEFTIGZhbl94aWFuLCBJRk5VTEwocG9pbnRfcGVyaW9kcy50b3AsIDApIEFTIHRvcAovLyAgICAgICAgICAgIEZST00gdHJhbnNhY3Rpb25zCi8vICAgICAgICAgICAgTEVGVCBKT0lOIHJld2FyZHMgT04gdHJhbnNhY3Rpb25zLnByb2R1Y3RfaWQgPSByZXdhcmRzLnByb2R1Y3RfaWQKLy8gICAgICAgICAgICBMRUZUIEpPSU4gcG9pbnRfcGVyaW9kcyBPTiByZXdhcmRzLnBvaW50X3BlcmlvZF9pZCA9IHBvaW50X3BlcmlvZHMuaWQKLy8gICAgICAgICAgICBXSEVSRSBpbXBvcnRfaWQgaW4gKDEsMiwzKQovLyAgICAgICAgICAgIEdST1VQIEJZIHVzZXJuYW1lLCB0cmFuc2FjdGlvbnMucHJvZHVjdF9pZCwgcmV3YXJkcy5pZAovLyAgICAgICAgKSBBUyB0cmFuc2FjdGlvbnMKLy8gICAgICAgIFdIRVJFIHRvdGFsID49IHRvcAovLyAgICAgICAgR1JPVVAgQlkgdXNlcm5hbWUKLy8gICAgICAgIDsKCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRxdWVyeSA9IERCOjp0YWJsZSgKLy8gICAgICAgICAgICAgICAgREI6OnRhYmxlKChuZXcgVHJhbnNhY3Rpb24pLT5nZXRUYWJsZSgpKQovLyAgICAgICAgICAgICAgICAgICAgLT5zZWxlY3QoJ3VzZXJuYW1lJywgREI6OnJhdygnU1VNKGFtb3VudCkgQVMgdG90YWwnKSwgJ3Byb2R1Y3QnKQovLyAgICAgICAgICAgICkKLy8gICAgICAgICAgICAtPnNlbGVjdCgndXNlcm5hbWUnLCAndG90YWwnLCBEQjo6cmF3KCdNQVgodG9wKScpLCAncmV3YXJkX2Ftb3VudCcpCi8vICAgICAgICAgICAgLT53aGVyZUluKCdpbXBvcnRfaWQnLCAkaW1wb3J0cykKLy8gICAgICAgICAgICAtPmdyb3VwQnkoJ3VzZXJuYW1lJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5sZWZ0Sm9pbigncmV3YXJkcycsICd0cmFuc2FjdGlvbnMucHJvZHVjdF9pZCcsICc9JywgJ3Jld2FyZHMucHJvZHVjdF9pZCcpCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3BvaW50X3BlcmlvZHMnLCAncmV3YXJkcy5wb2ludF9wZXJpb2RfaWQnLCAnPScsICdwb2ludF9wZXJpb2RzLmlkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERCOjpyYXcoJ0lGTlVMTChyZXdhcmRzLnBlcmNlbnQsIDApIC8gMTAwIEFTIHBlcmNlbnQnKSwKICAgICAgICAgICAgICAgIERCOjpyYXcoJ0lGTlVMTChwb2ludF9wZXJpb2RzLnRvcCwgMCkgQVMgdG9wJykK</text>
+        <text encoding="base64">Ly8gICAgICAgIFNFTEVDVCB1c2VybmFtZSwgdG90YWwsIE1BWCh0b3ApLCBmYW5feGlhbgovLyAgICAgICAgRlJPTSAoCi8vICAgICAgICAgICAgU0VMRUNUIHVzZXJuYW1lLCBTVU0oYW1vdW50KSBBUyB0b3RhbCwgdHJhbnNhY3Rpb25zLnByb2R1Y3RfaWQgQVMgcHJvZHVjdF9pZCwgU1VNKGFtb3VudCkgKiAoSUZOVUxMKHJld2FyZHMucGVyY2VudCwgMCkgLyAxMDApIEFTIGZhbl94aWFuLCBJRk5VTEwocG9pbnRfcGVyaW9kcy50b3AsIDApIEFTIHRvcAovLyAgICAgICAgICAgIEZST00gdHJhbnNhY3Rpb25zCi8vICAgICAgICAgICAgTEVGVCBKT0lOIHJld2FyZHMgT04gdHJhbnNhY3Rpb25zLnByb2R1Y3RfaWQgPSByZXdhcmRzLnByb2R1Y3RfaWQKLy8gICAgICAgICAgICBMRUZUIEpPSU4gcG9pbnRfcGVyaW9kcyBPTiByZXdhcmRzLnBvaW50X3BlcmlvZF9pZCA9IHBvaW50X3BlcmlvZHMuaWQKLy8gICAgICAgICAgICBXSEVSRSBpbXBvcnRfaWQgaW4gKDEsMiwzKQovLyAgICAgICAgICAgIEdST1VQIEJZIHVzZXJuYW1lLCB0cmFuc2FjdGlvbnMucHJvZHVjdF9pZCwgcmV3YXJkcy5pZAovLyAgICAgICAgKSBBUyB0cmFuc2FjdGlvbnMKLy8gICAgICAgIFdIRVJFIHRvdGFsID49IHRvcAovLyAgICAgICAgR1JPVVAgQlkgdXNlcm5hbWUKLy8gICAgICAgIDsKCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERCOjpyYXcoJ1NVTShhbW91bnQpIEFTIHRvdGFsJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5sZWZ0Sm9pbigncmV3YXJkcycsICd0cmFuc2FjdGlvbnMucHJvZHVjdF9pZCcsICc9JywgJ3Jld2FyZHMucHJvZHVjdF9pZCcpCiAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3BvaW50X3BlcmlvZHMnLCAncmV3YXJkcy5wb2ludF9wZXJpb2RfaWQnLCAnPScsICdwb2ludF9wZXJpb2RzLmlkJykK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERCOjpyYXcoJ1NVTShhbW91bnQpIEFTIHRvdGFsJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERCOjpyYXcoJ0lGTlVMTChyZXdhcmRzLnBlcmNlbnQsIDApIC8gMTAwIEFTIHBlcmNlbnQnKSwKICAgICAgICAgICAgICAgIERCOjpyYXcoJ0lGTlVMTChwb2ludF9wZXJpb2RzLnRvcCwgMCkgQVMgdG9wJykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xlbmd0aC9zaXplL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>sto</last-search>
+      <last-search>AS</last-search>
       <last-offset />
-      <last-pattern>sto</last-pattern>
+      <last-pattern>AS</last-pattern>
       <last-replace>size</last-replace>
       <last-substitute>length</last-substitute>
       <last-dir>1</last-dir>
@@ -2077,7 +2077,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>clas</entry>
         <entry>pro</entry>
         <entry>progress</entry>
@@ -2097,6 +2096,7 @@
         <entry>pas</entry>
         <entry>place</entry>
         <entry>sto</entry>
+        <entry>AS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2V4YW1wbGVJbnB1dEVtYWlsMS9jcmVhdGUtcmVjb3JkLWlucHV0LW5hbWUvZw==</entry>
