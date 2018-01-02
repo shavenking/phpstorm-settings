@@ -262,6 +262,11 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/TagController.php" timestamp="1514894264034">
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="94" column="40" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" timestamp="1500380275602">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="37" column="12" />
@@ -2005,8 +2010,8 @@
       <jump line="47" column="116" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>product_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBcnRpc2FuOjpjYWxsKCd2aWV3OmNsZWFyJyk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -2027,12 +2032,8 @@
       <register name="/" type="4">
         <text>AS</text>
       </register>
-      <register name="0" type="4">
-        <text>(
-                select rewards.id, rewards.product_id, rewards.percent, point_periods.top
-                from rewards
-                left join point_periods ON rewards.point_period_id = point_periods.id
-            )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBBcnRpc2FuOjpjYWxsKCd2aWV3OmNsZWFyJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5hZGRCaW5kaW5nKCRpbXBvcnRzKTsK</text>
