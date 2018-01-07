@@ -642,6 +642,13 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
+      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/news/index.blade.php" timestamp="1515297564569">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="67" column="30" />
+        <mark key="^" line="67" column="30" />
+        <mark key="." line="67" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/main.js" timestamp="1496753397779">
         <mark key="'" line="3" column="24" />
         <mark key="[" line="30" column="23" />
@@ -960,7 +967,7 @@
         <mark key="." line="119" column="43" />
         <mark key="^" line="119" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515290629142">
+      <file name="/Dummy.txt" timestamp="1515298086899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
@@ -1068,12 +1075,12 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/index.blade.php" timestamp="1515223260160">
-        <mark key="'" line="39" column="9" />
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="39" column="9" />
-        <mark key="." line="39" column="9" />
-        <mark key="^" line="39" column="9" />
+      <file name="$USER_HOME$/Code/c-2/resources/views/index.blade.php" timestamp="1515297911167">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/ImportController.php" timestamp="1514690512439">
         <mark key="[" line="26" column="10" />
@@ -1212,11 +1219,11 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" timestamp="1515292333159">
-        <mark key="'" line="71" column="52" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="114" />
-        <mark key="." line="69" column="110" />
+      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" timestamp="1515298085766">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="25" column="140" />
+        <mark key="]" line="25" column="140" />
+        <mark key="." line="25" column="140" />
         <mark key="^" line="69" column="109" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/calendar-directive.js" timestamp="1506838384817">
@@ -1698,8 +1705,8 @@
         <mark key="." line="289" column="23" />
         <mark key="^" line="289" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/products/index.blade.php" timestamp="1515223611123">
-        <mark key="'" line="49" column="204" />
+      <file name="$USER_HOME$/Code/c-2/resources/views/products/index.blade.php" timestamp="1515296371324">
+        <mark key="'" line="5" column="31" />
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="31" />
@@ -1791,11 +1798,12 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" timestamp="1515291612714">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="110" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" timestamp="1515298067349">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="103" column="125" />
+        <mark key="]" line="103" column="126" />
+        <mark key="." line="103" column="126" />
+        <mark key="^" line="103" column="126" />
       </file>
       <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
         <mark key="'" line="59" column="22" />
@@ -1976,15 +1984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/composer/autoload_real.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/c-3/vendor/composer/ClassLoader.php" />
-      <jump line="361" column="25" filename="$USER_HOME$/Code/c-2/vendor/baum/baum/src/Baum/Node.php" />
-      <jump line="49" column="62" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
-      <jump line="48" column="5" filename="$USER_HOME$/Code/c-2/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php" />
-      <jump line="67" column="55" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
-      <jump line="71" column="86" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
-      <jump line="1291" column="20" filename="$USER_HOME$/Code/c-2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="55" column="12" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
       <jump line="79" column="5" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
       <jump line="35" column="16" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
       <jump line="57" column="102" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
@@ -2052,7 +2051,6 @@
       <jump line="45" column="28" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
       <jump line="47" column="116" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="6" column="8" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
       <jump line="43" column="33" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
       <jump line="75" column="43" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/c-2/routes/web.php" />
@@ -2076,10 +2074,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/_layout.blade.php" />
       <jump line="122" column="0" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
       <jump line="60" column="4" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/_layout.blade.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
+      <jump line="127" column="88" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
+      <jump line="9" column="10" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
+      <jump line="28" column="4" filename="$USER_HOME$/Code/c-2/resources/views/index.blade.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/c-2/resources/views/index.blade.php" />
+      <jump line="5" column="31" filename="$USER_HOME$/Code/c-2/resources/views/products/index.blade.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
+      <jump line="18" column="17" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/news/index.blade.php" />
+      <jump line="11" column="47" filename="$USER_HOME$/Code/c-2/resources/views/index.blade.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/c-2/resources/views/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>預訂</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -2095,65 +2103,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isWhoe</text>
+        <text>預訂</text>
       </register>
       <register name="/" type="4">
-        <text>cl</text>
+        <text>data-fan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPnNlc3Npb24oKS0+Zmxhc2goJ2ZhaWxlZCcsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2FuKCdjcmVhdGUnLCBcQXBwXE5ld3M6OmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtb3B0aW9ucz0ieydidXR0b25zJzogWydjbG9zZSddfSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoQ29uZmlnOjpnZXQoJ3Nlc3Npb24udGFibGUnKSkKICAgICAgICAgICAgLT53aGVyZVVzZXJJZChBdXRoOjp1c2VyKCktPmlkKQogICAgICAgICAgICAtPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3JlYXRlJywgXEFwcFxOZXdzOjpjbGFzcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKEF1dGg6OnVzZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoQ29uZmlnOjpnZXQoJ3Nlc3Npb24udGFibGUnKSkKICAgICAgICAgICAgLT53aGVyZVVzZXJJZChBdXRoOjp1c2VyKCktPmlkKQogICAgICAgICAgICAtPmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISkgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ2F1dGgubG9naW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPnNlc3Npb24oKS0+Zmxhc2goJ2ZhaWxlZCcsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEQjo6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>cl</last-search>
+      <last-search>data-fan</last-search>
       <last-offset />
-      <last-pattern>cl</last-pattern>
+      <last-pattern>data-fan</last-pattern>
       <last-replace>10px</last-replace>
       <last-substitute>text</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aria</entry>
-        <entry>exam</entry>
-        <entry>pas</entry>
         <entry>place</entry>
         <entry>sto</entry>
         <entry>AS</entry>
@@ -2171,6 +2176,9 @@
         <entry>fl</entry>
         <entry>ri</entry>
         <entry>cl</entry>
+        <entry>ligh</entry>
+        <entry>data</entry>
+        <entry>data-fan</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyRtZXNzYWdlcy8kcmVjb3Jkcy9n</entry>
