@@ -558,7 +558,7 @@
         <mark key="." line="8" column="109" />
         <mark key="^" line="8" column="109" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" timestamp="1515293269105">
+      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" timestamp="1515494540969">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="28" column="27" />
         <mark key="." line="26" column="0" />
@@ -1345,6 +1345,12 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
+      <file name="$USER_HOME$/Code/c-2/app/Policies/TagPolicy.php" timestamp="1515494709965">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="68" />
+        <mark key="^" line="32" column="66" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/tests/Feature/BidTest.php" timestamp="1504954317099">
         <mark key="[" line="108" column="28" />
         <mark key="]" line="108" column="52" />
@@ -2086,8 +2092,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/Code/c-2/resources/views/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>預訂</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKTsK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -2109,40 +2115,40 @@
         <text>data-fan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2FuKCdjcmVhdGUnLCBcQXBwXE5ld3M6OmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKSB8fCAkdXNlci0+cm9sZSA9PT0gVXNlcjo6V0hPTEVTQUxFUjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtb3B0aW9ucz0ieydidXR0b25zJzogWydjbG9zZSddfSIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3JlYXRlJywgXEFwcFxOZXdzOjpjbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKEF1dGg6OnVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtb3B0aW9ucz0ieydidXR0b25zJzogWydjbG9zZSddfSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoQ29uZmlnOjpnZXQoJ3Nlc3Npb24udGFibGUnKSkKICAgICAgICAgICAgLT53aGVyZVVzZXJJZChBdXRoOjp1c2VyKCktPmlkKQogICAgICAgICAgICAtPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignY3JlYXRlJywgXEFwcFxOZXdzOjpjbGFzcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKEF1dGg6OnVzZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoQ29uZmlnOjpnZXQoJ3Nlc3Npb24udGFibGUnKSkKICAgICAgICAgICAgLT53aGVyZVVzZXJJZChBdXRoOjp1c2VyKCktPmlkKQogICAgICAgICAgICAtPmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISkgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -2155,7 +2161,7 @@
       <last-replace>10px</last-replace>
       <last-substitute>text</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
