@@ -635,6 +635,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/c-2/database/seeds/DatabaseSeeder.php" timestamp="1515578956445">
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="45" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="54" column="45" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
         <mark key="[" line="19" column="39" />
@@ -2093,7 +2099,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyOjpjcmVhdGUoWwogICAgICAgICAgICAncm9sZScgPT4gVVNFUjo6V0hPTEVTQUxFUiwKICAgICAgICAgICAgJ25hbWUnID0+ICdYRDMnLAogICAgICAgICAgICAnZW1haWwnID0+ICd3aG9sZXNhbGVyM0BlbWFpbC5jb20nLAogICAgICAgICAgICAncGFzc3dvcmQnID0+IGJjcnlwdCgnd2hvbGVzYWxlcjMnKSwKICAgICAgICAgICAgJ2FjdGl2YXRlZCcgPT4gdHJ1ZQogICAgICAgIF0pOwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -2115,7 +2121,7 @@
         <text>data-fan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKSB8fCAkdXNlci0+cm9sZSA9PT0gVXNlcjo6V0hPTEVTQUxFUjsK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyOjpjcmVhdGUoWwogICAgICAgICAgICAncm9sZScgPT4gVVNFUjo6V0hPTEVTQUxFUiwKICAgICAgICAgICAgJ25hbWUnID0+ICdYRDMnLAogICAgICAgICAgICAnZW1haWwnID0+ICd3aG9sZXNhbGVyM0BlbWFpbC5jb20nLAogICAgICAgICAgICAncGFzc3dvcmQnID0+IGJjcnlwdCgnd2hvbGVzYWxlcjMnKSwKICAgICAgICAgICAgJ2FjdGl2YXRlZCcgPT4gdHJ1ZQogICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmlzQWRtaW4oKTsK</text>
