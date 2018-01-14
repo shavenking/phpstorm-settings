@@ -3,94 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/paymentAndBudget.scss" timestamp="1505548651416">
-        <mark key="'" line="662" column="0" />
-        <mark key="[" line="639" column="0" />
-        <mark key="]" line="639" column="0" />
-        <mark key="." line="639" column="0" />
-        <mark key="^" line="637" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/c-3/vendor/composer/ClassLoader.php" timestamp="1510749896693">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="135" column="51" />
-        <mark key="]" line="135" column="52" />
-        <mark key="." line="135" column="52" />
-        <mark key="^" line="135" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/create.blade.php" timestamp="1510226806203">
-        <mark key="'" line="39" column="130" />
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="47" column="53" />
-        <mark key="." line="47" column="53" />
-        <mark key="^" line="47" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/database/seeds/RecordPerformanceTestSeeder.php" timestamp="1510191228810">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/config/app.php" timestamp="1510232872348">
-        <mark key="'" line="179" column="53" />
-        <mark key="[" line="228" column="57" />
-        <mark key="]" line="179" column="53" />
-        <mark key="^" line="179" column="53" />
-        <mark key="." line="179" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/TransactionAmountGuesser.php" timestamp="1498977476845">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/FacebookController.php" timestamp="1506393441721">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="22" column="43" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/repos.html" timestamp="1506223605209">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="12" column="66" />
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/create.blade.php" timestamp="1510569848185">
-        <mark key="'" line="22" column="65" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/list-controller.js" timestamp="1506838298889">
         <mark key="[" line="446" column="42" />
         <mark key="]" line="446" column="44" />
         <mark key="." line="446" column="44" />
         <mark key="^" line="446" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/travel-modal.directive.js" timestamp="1507272107009">
-        <mark key="'" line="97" column="47" />
-        <mark key="[" line="50" column="87" />
-        <mark key="]" line="50" column="87" />
-        <mark key="^" line="50" column="87" />
-        <mark key="." line="50" column="87" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/create.blade.php" timestamp="1510479258944">
-        <mark key="'" line="13" column="52" />
-        <mark key="[" line="9" column="137" />
-        <mark key="]" line="9" column="142" />
-        <mark key="." line="9" column="142" />
-        <mark key="^" line="9" column="142" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Kernel.php" timestamp="1504534095708">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="58" column="76" />
-        <mark key="]" line="58" column="76" />
-        <mark key="." line="58" column="76" />
-        <mark key="^" line="58" column="76" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/LiveVideo.php" timestamp="1506309534486">
         <mark key="[" line="8" column="10" />
@@ -104,45 +27,10 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="50" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/static/index.html" timestamp="1503747967203">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/NaturalLanguageProcessor/Token.php" timestamp="1498976232971">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-      </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/UserApplication.php" timestamp="1515898329812">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/semantic-versioning.md" timestamp="1506654386573">
-        <mark key="'" line="148" column="16" />
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/.env" timestamp="1499484606553">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/PointPeriodController.php" timestamp="1514689962492">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="101" column="49" />
-        <mark key="." line="101" column="49" />
-        <mark key="^" line="101" column="49" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/head.html" timestamp="1506220406334">
         <mark key="[" line="0" column="0" />
@@ -156,32 +44,24 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/_layout.blade.php" timestamp="1514686407338">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="30" column="80" />
-        <mark key="]" line="30" column="83" />
-        <mark key="." line="30" column="83" />
-        <mark key="^" line="30" column="83" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/list-controller-default.js" timestamp="1506838244086">
         <mark key="[" line="404" column="41" />
         <mark key="]" line="404" column="43" />
         <mark key="." line="404" column="43" />
         <mark key="^" line="404" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/routes/web.php" timestamp="1515897803123">
-        <mark key="'" line="64" column="86" />
-        <mark key="[" line="64" column="10" />
-        <mark key="]" line="64" column="86" />
-        <mark key="." line="64" column="86" />
-        <mark key="^" line="64" column="86" />
+      <file name="$USER_HOME$/Code/c-2/routes/web.php" timestamp="1515901820872">
+        <mark key="'" line="65" column="86" />
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="43" column="73" />
+        <mark key="." line="43" column="73" />
+        <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Guesser/TagGuesser.php" timestamp="1500553264368">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="45" />
+      <file name="$USER_HOME$/Code/c-2/app/Http/Middleware/Dashboard.php" timestamp="1515901878348">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/guest-list-export-modal.html" timestamp="1505542564997">
         <mark key="[" line="43" column="0" />
@@ -189,46 +69,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="39" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/database/seeds/TransactionTypeSeeder.php" timestamp="1498739292258">
-        <mark key="'" line="19" column="33" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="19" column="54" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/point-periods/create.blade.php" timestamp="1514689774119">
-        <mark key="'" line="13" column="49" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="15" column="63" />
-        <mark key="." line="15" column="63" />
-      </file>
       <file name="$USER_HOME$/Code/c-3/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/InstantiatorTest.php" timestamp="1510749046440">
         <mark key="[" line="213" column="98" />
         <mark key="]" line="213" column="98" />
         <mark key="." line="213" column="98" />
         <mark key="^" line="213" column="98" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/.env.example" timestamp="1498742383869">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496666957879">
-        <mark key="'" line="6" column="7" />
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeGuesser.php" timestamp="1500082158721">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/database/migrations/2017_12_30_015635_create_products_table.php" timestamp="1514599217626">
         <mark key="[" line="17" column="38" />
@@ -255,13 +100,6 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/NewsController.php" timestamp="1510466964057">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="122" column="21" />
-        <mark key="^" line="122" column="21" />
-      </file>
       <file name="$USER_HOME$/Code/c-1/app/ProductImage.php" timestamp="1510663497875">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="34" />
@@ -274,31 +112,10 @@
         <mark key="^" line="81" column="81" />
         <mark key="." line="81" column="81" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/MemberStats.php" timestamp="1514617315160">
-        <mark key="'" line="8" column="14" />
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="59" />
-        <mark key="." line="8" column="59" />
-        <mark key="^" line="8" column="59" />
-      </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/TagController.php" timestamp="1514894264034">
         <mark key="[" line="94" column="9" />
         <mark key="]" line="94" column="40" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Exceptions/Handler.php" timestamp="1500380275602">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/ShortestPath/Map.php" timestamp="1501913319827">
-        <mark key="'" line="56" column="47" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rTaskList.js" timestamp="1506837044417">
         <mark key="[" line="4" column="0" />
@@ -306,39 +123,11 @@
         <mark key="^" line="4" column="70" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/tests/Feature/PageNotifyTest.php" timestamp="1504953431258">
-        <mark key="'" line="128" column="14" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="121" column="45" />
-        <mark key="." line="93" column="47" />
-        <mark key="^" line="141" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/edit.blade.php" timestamp="1510470822553">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="12" column="59" />
-        <mark key="]" line="12" column="59" />
-        <mark key="." line="12" column="59" />
-        <mark key="^" line="12" column="49" />
-      </file>
       <file name="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" timestamp="1514627647985">
         <mark key="[" line="38" column="114" />
         <mark key="]" line="38" column="114" />
         <mark key="." line="38" column="114" />
         <mark key="^" line="38" column="106" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/household-detail.html" timestamp="1505550271137">
-        <mark key="'" line="56" column="39" />
-        <mark key="[" line="120" column="27" />
-        <mark key="]" line="120" column="27" />
-        <mark key="." line="120" column="27" />
-        <mark key="^" line="118" column="44" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="65" column="78" />
-        <mark key="]" line="65" column="88" />
-        <mark key="." line="65" column="88" />
-        <mark key="^" line="65" column="88" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/directive-view/progressbar.html" timestamp="1507276082471">
         <mark key="[" line="8" column="64" />
@@ -346,52 +135,17 @@
         <mark key="^" line="8" column="71" />
         <mark key="." line="8" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/mainflow-type-select.vue" timestamp="1496839270182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="23" column="43" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/index.html" timestamp="1506923225464">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="43" />
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1506598133917">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-      </file>
       <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/create.blade.php" timestamp="1515291665371">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="45" />
         <mark key="^" line="23" column="55" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/create.blade.php" timestamp="1510107745811">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="26" column="61" />
-        <mark key="^" line="26" column="61" />
-        <mark key="." line="26" column="61" />
-      </file>
-      <file name="$USER_HOME$/Code/ShortestPath/main.php" timestamp="1501912117531">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="47" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/ShortestPath/readme.md" timestamp="1501913947781">
-        <mark key="'" line="2" column="24" />
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="39" column="78" />
-        <mark key="^" line="39" column="78" />
-        <mark key="." line="39" column="78" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneQuotaController.php" timestamp="1506482127084">
         <mark key="[" line="37" column="40" />
@@ -405,71 +159,15 @@
         <mark key="^" line="7" column="73" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Bid.php" timestamp="1505972418372">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Providers/ECPayLogisticsServiceProvider.php" timestamp="1506047423260">
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="31" column="55" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_06_015007_create_live_videos_table.php" timestamp="1506310009364">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="73" />
-      </file>
-      <file name="$USER_HOME$/go/src/gowiki/wiki.go" timestamp="1503556217281">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="66" column="8" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/OrderController.php" timestamp="1506599295369">
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="117" column="11" />
-        <mark key="]" line="119" column="39" />
-        <mark key="." line="119" column="39" />
-        <mark key="^" line="119" column="39" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/DashboardController.php" timestamp="1506310659689">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="70" />
         <mark key="^" line="18" column="70" />
         <mark key="." line="18" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/NewsController.php" timestamp="1515219768767">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="24" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/get-token.blade.php" timestamp="1504250840741">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/tags/edit.blade.php" timestamp="1510498864426">
-        <mark key="'" line="7" column="16" />
-        <mark key="[" line="17" column="62" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list.html" timestamp="1507271513790">
-        <mark key="'" line="240" column="11" />
-        <mark key="[" line="187" column="33" />
-        <mark key="]" line="187" column="55" />
-        <mark key="." line="193" column="20" />
-        <mark key="^" line="193" column="19" />
+      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/NewsController.php" timestamp="1515899307585">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/stop.blade.php" timestamp="1505287968311">
         <mark key="[" line="0" column="0" />
@@ -483,20 +181,6 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/RewardController.php" timestamp="1514688555788">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/budget/budget.new.html" timestamp="1507276443595">
-        <mark key="'" line="29" column="104" />
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="30" column="152" />
-        <mark key="." line="30" column="152" />
-        <mark key="^" line="30" column="199" />
-      </file>
       <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/index.blade.php" timestamp="1510251397908">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="26" column="24" />
@@ -509,66 +193,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Unit/GuesserTest.php" timestamp="1500166987806">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="25" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/routes/web.php" timestamp="1506599163429">
-        <mark key="'" line="48" column="41" />
-        <mark key="[" line="41" column="80" />
-        <mark key="]" line="42" column="88" />
-        <mark key="." line="42" column="88" />
-        <mark key="^" line="42" column="88" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/.gitlab-ci.yml" timestamp="1504412138686">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="65" column="31" />
-        <mark key="." line="65" column="31" />
-        <mark key="^" line="65" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Controllers/WebhookController.php" timestamp="1500697007008">
-        <mark key="'" line="126" column="20" />
-        <mark key="[" line="129" column="48" />
-        <mark key="]" line="129" column="60" />
-        <mark key="." line="129" column="60" />
-        <mark key="^" line="129" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Providers/AuthServiceProvider.php" timestamp="1514202464253">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" timestamp="1515292401118">
-        <mark key="'" line="237" column="18" />
-        <mark key="[" line="130" column="25" />
-        <mark key="]" line="130" column="41" />
-        <mark key="." line="130" column="41" />
-        <mark key="^" line="130" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" timestamp="1514732653274">
-        <mark key="'" line="51" column="116" />
-        <mark key="[" line="78" column="71" />
-        <mark key="]" line="78" column="75" />
-        <mark key="." line="78" column="75" />
-        <mark key="^" line="78" column="75" />
+      <file name="$USER_HOME$/Code/c-2/app/Providers/AuthServiceProvider.php" timestamp="1515900845815">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="26" column="22" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/events.scss" timestamp="1506753410518">
         <mark key="[" line="407" column="29" />
         <mark key="]" line="408" column="23" />
         <mark key="." line="408" column="23" />
         <mark key="^" line="408" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Record.php" timestamp="1510227472839">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="95" />
-        <mark key="]" line="8" column="109" />
-        <mark key="." line="8" column="109" />
-        <mark key="^" line="8" column="109" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" timestamp="1515898032057">
         <mark key="'" line="76" column="0" />
@@ -577,39 +212,12 @@
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/BidController.php" timestamp="1506665371402">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/edit.blade.php" timestamp="1510108443514">
-        <mark key="'" line="20" column="39" />
-        <mark key="[" line="35" column="66" />
-        <mark key="]" line="38" column="67" />
-        <mark key="." line="38" column="67" />
-        <mark key="^" line="38" column="67" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/User.php" timestamp="1515896941673">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/User.php" timestamp="1510108824056">
-        <mark key="'" line="23" column="15" />
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="30" />
-        <mark key="^" line="62" column="30" />
-        <mark key="." line="62" column="30" />
-      </file>
-      <file name="$USER_HOME$/Code/max_school/application/models/member_pet_model.php" timestamp="1510201879192">
-        <mark key="'" line="91" column="18" />
-        <mark key="[" line="108" column="40" />
-        <mark key="]" line="108" column="68" />
-        <mark key="." line="108" column="40" />
-        <mark key="^" line="74" column="87" />
+      <file name="$USER_HOME$/Code/c-2/app/User.php" timestamp="1515902647809">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Delivery.php" timestamp="1506055739862">
         <mark key="[" line="10" column="24" />
@@ -617,12 +225,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rIndex.js" timestamp="1506836728732">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
+      <file name="$USER_HOME$/Code/c-2/app/Http/Kernel.php" timestamp="1515901895568">
+        <mark key="[" line="58" column="77" />
+        <mark key="]" line="59" column="38" />
+        <mark key="^" line="59" column="38" />
+        <mark key="." line="59" column="38" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/PlusOneQuota.php" timestamp="1505715785522">
         <mark key="[" line="8" column="4" />
@@ -643,13 +250,6 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindBidWinners.php" timestamp="1506598780062">
-        <mark key="'" line="103" column="30" />
-        <mark key="[" line="121" column="34" />
-        <mark key="]" line="122" column="45" />
-        <mark key="." line="122" column="45" />
-        <mark key="^" line="122" column="45" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/how-i-deploy-this-site.md" timestamp="1506225406803">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="15" column="47" />
@@ -668,53 +268,18 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="54" column="45" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
-        <mark key="'" line="345" column="28" />
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="49" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/news/index.blade.php" timestamp="1515297564569">
-        <mark key="'" line="18" column="17" />
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="67" column="30" />
-        <mark key="^" line="67" column="30" />
-        <mark key="." line="67" column="30" />
-      </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/main.js" timestamp="1496753397779">
-        <mark key="'" line="3" column="24" />
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/main.go" timestamp="1506923177798">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="29" column="81" />
-        <mark key="]" line="29" column="82" />
-        <mark key="." line="29" column="82" />
-        <mark key="^" line="29" column="102" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/products/index.blade.php" timestamp="1510664205575">
-        <mark key="'" line="61" column="59" />
-        <mark key="[" line="62" column="100" />
-        <mark key="]" line="62" column="118" />
-        <mark key="." line="62" column="118" />
-        <mark key="^" line="62" column="118" />
+      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/UserApplicationController.php" timestamp="1515902595614">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="10" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Import.php" timestamp="1514623410670">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
         <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rRegister.js" timestamp="1506836891665">
-        <mark key="'" line="198" column="46" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="11" column="70" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/airline-report.html" timestamp="1505213052221">
         <mark key="[" line="66" column="80" />
@@ -728,46 +293,11 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/database/seeds/PlatformSeeder.php" timestamp="1498739484407">
-        <mark key="'" line="19" column="28" />
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-      </file>
       <file name="$USER_HOME$/Code/fan-xian/database/migrations/2017_12_30_015645_create_transactions_table.php" timestamp="1514617265158">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="25" column="37" />
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/PlatformFactory.php" timestamp="1498739519189">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="46" />
-        <mark key="." line="39" column="46" />
-        <mark key="^" line="39" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/add-new-event-modal-directive.js" timestamp="1505302609177">
-        <mark key="'" line="66" column="36" />
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="53" />
-        <mark key="." line="9" column="53" />
-        <mark key="^" line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/tests/Feature/DashboardTest.php" timestamp="1504924378006">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="43" column="62" />
-        <mark key="." line="43" column="62" />
-        <mark key="^" line="43" column="62" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1500554948624">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="443" column="0" />
-        <mark key="]" line="443" column="0" />
-        <mark key="^" line="443" column="3" />
-        <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/profile-edit-controller.js" timestamp="1506838373854">
         <mark key="[" line="237" column="37" />
@@ -799,20 +329,6 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/project-pidgey-web/scripts/table/index.js" timestamp="1497083235137">
-        <mark key="'" line="6" column="38" />
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Jobs/FindPlusOneWinners.php" timestamp="1505186295093">
-        <mark key="'" line="43" column="16" />
-        <mark key="[" line="96" column="75" />
-        <mark key="]" line="96" column="85" />
-        <mark key="." line="96" column="85" />
-        <mark key="^" line="96" column="85" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1506597791352">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="11" column="7" />
@@ -825,12 +341,12 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Services/Facebook.php" timestamp="1506323266529">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
+      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" timestamp="1515902892534">
+        <mark key="'" line="65" column="20" />
+        <mark key="[" line="58" column="119" />
+        <mark key="]" line="58" column="123" />
+        <mark key="." line="58" column="123" />
+        <mark key="^" line="58" column="123" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/ProductController.php" timestamp="1515290798072">
         <mark key="[" line="43" column="8" />
@@ -838,32 +354,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/assets/js/components/workflow-nodes.vue" timestamp="1496838219933">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="12" column="64" />
-        <mark key="]" line="12" column="64" />
-        <mark key="^" line="12" column="70" />
-        <mark key="." line="12" column="64" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/.env.example" timestamp="1506046437017">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="19" />
-        <mark key="^" line="42" column="19" />
-        <mark key="." line="42" column="19" />
-      </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/seeds/DatabaseSeeder.php" timestamp="1510023224529">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="18" column="33" />
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/transactions/index.blade.php" timestamp="1514732474003">
-        <mark key="'" line="16" column="95" />
-        <mark key="[" line="42" column="45" />
-        <mark key="]" line="42" column="45" />
-        <mark key="^" line="43" column="49" />
-        <mark key="." line="42" column="45" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Transaction.php" timestamp="1514617307079">
         <mark key="[" line="8" column="0" />
@@ -877,20 +372,6 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/products/edit.blade.php" timestamp="1510665063326">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="5" column="95" />
-        <mark key="]" line="31" column="59" />
-        <mark key="." line="31" column="59" />
-        <mark key="^" line="31" column="59" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/show.blade.php" timestamp="1510251172423">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="8" column="81" />
-        <mark key="]" line="8" column="81" />
-        <mark key="." line="8" column="81" />
-        <mark key="^" line="17" column="64" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/plus-one-link.blade.php" timestamp="1505795181724">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="1" column="0" />
@@ -903,26 +384,12 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496838914531">
-        <mark key="'" line="221" column="103" />
-        <mark key="[" line="224" column="125" />
-        <mark key="]" line="224" column="156" />
-        <mark key="." line="224" column="156" />
-        <mark key="^" line="224" column="156" />
-      </file>
       <file name="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" timestamp="1515897533993">
         <mark key="'" line="68" column="25" />
         <mark key="[" line="46" column="51" />
         <mark key="]" line="46" column="53" />
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/wedding-detail.scss" timestamp="1505547124978">
-        <mark key="'" line="82" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1510106829616">
         <mark key="[" line="17" column="0" />
@@ -942,13 +409,6 @@
         <mark key="^" line="13" column="99" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/config/app.php" timestamp="1506047173947">
-        <mark key="'" line="152" column="8" />
-        <mark key="[" line="180" column="8" />
-        <mark key="]" line="180" column="8" />
-        <mark key="^" line="180" column="58" />
-        <mark key="." line="180" column="8" />
-      </file>
       <file name="$USER_HOME$/Code/c-1/app/TagDirectChildren.php" timestamp="1510479999819">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="7" column="3" />
@@ -960,13 +420,6 @@
         <mark key="]" line="237" column="47" />
         <mark key="." line="237" column="47" />
         <mark key="^" line="237" column="47" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/sub-menu.html" timestamp="1505550823375">
-        <mark key="'" line="2" column="40" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="30" column="29" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_11_023355_create_plus_one_durations_table.php" timestamp="1505100373041">
         <mark key="[" line="21" column="20" />
@@ -980,42 +433,14 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_13_183748_create_product_tag_table.php" timestamp="1510665519181">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="34" />
-        <mark key="." line="28" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/index.blade.php" timestamp="1510465143027">
-        <mark key="'" line="19" column="20" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Providers/FacebookServiceProvider.php" timestamp="1506046727045">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/create-event-controller.js" timestamp="1506838398103">
         <mark key="[" line="119" column="41" />
         <mark key="]" line="119" column="43" />
         <mark key="." line="119" column="43" />
         <mark key="^" line="119" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515298086899">
+      <file name="/Dummy.txt" timestamp="1515900503176">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/routes/api.php" timestamp="1500121142414">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/directive-templates/submenu-report-menu.html" timestamp="1505549398484">
         <mark key="[" line="2" column="0" />
@@ -1029,53 +454,11 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/show.blade.php" timestamp="1510471600438">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="35" column="13" />
-        <mark key="^" line="16" column="69" />
-        <mark key="." line="14" column="107" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/ExpenseTest.php" timestamp="1499581166582">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="93" column="42" />
-        <mark key="]" line="93" column="42" />
-        <mark key="^" line="93" column="20" />
-        <mark key="." line="93" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_18_062133_create_plus_one_quotas_table.php" timestamp="1505972787602">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/dashboard.blade.php" timestamp="1506601848183">
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
         <mark key="^" line="168" column="114" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/AuthController.php" timestamp="1510022722719">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="28" column="41" />
-        <mark key="^" line="28" column="41" />
-        <mark key="." line="28" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/UserController.php" timestamp="1510192278733">
-        <mark key="'" line="135" column="33" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="24" column="56" />
-        <mark key="." line="24" column="56" />
-        <mark key="^" line="24" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/Http/Middleware/LogResponse.php" timestamp="1500121011047">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_09_193342_add_real_avatar.php" timestamp="1510227353986">
         <mark key="[" line="28" column="32" />
@@ -1089,20 +472,6 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="430" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/products/edit.blade.php" timestamp="1514688807555">
-        <mark key="'" line="26" column="244" />
-        <mark key="[" line="26" column="95" />
-        <mark key="]" line="26" column="95" />
-        <mark key="." line="26" column="95" />
-        <mark key="^" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-list.scss" timestamp="1507273624689">
-        <mark key="'" line="470" column="14" />
-        <mark key="[" line="620" column="0" />
-        <mark key="]" line="620" column="0" />
-        <mark key="^" line="622" column="14" />
-        <mark key="." line="620" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/cancel.blade.php" timestamp="1505285500069">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1114,13 +483,6 @@
         <mark key="]" line="20" column="51" />
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/index.blade.php" timestamp="1515297911167">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="50" column="10" />
-        <mark key="]" line="50" column="10" />
-        <mark key="." line="50" column="10" />
-        <mark key="^" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/ImportController.php" timestamp="1514690512439">
         <mark key="[" line="26" column="10" />
@@ -1134,13 +496,6 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/routes/web.php" timestamp="1514686927647">
-        <mark key="'" line="22" column="39" />
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="24" column="61" />
-        <mark key="." line="24" column="61" />
-        <mark key="^" line="24" column="61" />
-      </file>
       <file name="$USER_HOME$/Code/fan-xian/database/migrations/2017_12_30_015624_create_imports_table.php" timestamp="1514599162021">
         <mark key="[" line="17" column="44" />
         <mark key="]" line="19" column="37" />
@@ -1152,13 +507,6 @@
         <mark key="]" line="22" column="36" />
         <mark key="." line="22" column="36" />
         <mark key="^" line="22" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/point-periods/edit.blade.php" timestamp="1514689929886">
-        <mark key="'" line="5" column="38" />
-        <mark key="[" line="5" column="71" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
-        <mark key="^" line="16" column="63" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/LiveVideoController.php" timestamp="1505973448036">
         <mark key="[" line="15" column="41" />
@@ -1178,20 +526,6 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/ProductController.php" timestamp="1510665094612">
-        <mark key="'" line="176" column="37" />
-        <mark key="[" line="152" column="32" />
-        <mark key="]" line="152" column="37" />
-        <mark key="." line="152" column="37" />
-        <mark key="^" line="152" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/live-videos/show.blade.php" timestamp="1506599840257">
-        <mark key="'" line="79" column="118" />
-        <mark key="[" line="59" column="89" />
-        <mark key="]" line="59" column="89" />
-        <mark key="^" line="59" column="77" />
-        <mark key="." line="59" column="89" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rAdmin.js" timestamp="1506837810991">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1204,73 +538,17 @@
         <mark key="." line="120" column="12" />
         <mark key="^" line="120" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/Tag.php" timestamp="1510493212323">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/custom-report.html" timestamp="1505631616995">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
         <mark key="^" line="74" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496838650279">
-        <mark key="'" line="19" column="28" />
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1500641247877">
-        <mark key="'" line="2012" column="20" />
-        <mark key="[" line="2002" column="5" />
-        <mark key="]" line="2002" column="5" />
-        <mark key="." line="2002" column="5" />
-        <mark key="^" line="2002" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/idx-common.scss" timestamp="1505550060276">
-        <mark key="'" line="15" column="1" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="92" column="13" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/ecosystem.config.js" timestamp="1506421005559">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/routes/web.php" timestamp="1510246331713">
-        <mark key="'" line="15" column="58" />
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/pages/show.blade.php" timestamp="1506480959390">
-        <mark key="'" line="22" column="39" />
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="19" column="74" />
-        <mark key="." line="19" column="74" />
-        <mark key="^" line="19" column="74" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" timestamp="1515298085766">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="25" column="140" />
-        <mark key="]" line="25" column="140" />
-        <mark key="." line="25" column="140" />
-        <mark key="^" line="69" column="109" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/UserApplication.php" timestamp="1515897457152">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="66" />
-        <mark key="^" line="8" column="66" />
-        <mark key="." line="8" column="66" />
+      <file name="$USER_HOME$/Code/c-2/app/UserApplication.php" timestamp="1515901962194">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="12" column="59" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="59" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/directive/calendar-directive.js" timestamp="1506838384817">
         <mark key="[" line="86" column="35" />
@@ -1278,25 +556,11 @@
         <mark key="." line="86" column="37" />
         <mark key="^" line="86" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_05_113322_create_bids_table.php" timestamp="1506598725141">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="65" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="26" column="41" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rReminderLists.js" timestamp="1506837358914">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="7" column="70" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/show.blade.php" timestamp="1510251162410">
-        <mark key="'" line="16" column="105" />
-        <mark key="[" line="8" column="83" />
-        <mark key="]" line="8" column="83" />
-        <mark key="." line="8" column="83" />
-        <mark key="^" line="34" column="185" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/welcome-diverge.blade.php" timestamp="1506338561059">
         <mark key="[" line="24" column="88" />
@@ -1345,13 +609,6 @@
         <mark key="]" line="35" column="91" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/github.go" timestamp="1506218941339">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="25" column="20" />
-      </file>
       <file name="$USER_HOME$/Code/c-2/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1515897990052">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="37" />
@@ -1362,20 +619,6 @@
         <mark key="." line="333" column="41" />
         <mark key="^" line="333" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/login.blade.php" timestamp="1510273112246">
-        <mark key="'" line="36" column="34" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="14" column="42" />
-        <mark key="^" line="14" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/.env" timestamp="1506308885857">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="42" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="42" />
-      </file>
       <file name="$USER_HOME$/Code/case-fire/tests/Browser/RegisterTest.php" timestamp="1507720490668">
         <mark key="[" line="28" column="48" />
         <mark key="]" line="31" column="67" />
@@ -1384,13 +627,6 @@
       </file>
       <file name="$USER_HOME$/Code/c-2/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1515897872599">
         <mark key="'" line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/products/show.blade.php" timestamp="1510664194234">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="106" />
-        <mark key="." line="10" column="106" />
-        <mark key="^" line="10" column="106" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/readme.md" timestamp="1506232662432">
         <mark key="[" line="2" column="83" />
@@ -1410,25 +646,11 @@
         <mark key="." line="108" column="52" />
         <mark key="^" line="108" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/works/create.blade.php" timestamp="1496838835309">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/eric-case-3/app/Providers/AppServiceProvider.php" timestamp="1510139467198">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/customers/index.blade.php" timestamp="1510471074688">
-        <mark key="'" line="46" column="70" />
-        <mark key="[" line="46" column="66" />
-        <mark key="]" line="46" column="74" />
-        <mark key="." line="46" column="74" />
-        <mark key="^" line="46" column="74" />
       </file>
       <file name="$USER_HOME$/Code/c-1/resources/views/_dashboard.blade.php" timestamp="1510660111357">
         <mark key="[" line="36" column="70" />
@@ -1436,45 +658,24 @@
         <mark key="^" line="36" column="77" />
         <mark key="." line="36" column="77" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
-        <mark key="'" line="54" column="5" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="98" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/calendar-controller.js" timestamp="1506838359765">
         <mark key="[" line="853" column="43" />
         <mark key="]" line="853" column="45" />
         <mark key="." line="853" column="45" />
         <mark key="^" line="853" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/public/style.css" timestamp="1510462746713">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="6092" column="44" />
-        <mark key="]" line="6092" column="42" />
-        <mark key="." line="6092" column="42" />
-        <mark key="^" line="6092" column="42" />
+      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/_layout.blade.php" timestamp="1515901401646">
+        <mark key="'" line="66" column="4" />
+        <mark key="[" line="49" column="73" />
+        <mark key="]" line="47" column="64" />
+        <mark key="." line="47" column="64" />
+        <mark key="^" line="47" column="64" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/shopping-list-default-controller-new.js" timestamp="1506838329131">
         <mark key="[" line="391" column="41" />
         <mark key="]" line="391" column="43" />
         <mark key="." line="391" column="43" />
         <mark key="^" line="391" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/users/index.blade.php" timestamp="1510273204213">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="13" column="88" />
-        <mark key="]" line="13" column="88" />
-        <mark key="." line="13" column="88" />
-        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/flight-report.html" timestamp="1505213048208">
         <mark key="[" line="50" column="80" />
@@ -1500,46 +701,11 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/records/edit.blade.php" timestamp="1510231981708">
-        <mark key="'" line="69" column="120" />
-        <mark key="[" line="44" column="70" />
-        <mark key="]" line="44" column="70" />
-        <mark key="." line="44" column="70" />
-        <mark key="^" line="44" column="70" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/edit.blade.php" timestamp="1515291657519">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="45" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PlusOneDurationController.php" timestamp="1505184921331">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="52" />
-        <mark key="." line="74" column="52" />
-        <mark key="^" line="74" column="52" />
-      </file>
       <file name="$USER_HOME$/Code/c-1/config/app.php" timestamp="1510493051534">
         <mark key="[" line="145" column="45" />
         <mark key="]" line="147" column="44" />
         <mark key="^" line="147" column="44" />
         <mark key="." line="147" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/eric-case-3/resources/views/_navbar.blade.php" timestamp="1510056228826">
-        <mark key="'" line="22" column="3" />
-        <mark key="[" line="25" column="121" />
-        <mark key="]" line="25" column="126" />
-        <mark key="^" line="25" column="126" />
-        <mark key="." line="25" column="126" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/database/factories/BidFactory.php" timestamp="1504941059572">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="65" column="25" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="25" />
-        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/config/excel.php" timestamp="1510245495731">
         <mark key="[" line="24" column="23" />
@@ -1547,52 +713,17 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" timestamp="1496757828281">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="135" />
-        <mark key="^" line="14" column="135" />
-        <mark key="." line="14" column="135" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/news/show.blade.php" timestamp="1510458568173">
-        <mark key="'" line="25" column="84" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-      </file>
-      <file name="$USER_HOME$/Code/ShortestPath/index.php" timestamp="1501913548946">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="83" column="60" />
-        <mark key="." line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/budget-edit-modal.html" timestamp="1505548620275">
         <mark key="[" line="21" column="52" />
         <mark key="]" line="21" column="52" />
         <mark key="." line="21" column="52" />
         <mark key="^" line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/TelegramWebhookTest.php" timestamp="1500697049517">
-        <mark key="'" line="259" column="0" />
-        <mark key="[" line="321" column="12" />
-        <mark key="]" line="321" column="13" />
-        <mark key="." line="321" column="13" />
-        <mark key="^" line="322" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/app/Services/ECPayLogistics.php" timestamp="1506068181919">
         <mark key="[" line="63" column="52" />
         <mark key="]" line="63" column="50" />
         <mark key="." line="63" column="50" />
         <mark key="^" line="63" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/PageController.php" timestamp="1506480421602">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="77" column="62" />
-        <mark key="]" line="77" column="62" />
-        <mark key="." line="77" column="62" />
-        <mark key="^" line="77" column="62" />
       </file>
       <file name="$USER_HOME$/Code/c-2/resources/views/news/index.blade.php" timestamp="1515223517177">
         <mark key="[" line="33" column="0" />
@@ -1618,18 +749,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="42" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/DeliveryController.php" timestamp="1506307213419">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="114" column="71" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/UserApplicationController.php" timestamp="1515898849697">
-        <mark key="[" line="66" column="21" />
-        <mark key="]" line="68" column="33" />
-        <mark key="." line="68" column="33" />
-        <mark key="^" line="68" column="33" />
+      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/UserApplicationController.php" timestamp="1515900297403">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Product.php" timestamp="1514599881376">
         <mark key="[" line="8" column="6" />
@@ -1637,39 +761,11 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/dashboard/news/index.blade.php" timestamp="1510570798272">
-        <mark key="'" line="81" column="13" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="154" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="8" column="13" />
-      </file>
       <file name="$USER_HOME$/Code/c-1/app/Product.php" timestamp="1510663519823">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/database/factories/TelegramFactory.php" timestamp="1500291565183">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="104" column="22" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/products.blade.php" timestamp="1510664515181">
-        <mark key="'" line="58" column="121" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="20" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/UserTest.php" timestamp="1499581078964">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="40" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="24" column="40" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/seating-report.html" timestamp="1505212817341">
         <mark key="[" line="69" column="89" />
@@ -1682,13 +778,6 @@
         <mark key="]" line="107" column="56" />
         <mark key="." line="107" column="56" />
         <mark key="^" line="107" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/User.php" timestamp="1498738289747">
-        <mark key="'" line="7" column="6" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rMyWeddingDetails.js" timestamp="1506837199085">
         <mark key="[" line="12" column="0" />
@@ -1744,39 +833,11 @@
         <mark key="." line="256" column="0" />
         <mark key="^" line="250" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/fan-xian/resources/views/rewards/index.blade.php" timestamp="1514690650168">
-        <mark key="'" line="27" column="69" />
-        <mark key="[" line="26" column="103" />
-        <mark key="]" line="26" column="103" />
-        <mark key="." line="26" column="103" />
-        <mark key="^" line="27" column="150" />
-      </file>
       <file name="$USER_HOME$/Code/eric-case-3/app/Http/Controllers/IndexController.php" timestamp="1510118075792">
         <mark key="[" line="9" column="49" />
         <mark key="]" line="9" column="49" />
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/style/scss/guest-household-detail.scss" timestamp="1505550387824">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="288" column="28" />
-        <mark key="]" line="289" column="23" />
-        <mark key="." line="289" column="23" />
-        <mark key="^" line="289" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/products/index.blade.php" timestamp="1515296371324">
-        <mark key="'" line="5" column="31" />
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/travel-accommodations.html" timestamp="1507273643407">
-        <mark key="'" line="20" column="40" />
-        <mark key="[" line="109" column="18" />
-        <mark key="]" line="109" column="18" />
-        <mark key="." line="109" column="18" />
-        <mark key="^" line="201" column="31" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/event-detail.controller.js" timestamp="1506838334559">
         <mark key="[" line="41" column="35" />
@@ -1789,13 +850,6 @@
         <mark key="]" line="25" column="50" />
         <mark key="." line="25" column="50" />
         <mark key="^" line="41" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/AuthController.php" timestamp="1514548164210">
-        <mark key="'" line="22" column="38" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="34" column="41" />
-        <mark key="^" line="34" column="41" />
-        <mark key="." line="34" column="41" />
       </file>
       <file name="$USER_HOME$/Code/c-2/database/migrations/2018_01_14_103151_create_user_applications_table.php" timestamp="1515897149687">
         <mark key="[" line="17" column="56" />
@@ -1815,101 +869,17 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/money-mom/lib/GoogleNaturalLanguageProcessor.php" timestamp="1498967571543">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/bids/start.blade.php" timestamp="1505287184847">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rGuestList.js" timestamp="1506838105608">
-        <mark key="'" line="1569" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="11" column="70" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" timestamp="1496456015754">
-        <mark key="'" line="37" column="12" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/plan/events.html" timestamp="1506754660430">
-        <mark key="'" line="77" column="14" />
-        <mark key="[" line="82" column="25" />
-        <mark key="]" line="83" column="28" />
-        <mark key="." line="83" column="28" />
-        <mark key="^" line="83" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/resources/views/products/show.blade.php" timestamp="1510664568367">
-        <mark key="'" line="15" column="32" />
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="36" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/fan-xian/database/seeds/DatabaseSeeder.php" timestamp="1514546778989">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" timestamp="1515298067349">
-        <mark key="'" line="9" column="10" />
-        <mark key="[" line="103" column="125" />
-        <mark key="]" line="103" column="126" />
-        <mark key="." line="103" column="126" />
-        <mark key="^" line="103" column="126" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/app/TransactionTypeFactory.php" timestamp="1499349035476">
-        <mark key="'" line="59" column="22" />
-        <mark key="[" line="59" column="38" />
-        <mark key="]" line="59" column="44" />
-        <mark key="." line="59" column="44" />
-        <mark key="^" line="59" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/my-account/profile-edit.html" timestamp="1504266600696">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="18" column="82" />
-        <mark key="]" line="18" column="82" />
-        <mark key="." line="18" column="82" />
-        <mark key="^" line="18" column="102" />
-      </file>
-      <file name="$USER_HOME$/Code/c-3/vendor/composer/autoload_real.php" timestamp="1510749783491">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="16" />
-        <mark key="]" line="67" column="16" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="67" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" timestamp="1515898551752">
-        <mark key="[" line="26" column="115" />
-        <mark key="]" line="26" column="150" />
-        <mark key="^" line="26" column="150" />
-        <mark key="." line="26" column="150" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_06_28_115135_create_platform_user_table.php" timestamp="1499598716257">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="19" column="57" />
-        <mark key="^" line="19" column="57" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/TagController.php" timestamp="1510661172425">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
+      <file name="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" timestamp="1515902137930">
+        <mark key="'" line="12" column="25" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/terms-of-service.blade.php" timestamp="1506337791325">
         <mark key="[" line="28" column="0" />
@@ -1917,88 +887,11 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/c-1/app/Http/Controllers/CustomerController.php" timestamp="1510664254343">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="53" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="137" column="11" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rCalendar.js" timestamp="1506837700267">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="70" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/c-3/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php" timestamp="1510748353698">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/orders/create-plus-one.blade.php" timestamp="1505968347886">
-        <mark key="'" line="34" column="75" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="64" />
-        <mark key="^" line="34" column="75" />
-        <mark key="." line="34" column="75" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_14_033656_create_deliveries_table.php" timestamp="1506063224146">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/tests/Feature/IncomeTest.php" timestamp="1500552781309">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="12" />
-        <mark key="^" line="51" column="72" />
-        <mark key="." line="51" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/c-1/database/migrations/2017_11_12_140950_create_customers_table.php" timestamp="1510468398567">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="54" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/backend/app.js" timestamp="1506927701405">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="63" column="6" />
-        <mark key="]" line="63" column="4" />
-        <mark key="." line="63" column="4" />
-        <mark key="^" line="63" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/ang-app.js" timestamp="1506838303967">
-        <mark key="'" line="233" column="92" />
-        <mark key="[" line="403" column="38" />
-        <mark key="]" line="403" column="40" />
-        <mark key="." line="403" column="40" />
-        <mark key="^" line="403" column="40" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/paged-table-controller.js" timestamp="1507274413059">
-        <mark key="'" line="2" column="76" />
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/money-mom/database/migrations/2017_07_09_111108_create_pending_messages_table.php" timestamp="1499599127230">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/dev.sh" timestamp="1502531293903">
-        <mark key="'" line="6" column="39" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/hotel-report.html" timestamp="1505213043366">
         <mark key="[" line="46" column="80" />
@@ -2012,64 +905,14 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Policies/ProductPolicy.php" timestamp="1514202953800">
-        <mark key="'" line="56" column="76" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="59" />
-      </file>
-      <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/modal-views/add-new-event-modal.html" timestamp="1506408060260">
-        <mark key="'" line="44" column="69" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="44" column="65" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/app/Http/Controllers/WebhookController.php" timestamp="1506309119663">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="36" column="45" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="36" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/live-pika/resources/views/orders/index.blade.php" timestamp="1506338566654">
-        <mark key="'" line="102" column="25" />
-        <mark key="[" line="32" column="84" />
-        <mark key="]" line="32" column="136" />
-        <mark key="." line="32" column="84" />
-        <mark key="^" line="32" column="83" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rBudget.js" timestamp="1506837520231">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/idx/backend/routes/rUsers.js" timestamp="1506836652014">
-        <mark key="'" line="607" column="24" />
-        <mark key="[" line="19" column="60" />
-        <mark key="]" line="20" column="70" />
-        <mark key="." line="20" column="70" />
-        <mark key="^" line="20" column="70" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="39" filename="$USER_HOME$/Code/fan-xian/routes/web.php" />
-      <jump line="20" column="18" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="8" column="53" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="9" column="57" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="13" column="83" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="35" column="20" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="58" column="32" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="41" column="63" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="123" column="33" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="117" column="31" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="130" column="93" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="55" column="18" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="39" column="34" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="175" column="59" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="170" column="62" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
@@ -2155,10 +998,25 @@
       <jump line="66" column="0" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" />
       <jump line="64" column="86" filename="$USER_HOME$/Code/c-2/routes/web.php" />
       <jump line="8" column="6" filename="$USER_HOME$/Code/c-2/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="54" column="96" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="83" column="74" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="22" column="41" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/UserApplicationController.php" />
+      <jump line="57" column="91" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/Code/c-2/app/User.php" />
+      <jump line="19" column="5" filename="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" />
+      <jump line="92" column="8" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/UserApplicationController.php" />
+      <jump line="12" column="25" filename="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" />
+      <jump line="10" column="6" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/UserApplicationController.php" />
+      <jump line="84" column="63" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="87" column="26" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="65" column="20" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
+      <jump line="7" column="6" filename="$USER_HOME$/Code/c-2/app/User.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="&quot;" type="4">
+        <text>trash</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -2174,55 +1032,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>activated = true;</text>
+        <text>trash</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSBVc2VyOjpmaW5kT3JGYWlsKCR1c2VyQXBwbGljYXRpb24tPmFwcGx5X3VzZXJfaWQpOwogICAgICAgICAgICAkdXNlci0+YWN0aXZhdGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCktPmZsYXNoKCdkZWxldGVkJywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlci0+YXBwbGljYXRpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR1c2VyLT5hcHBsaWNhdGlvbikgewogICAgICAgICAgICBpZiAoQXV0aDo6dXNlcigpLT5pc0FkbWluKCkpIHsKICAgICAgICAgICAgICAgICR1c2VyLT5kZWxldGUoKTsKICAgICAgICAgICAgICAgIHJlcXVlc3QoKS0+Zmxhc2goJ2RlbGV0ZWQnLCB0cnVlKTsKICAgICAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGFib3J0KDQwMyk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNob3cgdGhlIGZvcm0gZm9yIGVkaXRpbmcgdGhlIHNwZWNpZmllZCByZXNvdXJjZS4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxBcHBcVXNlckFwcGxpY2F0aW9uICAkdXNlckFwcGxpY2F0aW9uCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGVkaXQoVXNlckFwcGxpY2F0aW9uQ29udHJvbGxlciAkdXNlckFwcGxpY2F0aW9uKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXplKCdkZWxldGUnLCAkdXNlci0+YXBwbGljYXRpb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIERpc3BsYXkgdGhlIHNwZWNpZmllZCByZXNvdXJjZS4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxBcHBcVXNlckFwcGxpY2F0aW9uICAkdXNlckFwcGxpY2F0aW9uCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNob3coVXNlckFwcGxpY2F0aW9uQ29udHJvbGxlciAkdXNlckFwcGxpY2F0aW9uKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFN0b3JlIGEgbmV3bHkgY3JlYXRlZCByZXNvdXJjZSBpbiBzdG9yYWdlLgogICAgICoKICAgICAqIEBwYXJhbSAgXElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0ICAkcmVxdWVzdAogICAgICogQHJldHVybiBcSWxsdW1pbmF0ZVxIdHRwXFJlc3BvbnNlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzdG9yZShSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgiaGkiKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNob3cgdGhlIGZvcm0gZm9yIGNyZWF0aW5nIGEgbmV3IHJlc291cmNlLgogICAgICoKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcSHR0cFxSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gY3JlYXRlKCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeSBtYi0wIj48c3BhbiBjbGFzcz0ib2kgb2ktY2xvY2siPjwvc3Bhbj4mbmJzcDt7eyAkdXNlci0+Y3JlYXRlZF9hdC0+Zm9ybWF0KCdZLW0tZCBnOmkgQScpIH19PC9wPgo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckFwcGxpY2F0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>wholesaler</last-replace>
       <last-substitute>password</last-substitute>
       <last-dir>1</last-dir>
@@ -2230,10 +1088,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drop</entry>
-        <entry>grey</entry>
-        <entry>d3d3d3</entry>
-        <entry>2</entry>
         <entry>8px</entry>
         <entry>dis</entry>
         <entry>st</entry>
@@ -2250,6 +1104,10 @@
         <entry>email</entry>
         <entry>place</entry>
         <entry>password</entry>
+        <entry>dan</entry>
+        <entry>new</entry>
+        <entry>user</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0LWVtYWlsL2lucHV0LW5hbWUvZw==</entry>
