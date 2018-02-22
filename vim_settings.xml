@@ -216,10 +216,6 @@
         <mark key="]" line="48" column="81" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1515897990052">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="37" />
-      </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rTaskList.js" timestamp="1506837044417">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -309,10 +305,6 @@
         <mark key="]" line="18" column="70" />
         <mark key="^" line="18" column="70" />
         <mark key="." line="18" column="70" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/NewsController.php" timestamp="1515899307585">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/calendar-controller.js" timestamp="1506838359765">
         <mark key="[" line="853" column="43" />
@@ -630,6 +622,9 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Wallet_history_model.php" timestamp="1519286967080">
+        <mark key="'" line="5" column="59" />
+      </file>
       <file name="$USER_HOME$/Code/max_school/application/controllers/user.php" timestamp="1509093445376">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="66" column="42" />
@@ -943,7 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="59" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="170" column="62" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
       <jump line="83" column="64" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
@@ -1043,6 +1037,7 @@
       <jump line="87" column="26" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
       <jump line="65" column="20" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
       <jump line="7" column="6" filename="$USER_HOME$/Code/c-2/app/User.php" />
+      <jump line="5" column="59" filename="$USER_HOME$/Code/uny_dev/home/cn/application/models/Wallet_history_model.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1065,7 +1060,7 @@
         <text>\Illuminate\Support\Str::length</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>amount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYXZhaWxhYmxlX2Ftb3VudCA9ICgkbGFzdHdlZWtfdW5pX3JlY29yZHMtPmFtb3VudCAqIDAuMDYpICsgJHRoaXN3ZWVrX3VuaV9yZWNvcmRzLT5hbW91bnQ7Cg==</text>
@@ -1108,17 +1103,16 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>amount</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>amount</last-pattern>
       <last-replace>wholesaler</last-replace>
       <last-substitute>password</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>8px</entry>
         <entry>dis</entry>
         <entry>st</entry>
         <entry>text</entry>
@@ -1138,6 +1132,7 @@
         <entry>new</entry>
         <entry>user</entry>
         <entry>id</entry>
+        <entry>amount</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0LWVtYWlsL2lucHV0LW5hbWUvZw==</entry>
