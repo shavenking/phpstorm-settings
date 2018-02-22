@@ -899,6 +899,12 @@
         <mark key="^" line="32" column="217" />
         <mark key="." line="32" column="217" />
       </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/config/database.php" timestamp="1519304460533">
+        <mark key="[" line="76" column="27" />
+        <mark key="]" line="76" column="31" />
+        <mark key="." line="76" column="31" />
+        <mark key="^" line="76" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Http/Controllers/ImportController.php" timestamp="1514690512439">
         <mark key="[" line="26" column="10" />
         <mark key="]" line="26" column="40" />
@@ -1045,8 +1051,8 @@
       <jump line="68" column="36" filename="$USER_HOME$/Code/c-2/resources/views/products/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAaWYgKCRwcm9kdWN0LT5kZXNjcmlwdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+eyEhIG5sMmJyKHN0cl9saW1pdCgkcHJvZHVjdC0+ZGVzY3JpcHRpb24sIDE1MCwgJy4uLicpKSAhIX1AaWYgKHN0cmxlbigkcHJvZHVjdC0+ZGVzY3JpcHRpb24pID4gMTUwKTxhIGhyZWY9Int7IHJvdXRlKCdwcm9kdWN0cy5zaG93JywgJHByb2R1Y3QtPmlkKSB9fSI+6aGv56S65YWo6YOoPC9hPkBlbmRpZjwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYK</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1062,7 +1068,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>totalPage</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
