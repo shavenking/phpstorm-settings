@@ -93,7 +93,8 @@
         <mark key="^" line="83" column="138" />
         <mark key="." line="83" column="138" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519285385826">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519287823254">
+        <mark key="'" line="869" column="47" />
         <mark key="[" line="826" column="0" />
         <mark key="]" line="826" column="110" />
       </file>
@@ -938,24 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="170" column="62" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="83" column="64" filename="$USER_HOME$/Code/fan-xian/resources/views/home.blade.php" />
-      <jump line="8" column="14" filename="$USER_HOME$/Code/fan-xian/app/MemberStats.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/login.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/login.blade.php" />
-      <jump line="16" column="95" filename="$USER_HOME$/Code/fan-xian/resources/views/transactions/index.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/RewardController.php" />
-      <jump line="96" column="1" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/RewardController.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/RewardController.php" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/rewards/index.blade.php" />
-      <jump line="4" column="19" filename="$USER_HOME$/Code/fan-xian/resources/views/rewards/index.blade.php" />
-      <jump line="24" column="66" filename="$USER_HOME$/Code/fan-xian/resources/views/rewards/index.blade.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/fan-xian/resources/views/rewards/index.blade.php" />
-      <jump line="30" column="24" filename="$USER_HOME$/Code/fan-xian/resources/views/_layout.blade.php" />
-      <jump line="44" column="70" filename="$USER_HOME$/Code/fan-xian/resources/views/rewards/index.blade.php" />
-      <jump line="20" column="18" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/create.blade.php" />
-      <jump line="5" column="68" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/create.blade.php" />
       <jump line="6" column="28" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/create.blade.php" />
       <jump line="7" column="59" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/create.blade.php" />
       <jump line="8" column="50" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/create.blade.php" />
@@ -1038,6 +1021,24 @@
       <jump line="65" column="20" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" />
       <jump line="7" column="6" filename="$USER_HOME$/Code/c-2/app/User.php" />
       <jump line="5" column="59" filename="$USER_HOME$/Code/uny_dev/home/cn/application/models/Wallet_history_model.php" />
+      <jump line="895" column="0" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="20" column="9" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="892" column="26" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="881" column="37" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="876" column="49" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="875" column="49" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="872" column="45" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="871" column="45" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="861" column="41" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="860" column="41" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="857" column="37" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="856" column="37" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="844" column="33" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="826" column="33" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="842" column="49" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="867" column="47" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="868" column="47" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="869" column="47" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1060,7 +1061,7 @@
         <text>\Illuminate\Support\Str::length</text>
       </register>
       <register name="/" type="4">
-        <text>amount</text>
+        <text>avai</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYXZhaWxhYmxlX2Ftb3VudCA9ICgkbGFzdHdlZWtfdW5pX3JlY29yZHMtPmFtb3VudCAqIDAuMDYpICsgJHRoaXN3ZWVrX3VuaV9yZWNvcmRzLT5hbW91bnQ7Cg==</text>
@@ -1103,24 +1104,22 @@
       </register>
     </registers>
     <search>
-      <last-search>amount</last-search>
+      <last-search>avai</last-search>
       <last-offset />
-      <last-pattern>amount</last-pattern>
+      <last-pattern>avai</last-pattern>
       <last-replace>wholesaler</last-replace>
       <last-substitute>password</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dis</entry>
         <entry>st</entry>
         <entry>text</entry>
         <entry>fl</entry>
         <entry>ri</entry>
         <entry>cl</entry>
         <entry>ligh</entry>
-        <entry>data</entry>
         <entry>data-fan</entry>
         <entry>pas</entry>
         <entry>regi</entry>
@@ -1133,6 +1132,8 @@
         <entry>user</entry>
         <entry>id</entry>
         <entry>amount</entry>
+        <entry>data</entry>
+        <entry>avai</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0LWVtYWlsL2lucHV0LW5hbWUvZw==</entry>
