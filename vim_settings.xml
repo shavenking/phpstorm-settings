@@ -39,11 +39,11 @@
         <mark key="." line="446" column="44" />
         <mark key="^" line="446" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Trading.php" timestamp="1519450308747">
-        <mark key="[" line="49" column="74" />
-        <mark key="]" line="49" column="75" />
-        <mark key="^" line="49" column="75" />
-        <mark key="." line="49" column="75" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Trading.php" timestamp="1519451356082">
+        <mark key="[" line="48" column="114" />
+        <mark key="]" line="48" column="130" />
+        <mark key="^" line="48" column="130" />
+        <mark key="." line="48" column="130" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/app/LiveVideo.php" timestamp="1506309534486">
         <mark key="[" line="8" column="10" />
@@ -660,18 +660,18 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/trading/index.php" timestamp="1519450353328">
-        <mark key="[" line="91" column="97" />
-        <mark key="]" line="91" column="102" />
-        <mark key="^" line="91" column="102" />
-        <mark key="." line="91" column="102" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/trading/index.php" timestamp="1519451381325">
+        <mark key="[" line="96" column="93" />
+        <mark key="]" line="100" column="77" />
+        <mark key="^" line="100" column="77" />
+        <mark key="." line="100" column="77" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Wallet_history_model.php" timestamp="1519450327813">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Wallet_history_model.php" timestamp="1519451309576">
         <mark key="'" line="5" column="59" />
-        <mark key="[" line="107" column="38" />
-        <mark key="]" line="107" column="38" />
-        <mark key="." line="107" column="38" />
-        <mark key="^" line="114" column="34" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="108" column="147" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Code/max_school/application/controllers/user.php" timestamp="1509093445376">
         <mark key="[" line="18" column="5" />
@@ -1103,7 +1103,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var_dump($date, $w, $now_start, $now_end, $last_start, $last_end);die();</text>
+        <text encoding="base64">LT4=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1119,7 +1119,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var_dump($date, $w, $now_start, $now_end, $last_start, $last_end);die();</text>
+        <text encoding="base64">LT4=</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
@@ -1128,37 +1128,37 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGF0YVsnYXZhaWxhYmxlX3VuaSddID0gJHRoaXMtPndhbGxldF9oaXN0b3J5X21vZGVsLT5nZXRfYXZhaWxhYmxlX3VuaV9hbW91bnQoJHRoaXMtPnNlc3Npb24tPnVzZXJuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRfdW5hdmFpbGFibGVfdW5pX2Ftb3VudCgkdXNlcm5hbWUpIHsKICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+ZGF0YVsnd2FsbGV0X2hpc3RvcnknXSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRfYXZhaWxhYmxlX3VuaV9hbW91bnQoJHVzZXJuYW1lKSB7CiAgICAgICAgJHNxbCA9ICJTRUxFQ1QgU1VNKGFtb3VudCkgQVMgYW1vdW50IEZST00gd2FsbGV0X2hpc3RvcnkgV0hFUkUgdXNlcm5hbWUgPSA/IGFuZCB0eXBlID0gJ1VOQVZBSUxBQkxFX1VOSScgYW5kIERBVEUoY3JlYXRlX2RhdGV0aW1lKSA8PSBDVVJEQVRFKCkgLSBJTlRFUlZBTCA2MCBEQVkiOwogICAgICAgICRxdWVyeSA9ICR0aGlzLT5kYi0+cXVlcnkoJHNxbCwgWyR1c2VybmFtZV0pOwoKICAgICAgICByZXR1cm4gJHF1ZXJ5LT5yb3coKTsKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCIxMjMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJHdhbGxldCkgPz4K</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gIlNFTEVDVCBTVU0oYW1vdW50KSBBUyBhbW91bnQgRlJPTSB3YWxsZXRfaGlzdG9yeSBXSEVSRSB1c2VybmFtZSA9ID8gYW5kIHR5cGUgPSAnVU5BVkFJTEFCTEVfVU5JJyBhbmQgREFURShjcmVhdGVfZGF0ZXRpbWUpID4gQ1VSREFURSgpIC0gSU5URVJWQUwgNjAgREFZIjsKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+ZGItPnF1ZXJ5KCRzcWwsIFskdXNlcm5hbWVdKTsKCiAgICAgICAgcmV0dXJuICRxdWVyeS0+cm93KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnaGknOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGllKCJoaSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+ZGF0YVsnd2FsbGV0X2hpc3RvcnknXSk7ZGllKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGllKCJoaSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCIxMjMiKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGllKCJoaSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJHdhbGxldCkgPz4K</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCJoaSIpOwo=</text>
+        <text encoding="base64">ZWNobyAnaGknOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
