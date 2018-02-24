@@ -98,10 +98,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519287823254">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519437805931">
         <mark key="'" line="869" column="47" />
-        <mark key="[" line="826" column="0" />
-        <mark key="]" line="826" column="110" />
+        <mark key="[" line="814" column="0" />
+        <mark key="]" line="810" column="66" />
+        <mark key="." line="810" column="66" />
+        <mark key="^" line="810" column="66" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Middleware/Dashboard.php" timestamp="1515901878348">
         <mark key="[" line="20" column="9" />
@@ -1085,8 +1087,8 @@
       <jump line="314" column="44" filename="$USER_HOME$/Code/uny_dev/home/wwwroot/uny/cn/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJHdhbGxldCkgPz4K</text>
+      <register name="&quot;" type="4">
+        <text>var_dump($lastweek_uni_records, $thisweek_uni_records);die();</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1102,7 +1104,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index.php</text>
+        <text>var_dump($lastweek_uni_records, $thisweek_uni_records);die();</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
@@ -1111,13 +1113,13 @@
         <text encoding="base64">CiAgICAgICAgICAgIGlmICgkcHJvZHVjdHMtPnRvdGFsKCkgPiAkdG90YWwpIHsKICAgICAgICAgICAgICAgICR0b3RhbCA9ICRwcm9kdWN0cy0+dG90YWwoKTsKICAgICAgICAgICAgICAgICRwYWdpbmF0aW9uID0gJHByb2R1Y3RzOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJHdhbGxldCkgPz4K</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCIxMjMiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAnaGknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJHdhbGxldCkgPz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGllKCJoaSIpOwo=</text>
+        <text encoding="base64">ZWNobyAnaGknOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZGllKCJoaSIpOwo=</text>
