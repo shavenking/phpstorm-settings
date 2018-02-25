@@ -60,6 +60,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="50" />
       </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/system/core/CodeIgniter.php" timestamp="1519306506067">
+        <mark key="'" line="166" column="2" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/head.html" timestamp="1506220406334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="13" />
@@ -91,12 +97,11 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519553851016">
-        <mark key="'" line="229" column="29" />
-        <mark key="[" line="260" column="138" />
-        <mark key="]" line="260" column="152" />
-        <mark key="." line="260" column="152" />
-        <mark key="^" line="260" column="152" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519563211447">
+        <mark key="'" line="175" column="96" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Middleware/Dashboard.php" timestamp="1515901878348">
         <mark key="[" line="20" column="9" />
@@ -146,11 +151,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519553896374">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519560568705">
         <mark key="'" line="537" column="40" />
-        <mark key="[" line="524" column="43" />
-        <mark key="]" line="524" column="49" />
-        <mark key="." line="524" column="49" />
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="79" column="26" />
+        <mark key="." line="79" column="26" />
         <mark key="^" line="524" column="49" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/database/migrations/2017_12_30_015635_create_products_table.php" timestamp="1514599217626">
@@ -220,11 +225,12 @@
         <mark key="." line="435" column="44" />
         <mark key="^" line="435" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account_create.php" timestamp="1519549037124">
-        <mark key="[" line="27" column="74" />
-        <mark key="]" line="27" column="78" />
-        <mark key="." line="27" column="78" />
-        <mark key="^" line="27" column="78" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account_create.php" timestamp="1519564364696">
+        <mark key="'" line="56" column="64" />
+        <mark key="[" line="56" column="73" />
+        <mark key="]" line="56" column="80" />
+        <mark key="." line="56" column="80" />
+        <mark key="^" line="56" column="80" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rTaskList.js" timestamp="1506837044417">
         <mark key="[" line="4" column="0" />
@@ -694,13 +700,13 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" timestamp="1519551619128">
-        <mark key="a" line="401" column="25" />
-        <mark key="'" line="397" column="12" />
-        <mark key="[" line="388" column="65" />
-        <mark key="]" line="388" column="122" />
-        <mark key="." line="388" column="65" />
-        <mark key="^" line="368" column="56" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" timestamp="1519564349120">
+        <mark key="a" line="402" column="25" />
+        <mark key="'" line="398" column="12" />
+        <mark key="[" line="389" column="69" />
+        <mark key="]" line="389" column="70" />
+        <mark key="." line="389" column="70" />
+        <mark key="^" line="389" column="70" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/security.php" timestamp="1519552586935">
         <mark key="'" line="18" column="31" />
@@ -740,12 +746,12 @@
         <mark key="^" line="45" column="10" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" timestamp="1519551759094">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" timestamp="1519563014158">
+        <mark key="'" line="39" column="50" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/seeds/DatabaseSeeder.php" timestamp="1510023224529">
         <mark key="[" line="17" column="22" />
@@ -771,12 +777,12 @@
         <mark key="." line="256" column="0" />
         <mark key="^" line="250" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" timestamp="1519552638178">
-        <mark key="'" line="170" column="16" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="152" />
-        <mark key="^" line="173" column="28" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" timestamp="1519564724399">
+        <mark key="'" line="163" column="31" />
+        <mark key="[" line="210" column="30" />
+        <mark key="]" line="212" column="22" />
+        <mark key="." line="212" column="22" />
+        <mark key="^" line="212" column="22" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Transaction.php" timestamp="1514617307079">
         <mark key="[" line="8" column="0" />
@@ -893,6 +899,12 @@
         <mark key="." line="237" column="47" />
         <mark key="^" line="237" column="47" />
       </file>
+      <file name="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" timestamp="1515902137930">
+        <mark key="'" line="12" column="25" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_11_023355_create_plus_one_durations_table.php" timestamp="1505100373041">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="28" />
@@ -950,6 +962,12 @@
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
         <mark key="^" line="168" column="114" />
+      </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/wwwroot/uny/cn/index.php" timestamp="1519306810028">
+        <mark key="'" line="314" column="44" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_09_193342_add_real_avatar.php" timestamp="1510227353986">
         <mark key="[" line="28" column="32" />
@@ -1043,17 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="139" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
-      <jump line="68" column="87" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
-      <jump line="67" column="119" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
-      <jump line="65" column="144" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
-      <jump line="219" column="73" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
-      <jump line="70" column="52" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
-      <jump line="223" column="18" filename="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/c-2/routes/web.php" />
-      <jump line="20" column="20" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/edit.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/_layout.blade.php" />
-      <jump line="122" column="0" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
       <jump line="60" column="4" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/_layout.blade.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
       <jump line="127" column="88" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
@@ -1143,10 +1150,21 @@
       <jump line="79" column="35" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
       <jump line="520" column="62" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
       <jump line="533" column="40" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
+      <jump line="64" column="60" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
+      <jump line="84" column="61" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
+      <jump line="76" column="67" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
+      <jump line="194" column="4" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="226" column="3" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="189" column="11" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="175" column="96" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="36" column="42" filename="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" />
+      <jump line="39" column="50" filename="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" />
+      <jump line="56" column="64" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account_create.php" />
+      <jump line="163" column="31" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>请使用新密码重新登入系统</text>
+        <text>addClass</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1162,65 +1180,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>请使用新密码重新登入系统</text>
+        <text>addClass</text>
       </register>
       <register name="/" type="4">
-        <text>verify_phone_verification_code_error_msg</text>
+        <text>change_pwd_error_msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nIGNsYXNzPSJkLWJsb2NrIHRleHQtY2VudGVyIGFsZXJ0IGFsZXJ0LWRhbmdlciIgaWQ9InZlcmlmeV9waG9uZV92ZXJpZmljYXRpb25fY29kZV9lcnJvcl9tc2ciIHN0eWxlPSJkaXNwbGF5Om5vbmUhaW1wb3J0YW50OyI+PC9zdHJvbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnRuLmFkZENsYXNzKCdkaXNhYmxlZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR1c2VyX2luZm8pO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0bi5lbmFibGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR1c2VyX2luZm8pO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly9hbmRyb2lkLm15YXBwLmNvbS9teWFwcC9kZXRhaWwuaHRtP2Fwa05hbWU9Y29tLmlnZWVrLnJhZGFyd2FsbGV0JkFEVEFHPW1vYmlsZSI+QW5kcm9pZCDniYjmnKw8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR1c2VyX2luZm8tPmVtYWlsKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWRkcmVzcyk7ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzdHJvbmcgY2xhc3M9ImQtYmxvY2sgdGV4dC1jZW50ZXIgYWxlcnQgYWxlcnQtZGFuZ2VyIiBpZD0idmVyaWZ5X3Bob25lX3ZlcmlmaWNhdGlvbl9jb2RlX2Vycm9yX21zZyIgc3R5bGU9ImRpc3BsYXk6bm9uZSFpbXBvcnRhbnQ7Ij48L3N0cm9uZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxsaW5nX2NvZGVzOiAkKCIjY2FsbGluZ19jb2RlcyA6c2VsZWN0ZWQiKS52YWwoKSwKICAgICAgICAgICAgICAgICAgICBwaG9uZV9udW1iZXI6ICQoIiNwaG9uZV9udW1iZXIiKS52YWwoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vaXR1bmVzLmFwcGxlLmNvbS9jbi9hcHAvJUU5JTk1JUFEJUU4JUJFJUJFJUU5JTkyJUIxJUU1JThDJTg1L2lkMTEyMjM4MTA4NT9tdD04Ij5pT1Mg54mI5pysPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL2FuZHJvaWQubXlhcHAuY29tL215YXBwL2RldGFpbC5odG0/YXBrTmFtZT1jb20uaWdlZWsucmFkYXJ3YWxsZXQmQURUQUc9bW9iaWxlIj5BbmRyb2lkIOeJiOacrDwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdHlwZT0iYnV0dG9uIiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjcGFzc3dvcmQtY2hlbmdlciI+5pu05pS5PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIG10LTIiIG5hbWU9InBhc3N3b3JkIiB0eXBlPSJwYXNzd29yZCIgdmFsdWU9IiIgcGxhY2Vob2xkZXI9IuW/heWhqyI+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+PC9kaXY+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImQtYmxvY2siPjxzbWFsbCBjbGFzcz0idGV4dC1tdXRlZCBtdC0yIj7ml7bluLjnmoTlj5jmm7Tlr4bnoIHlj6/ku6XmnInmlYjlvpfkv53miqTmgqjnmoTluJDlj7c8L3NtYWxsPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKCcjbmV3X2FjY291bnQnKS52YWwoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3ZlcmlmeV9waG9uZV92ZXJpZmljYXRpb25fY29kZV9lcnJvcl9tc2cvc2VuZF9uZXdfcGFzc3dvcmRfZXJyb3JfbXNnL2c=</text>
+        <text encoding="base64">JzwsJz5zL2NoYW5nZV9wd2RfZXJyb3JfbXNnL2NoYW5nZV9hY2NvdW50X2Vycm9yX21zZy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>verify_phone_verification_code_error_msg</last-search>
+      <last-search>change_pwd_error_msg</last-search>
       <last-offset />
-      <last-pattern>verify_phone_verification_code_error_msg</last-pattern>
-      <last-replace>send_new_password_error_msg</last-replace>
-      <last-substitute>verify_phone_verification_code_error_msg</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>change_pwd_error_msg</last-pattern>
+      <last-replace>change_account_error_msg</last-replace>
+      <last-substitute>change_pwd_error_msg</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data-fan</entry>
-        <entry>pas</entry>
-        <entry>regi</entry>
         <entry>em</entry>
         <entry>email</entry>
         <entry>place</entry>
@@ -1238,9 +1253,11 @@
         <entry>arr</entry>
         <entry>&quot;</entry>
         <entry>verify_phone_verification_code_error_msg</entry>
+        <entry>pas</entry>
+        <entry>pass</entry>
+        <entry>change_pwd_error_msg</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyRuZXdzLyRtb2RlbC9n</entry>
         <entry>22,43d</entry>
         <entry>103y</entry>
         <entry encoding="base64">JzwsJz5zL3F1ZXJ5L3EvZw==</entry>
@@ -1258,8 +1275,9 @@
         <entry encoding="base64">JzwsJz5zL2FjY291bnQvcGFzc3dvcmQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcmlmeV9waG9uZV92ZXJpZmljYXRpb25fY29kZV9lcnJvcl9tc2cvc2VuZF9uZXdfcGFzc3dvcmRfZXJyb3JfbXNnL2c=</entry>
+        <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL2NoYW5nZV9wd2RfZXJyb3JfbXNnL2NoYW5nZV9hY2NvdW50X2Vycm9yX21zZy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
