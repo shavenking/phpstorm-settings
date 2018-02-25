@@ -27,6 +27,9 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="74" column="49" />
       </file>
+      <file name="/a.dummy" timestamp="1519549474266">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/repos.html" timestamp="1506223605209">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="12" column="66" />
@@ -56,17 +59,6 @@
         <mark key="]" line="24" column="64" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/system/core/CodeIgniter.php" timestamp="1519306506067">
-        <mark key="'" line="166" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/UserApplication.php" timestamp="1515898329812">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/head.html" timestamp="1506220406334">
         <mark key="[" line="0" column="0" />
@@ -99,17 +91,12 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" timestamp="1519302165083">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519545173238">
-        <mark key="'" line="869" column="47" />
-        <mark key="[" line="814" column="0" />
-        <mark key="]" line="814" column="0" />
-        <mark key="." line="814" column="0" />
-        <mark key="^" line="810" column="66" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519553851016">
+        <mark key="'" line="229" column="29" />
+        <mark key="[" line="260" column="138" />
+        <mark key="]" line="260" column="152" />
+        <mark key="." line="260" column="152" />
+        <mark key="^" line="260" column="152" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Middleware/Dashboard.php" timestamp="1515901878348">
         <mark key="[" line="20" column="9" />
@@ -158,6 +145,13 @@
         <mark key="]" line="27" column="100" />
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519553896374">
+        <mark key="'" line="537" column="40" />
+        <mark key="[" line="524" column="43" />
+        <mark key="]" line="524" column="49" />
+        <mark key="." line="524" column="49" />
+        <mark key="^" line="524" column="49" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/database/migrations/2017_12_30_015635_create_products_table.php" timestamp="1514599217626">
         <mark key="[" line="17" column="38" />
@@ -214,11 +208,6 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/TagController.php" timestamp="1514894264034">
-        <mark key="[" line="94" column="9" />
-        <mark key="]" line="94" column="40" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/app.yml" timestamp="1506227182839">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="0" />
@@ -231,10 +220,11 @@
         <mark key="." line="435" column="44" />
         <mark key="^" line="435" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/products/show.blade.php" timestamp="1515926806854">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="81" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account_create.php" timestamp="1519549037124">
+        <mark key="[" line="27" column="74" />
+        <mark key="]" line="27" column="78" />
+        <mark key="." line="27" column="78" />
+        <mark key="^" line="27" column="78" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rTaskList.js" timestamp="1506837044417">
         <mark key="[" line="4" column="0" />
@@ -295,6 +285,12 @@
         <mark key="]" line="23" column="45" />
         <mark key="^" line="23" column="55" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/radar_account_model.php" timestamp="1519549468238">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/app/Providers/AppServiceProvider.php" timestamp="1510139467198">
         <mark key="[" line="16" column="0" />
@@ -499,6 +495,10 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/User_model.php" timestamp="1519551454226">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="107" column="4" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/articles/how-i-deploy-this-site.md" timestamp="1506225406803">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="15" column="47" />
@@ -572,11 +572,6 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/wallet/uny2uni.php" timestamp="1519307122170">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/ui-route-views/get-organized/guest-list/airline-report.html" timestamp="1505213052221">
         <mark key="[" line="66" column="80" />
         <mark key="]" line="66" column="81" />
@@ -612,11 +607,6 @@
         <mark key="]" line="25" column="37" />
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/wwwroot/uny/index.php" timestamp="1519306591420">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/idx/backend/routes/rMyWeddingDetails.js" timestamp="1506837199085">
         <mark key="[" line="12" column="0" />
@@ -704,17 +694,18 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" timestamp="1519548060492">
-        <mark key="'" line="406" column="21" />
-        <mark key="[" line="402" column="13" />
-        <mark key="]" line="403" column="11" />
-        <mark key="^" line="403" column="11" />
-        <mark key="." line="403" column="11" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" timestamp="1519551619128">
+        <mark key="a" line="401" column="25" />
+        <mark key="'" line="397" column="12" />
+        <mark key="[" line="388" column="65" />
+        <mark key="]" line="388" column="122" />
+        <mark key="." line="388" column="65" />
+        <mark key="^" line="368" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/security.php" timestamp="1519545659865">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/security.php" timestamp="1519552586935">
         <mark key="'" line="18" column="31" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="36" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="161" />
         <mark key="." line="18" column="71" />
         <mark key="^" line="19" column="31" />
       </file>
@@ -749,6 +740,13 @@
         <mark key="^" line="45" column="10" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" timestamp="1519551759094">
+        <mark key="'" line="27" column="17" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/seeds/DatabaseSeeder.php" timestamp="1510023224529">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="18" column="33" />
@@ -772,6 +770,13 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
         <mark key="^" line="250" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" timestamp="1519552638178">
+        <mark key="'" line="170" column="16" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="152" />
+        <mark key="^" line="173" column="28" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/fan-xian/app/Transaction.php" timestamp="1514617307079">
         <mark key="[" line="8" column="0" />
@@ -888,17 +893,15 @@
         <mark key="." line="237" column="47" />
         <mark key="^" line="237" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" timestamp="1515902137930">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_11_023355_create_plus_one_durations_table.php" timestamp="1505100373041">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="28" />
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/User_ajax.php" timestamp="1519552156679">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="308" column="105" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/resources/views/terms-of-service.blade.php" timestamp="1506337791325">
         <mark key="[" line="28" column="0" />
@@ -947,12 +950,6 @@
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
         <mark key="^" line="168" column="114" />
-      </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/wwwroot/uny/cn/index.php" timestamp="1519306810028">
-        <mark key="'" line="314" column="44" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_09_193342_add_real_avatar.php" timestamp="1510227353986">
         <mark key="[" line="28" column="32" />
@@ -1046,21 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="38" filename="$USER_HOME$/Code/fan-xian/resources/views/point-periods/edit.blade.php" />
-      <jump line="45" column="28" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
-      <jump line="47" column="116" filename="$USER_HOME$/Code/fan-xian/app/Http/Controllers/TransactionController.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="43" column="33" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="75" column="43" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/c-2/routes/web.php" />
-      <jump line="72" column="66" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="73" column="71" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="79" column="30" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="50" column="12" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="55" column="12" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="113" column="37" filename="$USER_HOME$/Code/c-2/resources/views/_layout.blade.php" />
-      <jump line="39" column="9" filename="$USER_HOME$/Code/c-2/resources/views/index.blade.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
       <jump line="23" column="139" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
       <jump line="68" column="87" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
       <jump line="67" column="119" filename="$USER_HOME$/Code/c-2/resources/views/dashboard/products/index.blade.php" />
@@ -1146,10 +1128,25 @@
       <jump line="18" column="31" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/security.php" />
       <jump line="19" column="86" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account_edit.php" />
       <jump line="403" column="21" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="400" column="8" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="234" column="0" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="396" column="78" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="24" column="97" filename="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" />
+      <jump line="348" column="8" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="392" column="40" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="391" column="12" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" />
+      <jump line="27" column="17" filename="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" />
+      <jump line="46" column="88" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
+      <jump line="170" column="16" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
+      <jump line="229" column="29" filename="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" />
+      <jump line="2" column="6" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
+      <jump line="79" column="35" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
+      <jump line="520" column="62" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
+      <jump line="533" column="40" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>请使用新密码重新登入系统</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1165,65 +1162,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text>请使用新密码重新登入系统</text>
       </register>
       <register name="/" type="4">
-        <text>account</text>
+        <text>verify_phone_verification_code_error_msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWNjb3VudCIgPT4gJHRoaXMtPnNlY3VyaXR5LT54c3NfY2xlYW4oJHRoaXMtPmlucHV0LT5wb3N0KCJhY2NvdW50IikpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nIGNsYXNzPSJkLWJsb2NrIHRleHQtY2VudGVyIGFsZXJ0IGFsZXJ0LWRhbmdlciIgaWQ9InZlcmlmeV9waG9uZV92ZXJpZmljYXRpb25fY29kZV9lcnJvcl9tc2ciIHN0eWxlPSJkaXNwbGF5Om5vbmUhaW1wb3J0YW50OyI+PC9zdHJvbmc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR1c2VyX2luZm8pO2RpZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR1c2VyX2luZm8pO2RpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR1c2VyX2luZm8tPmVtYWlsKTtkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+dmlldygnZm9vdGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWRkcmVzcyk7ZGllKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxzdHJvbmcgY2xhc3M9ImQtYmxvY2sgdGV4dC1jZW50ZXIgYWxlcnQgYWxlcnQtZGFuZ2VyIiBpZD0idmVyaWZ5X3Bob25lX3ZlcmlmaWNhdGlvbl9jb2RlX2Vycm9yX21zZyIgc3R5bGU9ImRpc3BsYXk6bm9uZSFpbXBvcnRhbnQ7Ij48L3N0cm9uZz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIDEgbWVhbnMgdGhlIGFjY291bnQgaXMgdW5jaGFuZ2VhYmxlCiAgICAgICAgICAgICAgICBpZiAoIWlzX251bGwoJGJhbmtfYWNjb3VudF9pbmZvKSAmJiAoJGJhbmtfYWNjb3VudF9pbmZvLT5jb25maXJtID09IDEpKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ3N0YXR1cyddID0gJ2ZhaWxlZCc7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ21zZyddID0gJ+aXoOazleabtOaUuSc7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvYWQtPnZpZXcoJ2FjY291bnQvYmFua19hY2NvdW50X2VkaXQnLCAkdGhpcy0+ZGF0YSk7CiAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxsaW5nX2NvZGVzOiAkKCIjY2FsbGluZ19jb2RlcyA6c2VsZWN0ZWQiKS52YWwoKSwKICAgICAgICAgICAgICAgICAgICBwaG9uZV9udW1iZXI6ICQoIiNwaG9uZV9udW1iZXIiKS52YWwoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdHlwZT0iYnV0dG9uIiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjcGFzc3dvcmQtY2hlbmdlciI+5pu05pS5PC9idXR0b24+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIDEgbWVhbnMgdGhlIGFjY291bnQgaXMgdW5jaGFuZ2VhYmxlCiAgICAgICAgICAgICAgICBpZiAoIWlzX251bGwoJGJhbmtfYWNjb3VudF9pbmZvKSAmJiAoJGJhbmtfYWNjb3VudF9pbmZvLT5jb25maXJtID09IDEpKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ3N0YXR1cyddID0gJ2ZhaWxlZCc7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ21zZyddID0gJ+aXoOazleabtOaUuSc7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvYWQtPnZpZXcoJ2FjY291bnQvYmFua19hY2NvdW50X2VkaXQnLCAkdGhpcy0+ZGF0YSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewoKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNCI+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZGItPnRyYW5zX2JlZ2luKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gaWYgbnVsbCwgd2UgaGF2ZSB0byBjcmVhdGUgYSByb3cKICAgICAgICAgICAgICAgICAgICBpZiAoaXNfbnVsbCgkYmFua19hY2NvdW50X2luZm8pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICghJHRoaXMtPmNuX2JhbmtfbW9kZWwtPmNyZWF0ZV9iYW5rX2luZm8oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+c2Vzc2lvbi0+dWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbImJhbmtfbmFtZSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbImJhbmtfYWNjb3VudCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbIm93bmVyX25hbWUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwb3N0WyJiYW5rX2JyYW5jaCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbImJhbmtfdHlwZSJdCiAgICAgICAgICAgICAgICAgICAgICAgICkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5kYi0+dHJhbnNfcm9sbGJhY2soKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5kYXRhWyJzdGF0dXMiXSA9ICJmYWlsZWQiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbIm1zZyJdID0gIumUmeivr++8jOaXoOazleW7uueri+i1hOiuryI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9hZC0+dmlldygnYWNjb3VudC9iYW5rX2FjY291bnRfZWRpdCcsICR0aGlzLT5kYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIHN0YXR1cyBpcyAwIG9yIDIsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIDAgaXMgbm90IHlldCB2ZXJpZmllZCwKICAgICAgICAgICAgICAgICAgICAgICAgLy8gMiBpcyBtZWFuIHRoZXJlIGlzIGEgcHJvYmxlbSB3aXRoIHRoZSBhY2NvdW50CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICghJHRoaXMtPmNuX2JhbmtfbW9kZWwtPnVwZGF0ZV9iYW5rX2luZm8oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+c2Vzc2lvbi0+dWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbImJhbmtfbmFtZSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbImJhbmtfYWNjb3VudCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbIm93bmVyX25hbWUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwb3N0WyJiYW5rX2JyYW5jaCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHBvc3RbImJhbmtfdHlwZSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMCAvLyByZXNldCB0aGUgc3RhdHVzIGZvciBjaGVjayBhZ2FpbgogICAgICAgICAgICAgICAgICAgICAgICApKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZGItPnRyYW5zX3JvbGxiYWNrKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZGF0YVsic3RhdHVzIl0gPSAiZmFpbGVkIjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5kYXRhWyJtc2ciXSA9ICLplJnor6/vvIzml6Dms5Xmm7TmlrDotYTorq8iOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvYWQtPnZpZXcoJ2FjY291bnQvYmFua19hY2NvdW50X2VkaXQnLCAkdGhpcy0+ZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAoJHRoaXMtPmRhdGFbInN0YXR1cyJdID09ICdzdWNjZXNzJykgewogICAgICAgICAgICAgICAgICAgICAgICAkZmlsZV9uYW1lID0gc3RyX3JlcGxhY2UoIj0iLCAiXyIsIHN0cl9yZXBsYWNlKCIvIiwgIi0iLCBiYXNlNjRfZW5jb2RlKCR0aGlzLT5zZXNzaW9uLT51aWQpKSk7IC8vIHJlcGxhY2UgdGhlICIvIiBhbmQgIj0iCiAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ3VwbG9hZF9wYXRoJ10gPSByZWFscGF0aChBUFBQQVRIIC4gJy4uLy4uL3VwbG9hZHMvYmFuaycpOwogICAgICAgICAgICAgICAgICAgICAgICAkY29uZmlnWydhbGxvd2VkX3R5cGVzJ10gPSAnanBnfHBuZyc7CiAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ2ZpbGVfZXh0X3RvbG93ZXInXSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ292ZXJ3cml0ZSddID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZ1snbWF4X3NpemUnXSA9IDUxMjA7CiAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ21heF93aWR0aCddID0gMjczMjsKICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZ1snbWF4X2hlaWdodCddID0gMjA0ODsKICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZ1snZmlsZV9uYW1lJ10gPSAkZmlsZV9uYW1lIC4gIi5wbmciOwoKICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvYWQtPmxpYnJhcnkoJ3VwbG9hZCcsICRjb25maWcpOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCEkdGhpcy0+dXBsb2FkLT5kb191cGxvYWQoJ2JhbmtfcGhvdG8nKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRiLT50cmFuc19yb2xsYmFjaygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbInN0YXR1cyJdID0gImZhaWxlZCI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZGF0YVsibXNnIl0gPSAkdGhpcy0+dXBsb2FkLT5kaXNwbGF5X2Vycm9ycygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvYWQtPnZpZXcoJ2FjY291bnQvYmFua19hY2NvdW50X2VkaXQnLCAkdGhpcy0+ZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkY29uZmlnWydpbWFnZV9saWJyYXJ5J10gPSAnZ2QyJzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ3NvdXJjZV9pbWFnZSddID0gcmVhbHBhdGgoQVBQUEFUSCAuICcuLi8uLi91cGxvYWRzL2JhbmsvJyAuICRjb25maWdbJ2ZpbGVfbmFtZSddKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ2NyZWF0ZV90aHVtYiddID0gVFJVRTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ21haW50YWluX3JhdGlvJ10gPSBUUlVFOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZ1snd2lkdGgnXSA9IDcwMDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjb25maWdbJ2hlaWdodCddID0gNDUwOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZ1sndGh1bWJfbWFya2VyJ10gPSAndGh1bWInOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5sb2FkLT5saWJyYXJ5KCdpbWFnZV9saWInLCAkY29uZmlnKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBhbHRob3VnaCBnZW5lcmF0ZSB0aHVtYiBwaWMgZmFpbGVkLCBidXQgaXRzIG9rCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW1hZ2VfbGliLT5yZXNpemUoKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZGItPnRyYW5zX2NvbW1pdCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVkaXJlY3QoYmFzZV91cmwoJ2FjY291bnQvYmFua19hY2NvdW50JykpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImQtYmxvY2siPjxzbWFsbCBjbGFzcz0idGV4dC1tdXRlZCBtdC0yIj7ml7bluLjnmoTlj5jmm7Tlr4bnoIHlj6/ku6XmnInmlYjlvpfkv53miqTmgqjnmoTluJDlj7c8L3NtYWxsPjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL3ZlcmlmeV9waG9uZV92ZXJpZmljYXRpb25fY29kZV9lcnJvcl9tc2cvc2VuZF9uZXdfcGFzc3dvcmRfZXJyb3JfbXNnL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>account</last-search>
+      <last-search>verify_phone_verification_code_error_msg</last-search>
       <last-offset />
-      <last-pattern>account</last-pattern>
-      <last-replace>password</last-replace>
-      <last-substitute>account</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>verify_phone_verification_code_error_msg</last-pattern>
+      <last-replace>send_new_password_error_msg</last-replace>
+      <last-substitute>verify_phone_verification_code_error_msg</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ri</entry>
-        <entry>cl</entry>
-        <entry>ligh</entry>
         <entry>data-fan</entry>
         <entry>pas</entry>
         <entry>regi</entry>
@@ -1241,11 +1235,11 @@
         <entry>total</entry>
         <entry>ac</entry>
         <entry>account</entry>
+        <entry>arr</entry>
+        <entry>&quot;</entry>
+        <entry>verify_phone_verification_code_error_msg</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RpdGxlL2NvbnRlbnQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyRtb2RlbC8kbmV3cy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyRuZXdzL21vZGVsL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyRuZXdzLyRtb2RlbC9n</entry>
         <entry>22,43d</entry>
         <entry>103y</entry>
@@ -1262,7 +1256,10 @@
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkX2NvbmZpcm1hdGlvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3Bhc3N3b3JkL3dob2xlc2FsZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjY291bnQvcGFzc3dvcmQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL3ZlcmlmeV9waG9uZV92ZXJpZmljYXRpb25fY29kZV9lcnJvcl9tc2cvc2VuZF9uZXdfcGFzc3dvcmRfZXJyb3JfbXNnL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
