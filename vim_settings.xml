@@ -91,12 +91,12 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519637793491">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519638067477">
         <mark key="'" line="175" column="96" />
-        <mark key="[" line="831" column="17" />
-        <mark key="]" line="831" column="24" />
-        <mark key="." line="831" column="24" />
-        <mark key="^" line="831" column="24" />
+        <mark key="[" line="834" column="72" />
+        <mark key="]" line="834" column="86" />
+        <mark key="." line="834" column="86" />
+        <mark key="^" line="834" column="86" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Middleware/Dashboard.php" timestamp="1515901878348">
         <mark key="[" line="20" column="9" />
@@ -1160,7 +1160,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy0+aW5wdXQtPnBvc3QoJ3VueV9xdWFudGl0eScp</text>
+        <text>transffer_amount</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1176,7 +1176,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+aW5wdXQtPnBvc3QoJ3VueV9xdWFudGl0eScp</text>
+        <text>transffer_amount</text>
       </register>
       <register name="/" type="4">
         <text>amm</text>
