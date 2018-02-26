@@ -60,12 +60,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/system/core/CodeIgniter.php" timestamp="1519306506067">
-        <mark key="'" line="166" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/shavenking/go.shavenking.me/templates/head.html" timestamp="1506220406334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="13" />
@@ -97,7 +91,7 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519563211447">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519565611850">
         <mark key="'" line="175" column="96" />
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
@@ -802,11 +796,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/header_with_session.php" timestamp="1519545529301">
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="88" />
-        <mark key="^" line="62" column="88" />
-        <mark key="." line="62" column="88" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/header_with_session.php" timestamp="1519565961028">
+        <mark key="[" line="52" column="88" />
+        <mark key="]" line="52" column="96" />
+        <mark key="^" line="52" column="96" />
+        <mark key="." line="52" column="96" />
       </file>
       <file name="$USER_HOME$/Code/idx/frontend/public/javascripts/controllers/new-jsFile/event-detail.controller.js" timestamp="1506838334559">
         <mark key="[" line="41" column="35" />
@@ -899,11 +893,11 @@
         <mark key="." line="237" column="47" />
         <mark key="^" line="237" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/c-2/app/Policies/UserApplicationPolicy.php" timestamp="1515902137930">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Wallet.php" timestamp="1519565994790">
+        <mark key="[" line="261" column="20" />
+        <mark key="]" line="261" column="28" />
+        <mark key="^" line="261" column="28" />
+        <mark key="." line="261" column="28" />
       </file>
       <file name="$USER_HOME$/Code/live-pika/database/migrations/2017_09_11_023355_create_plus_one_durations_table.php" timestamp="1505100373041">
         <mark key="[" line="21" column="20" />
@@ -962,12 +956,6 @@
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
         <mark key="^" line="168" column="114" />
-      </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/wwwroot/uny/cn/index.php" timestamp="1519306810028">
-        <mark key="'" line="314" column="44" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/eric-case-3/database/migrations/2017_11_09_193342_add_real_avatar.php" timestamp="1510227353986">
         <mark key="[" line="28" column="32" />
@@ -1164,7 +1152,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addClass</text>
+        <text>uny2uni</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1180,13 +1168,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addClass</text>
+        <text>uny2uni</text>
       </register>
       <register name="/" type="4">
         <text>change_pwd_error_msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnRuLmFkZENsYXNzKCdkaXNhYmxlZCcpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1bnkydW5pKCkgewogICAgICAgIGlmICghJHRoaXMtPnNlc3Npb24tPmxvZ2dlZF9pbikgewogICAgICAgICAgICByZWRpcmVjdChiYXNlX3VybCgndHJhZGluZycpKTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5kYXRhWyJzdGF0dXMiXSA9ICJzdWNjZXNzIjsKICAgICAgICAkdGhpcy0+ZGF0YVsibXNnIl0gPSAiIjsKCiAgICAgICAgJHRoaXMtPmxvYWQtPm1vZGVsKCd3YWxsZXRfbW9kZWwnKTsKICAgICAgICAkd2FsbGV0ID0gJHRoaXMtPndhbGxldF9tb2RlbC0+c2VsZWN0X2J5X3VzZXJuYW1lKCR0aGlzLT5zZXNzaW9uLT51c2VybmFtZSk7CiAgICAgICAgaWYgKGlzX251bGwoJHdhbGxldCkpIHsKICAgICAgICAgICAgJHRoaXMtPmRhdGFbInN0YXR1cyJdID0gImZhaWxlZCI7CiAgICAgICAgICAgICR0aGlzLT5kYXRhWyJtc2ciXSA9IChFTlZJUk9OTUVOVCA9PT0gInByb2R1Y3Rpb24iKSA/ICLns7vnu5/plJnor6/vvIgw77yJIjogJ2Nhbm5vdCBmaW5kIHRoZSB3YWxsZXQnOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICR0aGlzLT5sb2FkLT5tb2RlbCgnd2FsbGV0X2hpc3RvcnlfbW9kZWwnKTsKICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ3dhbGxldCddID0gJHdhbGxldDsKCiAgICAgICAgICAgICRkYXRlID0gZGF0ZSgnWS1tLWQnKTsKICAgICAgICAgICAgJGZpcnN0ID0gMTsKICAgICAgICAgICAgJHcgPSBkYXRlKCd3Jywgc3RydG90aW1lKCRkYXRlKSk7CiAgICAgICAgICAgICRub3dfc3RhcnQgPSBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgiJGRhdGUgLSAiIC4gKCR3ID8gJHcgLSAkZmlyc3QgOiA2KSAuICcgZGF5cycpKTsKICAgICAgICAgICAgJG5vd19lbmQgPSBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgiJG5vd19zdGFydCArNiBkYXlzIikpOwogICAgICAgICAgICAkbGFzdF9zdGFydCA9IGRhdGUoJ1ktbS1kJywgc3RydG90aW1lKCIkbm93X3N0YXJ0IC03IGRheXMiKSk7CiAgICAgICAgICAgICRsYXN0X2VuZCA9IGRhdGUoJ1ktbS1kJywgc3RydG90aW1lKCIkbm93X3N0YXJ0IC0xIGRheXMiKSk7CiAgICAgICAgICAgIC8vIHRvdGFsIHVuaSBhbW91bnQsIDIwMTctMTItMjYgaXMgcmVsZWFzZSB0aGlzIGZ1bmN0aW9uIGRheQogICAgICAgICAgICAkbGFzdHdlZWtfdW5pX3JlY29yZHMgPSAkdGhpcy0+d2FsbGV0X2hpc3RvcnlfbW9kZWwtPmdldF91bmlfdHJhbnNmZXJfcmVjb3JkcygkdGhpcy0+c2Vzc2lvbi0+dXNlcm5hbWUsICdwcmlvcicsICcyMDE3LTEyLTI2JywgJGxhc3RfZW5kKTsKICAgICAgICAgICAgLy8gYWxyZWFkeSB0cmFuc2ZlcmVkLCB0aGlzIGlzIG5lZ2F0aXZlIG51bWJlcgogICAgICAgICAgICAkdGhpc3dlZWtfdW5pX3JlY29yZHMgPSAkdGhpcy0+d2FsbGV0X2hpc3RvcnlfbW9kZWwtPmdldF91bmlfdHJhbnNmZXJfcmVjb3JkcygkdGhpcy0+c2Vzc2lvbi0+dXNlcm5hbWUsICdub3cnLCAkbm93X3N0YXJ0LCAkbm93X2VuZCk7CiAgICAgICAgICAgIGlmIChpc19udWxsKCRsYXN0d2Vla191bmlfcmVjb3Jkcy0+YW1vdW50KSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ2F2YWlsYWJsZV9hbW91bnQnXSA9IDAuMDA7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkYW1vdW50ID0gKCRsYXN0d2Vla191bmlfcmVjb3Jkcy0+YW1vdW50ICogMC4wNikgKyAoaXNfbnVsbCgkdGhpc3dlZWtfdW5pX3JlY29yZHMtPmFtb3VudCkgPyAwIDogJHRoaXN3ZWVrX3VuaV9yZWNvcmRzLT5hbW91bnQpOwogICAgICAgICAgICAgICAgJHRoaXMtPmRhdGFbJ2F2YWlsYWJsZV9hbW91bnQnXSA9ICgkYW1vdW50ID4gMCkgPyAkYW1vdW50IDogMC4wMDsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgJHRoaXMtPmxvYWQtPnZpZXcoJ3dhbGxldC91bnkydW5pJywgJHRoaXMtPmRhdGEpOwogICAgICAgICR0aGlzLT5sb2FkLT52aWV3KCdmb290ZXInKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0bi5lbmFibGUoKQo=</text>
