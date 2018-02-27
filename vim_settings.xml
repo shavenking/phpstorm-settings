@@ -180,11 +180,11 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Wallet.php" timestamp="1519647991941">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="126" />
-        <mark key="." line="277" column="46" />
-        <mark key="^" line="277" column="46" />
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Wallet.php" timestamp="1519699401318">
+        <mark key="[" line="246" column="125" />
+        <mark key="]" line="246" column="135" />
+        <mark key="." line="246" column="135" />
+        <mark key="^" line="246" column="135" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/User_ajax.php" timestamp="1519552156679">
         <mark key="[" line="307" column="0" />
@@ -299,8 +299,8 @@
       <jump line="79" column="27" filename="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoJHRoaXMtPnNlc3Npb24tPnVzZXJuYW1lID09PSAndmFuY2UnKTogPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iPjxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iPD89IGJhc2VfdXJsKCdhY2NvdW50L3JhZGFyX2FjY291bnQnKTs/PiI+PHNwYW4+6ZWt6L6+6ZKx5YyFPC9zcGFuPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'2017-12-26'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -316,7 +316,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>'2017-12-26'</text>
       </register>
       <register name="/" type="4">
         <text>false</text>
