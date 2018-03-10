@@ -47,7 +47,7 @@
         <mark key="^" line="19" column="130" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1519648647026">
+      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1520660311663">
         <mark key="'" line="868" column="0" />
         <mark key="[" line="924" column="16" />
         <mark key="]" line="924" column="16" />
@@ -363,7 +363,7 @@
       <last-replace>change_account_error_msg</last-replace>
       <last-substitute>change_pwd_error_msg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
