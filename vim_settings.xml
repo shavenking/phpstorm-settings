@@ -123,14 +123,6 @@
         <mark key="." line="88" column="43" />
         <mark key="^" line="88" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account.php" timestamp="1519564349120">
-        <mark key="a" line="402" column="25" />
-        <mark key="'" line="398" column="12" />
-        <mark key="[" line="389" column="69" />
-        <mark key="]" line="389" column="70" />
-        <mark key="." line="389" column="70" />
-        <mark key="^" line="389" column="70" />
-      </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/security.php" timestamp="1519649024359">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="46" />
@@ -189,6 +181,9 @@
         <mark key="." line="45" column="83" />
         <mark key="^" line="54" column="80" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1520946490604">
+        <mark key="'" line="67" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1520734100866">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -203,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="44" filename="$USER_HOME$/Code/c-2/resources/lang/en/validation.php" />
-      <jump line="40" column="41" filename="$USER_HOME$/Code/c-2/resources/lang/en/validation.php" />
       <jump line="43" column="39" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
       <jump line="60" column="20" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
       <jump line="69" column="24" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
@@ -303,6 +296,8 @@
       <jump line="126" column="24" filename="$USER_HOME$/Code/pikachu/config/app.php" />
       <jump line="143" column="19" filename="$USER_HOME$/Code/pikachu/config/app.php" />
       <jump line="157" column="22" filename="$USER_HOME$/Code/pikachu/config/app.php" />
+      <jump line="59" column="5" filename="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
+      <jump line="67" column="20" filename="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -325,7 +320,7 @@
         <text>.awesome</text>
       </register>
       <register name="/" type="4">
-        <text>Auth</text>
+        <text encoding="base64">LT5ndWFyZHM=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0iaW1nIGltZy1mbHVpZCIgc3JjPSI8Pz0gYmFzZV91cmwoJ2Fzc2V0cy9pbWcvaW50cm9kdWN0aW9uMS5wbmcnKTs/PiIgYWx0PSJMb2dvIG9mIFVueXRyYWRlciI+Cg==</text>
@@ -368,9 +363,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Auth</last-search>
+      <last-search encoding="base64">LT5ndWFyZHM=</last-search>
       <last-offset />
-      <last-pattern>Auth</last-pattern>
+      <last-pattern encoding="base64">LT5ndWFyZHM=</last-pattern>
       <last-replace>change_account_error_msg</last-replace>
       <last-substitute>change_pwd_error_msg</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>amount</entry>
         <entry>data</entry>
         <entry>avai</entry>
@@ -398,6 +392,7 @@
         <entry>png</entry>
         <entry>user</entry>
         <entry>Auth</entry>
+        <entry encoding="base64">LT5ndWFyZHM=</entry>
       </history-search>
       <history-cmd>
         <entry>103y</entry>
