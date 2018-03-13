@@ -47,6 +47,9 @@
         <mark key="^" line="19" column="130" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/config/app.php" timestamp="1520945790060">
+        <mark key="'" line="157" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/controllers/Account_ajax.php" timestamp="1520660311663">
         <mark key="'" line="868" column="0" />
         <mark key="[" line="924" column="16" />
@@ -109,6 +112,9 @@
         <mark key="]" line="47" column="64" />
         <mark key="." line="47" column="64" />
         <mark key="^" line="47" column="64" />
+      </file>
+      <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php" timestamp="1520945531018">
+        <mark key="'" line="45" column="5" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" timestamp="1519302027952">
         <mark key="'" line="89" column="39" />
@@ -197,11 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
-      <jump line="45" column="50" filename="$USER_HOME$/Code/c-2/resources/views/auth/login.blade.php" />
-      <jump line="47" column="64" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
-      <jump line="51" column="84" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
-      <jump line="37" column="49" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
       <jump line="71" column="44" filename="$USER_HOME$/Code/c-2/resources/lang/en/validation.php" />
       <jump line="40" column="41" filename="$USER_HOME$/Code/c-2/resources/lang/en/validation.php" />
       <jump line="43" column="39" filename="$USER_HOME$/Code/c-2/resources/views/auth/register.blade.php" />
@@ -297,6 +298,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/index.php" />
       <jump line="72" column="48" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
       <jump line="81" column="73" filename="$USER_HOME$/Code/uny_dev/home/cn/application/views/account/radar_account.php" />
+      <jump line="45" column="5" filename="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/config/app.php" />
+      <jump line="126" column="24" filename="$USER_HOME$/Code/pikachu/config/app.php" />
+      <jump line="143" column="19" filename="$USER_HOME$/Code/pikachu/config/app.php" />
+      <jump line="157" column="22" filename="$USER_HOME$/Code/pikachu/config/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -319,7 +325,7 @@
         <text>.awesome</text>
       </register>
       <register name="/" type="4">
-        <text>png</text>
+        <text>Auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0iaW1nIGltZy1mbHVpZCIgc3JjPSI8Pz0gYmFzZV91cmwoJ2Fzc2V0cy9pbWcvaW50cm9kdWN0aW9uMS5wbmcnKTs/PiIgYWx0PSJMb2dvIG9mIFVueXRyYWRlciI+Cg==</text>
@@ -362,9 +368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>png</last-search>
+      <last-search>Auth</last-search>
       <last-offset />
-      <last-pattern>png</last-pattern>
+      <last-pattern>Auth</last-pattern>
       <last-replace>change_account_error_msg</last-replace>
       <last-substitute>change_pwd_error_msg</last-substitute>
       <last-dir>1</last-dir>
@@ -372,8 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new</entry>
-        <entry>user</entry>
         <entry>id</entry>
         <entry>amount</entry>
         <entry>data</entry>
@@ -392,6 +396,8 @@
         <entry>false</entry>
         <entry>img</entry>
         <entry>png</entry>
+        <entry>user</entry>
+        <entry>Auth</entry>
       </history-search>
       <history-cmd>
         <entry>103y</entry>
