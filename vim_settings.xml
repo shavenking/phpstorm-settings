@@ -51,11 +51,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_104921_create_activities_table.php" timestamp="1521198679016">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="21" column="56" />
-        <mark key="^" line="21" column="56" />
-        <mark key="." line="21" column="56" />
+      <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_104921_create_activities_table.php" timestamp="1521345073027">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/config/app.php" timestamp="1521092866139">
         <mark key="'" line="179" column="45" />
@@ -370,8 +370,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmVyc2lvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>role</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -387,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>role</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
