@@ -75,7 +75,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/RegisterController.php" timestamp="1521375165877" />
+      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/RegisterController.php" timestamp="1521377817430">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="88" column="37" />
+        <mark key="^" line="88" column="37" />
+        <mark key="." line="88" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/c-2/resources/lang/en/validation.php" timestamp="1515897670774">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="32" column="31" />
@@ -386,7 +391,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>ActivityContent::</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -402,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ActivityContent::</text>
       </register>
       <register name="/" type="4">
         <text>users</text>
