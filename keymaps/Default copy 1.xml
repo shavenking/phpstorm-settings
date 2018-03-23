@@ -1,9 +1,17 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="UsageView.Rerun" />
+  <action id="ViewSource" />
 </keymap>
