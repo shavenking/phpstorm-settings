@@ -213,11 +213,12 @@
         <mark key="." line="56" column="80" />
         <mark key="^" line="56" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1521865001465">
-        <mark key="[" line="51" column="65" />
-        <mark key="]" line="51" column="69" />
-        <mark key="." line="51" column="69" />
-        <mark key="^" line="51" column="69" />
+      <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1521879209746">
+        <mark key="'" line="25" column="57" />
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+        <mark key="^" line="79" column="46" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1521862793594">
         <mark key="'" line="22" column="0" />
@@ -413,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="8" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/app.blade.php" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/app.blade.php" />
       <jump line="7" column="10" filename="$USER_HOME$/Code/pikachu/resources/views/activity/index.blade.php" />
       <jump line="30" column="20" filename="$USER_HOME$/Code/pikachu/resources/views/activity/index.blade.php" />
@@ -511,12 +511,13 @@
       <jump line="17" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/app.blade.php" />
       <jump line="8" column="8" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
       <jump line="22" column="32" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
-      <jump line="25" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
+      <jump line="54" column="38" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
+      <jump line="25" column="57" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text encoding="base64">bmF2YmFyLWRhcmsg</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -532,49 +533,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">bmF2YmFyLWRhcmsg</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0ie3sgcm91dGUoJ3JlZ2lzdGVyJykgfX0iPnt7IF9fKCdhdXRoLlJlZ2lzdGVyJykgfX08L2E+PC9saT4K</text>
+      <register name="0" type="4">
+        <text>navbar-dark bg-dark</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGhlbGxvIHdvcmxkCiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIHRleHQtcmlnaHQiPnRlc3Q8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8aDEgY2xhc3M9ImRpc3BsYXktNCI+Rmx1aWQganVtYm90cm9uPC9oMT4KICAgICAgICA8cCBjbGFzcz0ibGVhZCI+VGhpcyBpcyBhIG1vZGlmaWVkIGp1bWJvdHJvbiB0aGF0IG9jY3VwaWVzIHRoZSBlbnRpcmUgaG9yaXpvbnRhbCBzcGFjZSBvZiBpdHMKICAgICAgICAgICAgcGFyZW50LjwvcD4KICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ianVtYm90cm9uIGp1bWJvdHJvbi1mbHVpZCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICAgICAgICAgIDxoMSBjbGFzcz0iZGlzcGxheS00Ij5GbHVpZCBqdW1ib3Ryb248L2gxPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJsZWFkIj5UaGlzIGlzIGEgbW9kaWZpZWQganVtYm90cm9uIHRoYXQgb2NjdXBpZXMgdGhlIGVudGlyZSBob3Jpem9udGFsIHNwYWNlIG9mIGl0cwogICAgICAgICAgICAgICAgICAgICAgICBwYXJlbnQuPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNCBoaWRkZW4tbWQtZG93biIgaWQ9InllbGxvdyI+CiAgICAgICAgICAgIFhYWFgKICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzcz0iY29sLTEwIGNvbC1zbS0xMCBjb2wtbWQtMTAgY29sLWxnLTggY29sLXhsLTgiPgogICAgICAgICAgICBGb3JtIEdvZXMgSGVyZQogICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hpJyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAkKCcubmF2YmFyJykudG9nZ2xlQ2xhc3MoJ25hdmJhci1saWdodCBiZy1kYXJrJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CjxkaXYgaWQ9IiI+PC9kaXY+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">e3stLTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCBoLTEwMCI+LS19fQp7ey0tPGRpdiBjbGFzcz0icm93IGp1c3RpZnktY29udGVudC1jZW50ZXIgaC0xMDAiPi0tfX0Ke3stLTxkaXYgY2xhc3M9ImNvbC0xMiI+LS19fQp7ey0tPC9kaXY+LS19fQp7ey0tPC9kaXY+LS19fQp7ey0tPC9kaXY+LS19fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">e3stLTxkaXYgY2xhc3M9Imp1bWJvdHJvbiBqdW1ib3Ryb24tZmx1aWQiPi0tfX0KICAgIHt7LS08ZGl2IGNsYXNzPSJjb250YWluZXIiPi0tfX0KICAgICAgICB7ey0tPGgxIGNsYXNzPSJkaXNwbGF5LTQiPkZsdWlkIGp1bWJvdHJvbjwvaDE+LS19fQogICAgICAgIHt7LS08cCBjbGFzcz0ibGVhZCI+VGhpcyBpcyBhIG1vZGlmaWVkIGp1bWJvdHJvbiB0aGF0IG9jY3VwaWVzIHRoZSBlbnRpcmUgaG9yaXpvbnRhbCBzcGFjZSBvZiBpdHMgcGFyZW50LjwvcD4tLX19CiAgICB7ey0tPC9kaXY+LS19fQp7ey0tPC9kaXY+LS19fQo=</text>
+        <text encoding="base64">ICAgIAogICAgPGRpdiBjbGFzcz0icm93ICI+PC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2PgogICAgCiAgICA8ZGl2IGNsYXNzPSJyb3cgIj48L2Rpdj4K</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4K</text>
+        <text encoding="base64">CmRpdgo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>63d</text>
       </register>
     </registers>
     <search>
@@ -610,7 +611,6 @@
         <entry>body</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzhweC8xMHB4L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL25hbWUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkX2NvbmZpcm1hdGlvbi9n</entry>
@@ -630,6 +630,7 @@
         <entry encoding="base64">JzwsJz5zL1ZhbGlkIERhdGUvUHJpY2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvRGFzaGJvYXJkL2c=</entry>
         <entry>noh</entry>
+        <entry>63d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
