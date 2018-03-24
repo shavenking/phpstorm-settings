@@ -313,10 +313,13 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" timestamp="1521470357020">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" timestamp="1521854659904">
+        <mark key="a" line="25" column="40" />
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="56" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" timestamp="1515898032057">
         <mark key="'" line="76" column="0" />
@@ -347,12 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="24" filename="$USER_HOME$/Code/pikachu/config/app.php" />
-      <jump line="143" column="19" filename="$USER_HOME$/Code/pikachu/config/app.php" />
-      <jump line="157" column="22" filename="$USER_HOME$/Code/pikachu/config/app.php" />
-      <jump line="59" column="5" filename="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
-      <jump line="67" column="20" filename="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/rongfutong/config/rongfutong.php" />
       <jump line="179" column="45" filename="$USER_HOME$/Code/rongfutong/config/app.php" />
       <jump line="21" column="12" filename="$USER_HOME$/Code/pikachu/database/migrations/2014_10_12_000000_create_users_table.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105305_create_ticket_types_table.php" />
@@ -447,10 +444,16 @@
       <jump line="41" column="115" filename="$USER_HOME$/Code/pikachu/resources/views/users/create.blade.php" />
       <jump line="55" column="131" filename="$USER_HOME$/Code/pikachu/resources/views/users/create.blade.php" />
       <jump line="15" column="4" filename="$USER_HOME$/Code/pikachu/resources/lang/en/activities.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" />
+      <jump line="65" column="34" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" />
+      <jump line="86" column="38" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" />
+      <jump line="21" column="48" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" />
+      <jump line="25" column="40" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdjaXBoZXJ0ZXh0JyA9PiAnJwo=</text>
+      <register name="&quot;" type="4">
+        <text>'zh'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -466,55 +469,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.01</text>
+        <text>'zh'</text>
       </register>
       <register name="/" type="4">
-        <text>Valid Date</text>
+        <text>getcurr</text>
       </register>
-      <register name="0" type="4">
-        <text>20180322111211</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9jYWxlID0gTGFyYXZlbExvY2FsaXphdGlvbjo6Z2V0Q3VycmVudExvY2FsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdjaXBoZXJ0ZXh0JyA9PiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAkbG9jYWxlID0gTGFyYXZlbExvY2FsaXphdGlvbjo6Z2V0Q3VycmVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbG9jYWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHNoYXZlbmtpbmcKICogRGF0ZTogMjMvMDMvMjAxOAogKiBUaW1lOiAxMTozMCBBTQogKi8K</text>
+        <text encoding="base64">ICAgICdjaXBoZXJ0ZXh0JyA9PiAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdBZGQgVGlja2V0IFR5cGUnID0+ICdBZGQgVGlja2V0IFR5cGUnLAo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICduYW1lJyA9PiAnTmFtZScsCiAgICAnZW1haWwnID0+ICdFLU1haWwgQWRkcmVzcycsCiAgICAnJwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHNoYXZlbmtpbmcKICogRGF0ZTogMjMvMDMvMjAxOAogKiBUaW1lOiAxMTozMCBBTQogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdBZGQgVGlja2V0IFR5cGUnID0+ICdBZGQgVGlja2V0IFR5cGUnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHNoYXZlbmtpbmcKICogRGF0ZTogMjEvMDMvMjAxOAogKiBUaW1lOiA5OjQwIFBNCiAqLwo=</text>
+        <text encoding="base64">ICAgICduYW1lJyA9PiAnTmFtZScsCiAgICAnZW1haWwnID0+ICdFLU1haWwgQWRkcmVzcycsCiAgICAnJwo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQoImhpIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdsb2dpbicgPT4gJ+eZu+WFpScsCiAgICAnZW1haWwnID0+ICfkv6HnrrEnLAogICAgJ3Bhc3N3b3JkJyA9PiAn5a+G56K8JywKICAgICdyZW1lbWJlci1tZScgPT4gJ+iomOS9j+aIkScsCiAgICAnZm9yZ290LXBhc3N3b3JkJyA9PiAn5b+Y6KiY5a+G56K877yfJwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHNoYXZlbmtpbmcKICogRGF0ZTogMjEvMDMvMjAxOAogKiBUaW1lOiA5OjQwIFBNCiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Valid Date</last-search>
+      <last-search>getcurr</last-search>
       <last-offset />
-      <last-pattern>Valid Date</last-pattern>
+      <last-pattern>getcurr</last-pattern>
       <last-replace>Price</last-replace>
       <last-substitute>Valid Date</last-substitute>
       <last-dir>1</last-dir>
@@ -522,7 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>png</entry>
         <entry>Auth</entry>
         <entry encoding="base64">LT5ndWFyZHM=</entry>
         <entry>name</entry>
@@ -535,13 +537,14 @@
         <entry>date</entry>
         <entry>price</entry>
         <entry>en</entry>
-        <entry>zh</entry>
         <entry>hant</entry>
         <entry>ne</entry>
         <entry>th</entry>
         <entry>user</entry>
         <entry>__</entry>
         <entry>Valid Date</entry>
+        <entry>zh</entry>
+        <entry>getcurr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
