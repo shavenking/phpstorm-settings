@@ -9,12 +9,12 @@
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1521962325890">
+      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1521976790904">
         <mark key="'" line="34" column="15" />
-        <mark key="[" line="144" column="28" />
-        <mark key="]" line="146" column="62" />
-        <mark key="^" line="146" column="62" />
-        <mark key="." line="146" column="62" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/LoginController.php" timestamp="1521862783173">
         <mark key="[" line="34" column="36" />
@@ -134,11 +134,6 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
         <mark key="^" line="524" column="49" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/database/seeds/UsersTableSeeder.php" timestamp="1521857987641">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/RegisterController.php" timestamp="1521946178625">
         <mark key="'" line="71" column="41" />
@@ -297,11 +292,6 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/auth/register.blade.php" timestamp="1521945856431">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/UsersController.php" timestamp="1521946267760">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -359,16 +349,6 @@
         <mark key="]" line="170" column="26" />
         <mark key="^" line="170" column="26" />
         <mark key="." line="170" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/lang/en/users.php" timestamp="1521639897804">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_104921_create_activities_table.php" timestamp="1521358985391">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/users/create.blade.php" timestamp="1521945985403">
         <mark key="'" line="53" column="131" />
@@ -450,6 +430,12 @@
         <mark key="^" line="57" column="40" />
         <mark key="." line="57" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" timestamp="1521976805402">
+        <mark key="[" line="44" column="99" />
+        <mark key="]" line="44" column="99" />
+        <mark key="^" line="45" column="66" />
+        <mark key="." line="44" column="99" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ApplicationController.php" timestamp="1521971471581">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -502,11 +488,6 @@
         <mark key="]" line="19" column="21" />
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" timestamp="1521951846851">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" timestamp="1515898032057">
         <mark key="'" line="76" column="0" />
@@ -666,8 +647,8 @@
       <jump line="42" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjc3JmCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5hbWU9InRpY2tldERhdGVbXSI=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -683,46 +664,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dashbaord</text>
+        <text encoding="base64">IG5hbWU9InRpY2tldERhdGVbXSI=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7IG9sZCgnZW1haWwnKSB9fSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iYWN0aXZpdHlEYXRlIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjc3JmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkBzZWN0aW9uKCdzY3JpcHQnKQogICAgPHNjcmlwdD4KICAgICAgICBuZXcgVnVlKHsKICAgICAgICAgICAgZWw6ICcjYWN0aXZpdHknLAogICAgICAgICAgICBtZXRob2RzOiB7CiAgICAgICAgICAgICAgICBkZWxldGVBY3Rpdml0eTogZnVuY3Rpb24gKCRpZCkgewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRpZCk7CiAgICAgICAgICAgICAgICAgICAgdGhpcy4kaHR0cC5kZWxldGUoJy9hY3Rpdml0aWVzLycgKyAkaWQpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICIvYWN0aXZpdGllcyI7CiAgICAgICAgICAgICAgICAgICAgfSwgcmVzcG9uc2UgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAvL2Vycm9yIGNhbGxiYWNrCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdiYWQgaGFwcGVuZCcsIHJlc3BvbnNlLmJvZHkpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4KQGVuZHNlY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0ZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9ImRlbGV0ZSIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIHRleHQtY2VudGVyIiB2LW9uOmNsaWNrLnByZXZlbnQ9ImRlbGV0ZUFjdGl2aXR5KHt7JGFjdC0+aWR9fSkiPnt7IF9fKCdhY3Rpdml0aWVzLkRlbGV0ZScpIH19PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudC4KICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhldmVudC50YXJnZXQubmFtZSwgcGlja2VyLnN0YXJ0RGF0ZS50b0lTT1N0cmluZygpLCBwaWNrZXIuZW5kRGF0ZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIy0gY2QgL3Zhci93d3cvcGlrYWNodTsgcGhwIGFydGlzYW4gbWlncmF0ZSAtLXNlZWQK</text>
+      <register name="4" type="4">
+        <text>,
+                onActivityDateChange: function (e) {
+                    console.log(e.target.value);
+                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcuZm9ybS1pbnB1dC1kYXRlJykub24oJ2FwcGx5LmRhdGVyYW5nZXBpY2tlcicsIGZ1bmN0aW9uIChldmVudCwgcGlja2VyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50LnRhcmdldCwgcGlja2VyKQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFDVElWSVRZX0FETUlOX0NPTkZJUk1FRCA9IDM7Cg==</text>
+      <register name="6" type="4">
+        <text>function (event, picker) {
+                        console.log(event.target, picker)
+                    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmNyZWF0ZShbCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBDb2RlIHRoYXQgd2lsbCBydW4gb25seSBhZnRlciB0aGUKICAgICAgICAgICAgICAgICAgICAvLyBlbnRpcmUgdmlldyBoYXMgYmVlbiByZS1yZW5kZXJlZAogICAgICAgICAgICAgICAgICAgICQoZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JvbGUnID0+IFVzZXI6OkFDVElWSVRZX01FTUJFUiwKICAgICAgICAgICAgJ3N0YXR1cycgPT4gVXNlcjo6QUNUSVZJVFlfTUVNQkVSX1JFUVVFU1RFRCwKICAgICAgICAgICAgJ25hbWUnID0+ICRyZXF1ZXN0LT5uYW1lLAogICAgICAgICAgICAncGhvbmUnID0+ICRyZXF1ZXN0LT5waG9uZSwKICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+ZW1haWwsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gSGFzaDo6bWFrZShzdHJfcmFuZG9tKDgpKSwK</text>
+        <text encoding="base64">ICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICB9KQoK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
