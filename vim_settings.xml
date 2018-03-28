@@ -134,11 +134,11 @@
       <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/layouts/app.stub" timestamp="1522239490473">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/.gitlab-ci.yml" timestamp="1522244966047">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="37" />
+      <file name="$USER_HOME$/Code/pikachu/.gitlab-ci.yml" timestamp="1522246055255">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Code/pay/config.php" timestamp="1521908749720">
         <mark key="'" line="0" column="0" />
