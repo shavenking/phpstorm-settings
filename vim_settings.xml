@@ -134,11 +134,10 @@
       <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/layouts/app.stub" timestamp="1522239490473">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/.gitlab-ci.yml" timestamp="1522246055255">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/Code/pikachu/.gitlab-ci.yml" timestamp="1522247418874">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="75" />
       </file>
       <file name="$USER_HOME$/Code/pay/config.php" timestamp="1521908749720">
         <mark key="'" line="0" column="0" />
@@ -695,7 +694,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>--prefer-dist</text>
+        <text>/framework/cache</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -711,7 +710,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>--prefer-dist</text>
+        <text>/framework/cache</text>
       </register>
       <register name="/" type="4">
         <text>wa</text>
@@ -720,37 +719,37 @@
         <text encoding="base64">ICAgICdUaWNrZXQgVHlwZSBOb3QgSW4gUHJvZ3Jlc3MnID0+ICdUaWNrZXQgVHlwZSBOb3QgSW4gUHJvZ3Jlc3MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gY29tcG9zZXIgaW5zdGFsbCAtLXByZWZlci1kaXN0IC0tbm8tYW5zaSAtLW5vLWludGVyYWN0aW9uIC0tbm8tcHJvZ3Jlc3MgLS1uby1zY3JpcHRzCg==</text>
+        <text encoding="base64">ICBiZWZvcmVfc2NyaXB0OgogICAgLSBhcHQtZ2V0IGluc3RhbGwgLXkgcnN5bmMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnZhcmlhYmxlczoKICBIT01FOiAvaG9tZS9naXRsYWItcnVubmVyCg==</text>
+        <text encoding="base64">ICAgIC0gY29tcG9zZXIgaW5zdGFsbCAtLXByZWZlci1kaXN0IC0tbm8tYW5zaSAtLW5vLWludGVyYWN0aW9uIC0tbm8tcHJvZ3Jlc3MgLS1uby1zY3JpcHRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdUaWNrZXQgVHlwZSBPdXRkYXRlZCcgPT4gJ+elqOeoruW3sumBjuacnycsCg==</text>
+        <text encoding="base64">CnZhcmlhYmxlczoKICBIT01FOiAvaG9tZS9naXRsYWItcnVubmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICdUaWNrZXQgVHlwZSBPdXRkYXRlZCcgPT4gJ+elqOeoruW3sumBjuacnycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJykK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAKCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXZhaWxhYmxlQW1vdW50QXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gKCR0aGlzLT5saW1pdF9hbW91bnQgPz8gMCkgLSAoJHRoaXMtPnNvbGRfYW1vdW50ID8/IDApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAKCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXZhaWxhYmxlQW1vdW50QXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gKCR0aGlzLT5saW1pdF9hbW91bnQgPz8gMCkgLSAoJHRoaXMtPnNvbGRfYW1vdW50ID8/IDApOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
