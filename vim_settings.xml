@@ -200,10 +200,11 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositGateway.php" timestamp="1522311111431">
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositGateway.php" timestamp="1522332352900">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="9" column="81" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_064242_create_gateway_method_table.php" timestamp="1522307781566">
         <mark key="[" line="19" column="0" />
@@ -245,11 +246,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" timestamp="1522316489640">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" timestamp="1522332392808">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/wallet/radar_transfer.php" timestamp="1519646815353">
         <mark key="'" line="27" column="0" />
@@ -411,6 +412,12 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/resources/lang/en/common.php" timestamp="1522330591467">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/app/User.php" timestamp="1521960199543">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="24" column="0" />
@@ -463,12 +470,12 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="96" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Deposit.php" timestamp="1522312428293">
+      <file name="$USER_HOME$/Code/paid-service/app/Deposit.php" timestamp="1522329971013">
         <mark key="e" line="11" column="23" />
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="52" />
-        <mark key="^" line="12" column="52" />
-        <mark key="." line="12" column="52" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+        <mark key="." line="22" column="43" />
       </file>
       <file name="$USER_HOME$/Code/c-2/resources/views/dashboard/user-applications/index.blade.php" timestamp="1515902892534">
         <mark key="'" line="65" column="20" />
@@ -650,11 +657,11 @@
         <mark key="^" line="91" column="52" />
         <mark key="." line="91" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522316665010">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="24" column="71" />
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522332504176">
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1522306951968">
         <mark key="[" line="31" column="42" />
@@ -786,7 +793,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgRGVwb3NpdEdhdGV3YXk=</text>
+        <text>'blablabla'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -802,46 +809,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgRGVwb3NpdEdhdGV3YXk=</text>
+        <text>'blablabla'</text>
       </register>
       <register name="/" type="4">
         <text>str</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0b3I6OmV4dGVuZCgndmFsaWRfZ2F0ZXdheV9tZXRob2QnLCBmdW5jdGlvbiAoJGF0dHJpYnV0ZSwgJHZhbHVlLCAkcGFyYW1ldGVycywgJHZhbGlkYXRvcikgewogICAgICAgICAgICByZXR1cm4gISFHYXRld2F5Ojp3aGVyZUNvZGUoJHZhbGlkYXRvci0+Z2V0RGF0YSgpWydnYXRld2F5J10pLT53aGVyZUhhcygnbWV0aG9kcycsIGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJHZhbGlkYXRvcikgewogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZUNvZGUoJHZhbGlkYXRvci0+Z2V0RGF0YSgpWydtZXRob2QnXSk7CiAgICAgICAgICAgIH0pLT5maXJzdCgpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVPcmRlcihHYXRld2F5ICRnYXRld2F5LCBNZXRob2QgJG1ldGhvZCwgc3RyaW5nICRhbW91bnQpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LT53aGVyZUhhcygnbWV0aG9kcycsIGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJHZhbGlkYXRvcikgewogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZUNvZGUoJHZhbGlkYXRvci0+Z2V0RGF0YSgpWydtZXRob2QnXSk7CiAgICAgICAgICAgIH0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkZGVwb3NpdCA9IERlcG9zaXQ6OmNyZWF0ZShbCiAgICAgICAgICAgICdnYXRld2F5X2lkJyA9PiAkZ2F0ZXdheS0+aWQsCiAgICAgICAgICAgICdtZXRob2RfaWQnID0+ICRtZXRob2QtPmlkLAogICAgICAgICAgICAnb3JkZXJfaWQnID0+ICdibGFibGFibGEnLAogICAgICAgICAgICAnYW1vdW50JyA9PiAkcmVxdWVzdC0+YW1vdW50LAogICAgICAgICAgICAnbm90aWZ5X3VybCcgPT4gJHJlcXVlc3QtPm5vdGlmeV91cmwsCiAgICAgICAgICAgICdzdGF0dXMnID0+IERlcG9zaXQ6OlNUQVRVU19DUkVBVEVELAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGdhdGV3YXktPikKICAgICAgICBpZiAoJGdhdGV3YXktPmNsYXNzKQogICAgICAgIGRkKCRnYXRld2F5LT5jbGFzcygpKTsK</text>
+        <text encoding="base64">dXNlIEFwcFxEZXBvc2l0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd2YWxpZF9zaWduJyAgICAgICAgICAgPT4gJ0ludmFsaWQgc2lnbi4nLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVPcmRlcihEZXBvc2l0ICRkZXBvc2l0KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LT53aGVyZUhhcygnbWV0aG9kcycsIGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJHJlcXVlc3QpIHsKICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZUNvZGUoJHJlcXVlc3QtPmlucHV0KCdtZXRob2QnKSk7CiAgICAgICAgfSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBjcmVhdGUgb3JkZXIKICAgICAgICAvKiogQHZhciBEZXBvc2l0R2F0ZXdheSAkY2xhc3MgKi8KICAgICAgICAkY2xhc3MgPSAkZ2F0ZXdheS0+Y2xhc3MoKTsKICAgICAgICAKICAgICAgICAkY2xhc3MtPmNyZWF0ZU9yZGVyKCRkZXBvc2l0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEhhc2g6OmNoZWNrKAogICAgICAgICAgICAgICAganNvbl9lbmNvZGUoYXJyYXlfZXhjZXB0KCR2YWxpZGF0b3ItPmdldERhdGEoKSwgJ3NpZ24nKSksCiAgICAgICAgICAgICAgICAkdmFsaWRhdG9yLT5nZXREYXRhKClbJ3NpZ24nXQogICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRfc2lnbgo=</text>
+      <register name="7" type="4">
+        <text>/**
+ * Created by PhpStorm.
+ * User: shavenking
+ * Date: 29/03/2018
+ * Time: 9:35 PM
+ */</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT52YWxpZFNpZ24oJHJlcXVlc3QtPmFsbCgpKSkgewogICAgICAgICAgICBhYm9ydCg0MDMpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZSgnb3BlbnNzbCBlbmNyeXB0IGZhaWwnKTsK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gJGtleSA/PyBjb25maWcoJ1RIRUlSX1BVQkxJQ19LRVknKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
