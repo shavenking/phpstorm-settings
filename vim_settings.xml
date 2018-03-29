@@ -467,6 +467,9 @@
         <mark key="." line="128" column="113" />
         <mark key="^" line="128" column="113" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522289806350">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ApplicationController.php" timestamp="1522242367767">
         <mark key="[" line="35" column="40" />
         <mark key="]" line="35" column="66" />
@@ -582,6 +585,13 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/DepositTest.php" timestamp="1522290939519">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/c-2/resources/views/auth/login.blade.php" timestamp="1515898083976">
         <mark key="'" line="52" column="50" />
         <mark key="[" line="36" column="0" />
@@ -591,9 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="23" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/activities.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/pikachu/app/User.php" />
-      <jump line="138" column="28" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/applications.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/validation.php" />
       <jump line="133" column="20" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
@@ -691,10 +698,13 @@
       <jump line="108" column="145" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="149" column="113" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="153" column="103" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/Code/paid-service/tests/Feature/DepositTest.php" />
+      <jump line="22" column="20" filename="$USER_HOME$/Code/paid-service/tests/Feature/DepositTest.php" />
+      <jump line="20" column="19" filename="$USER_HOME$/Code/paid-service/tests/Feature/DepositTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/framework/cache</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -710,7 +720,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/framework/cache</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>wa</text>
@@ -719,37 +729,37 @@
         <text encoding="base64">ICAgICdUaWNrZXQgVHlwZSBOb3QgSW4gUHJvZ3Jlc3MnID0+ICdUaWNrZXQgVHlwZSBOb3QgSW4gUHJvZ3Jlc3MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmVfc2NyaXB0OgogICAgLSBhcHQtZ2V0IGluc3RhbGwgLXkgcnN5bmMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY29tcG9zZXIgaW5zdGFsbCAtLXByZWZlci1kaXN0IC0tbm8tYW5zaSAtLW5vLWludGVyYWN0aW9uIC0tbm8tcHJvZ3Jlc3MgLS1uby1zY3JpcHRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnZhcmlhYmxlczoKICBIT01FOiAvaG9tZS9naXRsYWItcnVubmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChIYXNoOjptYWtlKGpzb25fZW5jb2RlKCRkYXRhKSkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdUaWNrZXQgVHlwZSBPdXRkYXRlZCcgPT4gJ+elqOeoruW3sumBjuacnycsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAuLi4kZGF0YSwKICAgICAgICAgICAgJ3NpZ24nID0+IEhhc2g6Om1ha2UoKQogICAgICAgIF0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Ftb3VudCcgPT4gJzAuMDAwMScsCiAgICAgICAgICAgICdnYXRld2F5JyA9PiAnUEVURVInLAogICAgICAgICAgICAnbWV0aG9kJyA9PiAnV0VCX0JBTktfSUNCQycsCiAgICAgICAgICAgICdub3RpZnlfdXJsJyA9PiAnaHR0cHM6Ly9nb29nbGUuY29tJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbigpLT5mbGFzaCgnJykK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBiZWZvcmVfc2NyaXB0OgogICAgLSBhcHQtZ2V0IGluc3RhbGwgLXkgcnN5bmMK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAKCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXZhaWxhYmxlQW1vdW50QXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gKCR0aGlzLT5saW1pdF9hbW91bnQgPz8gMCkgLSAoJHRoaXMtPnNvbGRfYW1vdW50ID8/IDApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC0gY29tcG9zZXIgaW5zdGFsbCAtLXByZWZlci1kaXN0IC0tbm8tYW5zaSAtLW5vLWludGVyYWN0aW9uIC0tbm8tcHJvZ3Jlc3MgLS1uby1zY3JpcHRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
