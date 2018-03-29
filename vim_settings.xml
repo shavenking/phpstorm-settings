@@ -78,6 +78,12 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1522336653184">
+        <mark key="[" line="712" column="38" />
+        <mark key="]" line="703" column="39" />
+        <mark key="^" line="703" column="39" />
+        <mark key="." line="703" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
         <mark key="[" line="79" column="26" />
@@ -132,11 +138,12 @@
         <mark key="^" line="25" column="78" />
         <mark key="." line="25" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/users/index.blade.php" timestamp="1521961411919">
-        <mark key="[" line="67" column="77" />
-        <mark key="]" line="67" column="86" />
-        <mark key="^" line="67" column="86" />
-        <mark key="." line="67" column="86" />
+      <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/users/index.blade.php" timestamp="1522336982255">
+        <mark key="'" line="67" column="75" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
@@ -366,9 +373,9 @@
         <mark key="^" line="33" column="83" />
         <mark key="." line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1522238379708">
+      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1522336533896">
         <mark key="'" line="161" column="0" />
-        <mark key="[" line="150" column="45" />
+        <mark key="[" line="27" column="62" />
         <mark key="]" line="149" column="4" />
         <mark key="." line="149" column="4" />
         <mark key="^" line="149" column="4" />
@@ -424,11 +431,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/.gitlab-ci.yml" timestamp="1522247418874">
-        <mark key="[" line="9" column="75" />
-        <mark key="]" line="9" column="75" />
-        <mark key="." line="9" column="75" />
       </file>
       <file name="$USER_HOME$/Code/pay/config.php" timestamp="1521908749720">
         <mark key="'" line="0" column="0" />
@@ -690,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="4" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="113" column="4" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="114" column="60" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="79" column="115" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/app.blade.php" />
@@ -790,10 +791,11 @@
       <jump line="42" column="28" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" />
       <jump line="31" column="12" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/paid-service/resources/lang/en/validation.php" />
+      <jump line="67" column="75" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/users/index.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>URL::to('users/create')</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -809,7 +811,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>URL::to('users/create')</text>
       </register>
       <register name="/" type="4">
         <text>str</text>
