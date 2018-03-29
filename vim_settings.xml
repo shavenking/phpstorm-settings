@@ -246,11 +246,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" timestamp="1522333753564">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-        <mark key="^" line="34" column="43" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" timestamp="1522335568155">
+        <mark key="[" line="50" column="59" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/views/wallet/radar_transfer.php" timestamp="1519646815353">
         <mark key="'" line="27" column="0" />
@@ -793,7 +793,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$deposit</text>
+        <text>data</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -809,7 +809,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$deposit</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>str</text>
