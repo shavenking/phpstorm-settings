@@ -246,8 +246,8 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" timestamp="1522332392808">
-        <mark key="[" line="34" column="28" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" timestamp="1522333753564">
+        <mark key="[" line="48" column="0" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="43" />
@@ -657,11 +657,11 @@
         <mark key="^" line="91" column="52" />
         <mark key="." line="91" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522332504176">
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522333630976">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="73" />
+        <mark key="^" line="41" column="73" />
+        <mark key="." line="41" column="73" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1522306951968">
         <mark key="[" line="31" column="42" />
@@ -793,7 +793,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'blablabla'</text>
+        <text>$deposit</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -809,7 +809,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'blablabla'</text>
+        <text>$deposit</text>
       </register>
       <register name="/" type="4">
         <text>str</text>
