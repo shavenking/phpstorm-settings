@@ -10,8 +10,8 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="123" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/auth/login.blade.php" timestamp="1521639561676">
-        <mark key="'" line="58" column="47" />
+      <file name="$USER_HOME$/Code/pikachu/resources/views/auth/login.blade.php" timestamp="1522417868131">
+        <mark key="'" line="5" column="27" />
         <mark key="[" line="58" column="43" />
         <mark key="]" line="58" column="63" />
         <mark key="." line="58" column="47" />
@@ -615,7 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="77" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" />
       <jump line="99" column="21" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" />
       <jump line="48" column="13" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" />
@@ -715,6 +714,7 @@
       <jump line="8" column="24" filename="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" />
       <jump line="61" column="12" filename="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" />
       <jump line="62" column="14" filename="$USER_HOME$/Code/paid-service/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
+      <jump line="5" column="27" filename="$USER_HOME$/Code/pikachu/resources/views/auth/login.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -737,7 +737,7 @@
         <text>abc</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>forgot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbihbCiAgICAgICAgICAgICdyZWRpcmVjdF91cmwnID0+ICRtYXRjaGVzWzFdCiAgICAgICAgXSk7Cg==</text>
@@ -780,17 +780,16 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>forgot</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>forgot</last-pattern>
       <last-replace encoding="base64">dGhpcy0+Y2xhc3NfbmFtZQ==</last-replace>
       <last-substitute>className</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bri</entry>
         <entry>Draft</entry>
         <entry>des</entry>
         <entry>dan</entry>
@@ -810,6 +809,7 @@
         <entry encoding="base64">dGhpcy0+Y2xhc3NfbmFtZQ==</entry>
         <entry>className</entry>
         <entry>http</entry>
+        <entry>forgot</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RpdGxlL2FjdGl2aXR5X25hbWUvZw==</entry>
