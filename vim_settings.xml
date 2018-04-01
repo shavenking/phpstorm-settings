@@ -90,8 +90,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" timestamp="1522557786379">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" timestamp="1522558459666">
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="37" />
         <mark key="^" line="26" column="37" />
@@ -684,6 +684,12 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1522559197528">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositRongFuTong.php" timestamp="1522468069600">
         <mark key="'" line="48" column="54" />
         <mark key="[" line="61" column="64" />
@@ -797,12 +803,12 @@
         <mark key="." line="44" column="47" />
         <mark key="^" line="44" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1522466581697">
-        <mark key="'" line="36" column="13" />
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="42" column="27" />
+      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1522558561023">
+        <mark key="'" line="42" column="28" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/applications.php" timestamp="1522242404522">
         <mark key="[" line="12" column="38" />
@@ -826,8 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="50" filename="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/DepositTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/JsWindowLocation.php" />
       <jump line="8" column="24" filename="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" />
       <jump line="61" column="12" filename="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" />
@@ -926,10 +930,12 @@
       <jump line="13" column="42" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
       <jump line="23" column="59" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
       <jump line="28" column="101" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" />
+      <jump line="42" column="28" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>QR_QQ</text>
+        <text>CCB</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -945,31 +951,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>QR_QQ</text>
+        <text>CCB</text>
       </register>
       <register name="/" type="4">
         <text>brief</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">eyEhIG5sMmJyKGUoJGFjdGl2aXR5LT5jb250ZW50cy0+Zmlyc3QoKS0+YnJpZWYpKSAhIX0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kOjpjcmVhdGUoWydjb2RlJyA9PiAnUVJfUVEnLCAnbmFtZScgPT4gJ1FSX1FRJ10pLT5pZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdDYW5jZWxlZCcgPT4gJ0NhbmNlbGVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kOjpjcmVhdGUoWydjb2RlJyA9PiAnUVJfUVEnLCAnbmFtZScgPT4gJ1FSX1FRJ10pLT5pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgICQod2luZG93KS5zY3JvbGwoZnVuY3Rpb24gKCkgewogICAgICAgIGlmICgkKHRoaXMpLnNjcm9sbFRvcCgpID4gJCgnI2p1bWJvdHJvbicpLm91dGVySGVpZ2h0KCkpIHsKICAgICAgICAgICAgJCgnLm5hdmJhcicpLmFkZENsYXNzKCdiZy1kYXJrJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJCgnLm5hdmJhcicpLnJlbW92ZUNsYXNzKCdiZy1kYXJrJyk7CiAgICAgICAgfQogICAgfSk7Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAkbWV0aG9kID0gOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJnLWRhcmsgYmctZGFyay10cmFuc3BhcmVudCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICdDYW5jZWxlZCcgPT4gJ0NhbmNlbGVkJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgICQod2luZG93KS5zY3JvbGwoZnVuY3Rpb24gKCkgewogICAgICAgIGlmICgkKHRoaXMpLnNjcm9sbFRvcCgpID4gJCgnI2p1bWJvdHJvbicpLm91dGVySGVpZ2h0KCkpIHsKICAgICAgICAgICAgJCgnLm5hdmJhcicpLmFkZENsYXNzKCdiZy1kYXJrJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJCgnLm5hdmJhcicpLnJlbW92ZUNsYXNzKCdiZy1kYXJrJyk7CiAgICAgICAgfQogICAgfSk7Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgei1pbmRleDogLTE7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJnLWRhcmsgYmctZGFyay10cmFuc3BhcmVudCI+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJnLWRhcmsgYmctZGFyay10cmFuc3BhcmVudCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgei1pbmRleDogLTE7Cg==</text>
@@ -978,13 +984,13 @@
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJnLWRhcmstdHJhbnNwYXJlbnQiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJnLWRhcmsgYmctZGFyay10cmFuc3BhcmVudCI+PC9kaXY+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQod2luZG93KS5zY3JvbGwoZnVuY3Rpb24gKCkgewogICAgICAgIGlmICgkKHRoaXMpLnNjcm9sbFRvcCgpID4gJCgnI2p1bWJvdHJvbicpLm91dGVySGVpZ2h0KCkpIHsKICAgICAgICAgICAgJCgnLm5hdmJhcicpLmFkZENsYXNzKCdiZy1kYXJrJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJCgnLm5hdmJhcicpLnJlbW92ZUNsYXNzKCdiZy1kYXJrJyk7CiAgICAgICAgfQogICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgei1pbmRleDogLTE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
