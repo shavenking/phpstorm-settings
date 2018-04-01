@@ -219,12 +219,12 @@
         <mark key="." line="56" column="80" />
         <mark key="^" line="56" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1521943478066">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="53" column="75" />
-        <mark key="]" line="53" column="77" />
-        <mark key="." line="53" column="77" />
-        <mark key="^" line="53" column="77" />
+      <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1522551446062">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="110" />
+        <mark key="]" line="56" column="111" />
+        <mark key="." line="56" column="110" />
+        <mark key="^" line="56" column="74" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1521198357699">
         <mark key="'" line="21" column="12" />
@@ -329,6 +329,7 @@
         <mark key="." line="128" column="113" />
         <mark key="^" line="128" column="113" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1522551497086" />
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ApplicationController.php" timestamp="1522498752635">
         <mark key="[" line="72" column="36" />
         <mark key="]" line="72" column="57" />
@@ -715,12 +716,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" timestamp="1522499252622">
-        <mark key="'" line="186" column="12" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-        <mark key="^" line="202" column="83" />
+      <file name="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" timestamp="1522551298720">
+        <mark key="'" line="91" column="61" />
+        <mark key="[" line="92" column="89" />
+        <mark key="]" line="92" column="90" />
+        <mark key="." line="92" column="89" />
+        <mark key="^" line="92" column="50" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/common.php" timestamp="1522501290423">
         <mark key="[" line="9" column="0" />
@@ -825,9 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="28" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" />
-      <jump line="31" column="12" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/paid-service/resources/lang/en/validation.php" />
       <jump line="67" column="75" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/users/index.blade.php" />
       <jump line="25" column="8" filename="$USER_HOME$/Code/paid-service/app/Gateway.php" />
       <jump line="23" column="34" filename="$USER_HOME$/Code/paid-service/app/Gateway.php" />
@@ -925,10 +923,13 @@
       <jump line="51" column="4" filename="$USER_HOME$/Code/pikachu/app/TicketType.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/components/activity-status-badge.blade.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/pikachu/app/Providers/AppServiceProvider.php" />
+      <jump line="203" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
+      <jump line="91" column="61" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkdGlja2V0LT4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -944,10 +945,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dark</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>$act</text>
+        <text>brief</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAaW5jbHVkZSAoJ2NvbXBvbmVudHMuYWN0aXZpdHktc3RhdHVzLWJhZGdlJywgWydhY3Rpdml0eScgPT4gJGFjdF0pCg==</text>
@@ -990,18 +991,16 @@
       </register>
     </registers>
     <search>
-      <last-search>$act</last-search>
+      <last-search>brief</last-search>
       <last-offset />
-      <last-pattern>$act</last-pattern>
+      <last-pattern>brief</last-pattern>
       <last-replace>$activity</last-replace>
       <last-substitute>$act</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
-        <entry>onsubmit</entry>
         <entry>ticket_type_id</entry>
         <entry>email</entry>
         <entry>name</entry>
@@ -1020,6 +1019,8 @@
         <entry>draf</entry>
         <entry>sec</entry>
         <entry>$act</entry>
+        <entry>bri</entry>
+        <entry>brief</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3R5cGVfbmFtZS9wcmljZS9n</entry>
