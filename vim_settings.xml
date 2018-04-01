@@ -684,11 +684,11 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1522559197528">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1522559992535">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositRongFuTong.php" timestamp="1522468069600">
         <mark key="'" line="48" column="54" />
@@ -935,7 +935,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CCB</text>
+        <text>9d31e7c75cb643b5ba11547e14cf2cef</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -951,7 +951,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CCB</text>
+        <text>9d31e7c75cb643b5ba11547e14cf2cef</text>
       </register>
       <register name="/" type="4">
         <text>brief</text>
