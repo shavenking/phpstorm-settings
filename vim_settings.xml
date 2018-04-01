@@ -90,12 +90,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" timestamp="1522484454511">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" timestamp="1522557786379">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+        <mark key="." line="26" column="37" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1522336653184">
         <mark key="[" line="712" column="38" />
@@ -929,7 +929,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e3sgJGFjdGl2aXR5LT5jb250ZW50cy0+Zmlyc3QoKS0+YnJpZWYgfX0=</text>
+        <text>QR_QQ</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -945,7 +945,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3sgJGFjdGl2aXR5LT5jb250ZW50cy0+Zmlyc3QoKS0+YnJpZWYgfX0=</text>
+        <text>QR_QQ</text>
       </register>
       <register name="/" type="4">
         <text>brief</text>
