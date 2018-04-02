@@ -185,9 +185,9 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JsWindowLocationResponseHandler.php" timestamp="1522660038353">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JsWindowLocationResponseHandler.php" timestamp="1522673265362">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="62" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
@@ -211,6 +211,7 @@
         <mark key="." line="36" column="79" />
         <mark key="^" line="36" column="79" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1522673671626" />
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/AbstractWithdrawGateway.php" timestamp="1522659393111">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="64" />
@@ -265,12 +266,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" timestamp="1522659987787">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="70" column="34" />
-        <mark key="]" line="70" column="52" />
-        <mark key="^" line="42" column="48" />
-        <mark key="." line="42" column="48" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" timestamp="1522673303643">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="53" />
+        <mark key="^" line="50" column="53" />
+        <mark key="." line="50" column="53" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositGateway.php" timestamp="1522390175451">
         <mark key="[" line="13" column="81" />
@@ -497,6 +498,12 @@
         <mark key="]" line="48" column="57" />
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/KeyValueNewlineResponseHandler.php" timestamp="1522674211176">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -787,7 +794,7 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522656168300">
+      <file name="/Dummy.txt" timestamp="1522673209367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/auth/passwords/reset.blade.php" timestamp="1521639541634">
@@ -968,8 +975,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -985,46 +992,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>$value !== ''</text>
       </register>
       <register name="/" type="4">
         <text>payurl</text>
       </register>
-      <register name="0" type="4">
-        <text>Openssl sign failed</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VDb250ZW50ID0gJHJlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChzdHJfc3BsaXQoaW1wbG9kZSgnJywgJGRhdGEpLCAkYmxvY2tTaXplKSBhcyAkY2h1bmspIHsKICAgICAgICAgICAgJGNodW5rRW5jcnlwdGVkID0gJyc7CgogICAgICAgICAgICBpZiAoIW9wZW5zc2xfcHVibGljX2VuY3J5cHQoJGNodW5rLCAkY2h1bmtFbmNyeXB0ZWQsICR0aGlzLT5vdXJQcml2YXRlS2V5KSkgewogICAgICAgICAgICB9CgogICAgICAgICAgICAkZW5jcnlwdGVkIC49ICRjaHVua0VuY3J5cHRlZDsKICAgICAgICB9Cgo=</text>
+      <register name="2" type="4">
+        <text>[
+            $
+        ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcmllcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFib3J0KDUwMCwgX18oJ2NvbW1vbi5PcGVuc3NsIGVuY3J5cHQgZmFpbGVkJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZUNvbnRlbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYmxvY2tTaXplID0gMTE3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGtleSwgJHZhbHVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzaWduKGFycmF5ICRkYXRhKQogICAgewogICAgICAgIHJldHVybiBoYXNoX2htYWMoJ21kNScsIGltcGxvZGUoJycsICRkYXRhKSwgJHRoaXMtPm1lcmNoYW50S2V5KTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxHYXRld2F5XFJlc3BvbnNlSGFuZGxlclxKU09OUVJSZXNwb25zZUhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdCgka2V5LCAkdmFsdWUpID0gZXhwbG9kZSgnPScsICR2YWx1ZSk7CiAgICAgICAgICAgIGR1bXAoJGtleSwgJHZhbHVlKTsKICAgICAgICAgICAgJHF1ZXJpZXNbJGtleV0gPSAkdmFsdWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZG91YmxlLT5hbGxvd3MoKS0+cGF5VXJsKCktPmFuZFJldHVybignaHR0cDovL3NhbmRib3gubW9uZXlwYXkuY2xvdWQvZm9ybWFsL3BheW1lbnQvJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRkb3VibGUgPSAkdGhpcy0+bW9ja0RlcG9zaXRHYXRld2F5KCk7Ci8vICAgICAgICAkZG91YmxlLT5hbGxvd3MoKS0+bWFrZU9yZGVySWQoKS0+YW5kUmV0dXJuKCRmYWtlT3JkZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCh1cmxlbmNvZGUoc3RyX3JlcGxhY2UoIlxuIiwgJyYnLCAkcmVzcG9uc2VDb250ZW50KSkpOwoKLy8gICAgICAgICRxdWVyaWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uICgkcXVlcnkpIHsKLy8gICAgICAgICAgICByZXR1cm4gcmF3dXJsZW5jb2RlKCRxdWVyeSk7Ci8vICAgICAgICB9LCAkcXVlcmllcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -1035,9 +1044,9 @@
       <last-offset />
       <last-pattern>payurl</last-pattern>
       <last-replace>withdraw</last-replace>
-      <last-substitute>deposit</last-substitute>
+      <last-substitute>payurl</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1063,7 +1072,6 @@
         <entry>payurl</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2JyaWVmL2RhdGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvbW1vbi4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoL3RkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RyYWZ0L1B1Ymxpc2hlZC9n</entry>
@@ -1082,6 +1090,7 @@
         <entry encoding="base64">JzwsJz5zLyRhY3QvJGFjdGl2aXR5L2c=</entry>
         <entry>s/Deposit/Withdraw/g</entry>
         <entry encoding="base64">JzwsJz5zL2RlcG9zaXQvd2l0aGRyYXcvZw==</entry>
+        <entry>11d</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
