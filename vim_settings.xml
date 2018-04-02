@@ -90,12 +90,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" timestamp="1522558459666">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="37" />
-        <mark key="^" line="26" column="37" />
-        <mark key="." line="26" column="37" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" timestamp="1522650550087">
+        <mark key="[" line="55" column="68" />
+        <mark key="]" line="55" column="73" />
+        <mark key="." line="55" column="73" />
+        <mark key="^" line="55" column="73" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1522336653184">
         <mark key="[" line="712" column="38" />
@@ -194,11 +193,11 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Method.php" timestamp="1522306479533">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/Code/paid-service/app/Method.php" timestamp="1522651138302">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -313,7 +312,6 @@
         <mark key="." line="173" column="62" />
         <mark key="^" line="173" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1522551497086" />
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ApplicationController.php" timestamp="1522498752635">
         <mark key="[" line="72" column="36" />
         <mark key="]" line="72" column="57" />
@@ -352,9 +350,6 @@
         <mark key="]" line="90" column="12" />
         <mark key="." line="88" column="43" />
         <mark key="^" line="88" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/ActivityController.php" timestamp="1522546338722">
-        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ClientTrait.php" timestamp="1522484684729">
         <mark key="'" line="34" column="56" />
@@ -573,9 +568,6 @@
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Providers/AppServiceProvider.php" timestamp="1522550140513">
-        <mark key="'" line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/paid-service/app/Deposit.php" timestamp="1522484679565">
         <mark key="'" line="24" column="31" />
         <mark key="[" line="24" column="22" />
@@ -676,11 +668,11 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1522559992535">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1522651304024">
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositRongFuTong.php" timestamp="1522468069600">
         <mark key="'" line="48" column="54" />
@@ -791,7 +783,7 @@
         <mark key="^" line="91" column="52" />
         <mark key="." line="91" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522481758164">
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522651009555">
         <mark key="[" line="44" column="40" />
         <mark key="]" line="44" column="47" />
         <mark key="." line="44" column="47" />
@@ -810,7 +802,6 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/vendor/symfony/http-foundation/File/UploadedFile.php" timestamp="1522596075670" />
       <file name="$USER_HOME$/Code/pay/payout.php" timestamp="1521908251510">
         <mark key="'" line="23" column="27" />
         <mark key="[" line="5" column="18" />
@@ -827,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="12" filename="$USER_HOME$/Code/paid-service/app/Gateway/DepositPeter.php" />
       <jump line="62" column="14" filename="$USER_HOME$/Code/paid-service/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
       <jump line="5" column="27" filename="$USER_HOME$/Code/pikachu/resources/views/auth/login.blade.php" />
       <jump line="92" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" />
@@ -927,10 +917,11 @@
       <jump line="42" column="28" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/.env" />
       <jump line="191" column="16" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">J21ldGhvZCcgPT4g</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -946,46 +937,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">J21ldGhvZCcgPT4g</text>
       </register>
       <register name="/" type="4">
         <text>brief</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9ibHVlaW1wLWZpbGUtdXBsb2FkLzkuMjEuMC9qcy92ZW5kb3IvanF1ZXJ5LnVpLndpZGdldC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="0" type="4">
+        <text>CHANG1521786776358</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9iamVjdEtleSA9IHNoYTEoJGFjdGl2aXR5TW9kZWwtPmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoJG1ldGhvZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZXN0YW1wcycgPT4gQ2FyYm9uOjpub3coKQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW5jdGlvbiB2YWxpZGF0ZUZvcm0oYXJyYXkgJGZvcm0pCiAgICB7CiAgICAgICAgJHZhbGlkYXRvciA9IFZhbGlkYXRvcjo6bWFrZSgkZm9ybSwgWwogICAgICAgICAgICAnbWV0aG9kJyA9PiAncmVxdWlyZWR8aW46R0VULFBPU1QnLAogICAgICAgICAgICAnYWN0aW9uJyA9PiAncmVxdWlyZWR8YWN0aXZlX3VybCcsCiAgICAgICAgICAgICdwYXJhbXMuKi5uYW1lJyA9PiAncmVxdWlyZWR8c3RyaW5nJywKICAgICAgICAgICAgJ3BhcmFtcy4qLnZhbHVlJyA9PiAncmVxdWlyZWR8c3RyaW5nJywKICAgICAgICBdKTsKICAgICAgICAKICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoJHZhbGlkYXRvci0+ZmFpbHMoKSk7CiAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGUpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAkdmFsaWRhdG9yID0gVmFsaWRhdG9yOjptYWtlKCRyZXNwb25zZS0+ZGVjb2RlUmVzcG9uc2VKc29uKCksIFsKICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3JlcXVpcmVkfGluOkdFVCxQT1NUJywKICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ3JlcXVpcmVkfGFjdGl2ZV91cmwnLAogICAgICAgICAgICAncGFyYW1zLioubmFtZScgPT4gJ3JlcXVpcmVkfHN0cmluZycsCiAgICAgICAgICAgICdwYXJhbXMuKi52YWx1ZScgPT4gJ3JlcXVpcmVkfHN0cmluZycsCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSAkcmVxdWVzdC0+ZmlsZSgnZmlsZXMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGtleSwgJHZhbHVlKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICdwMF9DbWQnID0+ICdCdXknLAogICAgICAgICAgICAncDFfTWVySWQnID0+ICdDSEFORzE1MjE3ODY3NzYzNTgnLAogICAgICAgICAgICAncDJfT3JkZXInID0+ICR0aGlzLT5tYWtlT3JkZXJJZCgpLAogICAgICAgICAgICAncDNfQ3VyJyA9PiAnQ05ZJywKICAgICAgICAgICAgJ3A0X0FtdCcgPT4gYmNhZGQoJGRlcG9zaXQtPmFtb3VudCwgJzAnLCAyKSwgLy8g5Zau5L2N77ya5YWD77yM5Y+W5bCP5pW46bue5b6M5YWp5L2NCiAgICAgICAgICAgICdwNV9QaWQnID0+ICcnLCAvLyDllYblk4HlkI3nqLEKICAgICAgICAgICAgJ3A2X1BjYXQnID0+ICcnLCAvLyDllYblk4HnqK7poZ4KICAgICAgICAgICAgJ3A3X1BkZXMnID0+ICcnLCAvLyDllYblk4Hmj4/ov7AKICAgICAgICAgICAgJ3A4X1VybCcgPT4gJycsIC8vIOeVsOatpemAmuefpee2suWdgAogICAgICAgICAgICAncDlfTVAnID0+ICcnLCAvLyDmk7TlsZXkv6Hmga8KICAgICAgICAgICAgJ3BhX0ZycElkJyA9PiAkdGhpcy0+dHVubmVsWyRkZXBvc2l0LT5tZXRob2QtPmNvZGVdLCAvLyDmlK/ku5jpgJrpgZPnt6jnorwKICAgICAgICAgICAgJ3BnX0JhbmtDb2RlJyA9PiAkdGhpcy0+YmFua1skZGVwb3NpdC0+bWV0aG9kLT5jb2RlXSA/PyAnJywgLy8g57ay6YqA57eo56K8CiAgICAgICAgICAgICdwaF9JcCcgPT4gJycsIC8vIOWVhuaItuiri+axgiBJUAogICAgICAgICAgICAncGlfVXJsJyA9PiAnJywgLy8g5ZCM5q2l6YCa55+l57ay5Z2ACiAgICAgICAgXTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZm9ybVsncGFyYW1zJ10gYXMgJG5hbWUgPT4gJHZhbHVlKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZUl0ZXJhCiAgICAgICAgd2hpbGUgKCkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAncDBfQ21kJyA9PiAnQnV5JywKICAgICAgICAgICAgJ3AxX01lcklkJyA9PiAkdGhpcy0+bWVyY2hhbnROdW1iZXIsCiAgICAgICAgICAgICdwMl9PcmRlcicgPT4gJHRoaXMtPm1ha2VPcmRlcklkKCksCiAgICAgICAgICAgICdwM19DdXInID0+ICdDTlknLAogICAgICAgICAgICAncDRfQW10JyA9PiBiY2FkZCgkZGVwb3NpdC0+YW1vdW50LCAnMCcsIDIpLCAvLyDllq7kvY3vvJrlhYPvvIzlj5blsI/mlbjpu57lvozlhankvY0KICAgICAgICAgICAgJ3A1X1BpZCcgPT4gJycsIC8vIOWVhuWTgeWQjeeosQogICAgICAgICAgICAncDZfUGNhdCcgPT4gJycsIC8vIOWVhuWTgeeorumhngogICAgICAgICAgICAncDdfUGRlcycgPT4gJycsIC8vIOWVhuWTgeaPj+i/sAogICAgICAgICAgICAncDhfVXJsJyA9PiAnJywgLy8g55Ww5q2l6YCa55+l57ay5Z2ACiAgICAgICAgICAgICdwOV9NUCcgPT4gJycsIC8vIOaTtOWxleS/oeaBrwogICAgICAgICAgICAncGFfRnJwSWQnID0+ICR0aGlzLT50dW5uZWxbJGRlcG9zaXQtPm1ldGhvZC0+Y29kZV0sIC8vIOaUr+S7mOmAmumBk+e3qOeivAogICAgICAgICAgICAncGdfQmFua0NvZGUnID0+ICR0aGlzLT5iYW5rWyRkZXBvc2l0LT5tZXRob2QtPmNvZGVdID8/ICcnLCAvLyDntrLpioDnt6jnorwKICAgICAgICAgICAgJ3BoX0lwJyA9PiAnJywgLy8g5ZWG5oi26KuL5rGCIElQCiAgICAgICAgICAgICdwaV9VcmwnID0+ICcnLCAvLyDlkIzmraXpgJrnn6XntrLlnYAK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlZGlyZWN0X3VybCcgPT4gJ3JlcXVpcmVkfGFjdGl2ZV91cmwnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
