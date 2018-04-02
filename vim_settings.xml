@@ -164,12 +164,12 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" timestamp="1522675880222">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" timestamp="1522679557318">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="27" column="38" />
-        <mark key="]" line="19" column="46" />
-        <mark key="." line="19" column="46" />
-        <mark key="^" line="19" column="46" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1522158890280">
         <mark key="'" line="12" column="0" />
