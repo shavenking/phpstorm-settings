@@ -185,9 +185,9 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JsWindowLocationResponseHandler.php" timestamp="1522673265362">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="62" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JsWindowLocationResponseHandler.php" timestamp="1522675189332">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="95" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
@@ -266,12 +266,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" timestamp="1522673303643">
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" timestamp="1522675203327">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="53" />
-        <mark key="^" line="50" column="53" />
-        <mark key="." line="50" column="53" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="54" column="98" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/DepositGateway.php" timestamp="1522390175451">
         <mark key="[" line="13" column="81" />
@@ -499,11 +499,11 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/KeyValueNewlineResponseHandler.php" timestamp="1522674211176">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="22" column="39" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/KeyValueNewlineResponseHandler.php" timestamp="1522675076096">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="96" />
+        <mark key="." line="22" column="96" />
+        <mark key="^" line="22" column="96" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -976,7 +976,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -992,48 +992,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$value !== ''</text>
+        <text>responseContent</text>
       </register>
       <register name="/" type="4">
         <text>payurl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VDb250ZW50ID0gJHJlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnQoNTAzLCBfXygnY29tbW9uLkludmFsaWQgZ2F0ZXdheSByZXNwb25zZScsIFsncmVzcG9uc2UnID0+ICRyZXNwb25zZUNvbnRlbnRdKSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnQoNTAzLCBfXygnY29tbW9uLkdhdGV3YXkgZXJyb3InKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlc3BvbnNlLT5kYXRhKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAKCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>[
             $
         ]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcmllcyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZUNvbnRlbnQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGtleSwgJHZhbHVlKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdCgka2V5LCAkdmFsdWUpID0gZXhwbG9kZSgnPScsICR2YWx1ZSk7CiAgICAgICAgICAgIGR1bXAoJGtleSwgJHZhbHVlKTsKICAgICAgICAgICAgJHF1ZXJpZXNbJGtleV0gPSAkdmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcmllcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZUNvbnRlbnQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCh1cmxlbmNvZGUoc3RyX3JlcGxhY2UoIlxuIiwgJyYnLCAkcmVzcG9uc2VDb250ZW50KSkpOwoKLy8gICAgICAgICRxdWVyaWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uICgkcXVlcnkpIHsKLy8gICAgICAgICAgICByZXR1cm4gcmF3dXJsZW5jb2RlKCRxdWVyeSk7Ci8vICAgICAgICB9LCAkcXVlcmllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGtleSwgJHZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
