@@ -217,12 +217,12 @@
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Activity.php" timestamp="1522553080464">
+      <file name="$USER_HOME$/Code/pikachu/app/Activity.php" timestamp="1522672926081">
         <mark key="'" line="63" column="4" />
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="19" />
+        <mark key="^" line="62" column="19" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Method.php" timestamp="1522651138302">
         <mark key="[" line="13" column="23" />
@@ -968,8 +968,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -985,7 +985,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dd($responseContent);</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>payurl</text>
