@@ -114,12 +114,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1522755751886">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1522759054170">
         <mark key="'" line="92" column="8" />
         <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="37" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105957_create_application_users_table.php" timestamp="1521955182700">
         <mark key="'" line="6" column="6" />
@@ -141,6 +141,11 @@
         <mark key="]" line="25" column="78" />
         <mark key="^" line="25" column="78" />
         <mark key="." line="25" column="78" />
+      </file>
+      <file name="$USER_HOME$/Code/paid-service/routes/web.php" timestamp="1522759138982">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/users/index.blade.php" timestamp="1522502327328">
         <mark key="'" line="38" column="66" />
@@ -793,8 +798,8 @@
       <jump line="71" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'bankSubBranchName'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Um91dGU6OnBvc3QoJy8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbihbXSk7Cn0pOwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -810,7 +815,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'bankSubBranchName'</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>attach</text>
@@ -819,37 +824,37 @@
         <text encoding="base64">ICAgICAgICAkZ2F0ZXdheSA9IEdhdGV3YXk6OndoZXJlQ29kZSgkcmVxdWVzdC0+Z2F0ZXdheSktPmZpcnN0T3JGYWlsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrc29ydAoK</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJy8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbihbXSk7Cn0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrc29ydAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2lnbiA9ICcnOwoKICAgICAgICBpZiAoIW9wZW5zc2xfc2lnbihpbXBsb2RlKCcnLCAkZGF0YSksICRzaWduLCAkdGhpcy0+b3VyUHJpdmF0ZUtleSkpIHsKICAgICAgICAgICAgYWJvcnQoNTAwLCBfXygnY29tbW9uLk9wZW5zc2wgc2lnbiBmYWlsZWQnKSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkc2lnbiA9ICcnOwoKICAgICAgICBpZiAoIW9wZW5zc2xfc2lnbihpbXBsb2RlKCcnLCAkZGF0YSksICRzaWduLCAkdGhpcy0+b3VyUHJpdmF0ZUtleSkpIHsKICAgICAgICAgICAgYWJvcnQoNTAwLCBfXygnY29tbW9uLk9wZW5zc2wgc2lnbiBmYWlsZWQnKSk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3AwX0NtZCcgPT4gJ1RyYW5zUGF5JywKICAgICAgICAgICAgJ3AxX01lcklkJyA9PiAkdGhpcy0+bWVyY2hhbnROdW1iZXIsCiAgICAgICAgICAgICdwMl9PcmRlcicgPT4gJHRoaXMtPm1ha2VPcmRlcklkKCksCiAgICAgICAgICAgICdwM19DYXJkTm8nID0+ICR3aXRoZHJhdy0+Y2FyZF9udW1iZXIsCiAgICAgICAgICAgICdwNF9CYW5rTmFtZScgPT4gJHdpdGhkcmF3LT5iYW5rX25hbWUsCiAgICAgICAgICAgICdwNV9BdE5hbWUnID0+ICR3aXRoZHJhdy0+Y2FyZF9ob2xkZXJfbmFtZSwKICAgICAgICAgICAgJ3A2X0FtdCcgPT4gYmNhZGQoJHdpdGhkcmF3LT5hbW91bnQsICcwJywgMiksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3AwX0NtZCcgPT4gJ1RyYW5zUGF5JywKICAgICAgICAgICAgJ3AxX01lcklkJyA9PiAkdGhpcy0+bWVyY2hhbnROdW1iZXIsCiAgICAgICAgICAgICdwMl9PcmRlcicgPT4gJHRoaXMtPm1ha2VPcmRlcklkKCksCiAgICAgICAgICAgICdwM19DYXJkTm8nID0+ICR3aXRoZHJhdy0+Y2FyZF9udW1iZXIsCiAgICAgICAgICAgICdwNF9CYW5rTmFtZScgPT4gJHdpdGhkcmF3LT5iYW5rX25hbWUsCiAgICAgICAgICAgICdwNV9BdE5hbWUnID0+ICR3aXRoZHJhdy0+Y2FyZF9ob2xkZXJfbmFtZSwKICAgICAgICAgICAgJ3A2X0FtdCcgPT4gYmNhZGQoJHdpdGhkcmF3LT5hbW91bnQsICcwJywgMiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2l0aGRyYXdSb25nRnVUb25nLnBocAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV2l0aGRyYXdSb25nRnVUb25nLnBocAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -862,7 +867,7 @@
       <last-replace>sign</last-replace>
       <last-substitute>hmac</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
