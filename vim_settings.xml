@@ -150,11 +150,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1522814371343">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1522815605558">
         <mark key="'" line="73" column="12" />
-        <mark key="[" line="92" column="61" />
-        <mark key="]" line="92" column="61" />
-        <mark key="." line="92" column="61" />
+        <mark key="[" line="91" column="34" />
+        <mark key="]" line="91" column="35" />
+        <mark key="." line="91" column="35" />
         <mark key="^" line="92" column="61" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105957_create_application_users_table.php" timestamp="1521955182700">
@@ -303,6 +303,12 @@
         <mark key="]" line="10" column="57" />
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1522815622552">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/HttpLog.php" timestamp="1522481365143">
         <mark key="[" line="8" column="27" />
