@@ -204,12 +204,11 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" timestamp="1522659181127">
+      <file name="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" timestamp="1522816479064">
         <mark key="'" line="33" column="42" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="79" />
-        <mark key="." line="36" column="79" />
-        <mark key="^" line="36" column="79" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/AbstractWithdrawGateway.php" timestamp="1522659393111">
         <mark key="[" line="6" column="38" />
@@ -304,11 +303,11 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1522815622552">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1522816494933">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/HttpLog.php" timestamp="1522481365143">
         <mark key="[" line="8" column="27" />
@@ -494,11 +493,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1522756061565">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="72" column="35" />
-        <mark key="." line="72" column="35" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1522816631135">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="47" />
+        <mark key="." line="86" column="47" />
+        <mark key="^" line="86" column="47" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" timestamp="1522389959652">
         <mark key="'" line="7" column="24" />
@@ -899,9 +899,9 @@
         <mark key="^" line="91" column="52" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522756832242">
-        <mark key="[" line="24" column="72" />
-        <mark key="]" line="24" column="91" />
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" timestamp="1522816223281">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="64" />
         <mark key="." line="48" column="70" />
         <mark key="^" line="48" column="55" />
       </file>
@@ -925,16 +925,15 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway.php" timestamp="1522658811795">
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway.php" timestamp="1522815790135">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="20" column="41" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="9" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/dashboard.blade.php" />
       <jump line="91" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/dashboard.blade.php" />
       <jump line="96" column="48" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="93" column="69" filename="$USER_HOME$/Code/pikachu/resources/views/layouts/dashboard.blade.php" />
@@ -1034,10 +1033,13 @@
       <jump line="75" column="46" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="69" column="18" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="72" column="12" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHJlc3BvbnNlLT5nZXRDb250ZW50KCk=</text>
+        <text>(
+            
+        )</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1053,46 +1055,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlc3BvbnNlLT5nZXRDb250ZW50KCk=</text>
+        <text>dd($request);</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+anNvbignUE9TVCcsICcvYXBpL2RlcG9zaXRzJywgJHRoaXMtPnNpZ24oJGRhdGEpKTsK</text>
+      <register name="0" type="4">
+        <text>required|between:0,99999999999999.999999</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>(
+            
+        )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29yZGVyX2lkJyA9PiAndmFsaWRfb3JkZXJfaWQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTZWVUZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJHJlcXVlc3QsIFsKICAgICAgICAgICAgJycKICAgICAgICBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUZXN0UmUgJHJlc3BvbnNlICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClJvdXRlOjpwb3N0KCdtb2NrL3dpdGhkcmF3cycsIGZ1bmN0aW9uIChcSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3QgJHJlcXVlc3QpIHsKICAgIHJldHVybiBhcHAoJ21vY2stcG9zdC13aXRoZHJhd3MtcmVzcG9uc2UnKTsKfSktPm5hbWUoJ21vY2stcG9zdC13aXRoZHJhd3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRleAo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAoKS0+c2luZ2xldG9uKCdtb2NrLXBvc3Qtd2l0aGRyYXdzLXJlc3BvbnNlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbihbXSk7CiAgICAgICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTZWVUZXh0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
