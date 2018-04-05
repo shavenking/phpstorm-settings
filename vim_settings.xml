@@ -304,11 +304,10 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1522834036882">
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="53" />
-        <mark key="^" line="31" column="53" />
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1522900878152">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/HttpLog.php" timestamp="1522481365143">
         <mark key="[" line="8" column="27" />
@@ -584,10 +583,6 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1522761515501">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="67" />
-      </file>
       <file name="$USER_HOME$/Code/pikachu/app/User.php" timestamp="1521960199543">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="24" column="0" />
@@ -849,7 +844,7 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522755940028">
+      <file name="/Dummy.txt" timestamp="1522900933112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeter.php" timestamp="1522755944233">
@@ -885,6 +880,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="83" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Order.php" timestamp="1522901094389">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/passwords.php" timestamp="1521636903065">
         <mark key="[" line="19" column="14" />
@@ -1041,9 +1042,8 @@
       <jump line="23" column="10" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-        ]);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1067,42 +1067,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRlcG9zaXQgPSBEZXBvc2l0OjpmaW5kT3JGYWlsKFN0cjo6c3RhcnQoJHJlcXVlc3QtPm9yZGVyX2lkLCAxNCkpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4KICogVXNlcjogc2hhdmVua2luZwogKiBEYXRlOiAyMDE4LzQvNQogKiBUaW1lOiAxMjowMiBQTQogKi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmludGVyZmFjZSBPcmRlcgp7CiAgICBjb25zdCBTVEFUVVNfQ1JFQVRFRCA9IDA7CiAgICBjb25zdCBTVEFUVVNfUEVORElORyA9IDE7CiAgICBjb25zdCBTVEFUVVNfU1VDQ0VTUyA9IDI7CiAgICBjb25zdCBTVEFUVVNfRkFJTCA9IDM7Cn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>,
         ]);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZG91YmxlLT5hbGxvd3MoKS0+d2l0aGRyYXdVcmwoKS0+YW5kUmV0dXJuKHJvdXRlKCdtb2NrLXBvc3Qtd2l0aGRyYXdzJykpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBEZXBvc2l0R2F0ZXdheSAkZGVwb3NpdEdhdGV3YXkgKi8K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7CnVzZSBJbGx1bWluYXRlXFZhbGlkYXRpb25cQ29uY2VybnNcVmFsaWRhdGVzQXR0cmlidXRlczsKdXNlIEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAkZG91YmxlLT5hbGxvd3MoKS0+d2l0aGRyYXdVcmwoKS0+YW5kUmV0dXJuKHJvdXRlKCdtb2NrLXBvc3Qtd2l0aGRyYXdzJykpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZSBWYWxpZGF0ZXNBdHRyaWJ1dGVzOwogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUV4aXN0cygkYXR0cmlidXRlLCAkdmFsdWUsICRwYXJhbWV0ZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICBWYWxpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>2,6d</text>
       </register>
     </registers>
     <search>
@@ -1138,8 +1138,6 @@
         <entry>cou</entry>
       </history-search>
       <history-cmd>
-        <entry>33,34d</entry>
-        <entry encoding="base64">JzwsJz5zL3RoaXMtPmNsYXNzX25hbWUvY2xhc3NOYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NsYXNzTmFtZS90aGlzLT5jbGFzc19uYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1BFVEVSL1JPTkdfRlVfVE9ORy9n</entry>
         <entry>28,31y</entry>
@@ -1158,6 +1156,8 @@
         <entry encoding="base64">JzwsJz5zL1JvbmdGdVRvbmcvUGV0ZXIvZw==</entry>
         <entry>14,15y</entry>
         <entry>noh</entry>
+        <entry>2d</entry>
+        <entry>2,6d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
