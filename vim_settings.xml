@@ -155,12 +155,10 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523085495996">
-        <mark key="'" line="75" column="31" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523088655016">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105957_create_application_users_table.php" timestamp="1521955182700">
         <mark key="'" line="6" column="6" />
@@ -522,12 +520,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="9" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" timestamp="1523086657864">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" timestamp="1523088502669">
+        <mark key="'" line="88" column="20" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="17" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/UserApplicationController.php" timestamp="1515902595614">
         <mark key="'" line="11" column="6" />
@@ -997,7 +995,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="23" column="31" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
@@ -1097,10 +1094,11 @@
       <jump line="20" column="18" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="19" column="18" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="28" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="88" column="20" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1025</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZG91YmxlLT5hbGxvd3MoKS0+cGF5VXJsKCktPmFuZFJldHVybignaHR0cDovL3NhbmRib3gubW9uZXlwYXkuY2xvdWQvZm9ybWFsL3BheW1lbnQvJyk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1116,63 +1114,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1025</text>
+        <text>dd($responseData);</text>
       </register>
       <register name="/" type="4">
-        <text>BOB</text>
+        <text>dd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0NDQicsCiAgICAgICAgICAgICdXRUJfQkFOS19BQkMnLAogICAgICAgICAgICAnV0VCX0JBTktfSUNCQycsCiAgICAgICAgICAgICdXRUJfQkFOS19CT0MnLAogICAgICAgICAgICAnV0VCX0JBTktfU1BEQicsCiAgICAgICAgICAgICdXRUJfQkFOS19DRUInLAogICAgICAgICAgICAnV0VCX0JBTktfUEFCJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0NJQicsCiAgICAgICAgICAgICdXRUJfQkFOS19QU0JDJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0NOQ0InLAogICAgICAgICAgICAnV0VCX0JBTktfSFhCJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0NNQicsCiAgICAgICAgICAgICdXRUJfQkFOS19HREInLAogICAgICAgICAgICAnV0VCX0JBTktfQ01CQycsCiAgICAgICAgICAgICdXRUJfQkFOS19DT01NJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0JPQicgPT4gJ1dFQl9CQU5LX0JPQicsCiAgICAgICAgICAgICdXRUJfQkFOS19TQ1NCJyA9PiAnV0VCX0JBTktfU0NTQicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJzEwMDEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAkZG91YmxlLT5hbGxvd3MoKS0+cGF5VXJsKCktPmFuZFJldHVybignaHR0cDovL3NhbmRib3gubW9uZXlwYXkuY2xvdWQvZm9ybWFsL3BheW1lbnQvJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0JPQicgPT4gJ1dFQl9CQU5LX0JPQicsCiAgICAgICAgICAgICdXRUJfQkFOS19TQ1NCJyA9PiAnV0VCX0JBTktfU0NTQicsCg==</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycsCg==</text>
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJzEwMDEnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJ0lDQkMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0JPQicgPT4gJ1dFQl9CQU5LX0JPQicsCiAgICAgICAgICAgICdXRUJfQkFOS19TQ1NCJyA9PiAnV0VCX0JBTktfU0NTQicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2tpcAo=</text>
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZS0+ZGVjb2RlUmVzcG9uc2VKc29uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJ0lDQkMnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRmYWtlT3JkZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2tpcAo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1FSX0FMSVBBWScsCiAgICAgICAgICAgICdXQVBfQUxJUEFZJywK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZS0+ZGVjb2RlUmVzcG9uc2VKc29uKCkpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0lDQkMnLAo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRmYWtlT3JkZXJJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>BOB</last-search>
+      <last-search>dd</last-search>
       <last-offset />
-      <last-pattern>BOB</last-pattern>
+      <last-pattern>dd</last-pattern>
       <last-replace>SCSB</last-replace>
       <last-substitute>BOB</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ABC</entry>
         <entry>Trans</entry>
         <entry>comm</entry>
         <entry>cmbc</entry>
@@ -1192,6 +1189,7 @@
         <entry>ccb</entry>
         <entry>scsb</entry>
         <entry>BOB</entry>
+        <entry>dd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RpdGxlL2JyaWVmL2c=</entry>
