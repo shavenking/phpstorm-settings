@@ -155,12 +155,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1522903348432">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523083305464">
+        <mark key="'" line="75" column="31" />
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105957_create_application_users_table.php" timestamp="1521955182700">
         <mark key="'" line="6" column="6" />
@@ -169,12 +169,11 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" timestamp="1522977355275">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" timestamp="1523083032881">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="39" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1522158890280">
         <mark key="'" line="12" column="0" />
@@ -216,12 +215,12 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" timestamp="1522902102558">
+      <file name="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" timestamp="1523080333759">
         <mark key="'" line="24" column="10" />
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="18" />
-        <mark key="^" line="58" column="18" />
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="64" />
+        <mark key="." line="49" column="64" />
+        <mark key="^" line="49" column="64" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/AbstractWithdrawGateway.php" timestamp="1522659393111">
         <mark key="[" line="6" column="38" />
@@ -316,6 +315,12 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1523080500593">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="63" />
+      </file>
       <file name="$USER_HOME$/Code/paid-service/app/HttpLog.php" timestamp="1522481365143">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="46" />
@@ -335,12 +340,12 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1522977775143">
-        <mark key="'" line="82" column="49" />
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="37" column="60" />
-        <mark key="." line="37" column="60" />
-        <mark key="^" line="37" column="60" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1523081542575">
+        <mark key="'" line="50" column="47" />
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="47" />
+        <mark key="." line="50" column="47" />
+        <mark key="^" line="50" column="47" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" timestamp="1522655607429">
         <mark key="'" line="6" column="6" />
@@ -492,7 +497,7 @@
         <mark key="." line="127" column="27" />
         <mark key="^" line="129" column="82" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/.env" timestamp="1522908030282">
+      <file name="$USER_HOME$/Code/paid-service/.env" timestamp="1523083317706">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
@@ -504,6 +509,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523083241345">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" timestamp="1522389959652">
         <mark key="'" line="7" column="24" />
         <mark key="[" line="6" column="0" />
@@ -511,12 +522,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="9" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" timestamp="1522978100247">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="94" column="57" />
-        <mark key="]" line="94" column="63" />
-        <mark key="." line="94" column="63" />
-        <mark key="^" line="94" column="63" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" timestamp="1523081978925">
+        <mark key="'" line="61" column="47" />
+        <mark key="[" line="96" column="57" />
+        <mark key="]" line="96" column="63" />
+        <mark key="." line="96" column="63" />
+        <mark key="^" line="96" column="63" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/UserApplicationController.php" timestamp="1515902595614">
         <mark key="'" line="11" column="6" />
@@ -907,12 +918,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/WithdrawController.php" timestamp="1522976848487">
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/WithdrawController.php" timestamp="1523082284648">
         <mark key="'" line="69" column="45" />
-        <mark key="[" line="59" column="47" />
-        <mark key="]" line="59" column="50" />
-        <mark key="." line="59" column="50" />
-        <mark key="^" line="59" column="50" />
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/DepositRongFuTongTest.php" timestamp="1522468484499">
         <mark key="'" line="89" column="32" />
@@ -959,12 +969,11 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1523077179416">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="40" column="37" />
-        <mark key="." line="40" column="37" />
-        <mark key="^" line="40" column="37" />
+      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1523081844779">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/applications.php" timestamp="1522242404522">
         <mark key="[" line="12" column="38" />
@@ -987,25 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="29" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" />
-      <jump line="8" column="4" filename="$USER_HOME$/Code/paid-service/app/Withdraw.php" />
-      <jump line="25" column="13" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
-      <jump line="47" column="20" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="49" column="3" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="32" column="42" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
-      <jump line="115" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" />
-      <jump line="2" column="6" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway.php" />
-      <jump line="54" column="81" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/WithdrawController.php" />
-      <jump line="55" column="36" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/WithdrawController.php" />
-      <jump line="59" column="45" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/WithdrawController.php" />
-      <jump line="29" column="43" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="26" column="8" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/paid-service/resources/lang/en/validation.php" />
       <jump line="92" column="4" filename="$USER_HOME$/Code/paid-service/resources/lang/en/validation.php" />
       <jump line="40" column="12" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawRongFuTong.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/paid-service/app/Withdraw.php" />
@@ -1030,7 +1020,6 @@
       <jump line="7" column="6" filename="$USER_HOME$/Code/paid-service/app/Deposit.php" />
       <jump line="71" column="52" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="75" column="46" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
-      <jump line="69" column="18" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="72" column="12" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
       <jump line="48" column="26" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
@@ -1087,10 +1076,30 @@
       <jump line="110" column="4" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="116" column="0" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="69" column="32" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
+      <jump line="76" column="31" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
+      <jump line="94" column="63" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
+      <jump line="37" column="58" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
+      <jump line="61" column="47" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
+      <jump line="50" column="47" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
+      <jump line="12" column="7" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="14" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="15" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="18" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="19" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="20" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="21" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="22" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="23" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="24" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="25" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="26" column="8" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://b6351fb4.ngrok.io</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1106,64 +1115,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://b6351fb4.ngrok.io</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>ABC</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">WwoJCQkndXJsJyA9PiAkdXJsLAoJCQknZ2FtZUlkJyA9PiAkdHlwZSwKCQld</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0NDQicsCiAgICAgICAgICAgICdXRUJfQkFOS19BQkMnLAogICAgICAgICAgICAnV0VCX0JBTktfSUNCQycsCiAgICAgICAgICAgICdXRUJfQkFOS19CT0MnLAogICAgICAgICAgICAnV0VCX0JBTktfU1BEQicsCiAgICAgICAgICAgICdXRUJfQkFOS19DRUInLAogICAgICAgICAgICAnV0VCX0JBTktfUEFCJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0NJQicsCiAgICAgICAgICAgICdXRUJfQkFOS19QU0JDJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0NOQ0InLAogICAgICAgICAgICAnV0VCX0JBTktfSFhCJywKICAgICAgICAgICAgJ1dFQl9CQU5LX0NNQicsCiAgICAgICAgICAgICdXRUJfQkFOS19HREInLAogICAgICAgICAgICAnV0VCX0JBTktfQ01CQycsCiAgICAgICAgICAgICdXRUJfQkFOS19DT01NJywKICAgICAgICAgICAgJ1FSX0FMSVBBWScsCiAgICAgICAgICAgICdXQVBfQUxJUEFZJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBfYWVzX2VuY3J5cHQoJHN0cikKICAgIHsKICAgICAgICAvLyBlbmNyeXB0CiAgICAgICAgJHNTYWx0ID0gYmFzZTY0X2RlY29kZShzcHJpbnRmKCclcyVzJywgc3RyX3JlcGVhdCgnQScsIDE3MSksICc9JykpOwogICAgICAgICRoYXNoID0gaGFzaF9wYmtkZjIoJ3NoYTEnLCAkdGhpcy0+YXBpWydfZ2VuZXJhbGtleSddLCAkc1NhbHQsIDEwMDAsIDI1NiAvIDgsIHRydWUpOwogICAgICAgICRrZXkgPSBzdWJzdHIoJGhhc2gsIDAsIDE2KTsKICAgICAgICAkaXYgPSBzdWJzdHIoJGhhc2gsIDE2LCAxNik7CiAgICAgICAgJHN0ciA9IG1jcnlwdF9lbmNyeXB0KE1DUllQVF9SSUpOREFFTF8xMjgsICRrZXksICRzdHIsIE1DUllQVF9NT0RFX0NCQywgJGl2KTsKCiAgICAgICAgLy8gZ2V0SGV4CiAgICAgICAgJGhleCA9ICcnOwogICAgICAgIGZvciAoJGkgPSAwOyAkaSA8IHN0cmxlbigkc3RyKTsgJGkrKykgewogICAgICAgICAgICAkaGV4IC49IHNwcmludGYoJyUwMnMnLCBkZWNoZXgob3JkKCRzdHJbJGldKSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRoZXg7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2tpcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCiAgICAgICAgICAgIF0KICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZS0+ZGVjb2RlUmVzcG9uc2VKc29uKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRmYWtlT3JkZXJJZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHJlc3VsdCA9IFsKCQkJCSd1cmwnID0+ICR1cmwgLiAoJGdhbWVbJHR5cGU/OiAxXSkgLiAnL2RlZmF1bHQuYXNweD90cGlkPScgLiAkdGhpcy0+YXBpWydfdHBjb2RlJ10gLiAnJnRva2VuPScgLiAkdG9rZW4gLiAnJmxhbmd1YWdlY29kZT16aC10dycsCgkJCQknaDUnICA9PiAkdXJsIC4gJ21vYmlsZS8nIC4gKCRnYW1lWyR0eXBlPzogMV0pIC4gJy9pbmRleC5hc3B4P3RwaWQ9JyAuICR0aGlzLT5hcGlbJ190cGNvZGUnXSAuICcmdG9rZW49JyAuICR0b2tlbiAuICcmbGFuZ3VhZ2Vjb2RlPXpoLXR3JywKCQkJCSdnYW1lSWQnID0+ICR0eXBlLAoJCQldOwoKCQkJcmV0dXJuIFsnY29kZScgPT4gMCwgJ2RhdGEnID0+ICRyZXN1bHRdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1FSX0FMSVBBWScsCiAgICAgICAgICAgICdXQVBfQUxJUEFZJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJGdhbWUgPSBbCgkJCQkxID0+ICdwazEwJywKCQkJCTIgPT4gJ2xvdHRvJywKCQkJCTMgPT4gJ2tlbm8nLAoJCQkJNCA9PiAnc3NjJywKCQkJXTsKCgkJCSRja3MgPSBbCgkJCQkndWlkPScgLiAkcmVzdWx0WydkYXRhJ10sCgkJCQknc2lkPScgLiBzdHJ0b2xvd2VyKCR0aGlzLT5fbGliKSwKCQkJCSd0cnlpdD1uJywKCQkJCSd0cz0nIC4gJHRpbWUsCgkJCV07CgoJCQkkdG9rZW4gPSBbCgkJCQkndWlkPScgLiAkcmVzdWx0WydkYXRhJ10sCgkJCQknc2lkPScgLiAkdGhpcy0+X2xpYiwKCQkJCSd0cnlpdD1uJywKCQkJCSd0cz0nIC4gJHRpbWUsCgkJCQknY2s9JyAuIG1kNShpbXBsb2RlKCcmJywgJGNrcykpLAoJCQldOwoKCQkJJHRva2VuID0gJHRoaXMtPl9hZXNfZW5jcnlwdChpbXBsb2RlKCcmJywgJHRva2VuKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0lDQkMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dFQl9CQU5LX0lDQkMnLCAnUVJfQUxJUEFZJywgJ1dBUF9BTElQQVknLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJHRpbWUgPSB0aW1lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHR5cGUgPSBcUmVxdWVzdDo6Z2V0KCd0eXBlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkcmVzdWx0ID0gJHRoaXMtPnVwZGF0ZV90cHVuaXF1ZWlkKCRnY2dfYWNjb3VudCk7CgoJCWlmKCRyZXN1bHRbJ2NvZGUnXSl7CgkJCS8vIGZhaWwKCQkJcmV0dXJuIFsnY29kZScgPT4gNywgJ3RleHQnID0+ICcnXTsKCQl9ZWxzZXsKCQkJJHVybCA9ICdodHRwOi8vZ2IuODhieC5uZXQvJzsK</text>
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfQUJDJyA9PiAnV0VCX0JBTktfQUJDJywK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>ABC</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
-      <last-replace>data</last-replace>
-      <last-substitute>post</last-substitute>
+      <last-pattern>ABC</last-pattern>
+      <last-replace>COMM</last-replace>
+      <last-substitute>ABC</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>depo</entry>
-        <entry>res</entry>
         <entry>mock</entry>
         <entry>deposit</entry>
         <entry>payurl</entry>
@@ -1182,27 +1189,29 @@
         <entry>title</entry>
         <entry>flo</entry>
         <entry>post</entry>
+        <entry>CCB</entry>
+        <entry>ABC</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1B1Ymxpc2gvQ2FuY2Vs</entry>
-        <entry encoding="base64">JzwsJz5zLyRhY3QvJGFjdGl2aXR5L2c=</entry>
-        <entry>s/Deposit/Withdraw/g</entry>
-        <entry encoding="base64">JzwsJz5zL2RlcG9zaXQvd2l0aGRyYXcvZw==</entry>
-        <entry>11d</entry>
-        <entry encoding="base64">JzwsJz5zL1JPTkdfRlVfVE9ORy9QRVRFUi9H</entry>
-        <entry>s/hmac/sign/g</entry>
-        <entry encoding="base64">JzwsJz5zL1JvbmdGdVRvbmcvUGV0ZXIvZw==</entry>
-        <entry>14,15y</entry>
-        <entry>2d</entry>
-        <entry>2,6d</entry>
-        <entry>5d</entry>
-        <entry encoding="base64">JzwsJz5zL2FjdGl2aXR5X2JyaWVmL2JyaWVmL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3RpdGxlL2RlcGFydHVyZV9ub3RpY2VfdGl0bGUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2JyaWVmL2RlcGFydHVyZV9ub3RpY2VfYnJpZWYvZw==</entry>
         <entry>8d</entry>
         <entry encoding="base64">JzwsJz5zL2JyaWVmL2xvY2FsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3RpdGxlL2JyaWVmL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Bvc3QvZGF0YS9n</entry>
+        <entry encoding="base64">JzwsJz5zL0NDQi9BQkMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DQ0IvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9JQ0JDL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9CT0MvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9TUERCL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DRUIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9QQUIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DSUIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9QU0JDL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DTkNCL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9IWEIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DTUIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9HREIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DTUJDL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0FCQy9DT01NL2c=</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
