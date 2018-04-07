@@ -959,12 +959,12 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1522757017689">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="64" column="12" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="64" column="28" />
+      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" timestamp="1523077179416">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="36" column="48" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/applications.php" timestamp="1522242404522">
         <mark key="[" line="12" column="38" />
@@ -987,7 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositRongFuTongTest.php" />
       <jump line="41" column="29" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" />
       <jump line="8" column="4" filename="$USER_HOME$/Code/paid-service/app/Withdraw.php" />
@@ -1087,10 +1086,11 @@
       <jump line="231" column="74" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="110" column="4" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="116" column="0" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBfYWVzX2VuY3J5cHQoJHN0cikKICAgIHsKICAgICAgICAvLyBlbmNyeXB0CiAgICAgICAgJHNTYWx0ID0gYmFzZTY0X2RlY29kZShzcHJpbnRmKCclcyVzJywgc3RyX3JlcGVhdCgnQScsIDE3MSksICc9JykpOwogICAgICAgICRoYXNoID0gaGFzaF9wYmtkZjIoJ3NoYTEnLCAkdGhpcy0+YXBpWydfZ2VuZXJhbGtleSddLCAkc1NhbHQsIDEwMDAsIDI1NiAvIDgsIHRydWUpOwogICAgICAgICRrZXkgPSBzdWJzdHIoJGhhc2gsIDAsIDE2KTsKICAgICAgICAkaXYgPSBzdWJzdHIoJGhhc2gsIDE2LCAxNik7CiAgICAgICAgJHN0ciA9IG1jcnlwdF9lbmNyeXB0KE1DUllQVF9SSUpOREFFTF8xMjgsICRrZXksICRzdHIsIE1DUllQVF9NT0RFX0NCQywgJGl2KTsKCiAgICAgICAgLy8gZ2V0SGV4CiAgICAgICAgJGhleCA9ICcnOwogICAgICAgIGZvciAoJGkgPSAwOyAkaSA8IHN0cmxlbigkc3RyKTsgJGkrKykgewogICAgICAgICAgICAkaGV4IC49IHNwcmludGYoJyUwMnMnLCBkZWNoZXgob3JkKCRzdHJbJGldKSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRoZXg7CiAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1106,7 +1106,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
