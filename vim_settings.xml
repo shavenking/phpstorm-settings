@@ -493,12 +493,10 @@
         <mark key="^" line="33" column="83" />
         <mark key="." line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1523174932466">
-        <mark key="'" line="32" column="12" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="138" column="97" />
+      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1523196783572">
+        <mark key="]" line="51" column="36" />
+        <mark key="^" line="51" column="36" />
+        <mark key="." line="51" column="36" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/.env" timestamp="1523083317706">
         <mark key="[" line="4" column="8" />
