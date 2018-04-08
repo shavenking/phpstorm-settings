@@ -508,11 +508,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523086607395">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="57" column="31" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523168541035">
+        <mark key="'" line="87" column="27" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" timestamp="1522389959652">
         <mark key="'" line="7" column="24" />
@@ -1006,8 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="65" filename="$USER_HOME$/Code/paid-service/app/Deposit.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/paid-service/app/Deposit.php" />
       <jump line="23" column="25" filename="$USER_HOME$/Code/paid-service/app/Withdraw.php" />
       <jump line="7" column="58" filename="$USER_HOME$/Code/paid-service/app/Withdraw.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/paid-service/app/Withdraw.php" />
@@ -1106,10 +1105,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/applications.php" />
       <jump line="13" column="33" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/applications.php" />
       <jump line="108" column="99" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
+      <jump line="73" column="32" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
+      <jump line="87" column="27" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYWlsIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJzEwMDEnLAogICAgICAgICdXRUJfQkFOS19CT0MnID0+ICcxMDAzJywKICAgICAgICAnV0VCX0JBTktfU1BEQicgPT4gJzEwMTQnLAogICAgICAgICdXRUJfQkFOS19DRUInID0+ICcxMDA4JywKICAgICAgICAnV0VCX0JBTktfUEFCJyA9PiAnMTAxMScsCiAgICAgICAgJ1dFQl9CQU5LX0NJQicgPT4gJzEwMTMnLAogICAgICAgICdXRUJfQkFOS19QU0JDJyA9PiAnMTAwNicsCiAgICAgICAgJ1dFQl9CQU5LX0NOQ0InID0+ICcxMDA3JywKICAgICAgICAnV0VCX0JBTktfSFhCJyA9PiAnMTAwOScsCiAgICAgICAgJ1dFQl9CQU5LX0NNQicgPT4gJzEwMTInLAogICAgICAgICdXRUJfQkFOS19HREInID0+ICcxMDE3JywKICAgICAgICAnV0VCX0JBTktfQ01CQycgPT4gJzEwMTAnLAogICAgICAgICdXRUJfQkFOS19DT01NJyA9PiAnMTAwNScsCiAgICAgICAgJ1dFQl9CQU5LX0JPQicgPT4gJzEwMTYnLAogICAgICAgICdXRUJfQkFOS19TQ1NCJyA9PiAnMTAyNScs</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1125,66 +1126,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>disabled=&quot;disabled&quot;</text>
+        <text>'1002'</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>'\d\d\d\d',</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iYXBwbGljYXRpb24tdXNlci1lbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7IG9sZCgnZW1haWwnKSB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJlbWFpbEBleGFtcGxlLmNvbSI+Cg==</text>
+      <register name="0" type="4">
+        <text>JsWindowLocationResponseHandler::class</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYWlsIgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJzEwMDEnLAogICAgICAgICdXRUJfQkFOS19CT0MnID0+ICcxMDAzJywKICAgICAgICAnV0VCX0JBTktfU1BEQicgPT4gJzEwMTQnLAogICAgICAgICdXRUJfQkFOS19DRUInID0+ICcxMDA4JywKICAgICAgICAnV0VCX0JBTktfUEFCJyA9PiAnMTAxMScsCiAgICAgICAgJ1dFQl9CQU5LX0NJQicgPT4gJzEwMTMnLAogICAgICAgICdXRUJfQkFOS19QU0JDJyA9PiAnMTAwNicsCiAgICAgICAgJ1dFQl9CQU5LX0NOQ0InID0+ICcxMDA3JywKICAgICAgICAnV0VCX0JBTktfSFhCJyA9PiAnMTAwOScsCiAgICAgICAgJ1dFQl9CQU5LX0NNQicgPT4gJzEwMTInLAogICAgICAgICdXRUJfQkFOS19HREInID0+ICcxMDE3JywKICAgICAgICAnV0VCX0JBTktfQ01CQycgPT4gJzEwMTAnLAogICAgICAgICdXRUJfQkFOS19DT01NJyA9PiAnMTAwNScsCiAgICAgICAgJ1dFQl9CQU5LX0JPQicgPT4gJzEwMTYnLAogICAgICAgICdXRUJfQkFOS19TQ1NCJyA9PiAnMTAyNScs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoOjphdHRlbXB0KFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAkdXNlci0+ZW1haWwsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJHBhc3N3b3JkCiAgICAgICAgXSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYWlsIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGFwcGxpY2F0aW9uRXhpc3RzKHN0cmluZyAkZW1haWwpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRoOjphdHRlbXB0KFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAkdXNlci0+ZW1haWwsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJHBhc3N3b3JkCiAgICAgICAgXSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFwcGxpY2F0aW9uID0gJGFjdGl2aXR5LT5hcHBsaWNhdGlvbnMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICd0aWNrZXRfdHlwZV9pZCcgPT4gJHRpY2tldFR5cGUtPmlkLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gQXBwbGljYXRpb246OlNUQVRVU19DT05GSVJNRUQsCiAgICAgICAgICAgIF0pOwoKICAgICAgICAgICAgJGFwcGxpY2F0aW9uLT51c2VycygpLT5hdHRhY2goJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGFwcGxpY2F0aW9uRXhpc3RzKHN0cmluZyAkZW1haWwpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFwcGxpY2F0aW9uID0gJGFjdGl2aXR5LT5hcHBsaWNhdGlvbnMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICd0aWNrZXRfdHlwZV9pZCcgPT4gJHRpY2tldFR5cGUtPmlkLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gQXBwbGljYXRpb246OlNUQVRVU19DT05GSVJNRUQsCiAgICAgICAgICAgIF0pOwoKICAgICAgICAgICAgJGFwcGxpY2F0aW9uLT51c2VycygpLT5hdHRhY2goJHVzZXIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwbGljYXRpb24gPSAkYWN0aXZpdHktPmFwcGxpY2F0aW9ucygpLT5jcmVhdGUoWwogICAgICAgICAgICAndGlja2V0X3R5cGVfaWQnID0+ICR0aWNrZXRUeXBlLT5pZCwKICAgICAgICAgICAgJ3N0YXR1cycgPT4gQXBwbGljYXRpb246OlNUQVRVU19DT05GSVJNRUQsCiAgICAgICAgXSk7CgogICAgICAgICRhcHBsaWNhdGlvbi0+dXNlcnMoKS0+YXR0YWNoKCR1c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zLydcZFxkXGRcZCcsL0pzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>'\d\d\d\d',</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
-      <last-replace>SCSB</last-replace>
-      <last-substitute>fas</last-substitute>
+      <last-pattern>'\d\d\d\d',</last-pattern>
+      <last-replace>JsWindowLocationResponseHandler::class,</last-replace>
+      <last-substitute>'\d\d\d\d',</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cmb</entry>
-        <entry>hxb</entry>
-        <entry>cncb</entry>
-        <entry>psbc</entry>
         <entry>cib</entry>
         <entry>pab</entry>
         <entry>ceb</entry>
@@ -1201,12 +1198,12 @@
         <entry>create</entry>
         <entry>fas</entry>
         <entry>email</entry>
+        <entry>'*'</entry>
+        <entry>'\d+'</entry>
+        <entry>\d\d\d\d',</entry>
+        <entry>'\d\d\d\d',</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RpdGxlL2JyaWVmL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3Bvc3QvZGF0YS9n</entry>
-        <entry encoding="base64">JzwsJz5zL0NDQi9BQkMvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0FCQy9DQ0IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0FCQy9JQ0JDL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0FCQy9CT0MvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0FCQy9TUERCL2c=</entry>
@@ -1222,7 +1219,11 @@
         <entry encoding="base64">JzwsJz5zL0FCQy9DT01NL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0JPQi9TQ1NCL2c=</entry>
         <entry>Noh</entry>
+        <entry encoding="base64">JzwsJz5zLycqJy9Kc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcy9n</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zLydcZCsnLy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xkXGRcZFxkJywvSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLydcZFxkXGRcZCcsL0pzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
