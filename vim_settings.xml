@@ -557,8 +557,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" timestamp="1523159540795">
-        <mark key="'" line="43" column="20" />
+      <file name="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" timestamp="1523160632777">
+        <mark key="'" line="166" column="23" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -1010,7 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="26" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
       <jump line="632" column="23" filename="$USER_HOME$/Code/paid-service/vendor/laravel/framework/src/Illuminate/Validation/Concerns/ValidatesAttributes.php" />
       <jump line="17" column="3" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
       <jump line="87" column="51" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
@@ -1110,6 +1109,7 @@
       <jump line="97" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="5" column="37" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="43" column="20" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
+      <jump line="166" column="23" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
