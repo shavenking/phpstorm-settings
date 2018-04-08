@@ -557,6 +557,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" timestamp="1523159540795">
+        <mark key="'" line="43" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="27" />
@@ -860,12 +863,12 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" timestamp="1523156988516">
+      <file name="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" timestamp="1523159059743">
         <mark key="'" line="5" column="37" />
-        <mark key="[" line="194" column="86" />
-        <mark key="]" line="194" column="98" />
-        <mark key="^" line="194" column="98" />
-        <mark key="." line="194" column="98" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="193" column="98" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/common.php" timestamp="1522501290423">
         <mark key="[" line="9" column="0" />
@@ -1007,7 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
       <jump line="48" column="26" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
       <jump line="632" column="23" filename="$USER_HOME$/Code/paid-service/vendor/laravel/framework/src/Illuminate/Validation/Concerns/ValidatesAttributes.php" />
       <jump line="17" column="3" filename="$USER_HOME$/Code/paid-service/app/Providers/AppServiceProvider.php" />
@@ -1107,10 +1109,11 @@
       <jump line="66" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show-for-member.blade.php" />
       <jump line="97" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="5" column="37" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
+      <jump line="43" column="20" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dXNlci0+cGFzc3dvcmQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7LS08bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3N3ZWV0YWxlcnQvMS4xLjMvc3dlZXRhbGVydC5taW4uY3NzIj4tLX19Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1126,7 +1129,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlci0+cGFzc3dvcmQ=</text>
+        <text>console.log('hi');</text>
       </register>
       <register name="/" type="4">
         <text>fas</text>
@@ -1135,37 +1138,37 @@
         <text encoding="base64">eyEhIG5sMmJyKGUoJGFjdGl2aXR5LT5jb250ZW50cy0+Zmlyc3QoKS0+YnJpZWYpKSAhIX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGVsc2VpZiAoJGFjdGl2aXR5LT5zdGF0dXMgPT09IFxBcHBcQWN0aXZpdHk6OlNUQVRVU19QVUJMSVNIRUQpCiAgICA8c3BhbiBjbGFzcz0iYmFkZ2UgYmFkZ2UtcGlsbCBiYWRnZS1zdWNjZXNzIj57eyBfXygnYWN0aXZpdGllcy5QdWJsaXNoZWQnKSB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIHt7LS08bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3N3ZWV0YWxlcnQvMS4xLjMvc3dlZXRhbGVydC5taW4uY3NzIj4tLX19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGlmICgkYWN0aXZpdHktPnN0YXR1cyA9PT0gXEFwcFxBY3Rpdml0eTo6U1RBVFVTX0RSQUZUKQogICAgPHNwYW4gY2xhc3M9ImJhZGdlIGJhZGdlLXBpbGwgYmFkZ2Utd2FybmluZyI+e3sgX18oJ2FjdGl2aXRpZXMuRHJhZnQnKSB9fTwvc3Bhbj4K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3Byb21pc2UtcG9seWZpbGxANy4xLjAvZGlzdC9wcm9taXNlLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAne3sgcm91dGUoJ2Rhc2hib2FyZC5hY3Rpdml0aWVzLnNob3cnLCAkYWN0aXZpdHktPmlkKSB9fSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdBdHRhY2htZW50cycgPT4gJ+a0u+WLlemZhOS7tuS4i+i8iScsCiAgICAnRW1wdHkgYXR0YWNobWVudHMnID0+ICfnm67liY3mspLmnInpmYTku7YnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdBdHRhY2htZW50cycgPT4gJ0Rvd25sb2FkIEF0dGFjaG1lbnRzJywKICAgICdFbXB0eSBhdHRhY2htZW50cycgPT4gJ1RoZXJlIGFyZSBubyBhdHRhY2htZW50cy4nLAo=</text>
+        <text encoding="base64">QGVsc2VpZiAoJGFjdGl2aXR5LT5zdGF0dXMgPT09IFxBcHBcQWN0aXZpdHk6OlNUQVRVU19QVUJMSVNIRUQpCiAgICA8c3BhbiBjbGFzcz0iYmFkZ2UgYmFkZ2UtcGlsbCBiYWRnZS1zdWNjZXNzIj57eyBfXygnYWN0aXZpdGllcy5QdWJsaXNoZWQnKSB9fTwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC13YXJuaW5nIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1leGNsYW1hdGlvbi1jaXJjbGUiPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">QGlmICgkYWN0aXZpdHktPnN0YXR1cyA9PT0gXEFwcFxBY3Rpdml0eTo6U1RBVFVTX0RSQUZUKQogICAgPHNwYW4gY2xhc3M9ImJhZGdlIGJhZGdlLXBpbGwgYmFkZ2Utd2FybmluZyI+e3sgX18oJ2FjdGl2aXRpZXMuRHJhZnQnKSB9fTwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgX18oJ2FjdGl2aXRpZXMuRW1wdHkgYXR0YWNobWVudHMnKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaWYgKCkK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgX18oJ2FjdGl2aXRpZXMuRW1wdHkgZGVwYXJ0dXJlIG5vdGljZScpIH19Cg==</text>
+        <text encoding="base64">ICAgICdBdHRhY2htZW50cycgPT4gJ+a0u+WLlemZhOS7tuS4i+i8iScsCiAgICAnRW1wdHkgYXR0YWNobWVudHMnID0+ICfnm67liY3mspLmnInpmYTku7YnLAo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgX18oJ2FjdGl2aXRpZXMuRW1wdHkgYXR0YWNobWVudHMnKSB9fQo=</text>
+        <text encoding="base64">ICAgICdBdHRhY2htZW50cycgPT4gJ0Rvd25sb2FkIEF0dGFjaG1lbnRzJywKICAgICdFbXB0eSBhdHRhY2htZW50cycgPT4gJ1RoZXJlIGFyZSBubyBhdHRhY2htZW50cy4nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
