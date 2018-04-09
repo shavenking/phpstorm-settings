@@ -195,12 +195,12 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/gamelib/game/LotteryGo.php" timestamp="1523256993580">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/Code/gamelib/game/LotteryGo.php" timestamp="1523265809181">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
@@ -1127,7 +1127,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClPower</text>
+        <text>dd($post);</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1143,7 +1143,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ClPower</text>
+        <text>dd($post);</text>
       </register>
       <register name="/" type="4">
         <text>globebet</text>
@@ -1193,7 +1193,7 @@
       <last-offset />
       <last-pattern>globebet</last-pattern>
       <last-replace>'Internet Banking'</last-replace>
-      <last-substitute>JsWindowLocationResponseHandler::class</last-substitute>
+      <last-substitute>globebet</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
