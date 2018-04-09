@@ -108,12 +108,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523281709609">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523283361567">
         <mark key="'" line="145" column="25" />
         <mark key="[" line="54" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="128" column="10" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105957_create_application_users_table.php" timestamp="1521955182700">
         <mark key="'" line="6" column="6" />
@@ -842,8 +842,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JsWindowLocationResponseHandler.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHVtcCgkaHR0cExvZy0+cmVzcG9uc2UpOwoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHVtcCgkcmVzcG9uc2UtPmRlY29kZVJlc3BvbnNlSnNvbigpKTs=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -859,7 +859,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WeChat PaymentWECHAT_PAYMENT</text>
+        <text encoding="base64">ZHVtcCgkcmVzcG9uc2UtPmRlY29kZVJlc3BvbnNlSnNvbigpKTs=</text>
       </register>
       <register name="/" type="4">
         <text>ALIPAY</text>
