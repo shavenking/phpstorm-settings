@@ -605,6 +605,9 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/gamelib/Mix.php" timestamp="1523256311760">
+        <mark key="'" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/paid-service/resources/lang/en/common.php" timestamp="1522660000492">
         <mark key="[" line="4" column="49" />
         <mark key="]" line="4" column="49" />
@@ -1024,7 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/validation.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/validation.php" />
       <jump line="17" column="103" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
       <jump line="22" column="24" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
@@ -1124,6 +1126,7 @@
       <jump line="60" column="20" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
       <jump line="65" column="42" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
       <jump line="66" column="39" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
+      <jump line="4" column="6" filename="$USER_HOME$/Code/gamelib/Mix.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
