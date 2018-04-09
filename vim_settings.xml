@@ -242,12 +242,12 @@
         <mark key="^" line="210" column="15" />
         <mark key="." line="210" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1523085931283">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1523275729107">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="50" column="34" />
-        <mark key="]" line="50" column="47" />
-        <mark key="." line="50" column="47" />
-        <mark key="^" line="50" column="47" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105532_create_activity_attachments_table.php" timestamp="1523174058041" />
       <file name="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" timestamp="1522655607429">
