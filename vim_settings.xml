@@ -649,6 +649,13 @@
         <mark key="^" line="41" column="119" />
         <mark key="." line="41" column="119" />
       </file>
+      <file name="$USER_HOME$/Code/gamelib/report/LotteryGo.php" timestamp="1523252833083">
+        <mark key="'" line="66" column="39" />
+        <mark key="[" line="67" column="61" />
+        <mark key="]" line="67" column="69" />
+        <mark key="." line="67" column="69" />
+        <mark key="^" line="67" column="69" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/app/Providers/AuthServiceProvider.php" timestamp="1522158575195">
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="46" />
@@ -1016,10 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
-      <jump line="45" column="102" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
-      <jump line="135" column="11" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
-      <jump line="21" column="94" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/validation.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/validation.php" />
       <jump line="17" column="103" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
@@ -1116,10 +1119,14 @@
       <jump line="111" column="96" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="106" column="36" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="53" column="40" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" />
+      <jump line="51" column="20" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
+      <jump line="60" column="20" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
+      <jump line="65" column="42" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
+      <jump line="66" column="39" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGQoJHJlc3BvbnNlLT5kZWNvZGVSZXNwb25zZUpzb24oKSk7</text>
+        <text>globebet</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1135,10 +1142,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGQoJHJlc3BvbnNlLT5kZWNvZGVSZXNwb25zZUpzb24oKSk7</text>
+        <text>globebet</text>
       </register>
       <register name="/" type="4">
-        <text>pro</text>
+        <text>globebet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdUb3RhbCBGaWxlIFNpemUgU2hvdWxkIG5vdCBleGNlZWQgMTAgTUInID0+ICdUb3RhbCBGaWxlIFNpemUgU2hvdWxkIG5vdCBleGNlZWQgMTAgTUInLAogICAgJ1VwbG9hZGVkIEZpbGUgVG9vIExhcmdlJyA9PiAnVXBsb2FkZWQgRmlsZSBUb28gTGFyZ2UnLAo=</text>
@@ -1181,17 +1188,16 @@
       </register>
     </registers>
     <search>
-      <last-search>pro</last-search>
+      <last-search>globebet</last-search>
       <last-offset />
-      <last-pattern>pro</last-pattern>
+      <last-pattern>globebet</last-pattern>
       <last-replace>'Internet Banking'</last-replace>
       <last-substitute>JsWindowLocationResponseHandler::class</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>abc</entry>
         <entry>ccb</entry>
         <entry>scsb</entry>
         <entry>BOB</entry>
@@ -1211,6 +1217,7 @@
         <entry>file</entry>
         <entry>finally</entry>
         <entry>pro</entry>
+        <entry>globebet</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FCQy9CT0MvZw==</entry>
