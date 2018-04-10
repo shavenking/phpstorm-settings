@@ -464,12 +464,12 @@
         <mark key="^" line="41" column="119" />
         <mark key="." line="41" column="119" />
       </file>
-      <file name="$USER_HOME$/Code/gamelib/report/LotteryGo.php" timestamp="1523328856775">
+      <file name="$USER_HOME$/Code/gamelib/report/LotteryGo.php" timestamp="1523330765004">
         <mark key="'" line="97" column="7" />
         <mark key="[" line="88" column="32" />
-        <mark key="]" line="88" column="34" />
-        <mark key="." line="88" column="34" />
-        <mark key="^" line="88" column="34" />
+        <mark key="]" line="88" column="35" />
+        <mark key="." line="88" column="35" />
+        <mark key="^" line="88" column="35" />
       </file>
       <file name="$USER_HOME$/Code/pay/pay.php" timestamp="1521907146368">
         <mark key="'" line="18" column="32" />
@@ -845,7 +845,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PK10</text>
+        <text>SSC</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -861,7 +861,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PK10</text>
+        <text>SSC</text>
       </register>
       <register name="/" type="4">
         <text>dd</text>
