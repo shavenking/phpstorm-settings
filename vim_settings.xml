@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JSONQRInQueryResponseHandler.php" timestamp="1523371738879">
+        <mark key="[" line="53" column="66" />
+        <mark key="]" line="53" column="65" />
+        <mark key="." line="53" column="65" />
+        <mark key="^" line="53" column="65" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/auth/login.blade.php" timestamp="1522417868131">
         <mark key="'" line="5" column="27" />
         <mark key="[" line="58" column="43" />
@@ -108,11 +114,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523369794827">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523371793136">
         <mark key="'" line="14" column="6" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="22" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105957_create_application_users_table.php" timestamp="1521955182700">
         <mark key="'" line="6" column="6" />
@@ -397,12 +403,12 @@
         <mark key="^" line="209" column="19" />
         <mark key="." line="209" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523369878423">
-        <mark key="'" line="238" column="20" />
-        <mark key="[" line="88" column="20" />
-        <mark key="]" line="88" column="29" />
-        <mark key="." line="88" column="29" />
-        <mark key="^" line="88" column="29" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523371571825">
+        <mark key="'" line="245" column="20" />
+        <mark key="[" line="151" column="41" />
+        <mark key="]" line="152" column="45" />
+        <mark key="." line="152" column="45" />
+        <mark key="^" line="152" column="45" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" timestamp="1522389959652">
         <mark key="'" line="7" column="24" />
@@ -849,8 +855,8 @@
       <jump line="31" column="12" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>QQ Payment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -866,46 +872,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>QQ Payment</text>
+        <text encoding="base64">ZGQoJHJlc3BvbnNlLT5kZWNvZGVSZXNwb25zZUpzb24oKSk7</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnUVJfV0VDSEFUJyA9PiAnUVJfV0VDSEFUJywK</text>
+        <text encoding="base64">ICAgICAgICAkdmFsaWRhdG9yID0gVmFsaWRhdG9yOjptYWtlKAogICAgICAgICAgICAkcmVzcG9uc2VEYXRhLAogICAgICAgICAgICBbJHRoaXMtPmtleU5hbWUgPT4gJ3JlcXVpcmVkfHVybCddCiAgICAgICAgKTsKCiAgICAgICAgaWYgKCR2YWxpZGF0b3ItPmZhaWxzKCkpIHsKICAgICAgICAgICAgYWJvcnQoNTAzLCBfXygnY29tbW9uLkludmFsaWQgZ2F0ZXdheSByZXNwb25zZScsIFsncmVzcG9uc2UnID0+ICRyZXNwb25zZUNvbnRlbnRdKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydRUl9RUSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnUVJfUVEnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcmllcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2VEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUmVxdWVzdCgpCiAgICAgICAgICAgIFVSTAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydRUl9RUSddLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnUVJfUVEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbGlkYXRvci0+Z2V0RGF0YSgpWydfdG9rZW4nXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2VEYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmFqYXgoKSkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVmYXVsdEdhdGV3YXkgPSBHYXRld2F5Ojp3aGVyZUNvZGUoJ0RFUE9TSVRfUEVURVInKS0+Zmlyc3RPckZhaWwoKTsKICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiA=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InNpZ24iIHZhbHVlPSJ7eyBIYXNoIH19Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbGlkYXRvci0+Z2V0RGF0YSgpWydfdG9rZW4nXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
