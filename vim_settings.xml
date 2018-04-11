@@ -119,8 +119,8 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523371793136">
-        <mark key="'" line="14" column="6" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" timestamp="1523424620129">
+        <mark key="'" line="24" column="17" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -131,12 +131,6 @@
         <mark key="]" line="29" column="46" />
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawRongFuTongTest.php" timestamp="1523083032881">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1523154656305">
         <mark key="'" line="12" column="0" />
@@ -183,12 +177,6 @@
         <mark key="]" line="24" column="54" />
         <mark key="." line="24" column="54" />
         <mark key="^" line="24" column="54" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Activity.php" timestamp="1523175098250">
-        <mark key="'" line="83" column="4" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -403,12 +391,12 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523371571825">
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1523424605697">
         <mark key="'" line="245" column="20" />
-        <mark key="[" line="151" column="41" />
-        <mark key="]" line="152" column="45" />
-        <mark key="." line="152" column="45" />
-        <mark key="^" line="152" column="45" />
+        <mark key="[" line="245" column="24" />
+        <mark key="]" line="245" column="30" />
+        <mark key="." line="245" column="30" />
+        <mark key="^" line="245" column="30" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" timestamp="1522389959652">
         <mark key="'" line="7" column="24" />
@@ -486,12 +474,6 @@
         <mark key="]" line="55" column="104" />
         <mark key="^" line="55" column="104" />
         <mark key="." line="55" column="104" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/routes/web.php" timestamp="1523152358025">
-        <mark key="'" line="27" column="68" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Providers/AppServiceProvider.php" timestamp="1522997643829">
         <mark key="'" line="8" column="6" />
@@ -677,12 +659,6 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/WithdrawController.php" timestamp="1523082284648">
-        <mark key="'" line="69" column="45" />
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/DepositRongFuTongTest.php" timestamp="1522468484499">
         <mark key="'" line="89" column="32" />
         <mark key="[" line="41" column="0" />
@@ -752,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="74" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="110" column="4" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="116" column="0" filename="$USER_HOME$/Code/gamelib/game/LotteryGo.php" />
       <jump line="69" column="32" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
@@ -852,10 +827,11 @@
       <jump line="235" column="20" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
       <jump line="14" column="6" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="31" column="12" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
+      <jump line="24" column="17" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGZpbGUtPmdldENsaWVudE9yaWdpbmFsTmFtZSgp</text>
+        <text>sandbox</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -871,7 +847,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGZpbGUtPmdldENsaWVudE9yaWdpbmFsTmFtZSgp</text>
+        <text>sandbox</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
