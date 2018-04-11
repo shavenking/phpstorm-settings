@@ -86,10 +86,10 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="524" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/database/seeds/UsersTableSeeder.php" timestamp="1523410059514">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="42" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Code/pikachu/database/seeds/UsersTableSeeder.php" timestamp="1523410985153">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/RegisterController.php" timestamp="1522500654210">
         <mark key="'" line="16" column="0" />
@@ -514,7 +514,6 @@
         <mark key="." line="58" column="123" />
         <mark key="^" line="58" column="123" />
       </file>
-      <file name="$USER_HOME$/Code/gamelib/report/GlobeBet.php" timestamp="1523336203621" />
       <file name="$USER_HOME$/Code/pikachu/resources/views/departure-notice/show.blade.php" timestamp="1523015877714">
         <mark key="'" line="215" column="0" />
         <mark key="[" line="75" column="77" />
@@ -856,7 +855,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -881,37 +880,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iUVJfV0VDSEFUIj7lvq7kv6HmjoPnorw8L29wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAnYXJ0aHVyQGVtYWlsLmNvbScsCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAnYXJ0aHVyQGVtYWlsLmNvbScsCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAnYWRtaW5AZW1haWwuY29tJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyOjp0cnVuY2F0ZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAnYWRtaW5AZW1haWwuY29tJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyOjp0cnVuY2F0ZSgpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcmllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUmVxdWVzdCgpCiAgICAgICAgICAgIFVSTAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcmllcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
