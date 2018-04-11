@@ -390,12 +390,12 @@
         <mark key="^" line="33" column="83" />
         <mark key="." line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1523408378919">
+      <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" timestamp="1523422427295">
         <mark key="'" line="53" column="40" />
-        <mark key="[" line="126" column="39" />
-        <mark key="]" line="126" column="42" />
-        <mark key="^" line="126" column="42" />
-        <mark key="." line="126" column="42" />
+        <mark key="[" line="127" column="63" />
+        <mark key="]" line="127" column="64" />
+        <mark key="^" line="127" column="64" />
+        <mark key="." line="127" column="64" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/.env" timestamp="1523409107240">
         <mark key="[" line="4" column="8" />
@@ -854,8 +854,8 @@
       <jump line="31" column="12" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>getClientOrigian</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -871,13 +871,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>getClientOrigian</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iUVJfV0VDSEFUIj7lvq7kv6HmjoPnorw8L29wdGlvbj4K</text>
+      <register name="0" type="4">
+        <text>getClientOriginalName()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
