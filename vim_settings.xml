@@ -98,6 +98,10 @@
         <mark key="." line="63" column="53" />
         <mark key="^" line="63" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/config/mail.php" timestamp="1523625967024">
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="59" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/c-2/resources/lang/en/validation.php" timestamp="1515897670774">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="32" column="31" />
@@ -665,12 +669,12 @@
         <mark key="." line="89" column="41" />
         <mark key="^" line="89" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/.env" timestamp="1523174274646">
+      <file name="$USER_HOME$/Code/pikachu/.env" timestamp="1523625969292">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="30" />
-        <mark key="^" line="41" column="30" />
-        <mark key="." line="41" column="30" />
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_04_08_075404_update_activity_attachments_table.php" timestamp="1523174073164">
         <mark key="[" line="16" column="14" />
@@ -883,7 +887,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>MAIL_FROM_NAME</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -905,7 +909,7 @@
         <text>deposithan</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cm91dGUoJ25vdGlmeS11cmwnLCAkZGVwb3NpdC0+Z2F0ZXdheS0+aWQp</text>
+        <text>MAIL_FROM_NAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJHRoZWlyUHVibGljS2V5ID0gJy0tLS0tQkVHSU4gUFVCTElDIEtFWS0tLS0tCk1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRREtzRVlyV28rdDZiVys1M1dYZzQ5a0NOT2YKUVBsdzZCSkhZZ3d5YjdvS3JiZnlXclpjeGQ5TjV1VThJVmtqRjllWDVOVVQ1dnlkbGJ0WTUwd1d3bUVhaWlJbwpneldwclBsNzl3V3N1NHNYNGxCUHhPOUtqMnlTL3UxOUpnaGgxc2FraU9QRURDZ2taZkdUVFZ2TXVnNnBaQ3VECnhFNnBiQkg2ajFnV3RrUjdsd0lEQVFBQgotLS0tLUVORCBQVUJMSUMgS0VZLS0tLS0nOwoKICAgIHByaXZhdGUgJG91clByaXZhdGVLZXkgPSAnLS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlDWFFJQkFBS0JnUUNhQjlzMXd5WVJoeVlSMHd2elZZV0trWitkUmozcG1ZTVpxUFFEQ3lPMHcwMm1nODgwCm10UUZTU2dsaEV1d2FQZmFBazB1YXRPYjh0VlRPOGNXczNGVFlZQ1BEdmxmbk5OeVNHa0pLODU1ZXUvVE5BUk8KYWE1V1J1SmpBT09XV2loQ2htNWY5eVpzSjhaSVlGYU9qOS9KQXBJWkxIWitaTWtveXgvWVVPaTVEd0lEQVFBQgpBb0dBQW9XWWFEUHV2cUM0MWRmZnZUY3NQWTJPMEhOaTloMG1VVmc3em9Ueks3VjY0dndMZTNBQmdxaWsrS0JHCjRQZUcvMUhFVTdzNkJiYWZHWUxFQ3JJYmE5eU9jb2dZaVN2NldyNTcvNHBTd0RzVjltbDV4SlN6SUdVeHlZaXkKVkZvdDQzdEo1MldIT1Z4U1pzeHBPZmR2Ukl3dVlycnNDaUhrbDIySEZ6NUpmekVDUVFETW54M3lXZUNoQlh3OAo4Ym04M05YL25LVTFaei9uWUp4ZWdNaVdHUDF2MTcxdjNkNmFvWWM3Z2NYdEdJNXZsRkxmdDQ4cTRQb0ZFUFZYCm55NHRmV0pKQWtFQXdMVE9STEJmSVNMMmozYlR4VDNhWlJjdExKMy9YZDdESXNwbjllc0ljM0ZKWm1YZnZNSTgKbDJOL0o1cjFPMi80RHBjS2gzdjV4ZVlyeWI3OVVGWEFsd0pBWnkvQ2NVbURyby9PbEFrdUtpQ1BSaVNmWjJ2VwozUDVxUEhuakxWWVMwQWpTZmd3N3lteTBmbnkxN0JlYkZJZU90MFNnelBYQS96Y0xFaEd5dnJ2aENRSkJBSjVZCk15RjM5ME1JTXFjaDBkTkNCdUdJRU1PWHRBMFREUzdhT0dCMjF3UGM4NTRqV1p3RjBybm10TVg3YTBTQ3RjWnYKVCtTUjkyUW94SlJLem1VamdWTUNRUUN1UXhPK1pOWGJoWExhZW5zWEtGbXdKQkhsRkk4c0Y5RUpSbUJzaG9UQQpLdXE0cU4rSkVWNm93VWV5OE9RNVFzMWJTRXhhQ1F1a1pSMXc4aWdrZzhNZwotLS0tLUVORCBSU0EgUFJJVkFURSBLRVktLS0tLSc7Cgo=</text>
