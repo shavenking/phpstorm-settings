@@ -44,6 +44,12 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
       </file>
+      <file name="$USER_HOME$/Code/pikachu/app/Mail/ApplicationApproved.php" timestamp="1523668970420">
+        <mark key="[" line="32" column="69" />
+        <mark key="]" line="32" column="88" />
+        <mark key="^" line="32" column="88" />
+        <mark key="." line="32" column="88" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/en/auth.php" timestamp="1523629628644">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="37" />
@@ -167,8 +173,9 @@
         <mark key="^" line="142" column="14" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/app/Mail/SendPassword.php" timestamp="1523668211497">
-        <mark key="[" line="32" column="38" />
+      <file name="$USER_HOME$/Code/pikachu/app/Mail/SendPassword.php" timestamp="1523668921236">
+        <mark key="'" line="32" column="46" />
+        <mark key="[" line="9" column="15" />
         <mark key="]" line="32" column="46" />
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
@@ -807,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="27" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="32" column="18" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="30" column="18" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="31" column="18" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
@@ -907,10 +913,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/common.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/auth.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/auth.php" />
+      <jump line="32" column="46" filename="$USER_HOME$/Code/pikachu/app/Mail/SendPassword.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdOZXcgUGFzc3dvcmQnID0+ICfmlrDlr4bnorwnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>send-password</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -926,7 +933,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.Password</text>
+        <text>send-password</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
