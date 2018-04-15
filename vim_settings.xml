@@ -328,9 +328,10 @@
         <mark key="^" line="57" column="40" />
         <mark key="." line="57" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" timestamp="1523453808529">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="51" />
+      <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" timestamp="1523784915746">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="96" />
         <mark key="." line="110" column="24" />
         <mark key="^" line="110" column="24" />
       </file>
@@ -896,7 +897,6 @@
       <jump line="161" column="58" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="237" column="40" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="240" column="47" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="58" column="146" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
       <jump line="201" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="75" column="15" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
@@ -980,10 +980,11 @@
       <jump line="42" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="43" column="8" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="41" column="43" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dd($response);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZXBsYWNlKCd7eyByb3V0ZSgnZGFzaGJvYXJkLmFjdGl2aXRpZXMuaW5kZXgnKSB9fScpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1004,8 +1005,8 @@
       <register name="/" type="4">
         <text>bank</text>
       </register>
-      <register name="0" type="4">
-        <text>Order can only be created once</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZXBsYWNlKCd7eyByb3V0ZSgnZGFzaGJvYXJkLmFjdGl2aXRpZXMuaW5kZXgnKSB9fScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAkcmVzcG9uc2VDb250ZW50LT4K</text>
