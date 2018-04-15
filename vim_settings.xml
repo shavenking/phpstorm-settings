@@ -185,12 +185,12 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1523709693091">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="33" column="67" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1523783875979">
+        <mark key="'" line="41" column="43" />
+        <mark key="[" line="40" column="77" />
+        <mark key="]" line="41" column="43" />
+        <mark key="^" line="41" column="43" />
+        <mark key="." line="41" column="43" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
@@ -880,7 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show-for-member.blade.php" />
       <jump line="97" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="5" column="37" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
       <jump line="43" column="20" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
@@ -980,6 +979,7 @@
       <jump line="105" column="0" filename="$USER_HOME$/Code/paid-service/app/Http/Controllers/DepositController.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="43" column="8" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
+      <jump line="41" column="43" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
