@@ -185,12 +185,12 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1523784822918">
-        <mark key="'" line="41" column="43" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1523845191704">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="33" column="82" />
+        <mark key="]" line="33" column="90" />
+        <mark key="." line="33" column="90" />
+        <mark key="^" line="33" column="90" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
@@ -879,12 +879,15 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway.php" timestamp="1523843691431">
+        <mark key="'" line="16" column="55" />
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="41" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
-      <jump line="5" column="37" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
-      <jump line="43" column="20" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
-      <jump line="166" column="23" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
       <jump line="173" column="45" filename="$USER_HOME$/Code/pikachu/vendor/superbalist/flysystem-google-storage/src/GoogleStorageAdapter.php" />
       <jump line="208" column="10" filename="$USER_HOME$/Code/pikachu/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/applications.php" />
@@ -981,10 +984,14 @@
       <jump line="43" column="8" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="41" column="43" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
+      <jump line="27" column="28" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="15" column="55" filename="$USER_HOME$/Code/paid-service/app/Gateway.php" />
+      <jump line="24" column="35" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="37" column="8" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZXBsYWNlKCd7eyByb3V0ZSgnZGFzaGJvYXJkLmFjdGl2aXRpZXMuaW5kZXgnKSB9fScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1000,63 +1007,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dd($response);</text>
+        <text encoding="base64">ZGF0YV9nZXQoJHJlc3BvbnNlLT5kZWNvZGVSZXNwb25zZUpzb24oKSwgJ21lc3NhZ2UnKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>bank</text>
+        <text>thi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZXBsYWNlKCd7eyByb3V0ZSgnZGFzaGJvYXJkLmFjdGl2aXRpZXMuaW5kZXgnKSB9fScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkcmVzcG9uc2VDb250ZW50LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOT0RFX0VOVgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgyMDEgPT09ICRyZXNwb25zZS0+Z2V0U3RhdHVzQ29kZSgpLCAkcmVzcG9uc2UtPmdldENvbnRlbnQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3NOYW1lKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">R2F0ZXdheUlkKCRnYXRld2F5LT5pZCkKICAgICAgICAgICAgLT53aGVyZU1ldGhvZElkKCRtZXRob2QtPmlkKQogICAgICAgICAgICAtPndoZXJlT3JkZXJJZCgkZmFrZU9yZGVySWQpCiAgICAgICAgICAgIC0+d2hlcmVBbW91bnQoJGRhdGFbJ2Ftb3VudCddKQogICAgICAgICAgICAtPndoZXJlTm90aWZ5VXJsKCRkYXRhWydub3RpZnlfdXJsJ10pCiAgICAgICAgICAgIC0+d2hlcmVTdGF0dXMoJHN0YXR1cyk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YV9nZXQoJHJlc3BvbnNlLT5nZXREYXRhKHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAvLyBERVBPU0lUX1BFVEVSCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0NDQicgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dFQl9CQU5LX0NDQiddLAogICAgICAgICAgICAnREVQT1NJVF9QRVRFUl9XRUJfQkFOS19BQkMnID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19BQkMnXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfV0VCX0JBTktfSUNCQycgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dFQl9CQU5LX0lDQkMnXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfV0VCX0JBTktfQk9DJyA9PiBbJ0RFUE9TSVRfUEVURVInLCAnV0VCX0JBTktfQk9DJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX1NQREInID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19TUERCJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0NFQicgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dFQl9CQU5LX0NFQiddLAogICAgICAgICAgICAnREVQT1NJVF9QRVRFUl9XRUJfQkFOS19QQUInID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19QQUInXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfV0VCX0JBTktfQ0lCJyA9PiBbJ0RFUE9TSVRfUEVURVInLCAnV0VCX0JBTktfQ0lCJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX1BTQkMnID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19QU0JDJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0NOQ0InID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19DTkNCJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0hYQicgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dFQl9CQU5LX0hYQiddLAogICAgICAgICAgICAnREVQT1NJVF9QRVRFUl9XRUJfQkFOS19DTUInID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19DTUInXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfV0VCX0JBTktfR0RCJyA9PiBbJ0RFUE9TSVRfUEVURVInLCAnV0VCX0JBTktfR0RCJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0NNQkMnID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19DTUJDJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0NPTU0nID0+IFsnREVQT1NJVF9QRVRFUicsICdXRUJfQkFOS19DT01NJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1dFQl9CQU5LX0JPQicgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dFQl9CQU5LX0JPQiddLAogICAgICAgICAgICAnREVQT1NJVF9QRVRFUl9XRUJfQkFOS19TQ1NCJyA9PiBbJ0RFUE9TSVRfUEVURVInLCAnV0VCX0JBTktfU0NTQiddLAogICAgICAgICAgICAnREVQT1NJVF9QRVRFUl9RUl9BTElQQVknID0+IFsnREVQT1NJVF9QRVRFUicsICdRUl9BTElQQVknXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfUVJfV0VDSEFUJyA9PiBbJ0RFUE9TSVRfUEVURVInLCAnUVJfV0VDSEFUJ10sCiAgICAgICAgICAgICdERVBPU0lUX1BFVEVSX1FSX1FRJyA9PiBbJ0RFUE9TSVRfUEVURVInLCAnUVJfUVEnXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfV0FQX0FMSVBBWScgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dBUF9BTElQQVknXSwKICAgICAgICAgICAgJ0RFUE9TSVRfUEVURVJfV0FQX1dFQ0hBVCcgPT4gWydERVBPU0lUX1BFVEVSJywgJ1dBUF9XRUNIQVQnXSwKCiAgICAgICAgICAgIC8vIERFUE9TSVRfSEFORlUKICAgICAgICAgICAgJ0RFUE9TSVRfSEFORlVfQ1VQX1FVSUNLJyA9PiBbJ0RFUE9TSVRfSEFORlUnLCAnQ1VQX1FVSUNLJywgRGVwb3NpdDo6U1RBVFVTX0NSRUFURURdLAoKICAgICAgICAgICAgLy8gREVQT1NJVF9ST05HRlVUT05HCiAgICAgICAgICAgICdERVBPU0lUX1JPTkdGVVRPTkcnID0+IFsnREVQT1NJVF9ST05HRlVUT05HJ10sCiAgICAgICAgXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygncHJveHkuZW1wdHknLCBkYXRhX2dldCgkcmVzcG9uc2UtPmdldERhdGEodHJ1ZSksICdodG1sJykpOwoK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX3NldCgkdGVzdERhdGEsICdERVBPU0lUX0hBTkZVX0NVUF9RVUlDSycsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbigKICAgICAgICAgICAgYXJyYXlfbWVyZ2UoCiAgICAgICAgICAgICAgICAkcmVzcG9uc2UtPmdldERhdGEodHJ1ZSksCiAgICAgICAgICAgICAgICBbJ29yZGVyX2lkJyA9PiAkZGF0YVsnb3JkZXJpZCddXQogICAgICAgICAgICApCiAgICAgICAgKTsK</text>
+        <text encoding="base64">CiAgICAgICAgZGQoY291bnQoJHRlc3REYXRhKSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHNoYXZlbmtpbmcKICogRGF0ZTogMjAxOC80LzE0CiAqIFRpbWU6IDg6MTggUE0KICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGVzdERhdGEgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>bank</last-search>
+      <last-search>thi</last-search>
       <last-offset />
-      <last-pattern>bank</last-pattern>
+      <last-pattern>thi</last-pattern>
       <last-replace encoding="base64">J1wxX1wyJyA9PiBcWydcMScsICdcMidcXQ==</last-replace>
       <last-substitute>deposithan</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>att</entry>
         <entry>\[</entry>
         <entry>\['(\d+)', '(\d+)'\]</entry>
         <entry>\['\(\d+\)', '\(\d+\)'\]</entry>
@@ -1076,6 +1082,7 @@
         <entry>pass</entry>
         <entry>su</entry>
         <entry>bank</entry>
+        <entry>thi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FMSVBBWS9XRUNIQVQvZw==</entry>
