@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" timestamp="1524056536307">
-        <mark key="'" line="48" column="40" />
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="68" column="29" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="54" column="38" />
+      <file name="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" timestamp="1524058043750">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="146" column="98" />
+        <mark key="]" line="146" column="99" />
+        <mark key="." line="146" column="99" />
+        <mark key="^" line="146" column="99" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JSONQRInQueryResponseHandler.php" timestamp="1523371738879">
         <mark key="[" line="53" column="66" />
@@ -106,12 +106,12 @@
         <mark key="." line="13" column="176" />
         <mark key="^" line="13" column="166" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Merchant.php" timestamp="1524056098478">
+      <file name="$USER_HOME$/Code/paid-service/app/Merchant.php" timestamp="1524057168693">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="40" />
-        <mark key="^" line="8" column="40" />
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
@@ -888,10 +888,10 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositHanFu.php" timestamp="1523709005953">
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositHanFu.php" timestamp="1524056942161">
         <mark key="'" line="43" column="12" />
-        <mark key="[" line="62" column="52" />
-        <mark key="]" line="62" column="68" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="59" />
         <mark key="." line="62" column="68" />
         <mark key="^" line="62" column="68" />
       </file>
@@ -918,21 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="47" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
-      <jump line="58" column="146" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="201" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" />
-      <jump line="75" column="15" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
-      <jump line="82" column="11" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
-      <jump line="208" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="122" column="0" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="155" column="16" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="181" column="91" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="163" column="12" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/activities.php" />
-      <jump line="111" column="96" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="106" column="36" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/create.blade.php" />
-      <jump line="53" column="40" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/ActivityController.php" />
-      <jump line="51" column="20" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
       <jump line="60" column="20" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
       <jump line="65" column="42" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
       <jump line="66" column="39" filename="$USER_HOME$/Code/gamelib/report/LotteryGo.php" />
@@ -1018,24 +1003,25 @@
       <jump line="32" column="31" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="54" column="25" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="73" column="51" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="105" column="24" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="125" column="12" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="149" column="56" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="150" column="59" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="151" column="31" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="15" column="24" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="146" column="12" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
+      <jump line="168" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-----BEGIN RSA PRIVATE KEY-----
-MIICXQIBAAKBgQCaB9s1wyYRhyYR0wvzVYWKkZ+dRj3pmYMZqPQDCyO0w02mg880
-mtQFSSglhEuwaPfaAk0uatOb8tVTO8cWs3FTYYCPDvlfnNNySGkJK855eu/TNARO
-aa5WRuJjAOOWWihChm5f9yZsJ8ZIYFaOj9/JApIZLHZ+ZMkoyx/YUOi5DwIDAQAB
-AoGAAoWYaDPuvqC41dffvTcsPY2O0HNi9h0mUVg7zoTzK7V64vwLe3ABgqik+KBG
-4PeG/1HEU7s6BbafGYLECrIba9yOcogYiSv6Wr57/4pSwDsV9ml5xJSzIGUxyYiy
-VFot43tJ52WHOVxSZsxpOfdvRIwuYrrsCiHkl22HFz5JfzECQQDMnx3yWeChBXw8
-8bm83NX/nKU1Zz/nYJxegMiWGP1v171v3d6aoYc7gcXtGI5vlFLft48q4PoFEPVX
-ny4tfWJJAkEAwLTORLBfISL2j3bTxT3aZRctLJ3/Xd7DIspn9esIc3FJZmXfvMI8
-l2N/J5r1O2/4DpcKh3v5xeYryb79UFXAlwJAZy/CcUmDro/OlAkuKiCPRiSfZ2vW
-3P5qPHnjLVYS0AjSfgw7ymy0fny17BebFIeOt0SgzPXA/zcLEhGyvrvhCQJBAJ5Y
-MyF390MIMqch0dNCBuGIEMOXtA0TDS7aOGB21wPc854jWZwF0rnmtMX7a0SCtcZv
-T+SR92QoxJRKzmUjgVMCQQCuQxO+ZNXbhXLaensXKFmwJBHlFI8sF9EJRmBshoTA
-Kuq4qN+JEV6owUey8OQ5Qs1bSExaCQukZR1w8igkg8Mg
------END RSA PRIVATE KEY-----</text>
+        <text>WEB_BANK_CCB</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1051,80 +1037,62 @@ Kuq4qN+JEV6owUey8OQ5Qs1bSExaCQukZR1w8igkg8Mg
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>pri</text>
+        <text encoding="base64">PT4gXCguKlwpLA==</text>
       </register>
       <register name="0" type="4">
-        <text>-----BEGIN RSA PRIVATE KEY-----
-MIICXQIBAAKBgQCaB9s1wyYRhyYR0wvzVYWKkZ+dRj3pmYMZqPQDCyO0w02mg880
-mtQFSSglhEuwaPfaAk0uatOb8tVTO8cWs3FTYYCPDvlfnNNySGkJK855eu/TNARO
-aa5WRuJjAOOWWihChm5f9yZsJ8ZIYFaOj9/JApIZLHZ+ZMkoyx/YUOi5DwIDAQAB
-AoGAAoWYaDPuvqC41dffvTcsPY2O0HNi9h0mUVg7zoTzK7V64vwLe3ABgqik+KBG
-4PeG/1HEU7s6BbafGYLECrIba9yOcogYiSv6Wr57/4pSwDsV9ml5xJSzIGUxyYiy
-VFot43tJ52WHOVxSZsxpOfdvRIwuYrrsCiHkl22HFz5JfzECQQDMnx3yWeChBXw8
-8bm83NX/nKU1Zz/nYJxegMiWGP1v171v3d6aoYc7gcXtGI5vlFLft48q4PoFEPVX
-ny4tfWJJAkEAwLTORLBfISL2j3bTxT3aZRctLJ3/Xd7DIspn9esIc3FJZmXfvMI8
-l2N/J5r1O2/4DpcKh3v5xeYryb79UFXAlwJAZy/CcUmDro/OlAkuKiCPRiSfZ2vW
-3P5qPHnjLVYS0AjSfgw7ymy0fny17BebFIeOt0SgzPXA/zcLEhGyvrvhCQJBAJ5Y
-MyF390MIMqch0dNCBuGIEMOXtA0TDS7aOGB21wPc854jWZwF0rnmtMX7a0SCtcZv
-T+SR92QoxJRKzmUjgVMCQQCuQxO+ZNXbhXLaensXKFmwJBHlFI8sF9EJRmBshoTA
-Kuq4qN+JEV6owUey8OQ5Qs1bSExaCQukZR1w8igkg8Mg
------END RSA PRIVATE KEY-----</text>
+        <text>WEB_BANK_CCB</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ID0+IFsKICAgICAgICAgICAgXQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWV0aG9kcyA9IFsKICAgICAgICAnV0VCX0JBTktfQ0NCJyA9PiAnV0VCX0JBTktfQ0NCJywKICAgICAgICAnV0VCX0JBTktfQUJDJyA9PiAnV0VCX0JBTktfQUJDJywKICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gJ1dFQl9CQU5LX0lDQkMnLAogICAgICAgICdXRUJfQkFOS19CT0MnID0+ICdXRUJfQkFOS19CT0MnLAogICAgICAgICdXRUJfQkFOS19TUERCJyA9PiAnV0VCX0JBTktfU1BEQicsCiAgICAgICAgJ1dFQl9CQU5LX0NFQicgPT4gJ1dFQl9CQU5LX0NFQicsCiAgICAgICAgJ1dFQl9CQU5LX1BBQicgPT4gJ1dFQl9CQU5LX1BBQicsCiAgICAgICAgJ1dFQl9CQU5LX0NJQicgPT4gJ1dFQl9CQU5LX0NJQicsCiAgICAgICAgJ1dFQl9CQU5LX1BTQkMnID0+ICdXRUJfQkFOS19QU0JDJywKICAgICAgICAnV0VCX0JBTktfQ05DQicgPT4gJ1dFQl9CQU5LX0NOQ0InLAogICAgICAgICdXRUJfQkFOS19IWEInID0+ICdXRUJfQkFOS19IWEInLAogICAgICAgICdXRUJfQkFOS19DTUInID0+ICdXRUJfQkFOS19DTUInLAogICAgICAgICdXRUJfQkFOS19HREInID0+ICdXRUJfQkFOS19HREInLAogICAgICAgICdXRUJfQkFOS19DTUJDJyA9PiAnV0VCX0JBTktfQ01CQycsCiAgICAgICAgJ1dFQl9CQU5LX0NPTU0nID0+ICdXRUJfQkFOS19DT01NJywKICAgICAgICAnV0VCX0JBTktfQk9CJyA9PiAnV0VCX0JBTktfQk9CJywKICAgICAgICAnV0VCX0JBTktfU0NTQicgPT4gJ1dFQl9CQU5LX1NDU0InLAogICAgICAgICdRUl9BTElQQVknID0+ICdRUl9BTElQQVknLAogICAgICAgICdRUl9XRUNIQVQnID0+ICdRUl9XRUNIQVQnLAogICAgICAgICdRUl9RUScgPT4gJ1FSX1FRJywKICAgICAgICAnV0FQX0FMSVBBWScgPT4gJ1dBUF9BTElQQVknLAogICAgICAgICdXQVBfV0VDSEFUJyA9PiAnV0FQX1dFQ0hBVCcsCiAgICAgICAgJ0NVUF9RVUlDSycgPT4gJ0NVUF9RVUlDSycsCiAgICBdOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDE4MDMyMjExMTIxMScsIFtdCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdjb2RlJyA9PiAkY29kZSwKICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGNvZGUsCiAgICAgICAgICAgICAgICBd</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWVyY2hhbnRzID0gWwogICAgICAgIAogICAgXTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aGVpcl9wdWJsaWNfa2V5JyA9PiAnLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FES3NFWXJXbyt0NmJXKzUzV1hnNDlrQ05PZgpRUGx3NkJKSFlnd3liN29LcmJmeVdyWmN4ZDlONXVVOElWa2pGOWVYNU5VVDV2eWRsYnRZNTB3V3dtRWFpaUlvCmd6V3ByUGw3OXdXc3U0c1g0bEJQeE85S2oyeVMvdTE5SmdoaDFzYWtpT1BFRENna1pmR1RUVnZNdWc2cFpDdUQKeEU2cGJCSDZqMWdXdGtSN2x3SURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLScsCiAgICAgICAgICAgICAgICAnb3VyX3ByaXZhdGVfa2V5JyA9PiAnLS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlDWFFJQkFBS0JnUUNhQjlzMXd5WVJoeVlSMHd2elZZV0trWitkUmozcG1ZTVpxUFFEQ3lPMHcwMm1nODgwCm10UUZTU2dsaEV1d2FQZmFBazB1YXRPYjh0VlRPOGNXczNGVFlZQ1BEdmxmbk5OeVNHa0pLODU1ZXUvVE5BUk8KYWE1V1J1SmpBT09XV2loQ2htNWY5eVpzSjhaSVlGYU9qOS9KQXBJWkxIWitaTWtveXgvWVVPaTVEd0lEQVFBQgpBb0dBQW9XWWFEUHV2cUM0MWRmZnZUY3NQWTJPMEhOaTloMG1VVmc3em9Ueks3VjY0dndMZTNBQmdxaWsrS0JHCjRQZUcvMUhFVTdzNkJiYWZHWUxFQ3JJYmE5eU9jb2dZaVN2NldyNTcvNHBTd0RzVjltbDV4SlN6SUdVeHlZaXkKVkZvdDQzdEo1MldIT1Z4U1pzeHBPZmR2Ukl3dVlycnNDaUhrbDIySEZ6NUpmekVDUVFETW54M3lXZUNoQlh3OAo4Ym04M05YL25LVTFaei9uWUp4ZWdNaVdHUDF2MTcxdjNkNmFvWWM3Z2NYdEdJNXZsRkxmdDQ4cTRQb0ZFUFZYCm55NHRmV0pKQWtFQXdMVE9STEJmSVNMMmozYlR4VDNhWlJjdExKMy9YZDdESXNwbjllc0ljM0ZKWm1YZnZNSTgKbDJOL0o1cjFPMi80RHBjS2gzdjV4ZVlyeWI3OVVGWEFsd0pBWnkvQ2NVbURyby9PbEFrdUtpQ1BSaVNmWjJ2VwozUDVxUEhuakxWWVMwQWpTZmd3N3lteTBmbnkxN0JlYkZJZU90MFNnelBYQS96Y0xFaEd5dnJ2aENRSkJBSjVZCk15RjM5ME1JTXFjaDBkTkNCdUdJRU1PWHRBMFREUzdhT0dCMjF3UGM4NTRqV1p3RjBybm10TVg3YTBTQ3RjWnYKVCtTUjkyUW94SlJLem1VamdWTUNRUUN1UXhPK1pOWGJoWExhZW5zWEtGbXdKQkhsRkk4c0Y5RUpSbUJzaG9UQQpLdXE0cU4rSkVWNm93VWV5OE9RNVFzMWJTRXhhQ1F1a1pSMXc4aWdrZzhNZwotLS0tLUVORCBSU0EgUFJJVkFURSBLRVktLS0tLScK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ21lcmNoYW50X2lkJyktPmluZGV4KCk7CiAgICAgICAgICAgICR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCd1c2FnZV9jb3VudCcpOwogICAgICAgICAgICAkdGFibGUtPmRlY2ltYWwoJ3RvdGFsX2Ftb3VudCcsICcyMCcsICc2Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aGVpcl9wdWJsaWNfa2V5JyA9PiAnLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FES3NFWXJXbyt0NmJXKzUzV1hnNDlrQ05PZgpRUGx3NkJKSFlnd3liN29LcmJmeVdyWmN4ZDlONXVVOElWa2pGOWVYNU5VVDV2eWRsYnRZNTB3V3dtRWFpaUlvCmd6V3ByUGw3OXdXc3U0c1g0bEJQeE85S2oyeVMvdTE5SmdoaDFzYWtpT1BFRENna1pmR1RUVnZNdWc2cFpDdUQKeEU2cGJCSDZqMWdXdGtSN2x3SURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLScsCiAgICAgICAgICAgICAgICAnb3VyX3ByaXZhdGVfa2V5JyA9PiAnLS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlDWFFJQkFBS0JnUUNhQjlzMXd5WVJoeVlSMHd2elZZV0trWitkUmozcG1ZTVpxUFFEQ3lPMHcwMm1nODgwCm10UUZTU2dsaEV1d2FQZmFBazB1YXRPYjh0VlRPOGNXczNGVFlZQ1BEdmxmbk5OeVNHa0pLODU1ZXUvVE5BUk8KYWE1V1J1SmpBT09XV2loQ2htNWY5eVpzSjhaSVlGYU9qOS9KQXBJWkxIWitaTWtveXgvWVVPaTVEd0lEQVFBQgpBb0dBQW9XWWFEUHV2cUM0MWRmZnZUY3NQWTJPMEhOaTloMG1VVmc3em9Ueks3VjY0dndMZTNBQmdxaWsrS0JHCjRQZUcvMUhFVTdzNkJiYWZHWUxFQ3JJYmE5eU9jb2dZaVN2NldyNTcvNHBTd0RzVjltbDV4SlN6SUdVeHlZaXkKVkZvdDQzdEo1MldIT1Z4U1pzeHBPZmR2Ukl3dVlycnNDaUhrbDIySEZ6NUpmekVDUVFETW54M3lXZUNoQlh3OAo4Ym04M05YL25LVTFaei9uWUp4ZWdNaVdHUDF2MTcxdjNkNmFvWWM3Z2NYdEdJNXZsRkxmdDQ4cTRQb0ZFUFZYCm55NHRmV0pKQWtFQXdMVE9STEJmSVNMMmozYlR4VDNhWlJjdExKMy9YZDdESXNwbjllc0ljM0ZKWm1YZnZNSTgKbDJOL0o1cjFPMi80RHBjS2gzdjV4ZVlyeWI3OVVGWEFsd0pBWnkvQ2NVbURyby9PbEFrdUtpQ1BSaVNmWjJ2VwozUDVxUEhuakxWWVMwQWpTZmd3N3lteTBmbnkxN0JlYkZJZU90MFNnelBYQS96Y0xFaEd5dnJ2aENRSkJBSjVZCk15RjM5ME1JTXFjaDBkTkNCdUdJRU1PWHRBMFREUzdhT0dCMjF3UGM4NTRqV1p3RjBybm10TVg3YTBTQ3RjWnYKVCtTUjkyUW94SlJLem1VamdWTUNRUUN1UXhPK1pOWGJoWExhZW5zWEtGbXdKQkhsRkk4c0Y5RUpSbUJzaG9UQQpLdXE0cU4rSkVWNm93VWV5OE9RNVFzMWJTRXhhQ1F1a1pSMXc4aWdrZzhNZwotLS0tLUVORCBSU0EgUFJJVkFURSBLRVktLS0tLScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8kdGFibGUtPnVuc2lnbmVkSW50ZWdlcignbWV0aG9kX2lkJyktPmluZGV4KCk7Ci8vJHRhYmxlLT5zdHJpbmcoJ2lkX2luX3Byb3ZpZGVyJyk7Ci8vJHRhYmxlLT5qc29uKCdtZXRhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnREVQT1NJVF9QRVRFUl8xJyA9PiBbCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJycpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ID0+IFsKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ21ldGhvZF9pZCcpLT5pbmRleCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>pri</last-search>
+      <last-search encoding="base64">PT4gXCguKlwpLA==</last-search>
       <last-offset />
-      <last-pattern>pri</last-pattern>
-      <last-replace encoding="base64">J1wxX1wyJyA9PiBcWydcMScsICdcMidcXQ==</last-replace>
-      <last-substitute>deposithan</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">PT4gXCguKlwpLA==</last-pattern>
+      <last-replace encoding="base64">PT4gTWV0aG9kOjpjcmVhdGUoXFsnY29kZScgPT4gXDEsICduYW1lJyA9PiBcMVxdKSw=</last-replace>
+      <last-substitute encoding="base64">PT4gXCguKlwpLA==</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'.*'</entry>
-        <entry>\['(.*)', '(.*)'\]</entry>
-        <entry>['.*', '.*']</entry>
-        <entry>['.*',\ '.*']</entry>
         <entry>['.*',/qwe/g</entry>
         <entry>\['.*',</entry>
         <entry encoding="base64">XFsnLionLCA=</entry>
@@ -1139,15 +1107,14 @@ Kuq4qN+JEV6owUey8OQ5Qs1bSExaCQukZR1w8igkg8Mg
         <entry>bank</entry>
         <entry>thi</entry>
         <entry>on</entry>
-        <entry>me</entry>
         <entry>pri</entry>
+        <entry>our</entry>
+        <entry>mer</entry>
+        <entry>,</entry>
+        <entry>me</entry>
+        <entry encoding="base64">PT4gXCguKlwpLA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0ludGVybmV0IEJhbmtpbmcvSU5URVJORVRfQkFOS0lORy9n</entry>
-        <entry encoding="base64">JzwsJz5zL1dFQ0hBVC9RUS9n</entry>
-        <entry encoding="base64">JzwsJz5zL1xbL1xbJ0RFUE9TSVRfUEVURVInLCAvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1xbJyhcZCspJywgJyhcZCspJ1xdLyQxJDIvZw==</entry>
-        <entry encoding="base64">JzwsJz4lcy9cWycoXGQrKScsICcoXGQrKSdcXS8kMSQyL2c=</entry>
         <entry encoding="base64">JzwsJz4lcy9cWydcKFxkK1wpJywgJ1woXGQrXCknXF0vXDFcMi9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcXdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbJyguKiknLCAnKC4qKSdcXS8kMSQyL2c=</entry>
@@ -1162,6 +1129,11 @@ Kuq4qN+JEV6owUey8OQ5Qs1bSExaCQukZR1w8igkg8Mg
         <entry encoding="base64">JzwsJz5zL1xbJ1woLipcKScsICcuKidcXS9cMS9n</entry>
         <entry encoding="base64">JzwsJz5zL1xbJ1woLipcKScsICdcKC4qXCknXF0vJ1wxX1wyJyA9PiBcWydcMScsICdcMidcXS9n</entry>
         <entry>54d</entry>
+        <entry encoding="base64">JzwsJz5zLywvID0+IFxbJ0RFUE9TSVRfUEVURVJfMSdcXSwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLywvID0+IFxbJ1dJVEhEUkFXX1BFVEVSXzEnXF0sL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLz0+IFwoLipcKSwvPT4gTWVyY2hhbnQ6OmNyZWF0ZShcWydjb2RlJyA9PiBcMSwgJ25hbWUnID0+IFwxXF0pL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLz0+IFwoLipcKSwvPT4gTWVyY2hhbnQ6OmNyZWF0ZShcWydjb2RlJyA9PiBcMSwgJ25hbWUnID0+IFwxXF0pLC9n</entry>
+        <entry encoding="base64">JzwsJz5zLz0+IFwoLipcKSwvPT4gTWV0aG9kOjpjcmVhdGUoXFsnY29kZScgPT4gXDEsICduYW1lJyA9PiBcMVxdKSwvZw==</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
