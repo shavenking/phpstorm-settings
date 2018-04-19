@@ -160,12 +160,12 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524126414104">
-        <mark key="'" line="36" column="25" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="43" />
-        <mark key="^" line="35" column="43" />
-        <mark key="." line="35" column="43" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524129967853">
+        <mark key="'" line="100" column="70" />
+        <mark key="[" line="118" column="59" />
+        <mark key="]" line="118" column="59" />
+        <mark key="." line="118" column="59" />
+        <mark key="^" line="78" column="63" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1523154656305">
         <mark key="'" line="12" column="0" />
@@ -237,11 +237,10 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Curl.php" timestamp="1524119355803">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="44" column="14" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/Curl.php" timestamp="1524129456243">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pay/range-datetime.php" timestamp="1521907904381">
         <mark key="'" line="28" column="0" />
@@ -477,11 +476,12 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524126428144">
-        <mark key="[" line="11" column="67" />
-        <mark key="]" line="11" column="68" />
-        <mark key="." line="11" column="68" />
-        <mark key="^" line="11" column="81" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524129916220">
+        <mark key="'" line="12" column="57" />
+        <mark key="[" line="12" column="74" />
+        <mark key="]" line="12" column="81" />
+        <mark key="." line="12" column="81" />
+        <mark key="^" line="12" column="81" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -843,11 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="59" filename="$USER_HOME$/Code/paid-service/resources/views/withdraw/create.blade.php" />
-      <jump line="60" column="20" filename="$USER_HOME$/Code/paid-service/resources/views/withdraw/create.blade.php" />
-      <jump line="30" column="20" filename="$USER_HOME$/Code/pikachu/app/Http/Controllers/Dashboard/DepartureNoticeController.php" />
-      <jump line="47" column="24" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
-      <jump line="73" column="8" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
       <jump line="84" column="44" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
       <jump line="109" column="57" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
       <jump line="58" column="11" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
@@ -943,10 +938,15 @@
       <jump line="13" column="36" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
       <jump line="47" column="31" filename="$USER_HOME$/Code/911/xct/assoc/Curl.php" />
       <jump line="36" column="25" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
+      <jump line="93" column="70" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
+      <jump line="11" column="87" filename="$USER_HOME$/Code/911/xct/assoc/Test.php" />
+      <jump line="12" column="57" filename="$USER_HOME$/Code/911/xct/assoc/Test.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>myuser123@test.com</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -962,69 +962,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>myuser123@test.com</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>11</text>
       </register>
-      <register name="0" type="4">
-        <text>myuser123@test.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLVRva2VuOiB7JHRoaXMtPl90b2tlbigpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVzZXJuYW1lIjogIm15dXNlcjEyMyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLVRva2VuOiB7JHRoaXMtPl90b2tlbigpfSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JpcnRoZGF5JyA9PiAnMTk5OS0wMS0wMScsCg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiaXJ0aGRhdGUiOiAiMTk5Mi0wMi0xOCIK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJlbWFpbCI6ICJteXVzZXIxMjNAdGVzdC5jb20iLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJsYW5ndWFnZSI6ICJlbiIsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LCBbCiAgICAgICAgICAgICAgICAndXNlcm5hbWUnID0+ICR1c2VybmFtZSwKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJmdWxsbmFtZSI6ICJNeSBVc2VyIiwK</text>
+        <text encoding="base64">CQlkdW1wKGN1cmxfZ2V0aW5mbygkY2gpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb3VudHJ5IjogIkNoaW5hIiwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjdXJyZW5jeSI6ICJDTlkiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLUtleTogeyR0aGlzLT5hcGlbJ194X2tleSddfSIpCg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLT5zZXRfaGVhZGVyKCcnIC4gJHRoaXMtPmFwaVsnX2NhZ2VudCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAkdG8KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zLzExLzEyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>11</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>11</last-pattern>
+      <last-replace>12</last-replace>
+      <last-substitute>11</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
-        <entry>ap</entry>
-        <entry>pass</entry>
-        <entry>su</entry>
-        <entry>bank</entry>
-        <entry>thi</entry>
-        <entry>on</entry>
         <entry>pri</entry>
         <entry>our</entry>
         <entry>mer</entry>
@@ -1038,12 +1031,15 @@
         <entry>gate</entry>
         <entry>merchant</entry>
         <entry>&quot;</entry>
+        <entry>tok</entry>
+        <entry>game</entry>
+        <entry>ogli</entry>
+        <entry>'</entry>
+        <entry>06</entry>
+        <entry>10</entry>
+        <entry>11</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1xbJyguKiknLCAnKC4qKSdcXS8kMSQyL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1xbJyguKiknLCAnKC4qKSdcXS9xd2UvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1snLionLCAnLionXS9xd2UvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1snLionLFwgJy4qJ10vcXdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1snLionLC9xd2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywvcXdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywgL3F3ZS9n</entry>
@@ -1059,7 +1055,11 @@
         <entry encoding="base64">JzwsJz5zLz0+IFwoLipcKSwvPT4gTWV0aG9kOjpjcmVhdGUoXFsnY29kZScgPT4gXDEsICduYW1lJyA9PiBcMVxdKSwvZw==</entry>
         <entry>91d</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry encoding="base64">JzwsJz5zLzA2LzEwL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEwLzExL2c=</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zLzExLzEyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
