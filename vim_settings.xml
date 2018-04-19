@@ -160,12 +160,12 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524123186833">
+      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524126414104">
         <mark key="'" line="36" column="25" />
-        <mark key="[" line="46" column="52" />
-        <mark key="]" line="46" column="55" />
-        <mark key="^" line="46" column="55" />
-        <mark key="." line="46" column="55" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="43" />
+        <mark key="^" line="35" column="43" />
+        <mark key="." line="35" column="43" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1523154656305">
         <mark key="'" line="12" column="0" />
@@ -477,7 +477,7 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524123193211">
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524126428144">
         <mark key="[" line="11" column="67" />
         <mark key="]" line="11" column="68" />
         <mark key="." line="11" column="68" />
@@ -946,7 +946,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>myuser123@test.com</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -962,7 +962,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>myuser123@test.com</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
