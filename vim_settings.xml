@@ -464,6 +464,12 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524104150925">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="27" />
@@ -921,7 +927,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ＴＨ</text>
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -937,7 +943,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ＴＨ</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>merchant</text>
