@@ -160,12 +160,12 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524129967853">
-        <mark key="'" line="100" column="70" />
-        <mark key="[" line="118" column="59" />
-        <mark key="]" line="118" column="59" />
-        <mark key="." line="118" column="59" />
-        <mark key="^" line="78" column="63" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524139286767">
+        <mark key="'" line="59" column="46" />
+        <mark key="[" line="87" column="40" />
+        <mark key="]" line="87" column="40" />
+        <mark key="^" line="87" column="40" />
+        <mark key="." line="87" column="40" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1523154656305">
         <mark key="'" line="12" column="0" />
@@ -469,6 +469,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="10" />
       </file>
+      <file name="$USER_HOME$/Code/911/xct/assoc/game/BooonGo.php" timestamp="1524137601373">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="42" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/activity/show.blade.php" timestamp="1521943222680">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="48" column="20" />
@@ -476,12 +480,12 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524129916220">
-        <mark key="'" line="12" column="57" />
-        <mark key="[" line="12" column="74" />
-        <mark key="]" line="12" column="81" />
-        <mark key="." line="12" column="81" />
-        <mark key="^" line="12" column="81" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524139241827">
+        <mark key="'" line="13" column="57" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -687,9 +691,11 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/game/LotteryGo.php" timestamp="1524116130655">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="44" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/game/LotteryGo.php" timestamp="1524139102716">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="11" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/activity/edit.blade.php" timestamp="1521365925146">
         <mark key="'" line="1" column="13" />
@@ -843,8 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="44" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
-      <jump line="109" column="57" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
       <jump line="58" column="11" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" />
       <jump line="9" column="4" filename="$USER_HOME$/Code/pikachu/resources/lang/en/departure-notice.php" />
       <jump line="307" column="30" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
@@ -943,10 +947,12 @@
       <jump line="93" column="70" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
       <jump line="11" column="87" filename="$USER_HOME$/Code/911/xct/assoc/Test.php" />
       <jump line="12" column="57" filename="$USER_HOME$/Code/911/xct/assoc/Test.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
+      <jump line="58" column="46" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>, $action</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -962,63 +968,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, $action</text>
       </register>
       <register name="/" type="4">
-        <text>11</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLVRva2VuOiB7JHRoaXMtPl90b2tlbigpfSIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoXEFwcDo6bWFrZSgnR2FtZVxPcmllbnRhbEdhbWUnKS0+YWRkX2FjY291bnQoJzkxMXcwMDAwMDE1JywgJ0FiMTRCS0c0dHcnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLVRva2VuOiB7JHRoaXMtPl90b2tlbigpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdnYW1lSWQnID0+ICR0eXBlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9IFxSZXF1ZXN0OjpnZXQoJ3R5cGUnKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LCBbCiAgICAgICAgICAgICAgICAndXNlcm5hbWUnID0+ICR1c2VybmFtZSwKICAgICAgICAgICAgXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdnYW1lSWQnID0+ICR0eXBlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKGN1cmxfZ2V0aW5mbygkY2gpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9IFxSZXF1ZXN0OjpnZXQoJ3R5cGUnKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLUtleTogeyR0aGlzLT5hcGlbJ194X2tleSddfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YV9nZXQoanNvbl9kZWNvZGUoJHJlc3VsdCksICdkYXRhLmtleScpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdG8KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzExLzEyL2c=</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>11</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>11</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>12</last-replace>
       <last-substitute>11</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pri</entry>
         <entry>our</entry>
         <entry>mer</entry>
         <entry>,</entry>
@@ -1038,6 +1043,7 @@
         <entry>06</entry>
         <entry>10</entry>
         <entry>11</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1snLionLC9xd2UvZw==</entry>
@@ -1058,8 +1064,8 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry encoding="base64">JzwsJz5zLzA2LzEwL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2c=</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLzExLzEyL2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
