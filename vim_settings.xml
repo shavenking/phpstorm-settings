@@ -100,6 +100,12 @@
         <mark key="." line="13" column="176" />
         <mark key="^" line="13" column="166" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Merchant.php" timestamp="1524062486911">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
         <mark key="[" line="79" column="26" />
@@ -263,6 +269,12 @@
         <mark key="]" line="170" column="26" />
         <mark key="^" line="170" column="26" />
         <mark key="." line="170" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Http/Controllers/NotificationController.php" timestamp="1524066595292">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/config/app.php" timestamp="1521635155296">
         <mark key="'" line="0" column="0" />
@@ -468,12 +480,11 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524142713360">
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524186328202">
         <mark key="'" line="13" column="57" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="24" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -646,11 +657,11 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" timestamp="1524142683571">
-        <mark key="[" line="66" column="55" />
-        <mark key="]" line="66" column="55" />
-        <mark key="." line="66" column="55" />
-        <mark key="^" line="66" column="55" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" timestamp="1524186149042">
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="42" />
+        <mark key="." line="73" column="42" />
+        <mark key="^" line="73" column="42" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1524066182892">
         <mark key="[" line="40" column="60" />
@@ -945,8 +956,8 @@
       <jump line="68" column="66" filename="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>days</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZChkYXRlX2RlZmF1bHRfdGltZXpvbmVfZ2V0KCkpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -962,46 +973,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>days</text>
+        <text>dd($result);</text>
       </register>
       <register name="/" type="4">
         <text>thi</text>
       </register>
-      <register name="0" type="4">
-        <text>Y-m-d H:i:s</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdVVEMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkcmVzdWx0ID0gW107Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkZChkYXRlX2RlZmF1bHRfdGltZXpvbmVfZ2V0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLU9wZXJhdG9yOiB7fSIpCiAgICAgICAgICAgIC0+c2V0X2hlYWRlcigiWC1LZXk6IHt9IikK</text>
+        <text encoding="base64">ICAgICAgICBkZChkYXRlX2RlZmF1bHRfdGltZXpvbmVfZ2V0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkcmVzdWx0ID0gW107CgogICAgICAgICRyZXN1bHQgPSBcQXBwOjptYWtlKCdMaWJcQ3VybCcpCiAgICAgICAgICAgIC0+c2V0X2hlYWRlcigiWC1PcGVyYXRvcjogeyR0aGlzLT5hcGlbJ194X29wZXJhdG9yJ119IikKICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLUtleTogeyR0aGlzLT5hcGlbJ194X2tleSddfSIpCiAgICAgICAgICAgIC0+Y3VybCgieyR0aGlzLT5hcGlbJ191cmwnXX0vVHJhbnNhY3Rpb24iLCBbCidPcGVyYXRvcicgPT4gJycsCiAgICAgICAgICAgICAgICAnS2V5JyA9PiAnJywKICAgICAgICAgICAgICAgICdTRGF0ZScgPT4gJycsCidFRGF0ZScgPT4gJycsCiAgICAgICAgICAgIF0pOwovLwkJZm9yKCRzID0gJHNkYXRlOyAkcyA8ICRlZGF0ZTsgJHMgKz0gMTc5OSl7Ci8vCQkJJGUgPSAkcyArIDE3OTk7Ci8vCQkJaWYoJGUgPiAkZWRhdGUpewovLwkJCQkkZSA9ICRlZGF0ZTsKLy8JCQl9Ci8vCi8vCQkJJGRhdGEgPSBAJHRoaXMtPl9fZ2V0X3JlcG9ydCgkcywgJGUpOwovLwkJCSRyZXN1bHQgPSBhcnJheV9tZXJnZSgkcmVzdWx0LCAkZGF0YVsnZGF0YSddID8/IFtdKTsKLy8JCX0KLy8KLy8JCXJldHVybiBbJ2NvZGUnID0+IDAsICdkYXRhJyA9PiAkcmVzdWx0XTsK</text>
+        <text encoding="base64">CQkkcmVzdWx0ID0gW107Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJGdjZ19hY2NvdW50LAogICAgICAgICAgICAgICAgJ2JhbGFuY2UnID0+IGFicygkY3JlZGl0KSwKICAgICAgICAgICAgICAgICdhY3Rpb24nID0+ICRjcmVkaXQgPiAwID8gJ0lOJyA6ICdPVVQnLAogICAgICAgICAgICAgICAgJ3RyYW5zZmVySWQnID0+IGRhdGUoJ1ltZEhpcycpIC4gcmFuZCgxMDAsIDk5OSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLU9wZXJhdG9yOiB7fSIpCiAgICAgICAgICAgIC0+c2V0X2hlYWRlcigiWC1LZXk6IHt9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLVRva2VuOiB7JHRoaXMtPl90b2tlbigpfSIpCg==</text>
+        <text encoding="base64">CQkkcmVzdWx0ID0gW107CgogICAgICAgICRyZXN1bHQgPSBcQXBwOjptYWtlKCdMaWJcQ3VybCcpCiAgICAgICAgICAgIC0+c2V0X2hlYWRlcigiWC1PcGVyYXRvcjogeyR0aGlzLT5hcGlbJ194X29wZXJhdG9yJ119IikKICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLUtleTogeyR0aGlzLT5hcGlbJ194X2tleSddfSIpCiAgICAgICAgICAgIC0+Y3VybCgieyR0aGlzLT5hcGlbJ191cmwnXX0vVHJhbnNhY3Rpb24iLCBbCidPcGVyYXRvcicgPT4gJycsCiAgICAgICAgICAgICAgICAnS2V5JyA9PiAnJywKICAgICAgICAgICAgICAgICdTRGF0ZScgPT4gJycsCidFRGF0ZScgPT4gJycsCiAgICAgICAgICAgIF0pOwovLwkJZm9yKCRzID0gJHNkYXRlOyAkcyA8ICRlZGF0ZTsgJHMgKz0gMTc5OSl7Ci8vCQkJJGUgPSAkcyArIDE3OTk7Ci8vCQkJaWYoJGUgPiAkZWRhdGUpewovLwkJCQkkZSA9ICRlZGF0ZTsKLy8JCQl9Ci8vCi8vCQkJJGRhdGEgPSBAJHRoaXMtPl9fZ2V0X3JlcG9ydCgkcywgJGUpOwovLwkJCSRyZXN1bHQgPSBhcnJheV9tZXJnZSgkcmVzdWx0LCAkZGF0YVsnZGF0YSddID8/IFtdKTsKLy8JCX0KLy8KLy8JCXJldHVybiBbJ2NvZGUnID0+IDAsICdkYXRhJyA9PiAkcmVzdWx0XTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJGdjZ19hY2NvdW50LAogICAgICAgICAgICAgICAgJ2JhbGFuY2UnID0+IGFicygkY3JlZGl0KSwKICAgICAgICAgICAgICAgICdhY3Rpb24nID0+ICRjcmVkaXQgPiAwID8gJ0lOJyA6ICdPVVQnLAogICAgICAgICAgICAgICAgJ3RyYW5zZmVySWQnID0+IGRhdGUoJ1ltZEhpcycpIC4gcmFuZCgxMDAsIDk5OSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdnYW1lSWQnID0+ICR0eXBlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRfaGVhZGVyKCJYLVRva2VuOiB7JHRoaXMtPl90b2tlbigpfSIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9IFxSZXF1ZXN0OjpnZXQoJ3R5cGUnKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdnYW1lSWQnID0+ICR0eXBlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
