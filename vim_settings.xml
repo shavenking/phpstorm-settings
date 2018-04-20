@@ -468,12 +468,12 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524193147917">
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1524202762593">
         <mark key="'" line="13" column="57" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="17" column="33" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/users.php" timestamp="1522501386623">
         <mark key="'" line="0" column="0" />
@@ -731,6 +731,10 @@
         <mark key="." line="9" column="63" />
         <mark key="^" line="9" column="63" />
       </file>
+      <file name="$USER_HOME$/Code/911/app/Console/Kernel.php" timestamp="1524202383771">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="71" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/auth.php" timestamp="1523673171119">
         <mark key="'" line="23" column="37" />
         <mark key="[" line="32" column="102" />
@@ -946,7 +950,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -962,31 +966,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>thi</text>
       </register>
-      <register name="0" type="4">
-        <text>/Date(\d+)/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZChcQXBwOjptYWtlKCdHYW1lXFJlcG9ydFxDYWNoZScpLT5zZXRfcmVwb3J0KHN0cnRvdGltZSgnLTEwIG1pbnV0ZXMnKSwgc3RydG90aW1lKCdub3cnKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChcQXBwOjptYWtlKCdHYW1lXFJlcG9ydFxDYWNoZScpLT5zZXRfY2FjaGUoJHdlZWtfYWdvLCAkdG9kYXkpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGluc2VydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnX2NhZ2VudCcgPT4gJ2NhZ2VudCcsCiAgICAgICAgJ19kZXNfa2V5JyA9PiAnREVTIGtleScsCiAgICAgICAgJ19tZDVfa2V5JyA9PiAnTUQ1IGtleScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGluc2VydCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBpKTsK</text>
+        <text encoding="base64">ICAgICAgICAnX2NhZ2VudCcgPT4gJ2NhZ2VudCcsCiAgICAgICAgJ19kZXNfa2V5JyA9PiAnREVTIGtleScsCiAgICAgICAgJ19tZDVfa2V5JyA9PiAnTUQ1IGtleScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTEpOwo=</text>
@@ -995,13 +999,13 @@
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgZHVtcCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTEpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGknKTsK</text>
+        <text encoding="base64">CiAgICAgICAgZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
