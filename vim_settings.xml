@@ -214,8 +214,11 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524642177439">
-        <mark key="[" line="16" column="5" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524642619054">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -979,7 +982,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dd($result);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -995,7 +998,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dd($result);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>thi</text>
@@ -1004,37 +1007,37 @@
         <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdCgpLT5oYXMoJ3R5cGUnKSkgewogICAgICAgICAgICAkZGF0YSA9ICR0aGlzLT5sb2dpbignTG90dGVyeUdvJylbJ2RhdGEnXTsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCRkYXRhWyd1cmwnXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHdpbmRvdy5sb2NhdGlvbiA9ICd7dXJsfSc7Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXJyYXkoCgkJCSd1cmwnID0+ICRkYXRhLAoJCSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkdGhpcy0+bG9naW4oJ09yaWVuJylbJ2RhdGEnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkZGF0YSA9ICR0aGlzLT5sb2dpbignT3JpZW50YWxHYW1lJylbJ2RhdGEnXTsK</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgIHdpbmRvdy5sb2NhdGlvbiA9ICd7dXJsfSc7Cjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZGQoJHJlc3VsdClkCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">YXJyYXkoCgkJCSd1cmwnID0+ICRkYXRhLAoJCSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPnR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkdGhpcy0+bG9naW4oJ09yaWVuJylbJ2RhdGEnXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQocmVxdWVzdCgpLT50eXBlKTsK</text>
+        <text encoding="base64">CQkkZGF0YSA9ICR0aGlzLT5sb2dpbignT3JpZW50YWxHYW1lJylbJ2RhdGEnXTsK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXJyYXkoCiAgICAgICAgICAgICdnYW1lSWQnID0+ICRkYXRhWydnYW1lSWQnXSwKICAgICAgICAp</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZGQoJHJlc3VsdClkCg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VybCcgPT4gJGRhdGFbJ3VybCddLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPnR5cGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
