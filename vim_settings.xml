@@ -112,6 +112,13 @@
         <mark key="." line="13" column="176" />
         <mark key="^" line="13" column="166" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1524643843375">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
         <mark key="[" line="79" column="26" />
@@ -215,11 +222,11 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524642619054">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="17" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524643346627">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -282,12 +289,24 @@
         <mark key="^" line="170" column="26" />
         <mark key="." line="170" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1524643985262">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="55" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/config/app.php" timestamp="1521635155296">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="209" column="57" />
         <mark key="]" line="210" column="15" />
         <mark key="^" line="210" column="15" />
         <mark key="." line="210" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/dreamsgem/.env" timestamp="1524643430941">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1524067168973">
         <mark key="'" line="49" column="55" />
@@ -880,8 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
-      <jump line="123" column="12" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="144" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="134" column="12" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="122" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
@@ -980,10 +997,12 @@
       <jump line="8" column="30" filename="$USER_HOME$/Code/911/xct/assoc/game/LotteryGo.php" />
       <jump line="15" column="29" filename="$USER_HOME$/Code/dreamsgem/database/migrations/2014_10_12_000000_create_users_table.php" />
       <jump line="5" column="90" filename="$USER_HOME$/Code/911/public/views/game/orientalgame.html" />
+      <jump line="4" column="2" filename="$USER_HOME$/Code/dreamsgem/routes/api.php" />
+      <jump line="3" column="4" filename="$USER_HOME$/Code/dreamsgem/routes/api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGEgaHJlZj0iP3R5cGU9b2dsaXZlIj5PRyBMaXZlPC9hPgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -999,63 +1018,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>thi</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdCgpLT5oYXMoJ3R5cGUnKSkgewogICAgICAgICAgICAkZGF0YSA9ICR0aGlzLT5sb2dpbignTG90dGVyeUdvJylbJ2RhdGEnXTsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCRkYXRhWyd1cmwnXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGEgaHJlZj0iP3R5cGU9b2dsaXZlIj5PRyBMaXZlPC9hPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OnJlc291cmNlKCcvdXNlcnMnLCAnQVBJL1VzZXJDb250cm9sbGVyJywgWwogICAgJ29ubHknID0+IFsnc3RvcmUnXSwKXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2F1dGg6YXBpJyktPmdldCgnL3VzZXInLCBmdW5jdGlvbiAoUmVxdWVzdCAkcmVxdWVzdCkgewogICAgcmV0dXJuICRyZXF1ZXN0LT51c2VyKCk7Cn0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0OwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHdpbmRvdy5sb2NhdGlvbiA9ICd7dXJsfSc7Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YXJyYXkoCgkJCSd1cmwnID0+ICRkYXRhLAoJCSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgQVBJIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciBBUEkgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGlzIGFzc2lnbmVkIHRoZSAiYXBpIiBtaWRkbGV3YXJlIGdyb3VwLiBFbmpveSBidWlsZGluZyB5b3VyIEFQSSEKfAoqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkdGhpcy0+bG9naW4oJ09yaWVuJylbJ2RhdGEnXTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZGF0YSA9ICR0aGlzLT5sb2dpbignT3JpZW50YWxHYW1lJylbJ2RhdGEnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVXNlciktPmdldFRhYmxlKCksCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJGNyZWRlbnRpYWxzCiAgICAgICAgICAgIF0KICAgICAgICApOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZGQoJHJlc3VsdClkCg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>thi</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>thi</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>12</last-replace>
       <last-substitute>thi</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry encoding="base64">PT4gXCguKlwpLA==</entry>
         <entry>json</entry>
         <entry>dd</entry>
@@ -1075,6 +1093,7 @@
         <entry>dump</entry>
         <entry>$</entry>
         <entry>thi</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywvcXdlL2c=</entry>
@@ -1095,8 +1114,8 @@
         <entry encoding="base64">JzwsJz5zLzA2LzEwL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzExLzEyL2c=</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
