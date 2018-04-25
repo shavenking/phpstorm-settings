@@ -222,11 +222,11 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524643346627">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="38" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524645306543">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="53" />
+        <mark key="." line="37" column="53" />
+        <mark key="^" line="37" column="53" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -899,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="134" column="12" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="122" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodSeeder.php" />
       <jump line="27" column="60" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositHanFu.php" />
@@ -999,10 +998,11 @@
       <jump line="5" column="90" filename="$USER_HOME$/Code/911/public/views/game/orientalgame.html" />
       <jump line="4" column="2" filename="$USER_HOME$/Code/dreamsgem/routes/api.php" />
       <jump line="3" column="4" filename="$USER_HOME$/Code/dreamsgem/routes/api.php" />
+      <jump line="60" column="4" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1018,46 +1018,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdCgpLT5oYXMoJ3R5cGUnKSkgewogICAgICAgICAgICAkZGF0YSA9ICR0aGlzLT5sb2dpbignTG90dGVyeUdvJylbJ2RhdGEnXTsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCRkYXRhWyd1cmwnXSk7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>assertUserExistsInDatabase</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfbWVyZ2UoJGNyZWRlbnRpYWxzLCBbCiAgICAgICAgICAgICAgICAncGFyZW50X2lkJyA9PiAkcGFyZW50VXNlci0+aWQsCiAgICAgICAgICAgIF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Um91dGU6OnJlc291cmNlKCcvdXNlcnMnLCAnQVBJL1VzZXJDb250cm9sbGVyJywgWwogICAgJ29ubHknID0+IFsnc3RvcmUnXSwKXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2F1dGg6YXBpJyktPmdldCgnL3VzZXInLCBmdW5jdGlvbiAoUmVxdWVzdCAkcmVxdWVzdCkgewogICAgcmV0dXJuICRyZXF1ZXN0LT51c2VyKCk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYXNzZXJ0VXNlckhhc1BhcmVudCgkY3JlZGVudGlhbHMsIFVzZXIgJHBhcmVudFVzZXIpCiAgICB7CiAgICAgICAgJHRoaXMtPgogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gYXNzZXJ0VXNlckhhc0NoaWxkKCRwYXJlbnRVc2VyLCBVc2VyICRjcmVkZW50aWFscykKICAgIHsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0OwoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VXNlckhhc1BhcmVudCgkY3JlZGVudGlhbHMsICRwYXJlbnRVc2VyKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0VXNlckhhc0NoaWxkKCRwYXJlbnRVc2VyLCAkY3JlZGVudGlhbHMpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgQVBJIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciBBUEkgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGlzIGFzc2lnbmVkIHRoZSAiYXBpIiBtaWRkbGV3YXJlIGdyb3VwLiBFbmpveSBidWlsZGluZyB5b3VyIEFQSSEKfAoqLwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gbWFrZUNyZWRlbnRpYWxzKCk6IGFycmF5CiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAkdGhpcy0+ZmFrZXItPmVtYWlsLAogICAgICAgICAgICAncGFzc3dvcmQnID0+ICR0aGlzLT5mYWtlci0+cGFzc3dvcmQKICAgICAgICBdOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IGFycmF5X21lcmdlKCR0aGlzLT5tYWtlQ3JlZGVudGlhbHMoKSwgWwogICAgICAgICAgICAncGFyZW50X2lkJyA9PiAkcGFyZW50VXNlci0+cGFyZW50X2lkCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVXNlciktPmdldFRhYmxlKCksCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJGNyZWRlbnRpYWxzCiAgICAgICAgICAgIF0KICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmFjdG9yeQo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRjcmVkZW50aWFsczsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
