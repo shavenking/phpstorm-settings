@@ -165,12 +165,12 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524639834745">
+      <file name="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" timestamp="1524641848574">
         <mark key="'" line="56" column="46" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="107" column="11" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="58" column="11" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Policies/ActivityPolicy.php" timestamp="1523154656305">
         <mark key="'" line="12" column="0" />
@@ -975,8 +975,8 @@
       <jump line="5" column="90" filename="$USER_HOME$/Code/911/public/views/game/orientalgame.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHdpbmRvdy5sb2NhdGlvbiA9ICd7dXJsfSc7Cjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>dd($result);</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -992,7 +992,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5hc3NpZ24oKQ==</text>
+        <text>dd($result);</text>
       </register>
       <register name="/" type="4">
         <text>thi</text>
