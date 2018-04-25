@@ -222,11 +222,12 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524647656691">
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="67" column="43" />
-        <mark key="." line="67" column="43" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524659723371">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="67" column="43" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -909,11 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="60" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositHanFu.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/common.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/en/auth.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/auth.php" />
-      <jump line="32" column="46" filename="$USER_HOME$/Code/pikachu/app/Mail/SendPassword.php" />
       <jump line="23" column="4" filename="$USER_HOME$/Code/pikachu/app/Mail/ApplicationApproved.php" />
       <jump line="26" column="41" filename="$USER_HOME$/Code/pikachu/app/Mail/ApplicationApproved.php" />
       <jump line="16" column="12" filename="$USER_HOME$/Code/pikachu/app/Mail/ApplicationApproved.php" />
@@ -1009,10 +1005,15 @@
       <jump line="60" column="4" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="38" column="48" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="64" column="76" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
+      <jump line="32" column="30" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
+      <jump line="5" column="33" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
+      <jump line="58" column="25" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
+      <jump line="59" column="26" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user does not have child</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly91c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcV2l0aEZha2VyOwovL3VzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cVGVzdGluZ1xEYXRhYmFzZVRyYW5zYWN0aW9uczsK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1031,60 +1032,59 @@
         <text>user does not have child</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>hash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5uZXN0ZWRTZXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmVudFVzZXItPmhhc0NoaWxkcmVuKAo=</text>
+        <text encoding="base64">Ly91c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcV2l0aEZha2VyOwovL3VzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cVGVzdGluZ1xEYXRhYmFzZVRyYW5zYWN0aW9uczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly91c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcSGFzaDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyZW50VXNlci0+aGFzQ2hpbGRyZW4oCiAgICAgICAgICAgIFVzZXI6OndoZXJlRW1haWwoZGF0YV9nZXQoJGNyZWRlbnRpYWxzLCAnZW1haWwnKSktPmZpcnN0T3JGYWlsKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">Ly91c2UgQXBwXFVzZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShVc2VyOjpmaW5kT3JGYWlsKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmVudFVzZXItPmhhc0NoaWxkcmVuKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VXNlcgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFyZW50VXNlci0+aGFzQ2hpbGRyZW4oCiAgICAgICAgICAgIFVzZXI6OndoZXJlRW1haWwoZGF0YV9nZXQoJGNyZWRlbnRpYWxzLCAnZW1haWwnKSktPmZpcnN0T3JGYWlsKCkKICAgICAgICApOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShVc2VyOjpmaW5kT3JGYWlsKCkpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmhhcygncGFyZW50X2lkJykpIHsKICAgICAgICAgICAgJHBhcmVudFVzZXIgPSBVc2VyOjpmaW5kT3JGYWlsKCRyZXF1ZXN0LT5wYXJlbnRfaWQpOwogICAgICAgIH0KICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VXNlcgo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmVudF9pZCcgPT4gaXNzZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>hash</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>hash</last-pattern>
       <last-replace>12</last-replace>
       <last-substitute>thi</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>dd</entry>
         <entry>lef</entry>
         <entry>me</entry>
@@ -1104,6 +1104,7 @@
         <entry>thi</entry>
         <entry>api</entry>
         <entry>find</entry>
+        <entry>hash</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywvcXdlL2c=</entry>
