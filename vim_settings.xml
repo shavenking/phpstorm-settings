@@ -410,6 +410,9 @@
         <mark key="." line="40" column="39" />
         <mark key="^" line="40" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1524620925171">
+        <mark key="'" line="15" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/DepositTest.php" timestamp="1522465916645">
         <mark key="'" line="25" column="39" />
         <mark key="[" line="38" column="20" />
@@ -501,7 +504,6 @@
         <mark key="^" line="82" column="18" />
         <mark key="." line="82" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/911/public/views/game/lotterygo.html" timestamp="1524573186316" />
       <file name="$USER_HOME$/Code/pikachu/app/User.php" timestamp="1523673001842">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="53" column="5" />
@@ -865,7 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="30" filename="$USER_HOME$/Code/pikachu/resources/views/dashboard/activity/show.blade.php" />
       <jump line="124" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="25" column="32" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
       <jump line="123" column="12" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositPeterTest.php" />
@@ -965,6 +966,7 @@
       <jump line="58" column="46" filename="$USER_HOME$/Code/911/xct/assoc/game/OrientalGame.php" />
       <jump line="68" column="66" filename="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" />
       <jump line="8" column="30" filename="$USER_HOME$/Code/911/xct/assoc/game/LotteryGo.php" />
+      <jump line="15" column="29" filename="$USER_HOME$/Code/dreamsgem/database/migrations/2014_10_12_000000_create_users_table.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
