@@ -97,12 +97,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/front/game.php" timestamp="1524642703072">
-        <mark key="[" line="169" column="19" />
-        <mark key="]" line="169" column="18" />
-        <mark key="." line="169" column="18" />
-        <mark key="^" line="169" column="18" />
-      </file>
       <file name="$USER_HOME$/Code/c-2/routes/web.php" timestamp="1515901820872">
         <mark key="'" line="65" column="86" />
         <mark key="[" line="43" column="65" />
@@ -261,12 +255,12 @@
         <mark key="." line="56" column="80" />
         <mark key="^" line="56" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/DragonController.php" timestamp="1524709968353">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/DragonController.php" timestamp="1524726286232">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1523670897228">
         <mark key="'" line="26" column="8" />
@@ -333,12 +327,12 @@
         <mark key="." line="31" column="66" />
         <mark key="^" line="31" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1524711121583">
-        <mark key="'" line="11" column="42" />
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="38" column="42" />
-        <mark key="^" line="38" column="42" />
-        <mark key="." line="38" column="42" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1524725971966">
+        <mark key="'" line="56" column="33" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="51" column="14" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/config/app.php" timestamp="1521635155296">
         <mark key="'" line="0" column="0" />
@@ -354,12 +348,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1524710544358">
-        <mark key="'" line="44" column="73" />
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="45" column="61" />
-        <mark key="." line="45" column="61" />
-        <mark key="^" line="45" column="61" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1524726199592">
+        <mark key="'" line="63" column="73" />
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="45" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1524067168973">
         <mark key="'" line="49" column="55" />
@@ -443,12 +437,6 @@
         <mark key="]" line="90" column="12" />
         <mark key="." line="88" column="43" />
         <mark key="^" line="88" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/FreezeUserTest.php" timestamp="1524662755863">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ClientTrait.php" timestamp="1523281698044">
         <mark key="[" line="47" column="0" />
@@ -755,11 +743,11 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/TreeController.php" timestamp="1524713614628">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="28" column="12" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/TreeController.php" timestamp="1524725905964">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Code/pay/payout-order-query.php" timestamp="1521908437929">
         <mark key="'" line="16" column="0" />
@@ -1013,9 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Code/paid-service/app/Merchant.php" />
-      <jump line="2" column="2" filename="$USER_HOME$/Code/paid-service/app/Merchant.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/paid-service/app/Merchant.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
       <jump line="48" column="40" filename="$USER_HOME$/Code/paid-service/database/seeds/GatewayMethodMerchantSeeder.php" />
       <jump line="32" column="31" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
@@ -1113,10 +1098,13 @@
       <jump line="11" column="9" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" />
       <jump line="20" column="27" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" />
       <jump line="28" column="51" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" />
+      <jump line="21" column="10" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/TreeController.php" />
+      <jump line="20" column="9" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/TreeController.php" />
+      <jump line="55" column="33" filename="$USER_HOME$/Code/dreamsgem/app/User.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dd(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlci0+ZHJhZ29uKCktPmZpcnN0T3JDcmVhdGUoWwogICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgIF0pOwoK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1132,55 +1120,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dd(</text>
+        <text encoding="base64">JHVzZXItPg==</text>
       </register>
       <register name="/" type="4">
-        <text>tree</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpyZXNvdXJjZSgndXNlcnMuZHJhZ29ucycsICdEcmFnb25Db250cm9sbGVyJywgWwogICAgICAgICdvbmx5JyA9PiBbJ3N0b3JlJ10sCiAgICBdKS0+bWlkZGxld2FyZShbJ2F1dGg6YXBpJywgJ3Njb3BlczpjcmVhdGUtZHJhZ29ucyddKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgRHJhZ29uKS0+Z2V0VGFibGUoKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyLT5pZAogICAgICAgICAgICBdCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdXNlci0+dHJlZXMoKS0+Y3JlYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+ZHJhZ29uKCktPmZpcnN0T3JDcmVhdGUoWwogICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgIF0pOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChEQjo6dGFibGUoKG5ldyBUcmVlKS0+Z2V0VGFibGUoKSkKICAgICAgICAgICAgLT5pbnNlcnQoCiAgICAgICAgICAgICAgICBEQjo6cmF3KAogICAgICAgICAgICAgICAgICAgIERCOjp0YWJsZSgobmV3IFRyZWUpLT5nZXRUYWJsZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAtPnNlbGVjdFJhdygkdXNlci0+aWQpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgICAgICAtPmhhdmluZyhmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCR1c2VyKSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCd1c2VyX2lkJywgJHVzZXItPmlkKTsKICAgICAgICAgICAgfSwgMiktPnRvU3FsKCkpOwovLyAgICAgICAgICAgIC0+aW5zZXJ0KFsndXNlcl9pZCcgPT4gJHVzZXItPmlkXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVSKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">MywgJz4nLCBmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCR1c2VyKSB7CiAgICAgICAgICAgICAgICBkZCgkcXVlcnktPndoZXJlKCd1c2VyX2lkJywgJHVzZXItPmlkKS0+Y291bnQoKS0+dG9TcWwoKSk7CiAgICAgICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKAogICAgICAgICAgICAgICAgKG5ldyBEcmFnb24pLT5nZXRUYWJsZSgpLAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdXNlci0+aWQKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5pbnNlcnQoWyd1c2VyX2lkJyA9PiAkdXNlci0+aWRdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHVzZXItPnRyZWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdHJlZVRhYmxlID0gKG5ldyBUcmVlKS0+Z2V0VGFibGUoKTsKCiAgICAgICAgLyoqCiAgICAgICAgICogSU5TRVJUIElOVE8gdHJlZXMgKHVzZXJfaWQpCiAgICAgICAgICogU0VMRUNUICR1c2VyLT5pZAogICAgICAgICAqIFdIRVJFIChTRUxFQ1QgQ09VTlQoKikgRlJPTSB0cmVlcyBXSEVSRSB1c2VyX2lkID0gJHVzZXItPmlkKSA8IDM7CiAgICAgICAgICovCiAgICAgICAgREI6Omluc2VydCgKICAgICAgICAgICAgREI6OnJhdygKICAgICAgICAgICAgICAgIGltcGxvZGUoJyAnLCBbCiAgICAgICAgICAgICAgICAgICAgIklOU0VSVCBJTlRPICR0cmVlVGFibGUgKHVzZXJfaWQpIiwKICAgICAgICAgICAgICAgICAgICAiU0VMRUNUIHskdXNlci0+aWR9IiwKICAgICAgICAgICAgICAgICAgICAiV0hFUkUgKFNFTEVDVCBDT1VOVCgqKSBGUk9NICR0cmVlVGFibGUgV0hFUkUgdXNlcl9pZCA9IHskdXNlci0+aWR9KSA8IDMiCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICApCiAgICAgICAgKTsKCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgRHJhZ29uKS0+Z2V0VGFibGUoKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyLT5pZAogICAgICAgICAgICBdCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBJTlNFUlQgSU5UTyB0cmVlcyAodXNlcl9pZCkKICAgICAgICAgKiBTRUxFQ1QgJHVzZXItPmlkCiAgICAgICAgICogV0hFUkUgKFNFTEVDVCBDT1VOVCgqKSBGUk9NIHRyZWVzIFdIRVJFIHVzZXJfaWQgPSAkdXNlci0+aWQpIDwgMzsKICAgICAgICAgKi8KICAgICAgICBEQjo6aW5zZXJ0KAogICAgICAgICAgICBEQjo6cmF3KAogICAgICAgICAgICAgICAgaW1wbG9kZSgnICcsIFsKICAgICAgICAgICAgICAgICAgICAiSU5TRVJUIElOVE8gJHRyZWVUYWJsZSAodXNlcl9pZCkiLAogICAgICAgICAgICAgICAgICAgICJTRUxFQ1QgeyR1c2VyLT5pZH0iLAogICAgICAgICAgICAgICAgICAgICJXSEVSRSAoU0VMRUNUIENPVU5UKCopIEZST00gJHRyZWVUYWJsZSBXSEVSRSB1c2VyX2lkID0geyR1c2VyLT5pZH0pIDwgMyIKICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgICkKICAgICAgICApOwo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdXNlci0+ZHJhZ29ucwogICAgICAgIGRkKCR1c2VyLT5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBJTlNFUlQgSU5UTyB0cmVlcyAodXNlcl9pZCkKICAgICAgICAgKiBTRUxFQ1QgJHVzZXItPmlkCiAgICAgICAgICogV0hFUkUgKFNFTEVDVCBDT1VOVCgqKSBGUk9NIHRyZWVzIFdIRVJFIHVzZXJfaWQgPSAkdXNlci0+aWQpIDwgMzsKICAgICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>39,44y</text>
       </register>
     </registers>
     <search>
-      <last-search>tree</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>tree</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>12</last-replace>
       <last-substitute>thi</last-substitute>
       <last-dir>1</last-dir>
@@ -1204,13 +1192,12 @@
         <entry>hash</entry>
         <entry>tr</entry>
         <entry>api</entry>
-        <entry>user</entry>
         <entry>sto</entry>
         <entry>dra</entry>
         <entry>tree</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1xbJy4qJywvcXdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywgL3F3ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywgJy4qJ1xdL3F3ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL1xbJ1woLipcKScsICcuKidcXS8kMS9n</entry>
@@ -1230,6 +1217,7 @@
         <entry encoding="base64">JzwsJz5zLzExLzEyL2c=</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>39,44y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
