@@ -119,12 +119,12 @@
         <mark key="." line="13" column="176" />
         <mark key="^" line="13" column="166" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1524643843375">
+      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1524706053619">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="2" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
@@ -245,6 +245,12 @@
         <mark key="." line="56" column="80" />
         <mark key="^" line="56" column="80" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/DragonController.php" timestamp="1524705946862">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1523670897228">
         <mark key="'" line="26" column="8" />
         <mark key="[" line="52" column="0" />
@@ -293,18 +299,24 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="17" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" timestamp="1524705681340">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1524664294496">
         <mark key="[" line="31" column="35" />
         <mark key="]" line="31" column="66" />
         <mark key="." line="31" column="66" />
         <mark key="^" line="31" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1524664110470">
-        <mark key="'" line="17" column="26" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="18" column="45" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1524705642204">
+        <mark key="'" line="19" column="45" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/config/app.php" timestamp="1521635155296">
         <mark key="'" line="0" column="0" />
@@ -313,11 +325,18 @@
         <mark key="^" line="210" column="15" />
         <mark key="." line="210" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/.env" timestamp="1524643430941">
+      <file name="$USER_HOME$/Code/dreamsgem/.env" timestamp="1524706103030">
+        <mark key="'" line="13" column="7" />
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1524705877278">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1524067168973">
         <mark key="'" line="49" column="55" />
@@ -823,6 +842,13 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/config/auth.php" timestamp="1524705744133">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+      </file>
       <file name="$USER_HOME$/Code/911/public/views/game/orientalgame.html" timestamp="1524642687823">
         <mark key="'" line="5" column="90" />
         <mark key="[" line="13" column="0" />
@@ -881,10 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="19" filename="$USER_HOME$/Code/pikachu/app/Mail/ApplicationApproved.php" />
-      <jump line="37" column="22" filename="$USER_HOME$/Code/pikachu/app/Mail/ApplicationApproved.php" />
-      <jump line="10" column="16" filename="$USER_HOME$/Code/pikachu/app/User.php" />
-      <jump line="23" column="37" filename="$USER_HOME$/Code/pikachu/resources/lang/en/auth.php" />
       <jump line="23" column="37" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/auth.php" />
       <jump line="12" column="19" filename="$USER_HOME$/Code/pikachu/resources/lang/zh-tw/common.php" />
       <jump line="31" column="34" filename="$USER_HOME$/Code/pikachu/.env" />
@@ -981,10 +1003,14 @@
       <jump line="17" column="26" filename="$USER_HOME$/Code/dreamsgem/app/User.php" />
       <jump line="37" column="51" filename="$USER_HOME$/Code/dreamsgem/tests/Unit/FreezeUserTest.php" />
       <jump line="32" column="8" filename="$USER_HOME$/Code/dreamsgem/tests/Unit/FreezeUserTest.php" />
+      <jump line="8" column="6" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" />
+      <jump line="18" column="45" filename="$USER_HOME$/Code/dreamsgem/app/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/dreamsgem/config/auth.php" />
+      <jump line="13" column="7" filename="$USER_HOME$/Code/dreamsgem/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>testFreeze</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cCgpCg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1000,55 +1026,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testFreeze</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>tr</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoWwogICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gQ2FyYm9uOjpub3coKS0+c3ViRGF5cyg4KQogICAgICAgIF0pOwoKICAgICAgICAvKiogQHZhciBGcmVlemVVc2VyICRqb2IgKi8KICAgICAgICAkam9iID0gYXBwKEZyZWV6ZVVzZXI6OmNsYXNzLCBjb21wYWN0KCd1c2VyJykpOwoKICAgICAgICAkam9iLT5oYW5kbGUoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKAogICAgICAgICAgICAobmV3IFVzZXIpLT5nZXRUYWJsZSgpLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnZW1haWwnID0+ICR1c2VyLT5lbWFpbCwKICAgICAgICAgICAgICAgICdmcm96ZW4nID0+IHRydWUKICAgICAgICAgICAgXQogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0Tm90RnJlZXplKCkKICAgIHsKICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoWwogICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gQ2FyYm9uOjpub3coKS0+c3ViRGF5cyg2KQogICAgICAgIF0pOwoKICAgICAgICAvKiogQHZhciBGcmVlemVVc2VyICRqb2IgKi8KICAgICAgICAkam9iID0gYXBwKEZyZWV6ZVVzZXI6OmNsYXNzLCBjb21wYWN0KCd1c2VyJykpOwoKICAgICAgICAkam9iLT5oYW5kbGUoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKAogICAgICAgICAgICAobmV3IFVzZXIpLT5nZXRUYWJsZSgpLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnZW1haWwnID0+ICR1c2VyLT5lbWFpbCwKICAgICAgICAgICAgICAgICdmcm96ZW4nID0+IGZhbHNlCiAgICAgICAgICAgIF0KICAgICAgICApOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwaScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0c0pvYnMoRnJlZXplVXNlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQYXNzcG9ydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRpc3BhdGNoKG5ldyBGcmVlemVVc2VyKCR1c2VyKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGEK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0QnV5RHJhZ29uKCkKICAgIHsKICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKCiAgICAgICAgJHRoaXMtPmpzb24oJ1BPU1QnLCAiL2FwaS91c2Vycy97JHVzZXItPmlkfS9kcmFnb25zIik7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dXNlci0+ZHJhZ29uKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+      <register name="7" type="4">
+        <text>[
+            Hash::make()
+        ]</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHVzZXItPmNyZWF0ZWRfYXQtPikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>tr</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>tr</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>12</last-replace>
       <last-substitute>thi</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,10 +1100,10 @@
         <entry>dump</entry>
         <entry>$</entry>
         <entry>thi</entry>
-        <entry>api</entry>
         <entry>find</entry>
         <entry>hash</entry>
         <entry>tr</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbJy4qJywvcXdlL2c=</entry>
