@@ -119,12 +119,12 @@
         <mark key="." line="13" column="176" />
         <mark key="^" line="13" column="166" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1524706053619">
+      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1524706782083">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
@@ -245,11 +245,11 @@
         <mark key="." line="56" column="80" />
         <mark key="^" line="56" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/DragonController.php" timestamp="1524705946862">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/DragonController.php" timestamp="1524706797834">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/views/welcome.blade.php" timestamp="1523670897228">
         <mark key="'" line="26" column="8" />
@@ -332,11 +332,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1524705877278">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="28" column="9" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1524706822345">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1524067168973">
         <mark key="'" line="49" column="55" />
@@ -1009,8 +1009,8 @@
       <jump line="13" column="7" filename="$USER_HOME$/Code/dreamsgem/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpncm91cCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'create-dragons'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1026,7 +1026,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'create-dragons'</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
@@ -1035,39 +1035,39 @@
         <text encoding="base64">ICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoWwogICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gQ2FyYm9uOjpub3coKS0+c3ViRGF5cyg4KQogICAgICAgIF0pOwoKICAgICAgICAvKiogQHZhciBGcmVlemVVc2VyICRqb2IgKi8KICAgICAgICAkam9iID0gYXBwKEZyZWV6ZVVzZXI6OmNsYXNzLCBjb21wYWN0KCd1c2VyJykpOwoKICAgICAgICAkam9iLT5oYW5kbGUoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKAogICAgICAgICAgICAobmV3IFVzZXIpLT5nZXRUYWJsZSgpLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnZW1haWwnID0+ICR1c2VyLT5lbWFpbCwKICAgICAgICAgICAgICAgICdmcm96ZW4nID0+IHRydWUKICAgICAgICAgICAgXQogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpncm91cCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBQYXNzcG9ydDo6YWN0aW5nQXMoCiAgICAgICAgICAgICR1c2VyID0gZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpLAogICAgICAgICAgICBbJ2NyZWF0ZS1kcmFnb25zJ10KICAgICAgICApOwoKICAgICAgICAkdGhpcwogICAgICAgICAgICAtPmpzb24oJ1BPU1QnLCAiL2FwaS91c2Vycy97JHVzZXItPmlkfS9kcmFnb25zIikKICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoMjAxKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKAogICAgICAgICAgICAobmV3IERyYWdvbiktPmdldFRhYmxlKCksCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdXNlci0+aWQKICAgICAgICAgICAgXQogICAgICAgICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwaScK</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYXNzcG9ydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwaScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQYXNzcG9ydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0QnV5RHJhZ29uKCkKICAgIHsKICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKCiAgICAgICAgJHRoaXMtPmpzb24oJ1BPU1QnLCAiL2FwaS91c2Vycy97JHVzZXItPmlkfS9kcmFnb25zIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0QnV5RHJhZ29uKCkKICAgIHsKICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKCiAgICAgICAgJHRoaXMtPmpzb24oJ1BPU1QnLCAiL2FwaS91c2Vycy97JHVzZXItPmlkfS9kcmFnb25zIik7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-            Hash::make()
-        ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aAo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>[
+            Hash::make()
+        ]</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
