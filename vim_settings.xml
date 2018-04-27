@@ -477,6 +477,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/app/Jobs/DailySettlement.php" timestamp="1524814124079">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="32" column="8" />
+        <mark key="^" line="34" column="9" />
+        <mark key="." line="32" column="8" />
+      </file>
       <file name="$USER_HOME$/Code/c-2/app/User.php" timestamp="1515902647809">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="40" column="22" />
@@ -1106,8 +1112,8 @@
       <jump line="18" column="9" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/DailySettlementTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcUXVldWVcUXVldWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dd(</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1123,7 +1129,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>dd(</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
