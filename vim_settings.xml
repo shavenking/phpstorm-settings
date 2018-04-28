@@ -252,11 +252,12 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524906336177">
-        <mark key="'" line="71" column="7" />
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="55" column="33" />
-        <mark key="." line="55" column="33" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1524912070139">
+        <mark key="'" line="72" column="7" />
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="42" />
+        <mark key="^" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -332,12 +333,11 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" timestamp="1524905965675">
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" timestamp="1524912106400">
         <mark key="'" line="21" column="7" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" timestamp="1524905659535">
         <mark key="[" line="30" column="49" />
@@ -780,12 +780,12 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" timestamp="1524905618796">
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" timestamp="1524911793900">
         <mark key="'" line="28" column="51" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="43" />
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/database/migrations/2018_03_16_105305_create_ticket_types_table.php" timestamp="1521198700563">
         <mark key="'" line="6" column="6" />
@@ -1167,7 +1167,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRleHBlY3RlZFN0YXR1c0NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1192,37 +1192,37 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0c0pvYnMoRnJlZXplVXNlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRleHBlY3RlZFN0YXR1c0NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmVudCA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRleHBlY3RlZFN0YXR1c0NvZGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0c0pvYnMoRnJlZXplVXNlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHVzZXIpIHsKICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0c0pvYnMoRnJlZXplVXNlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNoaWxkQWNjb3VudCA9ICR1c2VyLT5jaGlsZEFjY291bnRzKCktPmNyZWF0ZShbCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ2RyZWFtc2dlbScsCiAgICAgICAgICAgICAgICAnZW1haWwnID0+ICRmYWtlci0+dW5pcXVlKCktPnNhZmVFbWFpbCwKICAgICAgICAgICAgICAgICdwYXNzd29yZCcgPT4gSGFzaDo6bWFrZSgkZmFrZXItPnBhc3N3b3JkKSwKICAgICAgICAgICAgICAgICdmcm96ZW4nID0+IGZhbHNlLAogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hcHBlbmROb2RlKCRjaGlsZEFjY291bnQpOwoKICAgICAgICAgICAgRnJlZXplVXNlcjo6ZGlzcGF0Y2goJGNoaWxkQWNjb3VudCktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZERheXMoNykpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHVzZXIpIHsKICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNoaWxkQWNjb3VudCA9ICR1c2VyLT5jaGlsZEFjY291bnRzKCktPmNyZWF0ZShbCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ2RyZWFtc2dlbScsCiAgICAgICAgICAgICAgICAnZW1haWwnID0+ICRmYWtlci0+dW5pcXVlKCktPnNhZmVFbWFpbCwKICAgICAgICAgICAgICAgICdwYXNzd29yZCcgPT4gSGFzaDo6bWFrZSgkZmFrZXItPnBhc3N3b3JkKSwKICAgICAgICAgICAgICAgICdmcm96ZW4nID0+IGZhbHNlLAogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgICR1c2VyLT5hcHBlbmROb2RlKCRjaGlsZEFjY291bnQpOwoKICAgICAgICAgICAgRnJlZXplVXNlcjo6ZGlzcGF0Y2goJGNoaWxkQWNjb3VudCktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZERheXMoNykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
