@@ -403,12 +403,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1524966745882">
-        <mark key="'" line="40" column="29" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="47" />
-        <mark key="." line="48" column="29" />
-        <mark key="^" line="48" column="29" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1525007736260">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1524990643439">
         <mark key="'" line="49" column="55" />
@@ -1064,7 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/DailySettlementTest.php" />
       <jump line="17" column="44" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/DailySettlementTest.php" />
       <jump line="11" column="22" filename="$USER_HOME$/Code/dreamsgem/database/factories/TreeFactory.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/dreamsgem/database/factories/TreeFactory.php" />
@@ -1164,10 +1163,11 @@
       <jump line="998" column="0" filename="$USER_HOME$/Code/dreamsgem/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="25" column="27" filename="$USER_HOME$/Code/dreamsgem/tests/OperationHistoryAssertTrait.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/OperationHistoryAssertTrait.php" />
+      <jump line="26" column="8" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdGhpcwo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1192,37 +1192,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBqc29uU2VyaWFsaXplKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChPcGVyYXRpb25IaXN0b3J5OjpmaXJzdCgpLT50b0FycmF5KCksICRtb2RlbC0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdGhpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChPcGVyYXRpb25IaXN0b3J5OjpmaXJzdCgpLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChPcGVyYXRpb25IaXN0b3J5OjpmaXJzdCgpLT50b0FycmF5KCksICRtb2RlbC0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChPcGVyYXRpb25IaXN0b3J5OjpmaXJzdCgpLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24ganNvblNlcmlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGlzcGF0Y2hlc0V2ZW50cyA9IFsKICAgICAgICAnY3JlYXRlZCcgPT4gVXNlckNyZWF0ZWQ6OmNsYXNzLAogICAgXTsKCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24ganNvblNlcmlhbGl6ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGlzcGF0Y2hlc0V2ZW50cyA9IFsKICAgICAgICAnY3JlYXRlZCcgPT4gVXNlckNyZWF0ZWQ6OmNsYXNzLAogICAgXTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKAogICAgICAgICAgICAkbW9kZWwtPnRvSnNvbigpLAogICAgICAgICAgICAkbW9kZWwtPm5ld0luc3RhbmNlKCktPmZvcmNlRmlsbCgkb3BlcmF0aW9uSGlzdG9yeS0+cmVzdWx0X2RhdGEpLT50b0pzb24oKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGlzcGF0Y2hlc0V2ZW50cyA9IFsKICAgICAgICAnY3JlYXRlZCcgPT4gVXNlckNyZWF0ZWQ6OmNsYXNzLAogICAgXTsKCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgT3BlcmF0aW9uSGlzdG9yeSktPmdldFRhYmxlKCksCiAgICAgICAgICAgIFsKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKAogICAgICAgICAgICAkbW9kZWwtPnRvSnNvbigpLAogICAgICAgICAgICAkbW9kZWwtPm5ld0luc3RhbmNlKCktPmZvcmNlRmlsbCgkb3BlcmF0aW9uSGlzdG9yeS0+cmVzdWx0X2RhdGEpLT50b0pzb24oKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgT3BlcmF0aW9uSGlzdG9yeSktPmdldFRhYmxlKCksCiAgICAgICAgICAgIFsKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
