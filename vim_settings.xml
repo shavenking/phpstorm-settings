@@ -284,11 +284,11 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1525080897780">
-        <mark key="[" line="76" column="57" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="76" column="67" />
-        <mark key="^" line="76" column="67" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1525087832506">
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="99" column="41" />
+        <mark key="." line="99" column="41" />
+        <mark key="^" line="89" column="40" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -398,12 +398,12 @@
         <mark key="." line="33" column="45" />
         <mark key="^" line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525080899625">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="93" column="43" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="87" column="37" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525087896706">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="89" column="31" />
+        <mark key="]" line="90" column="36" />
+        <mark key="." line="90" column="36" />
+        <mark key="^" line="90" column="36" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1525075815650">
         <mark key="'" line="16" column="34" />
@@ -1293,7 +1293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>childAccount</text>
+        <text>'dreamsgem'</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1309,7 +1309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>childAccount</text>
+        <text>'dreamsgem'</text>
       </register>
       <register name="/" type="4">
         <text>paren</text>
@@ -1318,37 +1318,37 @@
         <text>createUserFromChildAccount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnID0+IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY2hpbGRBY2NvdW50ID0gVXNlcjo6ZmluZE9yRmFpbCgkcmVxdWVzdC0+Y2hpbGRfYWNjb3VudF9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkY2hpbGRBY2NvdW50LT5yZWZyZXNoKCktPmVtYWlsLAogICAgICAgICAgICAncGFzc3dvcmQnID0+IGRhdGFfZ2V0KCRjcmVkZW50aWFscywgJ3Bhc3N3b3JkJyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGcmVlemVVc2VyOjpkaXNwYXRjaCgkdXNlciktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZERheXMoNykpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnID0+IG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zc2libGVQYXJlbnRzID0gY29sbGVjdChbJHBhcmVudFVzZXJdKTsKCiAgICAgICAgd2hpbGUgKCRwb3NzaWJsZVBhcmVudCA9ICRwb3NzaWJsZVBhcmVudHMtPnNoaWZ0KCkpIHsKICAgICAgICAgICAgJGNoaWxkcmVuID0gJHBvc3NpYmxlUGFyZW50LT5jaGlsZHJlbigpLT5nZXQoKTsKCiAgICAgICAgICAgIGlmICgkY2hpbGRyZW4tPmNvdW50KCkgPT09IFVzZXI6Ok1BWF9DSElMRFJFTl9GT1JfT05FX1VTRVIpIHsKICAgICAgICAgICAgICAgICRwb3NzaWJsZVBhcmVudHMgPSAkcG9zc2libGVQYXJlbnRzLT5tZXJnZSgkY2hpbGRyZW4pOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgICRwb3NzaWJsZVBhcmVudC0+YXBwZW5kTm9kZSgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2hpbGRBY2NvdW50ID0gVXNlcjo6ZmluZE9yRmFpbCgkcmVxdWVzdC0+Y2hpbGRfYWNjb3VudF9pZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmNyZWF0ZShbCiAgICAgICAgICAgICduYW1lJyA9PiAnZHJlYW1zZ2VtJywKICAgICAgICAgICAgJ2Zyb3plbicgPT4gZmFsc2UsCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGcmVlemVVc2VyOjpkaXNwYXRjaCgkdXNlciktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZERheXMoNykpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+ZW1haWwsCiAgICAgICAgICAgICdwYXNzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+ZW1haWwsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gSGFzaDo6bWFrZSgkcmVxdWVzdC0+cGFzc3dvcmQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAkcG9zc2libGVQYXJlbnRzID0gY29sbGVjdChbJHBhcmVudFVzZXJdKTsKCiAgICAgICAgd2hpbGUgKCRwb3NzaWJsZVBhcmVudCA9ICRwb3NzaWJsZVBhcmVudHMtPnNoaWZ0KCkpIHsKICAgICAgICAgICAgJGNoaWxkcmVuID0gJHBvc3NpYmxlUGFyZW50LT5jaGlsZHJlbigpLT5nZXQoKTsKCiAgICAgICAgICAgIGlmICgkY2hpbGRyZW4tPmNvdW50KCkgPT09IFVzZXI6Ok1BWF9DSElMRFJFTl9GT1JfT05FX1VTRVIpIHsKICAgICAgICAgICAgICAgICRwb3NzaWJsZVBhcmVudHMgPSAkcG9zc2libGVQYXJlbnRzLT5tZXJnZSgkY2hpbGRyZW4pOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgICRwb3NzaWJsZVBhcmVudC0+YXBwZW5kTm9kZSgkdXNlcik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmNyZWF0ZShbCiAgICAgICAgICAgICduYW1lJyA9PiAnZHJlYW1zZ2VtJywKICAgICAgICAgICAgJ2Zyb3plbicgPT4gZmFsc2UsCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
