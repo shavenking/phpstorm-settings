@@ -248,6 +248,12 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1525096571640">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="75" column="9" />
@@ -350,6 +356,12 @@
         <mark key="^" line="39" column="45" />
         <mark key="." line="39" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/JSONQRResponseHandler.php" timestamp="1525096292622">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="28" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/database/seeds/MockDataForTestingApplications.php" timestamp="1522150750796">
         <mark key="'" line="154" column="12" />
         <mark key="[" line="170" column="24" />
@@ -426,12 +438,12 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525093620990">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525096587059">
         <mark key="'" line="37" column="19" />
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
-        <mark key="^" line="38" column="35" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" timestamp="1524064847180">
         <mark key="'" line="19" column="12" />
@@ -613,12 +625,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1525092562622">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="155" column="3" />
+      <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" timestamp="1525096357125">
+        <mark key="'" line="229" column="68" />
+        <mark key="[" line="125" column="64" />
+        <mark key="]" line="125" column="64" />
+        <mark key="." line="125" column="64" />
+        <mark key="^" line="125" column="92" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler.php" timestamp="1522389959652">
         <mark key="'" line="7" column="24" />
@@ -1099,13 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="69" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="170" column="56" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="185" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="220" column="35" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="222" column="13" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="212" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="23" column="5" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="77" column="13" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="37" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
       <jump line="51" column="51" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
@@ -1199,10 +1204,17 @@
       <jump line="166" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
       <jump line="114" column="70" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
       <jump line="37" column="19" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
+      <jump line="127" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="229" column="68" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
+      <jump line="57" column="39" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="9" column="1" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>|active_url</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1218,63 +1230,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>|active_url</text>
       </register>
       <register name="/" type="4">
-        <text>parent_id</text>
+        <text>JsWindowLocationResponseHandler::class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHJlc3BvbnNlRGF0YVsnc3RhdHVzJ10sIFtPcmRlcjo6U1RBVFVTX0NSRUFURUQsIE9yZGVyOjpTVEFUVVNfUEVORElOR10sIHRydWUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2tleU5hbWUnID0+ICdxcmNvZGVfdXJsJywKICAgICAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT3JkZXI6OlNUQVRVU19TVUNDRVNTID09PSAkcmVzcG9uc2VEYXRhWydzdGF0dXMnXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmRlY29kZVJlc3BvbnNlSnNvbigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBhcHAoCiAgICAgICAgICAgICR0aGlzLT5nZXRSZXNwb25zZUhhbmRsZXIoKVskZGVwb3NpdC0+bWV0aG9kLT5jb2RlXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2tleU5hbWUnID0+ICdxcmNvZGVfdXJsJywKICAgICAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgICAgICBdCiAgICAgICAgKS0+aGFuZGxlKCRyZXNwb25zZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">YXBwKAogICAgICAgICAgICAkdGhpcy0+Z2V0UmVzcG9uc2VIYW5kbGVyKClbJGRlcG9zaXQtPm1ldGhvZC0+Y29kZV0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdrZXlOYW1lJyA9PiAncXJjb2RlX3VybCcsCiAgICAgICAgICAgICAgICAncXVlcnlQYXJhbWV0ZXJOYW1lJyA9PiAndXJsJywKICAgICAgICAgICAgXQogICAgICAgICk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdrZXlOYW1lJyA9PiAncXJjb2RlX3VybCcsCiAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZG93bmxpbmVzID0gJGRvd25saW5lcy0+bWFwKGZ1bmN0aW9uICgkZG93bmxpbmUpIHsKICAgICAgICAgICAgcmV0dXJuICRkb3dubGkKICAgICAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0Q2hpbGRyZW4oKQogICAgewogICAgICAgIAogICAgICAgICR0aGlzLT5qc29uKCdHRVQnLCAiL2FwaS91c2Vycy97JHVzZXItPmlkfS9jaGlsZHJlbiIpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHJlc3BvbnNlSGFuZGxlciA9IFsKICAgICAgICAnV0VCX0JBTktfQ0NCJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfQUJDJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0JPQycgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX1NQREInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19DRUInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19QQUInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19DSUInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19QU0JDJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfQ05DQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0hYQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0NNQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0dEQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0NNQkMnID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19DT01NJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfQk9CJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfU0NTQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1FSX0FMSVBBWScgPT4gSlNPTlFSUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnUVJfV0VDSEFUJyA9PiBKU09OUVJSZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdRUl9RUScgPT4gSlNPTlFSSW5RdWVyeVJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dBUF9BTElQQVknID0+IEpTT05RUlJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dBUF9XRUNIQVQnID0+IEpTT05RUlJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICBdOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCiAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT3JkZXI6OlNUQVRVU19TVUNDRVNTID09PSAkcmVzcG9uc2VEYXRhWydzdGF0dXMnXSkgewo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCiAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKCk7CiAgICAgICAgCiAgICAgICAgLyoqIEB2YXIgVXNlciAkY2hpbGQgKi8KICAgICAgICAkY2hpbGQgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+dGltZXMoNyktPmNyZWF0ZSgpLT5lYWNoKGZ1bmN0aW9uICgkY2hpbGQpIHVzZSAoJHVzZXIpIHsKICAgICAgICAgICAgJHVzZXItPmFwcGVuZE5vZGUoJGNoaWxkKTsKICAgICAgICB9KS0+Zmlyc3QoKTsKICAgICAgICAKICAgICAgICAkY2hpbGQtPmFwcGVuZE5vZGUoCiAgICAgICAgICAgIGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIsCg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0Q2hpbGRyZW4oKQogICAgewogICAgICAgIC8qKiBAdmFyIFVzZXIgJHVzZXIgKi8KICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKICAgICAgICAKICAgICAgICAvKiogQHZhciBVc2VyICRjaGlsZCAqLwogICAgICAgICRjaGlsZCA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT50aW1lcyg3KS0+Y3JlYXRlKCktPmVhY2goZnVuY3Rpb24gKCRjaGlsZCkgdXNlICgkdXNlcikgewogICAgICAgICAgICAkdXNlci0+YXBwZW5kTm9kZSgkY2hpbGQpOwogICAgICAgIH0pLT5maXJzdCgpOwogICAgICAgIAogICAgICAgICRjaGlsZC0+YXBwZW5kTm9kZSgKICAgICAgICAgICAgZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpCiAgICAgICAgKTsKICAgICAgICAKICAgICAgICAkdGhpcy0+anNvbignR0VUJywgIi9hcGkvdXNlcnMveyR1c2VyLT5pZH0vY2hpbGRyZW4iKQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>parent_id</last-search>
+      <last-search>JsWindowLocationResponseHandler::class</last-search>
       <last-offset />
-      <last-pattern>parent_id</last-pattern>
-      <last-replace>$downline</last-replace>
-      <last-substitute>$user</last-substitute>
+      <last-pattern>JsWindowLocationResponseHandler::class</last-pattern>
+      <last-replace>app(JsWindowLocationResponseHandler::class)</last-replace>
+      <last-substitute>JsWindowLocationResponseHandler::class</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>17</entry>
         <entry>insertOrUpdate</entry>
         <entry>gems</entry>
         <entry>bcmo</entry>
@@ -1294,9 +1305,9 @@
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>$user</entry>
         <entry>parent_id</entry>
+        <entry>JsWindowLocationResponseHandler::class</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry encoding="base64">JzwsJz5zLzA2LzEwL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzExLzEyL2c=</entry>
@@ -1315,6 +1326,7 @@
         <entry>Noh</entry>
         <entry encoding="base64">JzwsJz5zLyR1c2VyLyRjaGlsZEFjY291bnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyR1c2VyLyRkb3dubGluZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL0pzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzL2FwcChKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcykvZw==</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
