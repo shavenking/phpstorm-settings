@@ -392,12 +392,12 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" timestamp="1524966950847">
+      <file name="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" timestamp="1525072736544">
         <mark key="'" line="31" column="24" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="42" />
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="33" column="48" />
+        <mark key="." line="33" column="48" />
+        <mark key="^" line="33" column="48" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525071901153">
         <mark key="'" line="42" column="0" />
