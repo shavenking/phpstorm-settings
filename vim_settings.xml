@@ -10,11 +10,6 @@
         <mark key="^" line="169" column="11" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1524709260710">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Events/UserUpdated.php" timestamp="1525069751470">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="44" column="44" />
@@ -156,12 +151,12 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1525069392076">
-        <mark key="'" line="15" column="3" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/Code/dreamsgem/routes/api.php" timestamp="1525089902483">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/libraries/Tools.php" timestamp="1519648714621">
         <mark key="'" line="79" column="27" />
@@ -169,11 +164,6 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
         <mark key="^" line="524" column="49" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/database/seeds/UsersTableSeeder.php" timestamp="1523410985153">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/app/Http/Controllers/Auth/RegisterController.php" timestamp="1522500654210">
         <mark key="'" line="16" column="0" />
@@ -258,12 +248,6 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1525054946572">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="75" column="9" />
@@ -284,11 +268,11 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1525087832506">
-        <mark key="[" line="99" column="41" />
-        <mark key="]" line="99" column="41" />
-        <mark key="." line="99" column="41" />
-        <mark key="^" line="89" column="40" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" timestamp="1525091286159">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/tests/Feature/WithdrawTest.php" timestamp="1522463537587">
         <mark key="'" line="92" column="0" />
@@ -331,11 +315,6 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Curl.php" timestamp="1524129456243">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/pay/range-datetime.php" timestamp="1521907904381">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="8" column="18" />
@@ -350,12 +329,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="54" column="98" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/ChildAccountTest.php" timestamp="1525005419567">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="54" column="9" />
-        <mark key="." line="54" column="9" />
-        <mark key="^" line="54" column="9" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/ChildAccountTest.php" timestamp="1525090596691">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/config/laravellocalization.php" timestamp="1521636677403">
         <mark key="'" line="249" column="8" />
@@ -384,12 +363,12 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" timestamp="1525005690088">
-        <mark key="'" line="24" column="7" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" timestamp="1525090087884">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="60" />
+        <mark key="^" line="25" column="60" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" timestamp="1525080058281">
         <mark key="'" line="31" column="24" />
@@ -398,19 +377,19 @@
         <mark key="." line="33" column="45" />
         <mark key="^" line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525087896706">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="89" column="31" />
-        <mark key="]" line="90" column="36" />
-        <mark key="." line="90" column="36" />
-        <mark key="^" line="90" column="36" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525091319750">
+        <mark key="'" line="34" column="64" />
+        <mark key="[" line="64" column="49" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+        <mark key="^" line="64" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1525075815650">
+      <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1525090302882">
         <mark key="'" line="16" column="34" />
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+        <mark key="[" line="112" column="30" />
+        <mark key="]" line="112" column="31" />
+        <mark key="." line="112" column="31" />
+        <mark key="^" line="51" column="5" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Providers/EventServiceProvider.php" timestamp="1525069766485">
         <mark key="'" line="27" column="19" />
@@ -510,17 +489,16 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ShouldProxy.php" timestamp="1523706964873">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/UserTest.php" timestamp="1525091130524">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="52" />
+        <mark key="." line="53" column="52" />
+        <mark key="^" line="53" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/UserTest.php" timestamp="1525069655635">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="44" column="9" />
-        <mark key="^" line="44" column="9" />
+      <file name="$USER_HOME$/Code/dreamsgem/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1525089330676">
+        <mark key="[" line="1579" column="20" />
+        <mark key="]" line="1579" column="34" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" timestamp="1519302027952">
         <mark key="'" line="89" column="39" />
@@ -534,11 +512,6 @@
         <mark key="]" line="23" column="7" />
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ClientTrait.php" timestamp="1523281698044">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/AuthController.php" timestamp="1515898032057">
         <mark key="'" line="76" column="0" />
@@ -554,27 +527,12 @@
         <mark key="." line="5" column="53" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/layouts/dashboard.blade.php" timestamp="1523670927141">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/dreamsgem/vendor/laravel/passport/src/Http/Middleware/CheckScopes.php" timestamp="1524709272214">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/pikachu/app/TicketType.php" timestamp="1523009737020">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="13" column="50" />
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Jobs/DailySettlement.php" timestamp="1524831871444">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/User.php" timestamp="1515902647809">
         <mark key="'" line="7" column="6" />
@@ -602,11 +560,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="40" column="44" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Listeners/CreateOperationHistory.php" timestamp="1525051931886">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1524905188306">
         <mark key="'" line="15" column="29" />
@@ -653,11 +606,6 @@
         <mark key="]" line="28" column="22" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/paid-service/app/Gateway/ResponseHandler/AutoSubmitFormResponseHandler.php" timestamp="1523713149854">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/.env" timestamp="1525055013591">
         <mark key="[" line="3" column="10" />
@@ -722,11 +670,6 @@
         <mark key="]" line="9" column="65" />
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="73" />
-      </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/OperationHistory.php" timestamp="1525010856583">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Events/WalletUpdated.php" timestamp="1525051808955">
         <mark key="[" line="21" column="62" />
@@ -850,11 +793,6 @@
         <mark key="." line="75" column="77" />
         <mark key="^" line="71" column="110" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/admin/branch/form_branch.php" timestamp="1524117508316">
-        <mark key="[" line="180" column="120" />
-        <mark key="]" line="180" column="120" />
-        <mark key="." line="180" column="120" />
-      </file>
       <file name="$USER_HOME$/Code/uny_dev/home/cn/application/models/Radar_account_model.php" timestamp="1519563014158">
         <mark key="'" line="39" column="50" />
         <mark key="[" line="40" column="38" />
@@ -868,11 +806,6 @@
         <mark key="]" line="72" column="85" />
         <mark key="^" line="72" column="85" />
         <mark key="." line="72" column="85" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/dashboard/departure-notice/edit.blade.php" timestamp="1523453255294">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/lang/en/activities.php" timestamp="1523190718891">
         <mark key="'" line="30" column="17" />
@@ -943,11 +876,6 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" timestamp="1524193391715">
-        <mark key="[" line="122" column="35" />
-        <mark key="]" line="122" column="35" />
-        <mark key="." line="122" column="35" />
-      </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1524066182892">
         <mark key="[" line="40" column="60" />
         <mark key="]" line="40" column="60" />
@@ -1013,11 +941,6 @@
         <mark key="]" line="11" column="37" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/pikachu/resources/views/activity/show.blade.php" timestamp="1523670940010">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/resources/views/withdraw/create.blade.php" timestamp="1523449452991">
         <mark key="'" line="61" column="20" />
@@ -1109,17 +1032,6 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/report/LotteryGo.php" timestamp="1524103109453">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/dreamsgem/database/factories/TreeFactory.php" timestamp="1524968841333">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/dreamsgem/config/auth.php" timestamp="1524705744133">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="25" />
@@ -1183,22 +1095,8 @@
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/routes/web.php" timestamp="1524830286008">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="90" column="8" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="150" column="44" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="149" column="54" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="148" column="52" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="147" column="54" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="146" column="55" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="145" column="53" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="144" column="49" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="128" column="18" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="111" column="8" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="104" column="27" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
@@ -1288,12 +1186,21 @@
       <jump line="53" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
       <jump line="92" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
-      <jump line="33" column="54" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
       <jump line="91" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
+      <jump line="34" column="16" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/ChildAccountTest.php" />
+      <jump line="33" column="42" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
+      <jump line="25" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
+      <jump line="49" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
+      <jump line="37" column="7" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/UserTest.php" />
+      <jump line="38" column="16" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/UserTest.php" />
+      <jump line="33" column="21" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
+      <jump line="34" column="64" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'dreamsgem'</text>
+        <text>parent_id</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1309,65 +1216,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'dreamsgem'</text>
+        <text>parent_id</text>
       </register>
       <register name="/" type="4">
-        <text>paren</text>
+        <text>parent_id</text>
       </register>
-      <register name="0" type="4">
-        <text>createUserFromChildAccount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpZCcgPT4gJHVzZXItPmlkLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICR1c2VyLT5uYW1lLAogICAgICAgICAgICAgICAgJ2VtYWlsJyA9PiAkdXNlci0+ZW1haWwsCiAgICAgICAgICAgICAgICAnZnJvemVuJyA9PiAkdXNlci0+ZnJvemVuLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+ICR1c2VyLT5jcmVhdGVkX2F0LT50b0RhdGVUaW1lU3RyaW5nKCksCiAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gJHVzZXItPnVwZGF0ZWRfYXQtPnRvRGF0ZVRpbWVTdHJpbmcoKSwKICAgICAgICAgICAgICAgICdpc19jaGlsZF9hY2NvdW50JyA9PiAkdXNlci0+dXNlcl9pZCAhPT0gbnVsbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkY2hpbGRBY2NvdW50LT5yZWZyZXNoKCktPmVtYWlsLAogICAgICAgICAgICAncGFzc3dvcmQnID0+IGRhdGFfZ2V0KCRjcmVkZW50aWFscywgJ3Bhc3N3b3JkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnID0+IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAkZG93bmxpbmVzID0gJGRvd25saW5lcy0+bWFwKGZ1bmN0aW9uICgkZG93bmxpbmUpIHsKICAgICAgICAgICAgcmV0dXJuICRkb3dubGkKICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY2hpbGRBY2NvdW50ID0gVXNlcjo6ZmluZE9yRmFpbCgkcmVxdWVzdC0+Y2hpbGRfYWNjb3VudF9pZCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0Q2hpbGRyZW4oKQogICAgewogICAgICAgIAogICAgICAgICR0aGlzLT5qc29uKCdHRVQnLCAiL2FwaS91c2Vycy97JHVzZXItPmlkfS9jaGlsZHJlbiIpCiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGcmVlemVVc2VyOjpkaXNwYXRjaCgkdXNlciktPmRlbGF5KENhcmJvbjo6bm93KCktPmFkZERheXMoNykpOwoK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCiAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCiAgICAgICAgJHVzZXIgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKCk7CiAgICAgICAgCiAgICAgICAgLyoqIEB2YXIgVXNlciAkY2hpbGQgKi8KICAgICAgICAkY2hpbGQgPSBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+dGltZXMoNyktPmNyZWF0ZSgpLT5lYWNoKGZ1bmN0aW9uICgkY2hpbGQpIHVzZSAoJHVzZXIpIHsKICAgICAgICAgICAgJHVzZXItPmFwcGVuZE5vZGUoJGNoaWxkKTsKICAgICAgICB9KS0+Zmlyc3QoKTsKICAgICAgICAKICAgICAgICAkY2hpbGQtPmFwcGVuZE5vZGUoCiAgICAgICAgICAgIGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zc2libGVQYXJlbnRzID0gY29sbGVjdChbJHBhcmVudFVzZXJdKTsKCiAgICAgICAgd2hpbGUgKCRwb3NzaWJsZVBhcmVudCA9ICRwb3NzaWJsZVBhcmVudHMtPnNoaWZ0KCkpIHsKICAgICAgICAgICAgJGNoaWxkcmVuID0gJHBvc3NpYmxlUGFyZW50LT5jaGlsZHJlbigpLT5nZXQoKTsKCiAgICAgICAgICAgIGlmICgkY2hpbGRyZW4tPmNvdW50KCkgPT09IFVzZXI6Ok1BWF9DSElMRFJFTl9GT1JfT05FX1VTRVIpIHsKICAgICAgICAgICAgICAgICRwb3NzaWJsZVBhcmVudHMgPSAkcG9zc2libGVQYXJlbnRzLT5tZXJnZSgkY2hpbGRyZW4pOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgICRwb3NzaWJsZVBhcmVudC0+YXBwZW5kTm9kZSgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0Q2hpbGRyZW4oKQogICAgewogICAgICAgIC8qKiBAdmFyIFVzZXIgJHVzZXIgKi8KICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKICAgICAgICAKICAgICAgICAvKiogQHZhciBVc2VyICRjaGlsZCAqLwogICAgICAgICRjaGlsZCA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT50aW1lcyg3KS0+Y3JlYXRlKCktPmVhY2goZnVuY3Rpb24gKCRjaGlsZCkgdXNlICgkdXNlcikgewogICAgICAgICAgICAkdXNlci0+YXBwZW5kTm9kZSgkY2hpbGQpOwogICAgICAgIH0pLT5maXJzdCgpOwogICAgICAgIAogICAgICAgICRjaGlsZC0+YXBwZW5kTm9kZSgKICAgICAgICAgICAgZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpCiAgICAgICAgKTsKICAgICAgICAKICAgICAgICAkdGhpcy0+anNvbignR0VUJywgIi9hcGkvdXNlcnMveyR1c2VyLT5pZH0vY2hpbGRyZW4iKQogICAgfQoK</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmNyZWF0ZShbCiAgICAgICAgICAgICduYW1lJyA9PiAnZHJlYW1zZ2VtJywKICAgICAgICAgICAgJ2Zyb3plbicgPT4gZmFsc2UsCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>paren</last-search>
+      <last-search>parent_id</last-search>
       <last-offset />
-      <last-pattern>paren</last-pattern>
-      <last-replace>operator</last-replace>
-      <last-substitute>dragon</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>parent_id</last-pattern>
+      <last-replace>$downline</last-replace>
+      <last-substitute>$user</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>gem</entry>
-        <entry>GEM</entry>
         <entry>17</entry>
         <entry>insertOrUpdate</entry>
         <entry>gems</entry>
@@ -1385,10 +1289,11 @@
         <entry>dump</entry>
         <entry>find</entry>
         <entry>paren</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry>$user</entry>
+        <entry>parent_id</entry>
       </history-search>
       <history-cmd>
-        <entry>91d</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry encoding="base64">JzwsJz5zLzA2LzEwL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzExL2c=</entry>
@@ -1406,6 +1311,8 @@
         <entry encoding="base64">JzwsJz5zL2NhcGFjaXR5L3JlbWFpbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RyYWdvbi9vcGVyYXRvci9n</entry>
         <entry>Noh</entry>
+        <entry encoding="base64">JzwsJz5zLyR1c2VyLyRjaGlsZEFjY291bnQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyR1c2VyLyRkb3dubGluZS9n</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
