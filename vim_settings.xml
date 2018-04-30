@@ -426,11 +426,11 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525092582168">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525093620990">
         <mark key="'" line="37" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
         <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" timestamp="1524064847180">
@@ -1201,8 +1201,8 @@
       <jump line="37" column="19" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT3JkZXI6OlNUQVRVU19TVUNDRVNTID09PSAkcmVzcG9uc2VEYXRhWydzdGF0dXMnXSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1218,7 +1218,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>STATUS_PENDING</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>parent_id</text>
