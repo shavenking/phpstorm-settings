@@ -451,12 +451,12 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525136259039">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525153300679">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/database/migrations/2018_03_29_062035_create_deposits_table.php" timestamp="1524064847180">
         <mark key="'" line="19" column="12" />
@@ -1135,8 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="20" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" />
-      <jump line="53" column="29" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyTreeTest.php" />
       <jump line="31" column="24" filename="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" />
       <jump line="225" column="22" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
@@ -1235,6 +1233,8 @@
       <jump line="86" column="30" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="347" column="20" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Code/dreamsgem/database/migrations/2018_04_29_112352_create_operation_histories_table.php" />
+      <jump line="64" column="4" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1257,7 +1257,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>progress_gained</text>
+        <text>10</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtUcmVlOjpLRVlfU0VUVExFTUVOVF9EQUlMWSA9PiAnMTQuMycsIFRyZWU6OktFWV9TRVRUTEVNRU5UX0RPV05MSU5FUyA9PiAnMCddLAogICAgICAgICAgICAgICAgW1RyZWU6OktFWV9TRVRUTEVNRU5UX0RPV05MSU5FUyA9PiAnMzAnXSwK</text>
@@ -1300,17 +1300,16 @@
       </register>
     </registers>
     <search>
-      <last-search>progress_gained</last-search>
+      <last-search>10</last-search>
       <last-offset />
-      <last-pattern>progress_gained</last-pattern>
+      <last-pattern>10</last-pattern>
       <last-replace>maximum_progress_rule</last-replace>
       <last-substitute>progress_gained</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>64</entry>
         <entry>post</entry>
         <entry>has</entry>
         <entry>dr</entry>
@@ -1330,6 +1329,7 @@
         <entry>2</entry>
         <entry>1</entry>
         <entry>progress_gained</entry>
+        <entry>10</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdHJlZS9n</entry>
