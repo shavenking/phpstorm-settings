@@ -438,8 +438,8 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525096587059">
-        <mark key="'" line="37" column="19" />
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" timestamp="1525136259039">
+        <mark key="'" line="84" column="0" />
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
@@ -1111,7 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="13" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="37" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
       <jump line="51" column="51" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
@@ -1211,6 +1210,7 @@
       <jump line="57" column="39" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="9" column="1" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
