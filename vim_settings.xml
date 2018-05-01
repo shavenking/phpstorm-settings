@@ -124,6 +124,7 @@
         <mark key="^" line="29" column="45" />
         <mark key="." line="29" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/composer.json" timestamp="1525140825723" />
       <file name="$USER_HOME$/Code/c-2/routes/web.php" timestamp="1515901820872">
         <mark key="'" line="65" column="86" />
         <mark key="[" line="43" column="65" />
@@ -382,6 +383,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/phpunit.xml" timestamp="1525140319072" />
       <file name="$USER_HOME$/Code/dreamsgem/app/Providers/AuthServiceProvider.php" timestamp="1525080058281">
         <mark key="'" line="31" column="24" />
         <mark key="[" line="33" column="40" />
@@ -389,12 +391,11 @@
         <mark key="." line="33" column="45" />
         <mark key="^" line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525091319750">
+      <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" timestamp="1525141017721">
         <mark key="'" line="34" column="64" />
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="64" column="57" />
-        <mark key="." line="64" column="57" />
-        <mark key="^" line="64" column="57" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/User.php" timestamp="1525090302882">
         <mark key="'" line="16" column="34" />
@@ -417,6 +418,12 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="28" column="9" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/config/app.php" timestamp="1525140640721">
+        <mark key="[" line="67" column="23" />
+        <mark key="]" line="67" column="22" />
+        <mark key="." line="67" column="22" />
+        <mark key="^" line="67" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/pikachu/config/app.php" timestamp="1521635155296">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="209" column="57" />
@@ -424,12 +431,11 @@
         <mark key="^" line="210" column="15" />
         <mark key="." line="210" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/.env" timestamp="1524706103030">
-        <mark key="'" line="13" column="7" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
+      <file name="$USER_HOME$/Code/dreamsgem/.env" timestamp="1525140444203">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/BuyDragonTest.php" timestamp="1525077797337">
         <mark key="'" line="34" column="8" />
@@ -508,9 +514,10 @@
         <mark key="." line="53" column="52" />
         <mark key="^" line="53" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1525089330676">
-        <mark key="[" line="1579" column="20" />
-        <mark key="]" line="1579" column="34" />
+      <file name="$USER_HOME$/Code/dreamsgem/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1525140480476">
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="0" />
+        <mark key="." line="485" column="0" />
       </file>
       <file name="$USER_HOME$/Code/c-2/app/Http/Controllers/Dashboard/ProductController.php" timestamp="1519302027952">
         <mark key="'" line="89" column="39" />
@@ -957,6 +964,7 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/app/Exceptions/Handler.php" timestamp="1525140845936" />
       <file name="$USER_HOME$/Code/paid-service/resources/views/withdraw/create.blade.php" timestamp="1523449452991">
         <mark key="'" line="61" column="20" />
         <mark key="[" line="61" column="53" />
@@ -1112,8 +1120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="51" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
       <jump line="27" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
       <jump line="20" column="7" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
       <jump line="64" column="7" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
@@ -1212,10 +1218,12 @@
       <jump line="9" column="1" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="84" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
       <jump line="172" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="1" column="8" filename="$USER_HOME$/Code/dreamsgem/.env" />
+      <jump line="38" column="45" filename="$USER_HOME$/Code/dreamsgem/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|active_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1231,7 +1239,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>|active_url</text>
+        <text encoding="base64">LCBUcmFpbiA=</text>
       </register>
       <register name="/" type="4">
         <text>JsWindowLocationResponseHandler::class</text>
@@ -1240,37 +1248,37 @@
         <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2tleU5hbWUnID0+ICdxcmNvZGVfdXJsJywKICAgICAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmRlY29kZVJlc3BvbnNlSnNvbigpKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBhcHAoCiAgICAgICAgICAgICR0aGlzLT5nZXRSZXNwb25zZUhhbmRsZXIoKVskZGVwb3NpdC0+bWV0aG9kLT5jb2RlXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2tleU5hbWUnID0+ICdxcmNvZGVfdXJsJywKICAgICAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgICAgICBdCiAgICAgICAgKS0+aGFuZGxlKCRyZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">YXBwKAogICAgICAgICAgICAkdGhpcy0+Z2V0UmVzcG9uc2VIYW5kbGVyKClbJGRlcG9zaXQtPm1ldGhvZC0+Y29kZV0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdrZXlOYW1lJyA9PiAncXJjb2RlX3VybCcsCiAgICAgICAgICAgICAgICAncXVlcnlQYXJhbWV0ZXJOYW1lJyA9PiAndXJsJywKICAgICAgICAgICAgXQogICAgICAgICk=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdrZXlOYW1lJyA9PiAncXJjb2RlX3VybCcsCiAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgIF0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhcHAoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIENhcmJvbjo6bm93KCktPnRvSVNPODYwMSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHJlc3BvbnNlSGFuZGxlciA9IFsKICAgICAgICAnV0VCX0JBTktfQ0NCJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfQUJDJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfSUNCQycgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0JPQycgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX1NQREInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19DRUInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19QQUInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19DSUInID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19QU0JDJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfQ05DQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0hYQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0NNQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0dEQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dFQl9CQU5LX0NNQkMnID0+IEpzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdXRUJfQkFOS19DT01NJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfQk9CJyA9PiBKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnV0VCX0JBTktfU0NTQicgPT4gSnNXaW5kb3dMb2NhdGlvblJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1FSX0FMSVBBWScgPT4gSlNPTlFSUmVzcG9uc2VIYW5kbGVyOjpjbGFzcywKICAgICAgICAnUVJfV0VDSEFUJyA9PiBKU09OUVJSZXNwb25zZUhhbmRsZXI6OmNsYXNzLAogICAgICAgICdRUl9RUScgPT4gSlNPTlFSSW5RdWVyeVJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dBUF9BTElQQVknID0+IEpTT05RUlJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICAgICAgJ1dBUF9XRUNIQVQnID0+IEpTT05RUlJlc3BvbnNlSGFuZGxlcjo6Y2xhc3MsCiAgICBdOwoK</text>
+        <text encoding="base64">R09PRF9LRVk9CkdPT0RfSUQ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT3JkZXI6OlNUQVRVU19TVUNDRVNTID09PSAkcmVzcG9uc2VEYXRhWydzdGF0dXMnXSkgewo=</text>
+        <text encoding="base64">ZW52KCdHT09EX0VOVicpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIsCg==</text>
+        <text encoding="base64">R09PRF9UT0tFTj0K</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZW52KCdBUFBfRU5WJykK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
