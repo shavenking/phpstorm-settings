@@ -614,11 +614,12 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" timestamp="1525139772927">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="179" column="13" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" timestamp="1525143157649">
+        <mark key="'" line="226" column="12" />
+        <mark key="[" line="227" column="9" />
+        <mark key="]" line="228" column="57" />
+        <mark key="." line="228" column="57" />
+        <mark key="^" line="228" column="57" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/tests/Unit/FreezeUserTest.php" timestamp="1524813580838">
         <mark key="'" line="34" column="8" />
@@ -1120,8 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
-      <jump line="20" column="7" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
       <jump line="64" column="7" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="73" column="12" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="11" column="5" filename="$USER_HOME$/Code/dreamsgem/app/Policies/UserPolicy.php" />
@@ -1220,10 +1219,12 @@
       <jump line="172" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="1" column="8" filename="$USER_HOME$/Code/dreamsgem/.env" />
       <jump line="38" column="45" filename="$USER_HOME$/Code/dreamsgem/.env" />
+      <jump line="198" column="71" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="226" column="12" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydyZW1haW4nID0+IDEsICdjYXBhY2l0eScgPT4gMSwgJ3Byb2dyZXNzJyA9PiAnMCddLAo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1239,64 +1240,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBUcmFpbiA=</text>
+        <text>LeftUser</text>
       </register>
       <register name="/" type="4">
-        <text>JsWindowLocationResponseHandler::class</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2tleU5hbWUnID0+ICdxcmNvZGVfdXJsJywKICAgICAgICAgICAgICAgICdxdWVyeVBhcmFtZXRlck5hbWUnID0+ICd1cmwnLAogICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydyZW1haW4nID0+IDEsICdjYXBhY2l0eScgPT4gMSwgJ3Byb2dyZXNzJyA9PiAnMCddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkoVHJlZTo6Y2xhc3MpLT5jcmVhdGUoJHRyZWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
+        <text encoding="base64">ICAgICAgICAkcm9vdFVzZXItPnRyZWVzKCktPmNyZWF0ZSgKICAgICAgICAgICAgWydyZW1haW4nID0+IDIsCiAgICAgICAgICAgICAgICAnY2FwYWNpdHknID0+CiAgICAgICAgICAgIF0KICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENhcmJvbjo6bm93KCktPnRvSVNPODYwMSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFRyZWU6OmNsYXNzKS0+dGltZXMoMyktPmNyZWF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R09PRF9LRVk9CkdPT0RfSUQ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW52KCdHT09EX0VOVicpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R09PRF9UT0tFTj0K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW52KCdBUFBfRU5WJykK</text>
+        <text encoding="base64">ICAgIENhcmJvbjo6bm93KCktPnRvSVNPODYwMSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>JsWindowLocationResponseHandler::class</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>JsWindowLocationResponseHandler::class</last-pattern>
-      <last-replace>app(JsWindowLocationResponseHandler::class)</last-replace>
-      <last-substitute>JsWindowLocationResponseHandler::class</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>insertOrUpdate</entry>
-        <entry>gems</entry>
         <entry>bcmo</entry>
         <entry>64</entry>
         <entry>post</entry>
@@ -1315,12 +1314,10 @@
         <entry>$user</entry>
         <entry>parent_id</entry>
         <entry>JsWindowLocationResponseHandler::class</entry>
+        <entry>2</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzA2LzEwL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzEwLzExL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzExLzEyL2c=</entry>
-        <entry>w</entry>
         <entry>39,44y</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdHJlZS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
@@ -1336,6 +1333,10 @@
         <entry encoding="base64">JzwsJz5zLyR1c2VyLyRjaGlsZEFjY291bnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyR1c2VyLyRkb3dubGluZS9n</entry>
         <entry encoding="base64">JzwsJz5zL0pzV2luZG93TG9jYXRpb25SZXNwb25zZUhhbmRsZXI6OmNsYXNzL2FwcChKc1dpbmRvd0xvY2F0aW9uUmVzcG9uc2VIYW5kbGVyOjpjbGFzcykvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9nOw==</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9nOg==</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
