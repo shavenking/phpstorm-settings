@@ -683,13 +683,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" timestamp="1525227401391">
-        <mark key="a" line="215" column="91" />
-        <mark key="'" line="67" column="37" />
-        <mark key="[" line="193" column="10" />
-        <mark key="]" line="193" column="10" />
-        <mark key="." line="193" column="10" />
-        <mark key="^" line="193" column="10" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" timestamp="1525228822943">
+        <mark key="a" line="219" column="91" />
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="237" column="115" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/activity/show.blade.php" timestamp="1521943222680">
         <mark key="'" line="88" column="0" />
@@ -1144,8 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="23" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
-      <jump line="48" column="51" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="58" column="4" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/RegisterTest.php" />
       <jump line="39" column="60" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
@@ -1244,10 +1242,12 @@
       <jump line="8" column="8" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="16" column="6" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="32" column="24" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="66" column="37" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
+      <jump line="237" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPnVzZXItPmNoaWxkcmVuLT5jb3VudCgp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZG93bmxpbmVzUHJvZ3Jlc3MgPSAnMCc7Cgo=</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1263,46 +1263,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnVzZXItPmNoaWxkcmVuLT5jb3VudCgp</text>
+        <text>getMaximumProgressRule</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2V0dGxlbWVudERhaWx5S2V5ID0gVHJlZVNldHRsZW1lbnRIaXN0b3J5OjpLRVlfU0VUVExFTUVOVF9EQUlMWTsKICAgICAgICAkc2V0dGxlbWVudERvd25saW5lc0tleSA9IFRyZWVTZXR0bGVtZW50SGlzdG9yeTo6S0VZX1NFVFRMRU1FTlRfRE9XTkxJTkVTOwo=</text>
+      <register name="0" type="4">
+        <text>'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZG93bmxpbmVzUHJvZ3Jlc3MgPSAnMCc7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBLRVlfU0VUVExFTUVOVF9EQUlMWSA9ICdLRVlfU0VUVExFTUVOVF9EQUlMWSc7CiAgICBjb25zdCBLRVlfU0VUVExFTUVOVF9ET1dOTElORVMgPSAnS0VZX1NFVFRMRU1FTlRfRE9XTkxJTkVTJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAvLyBzdW5kYXksIG1vbmRheSwgdHVlc2RheSAuLi4gc2F0dXJkYXkKICAgICAgICAgICAgJzE0LjInLAogICAgICAgICAgICAnMTQuMycsCiAgICAgICAgICAgICcxNC4zJywKICAgICAgICAgICAgJzE0LjMnLAogICAgICAgICAgICAnMTQuMycsCiAgICAgICAgICAgICcxNC4zJywKICAgICAgICAgICAgJzE0LjMnLAogICAgICAgIF1bQ2FyYm9uOjpub3coKS0+ZGF5T2ZXZWVrXQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMCA9PiAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZG93bmxpbmUK</text>
+        <text encoding="base64">ICAgICAgICAkbWF4aW0KCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgIFRyZWU6OktFWV9TRVRUTEVNRU5UX0RPV05MSU5FUyA9PiAnMzAnLAogICAgICAgICAgICAgICAgXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgIFRyZWU6OktFWV9TRVRUTEVNRU5UX0RBSUxZID0+IGJjc3ViKAogICAgICAgICAgICAgICAgICAgICAgICAkcmVzdWx0RGF0YVNldFskaWR4XVsncHJvZ3Jlc3MnXSwgJG9yaWdpbmFsRGF0YVNldFskaWR4XVsncHJvZ3Jlc3MnXSwgMQogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgVHJlZTo6S0VZX1NFVFRMRU1FTlRfRE9XTkxJTkVTID0+ICcwJywKICAgICAgICAgICAgICAgIF0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJAogICAgICAgICAgICBkdW1wKDEpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcG9ydCkK</text>
+        <text encoding="base64">CiAgICBjb25zdCBLRVlfU0VUVExFTUVOVF9EQUlMWSA9ICdLRVlfU0VUVExFTUVOVF9EQUlMWSc7CiAgICBjb25zdCBLRVlfU0VUVExFTUVOVF9ET1dOTElORVMgPSAnS0VZX1NFVFRMRU1FTlRfRE9XTkxJTkVTJzsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
