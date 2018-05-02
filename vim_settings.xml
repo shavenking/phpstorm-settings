@@ -383,6 +383,12 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="17" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeTest.php" timestamp="1525251833312">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" timestamp="1525090087884">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="25" column="49" />
@@ -1245,7 +1251,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9999</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1269,38 +1275,38 @@
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPnVzZXItPmNoaWxkcmVuLT5jb3VudCgp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0T3BlcmF0aW9uSGlzdG9yeUV4aXN0cygKICAgICAgICAgICAgJHRyZWVzLT5maXJzdCgpLT5yZWZyZXNoKCksCiAgICAgICAgICAgIE9wZXJhdGlvbkhpc3Rvcnk6OlRZUEVfVVBEQVRFCiAgICAgICAgKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRleHBlY3RlZEdlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0T3BlcmF0aW9uSGlzdG9yeUV4aXN0cygKICAgICAgICAgICAgJHRyZWVzLT5maXJzdCgpLT5yZWZyZXNoKCksCiAgICAgICAgICAgIE9wZXJhdGlvbkhpc3Rvcnk6OlRZUEVfVVBEQVRFCiAgICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcm9vdFVzZXItPmFwcGVuZE5vZGUoJGZpcnN0TGV2ZWxMZWZ0VXNlcik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRleHBlY3RlZEdlbXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGNoaWxkLT5jaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkcm9vdFVzZXItPmFwcGVuZE5vZGUoJGZpcnN0TGV2ZWxMZWZ0VXNlcik7Cgo=</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3JlYWNoIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGNoaWxkLT5jaGlsZHJlbik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR0aGlzLT51c2VyLT5pZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
