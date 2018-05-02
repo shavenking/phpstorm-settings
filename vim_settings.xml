@@ -696,12 +696,12 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1525237182085">
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1525237837577">
         <mark key="'" line="15" column="85" />
-        <mark key="[" line="15" column="118" />
-        <mark key="]" line="15" column="119" />
-        <mark key="." line="15" column="119" />
-        <mark key="^" line="15" column="119" />
+        <mark key="[" line="16" column="99" />
+        <mark key="]" line="16" column="118" />
+        <mark key="." line="16" column="99" />
+        <mark key="^" line="16" column="103" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Events/WalletUpdated.php" timestamp="1525051808955">
         <mark key="[" line="21" column="62" />
@@ -1243,8 +1243,8 @@
       <jump line="24" column="35" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcG9ydCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2018/05/02</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1260,13 +1260,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dd('hi', $result);</text>
+        <text>2018/05/02</text>
       </register>
       <register name="/" type="4">
         <text>04</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtUcmVlU2V0dGxlbWVudEhpc3Rvcnk6OktFWV9TRVRUTEVNRU5UX0RPV05MSU5FUyA9PiAnMCddLAo=</text>
+      <register name="0" type="4">
+        <text>2018-05-02 12:50:10</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcG9ydCk7Cg==</text>
