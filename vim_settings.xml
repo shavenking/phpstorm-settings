@@ -696,11 +696,12 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1525231972338">
-        <mark key="'" line="13" column="57" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/Test.php" timestamp="1525237182085">
+        <mark key="'" line="15" column="85" />
+        <mark key="[" line="15" column="118" />
+        <mark key="]" line="15" column="119" />
+        <mark key="." line="15" column="119" />
+        <mark key="^" line="15" column="119" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/app/Events/WalletUpdated.php" timestamp="1525051808955">
         <mark key="[" line="21" column="62" />
@@ -913,11 +914,11 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" timestamp="1525231471112">
-        <mark key="[" line="77" column="53" />
-        <mark key="]" line="77" column="53" />
-        <mark key="." line="77" column="53" />
-        <mark key="^" line="81" column="46" />
+      <file name="$USER_HOME$/Code/911/xct/assoc/report/OrientalGame.php" timestamp="1525237203505">
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositRongFuTong.php" timestamp="1524066182892">
         <mark key="[" line="40" column="60" />
@@ -1140,7 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/ChildAccountController.php" />
       <jump line="37" column="7" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/UserTest.php" />
       <jump line="38" column="16" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/UserTest.php" />
       <jump line="33" column="21" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
@@ -1240,10 +1240,11 @@
       <jump line="197" column="19" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="207" column="23" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="72" column="10" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
+      <jump line="15" column="85" filename="$USER_HOME$/Code/911/xct/assoc/Test.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>' . '</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcG9ydCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1259,63 +1260,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>' . '</text>
+        <text>dd('hi', $result);</text>
       </register>
       <register name="/" type="4">
-        <text>assert</text>
+        <text>04</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtUcmVlU2V0dGxlbWVudEhpc3Rvcnk6OktFWV9TRVRUTEVNRU5UX0RPV05MSU5FUyA9PiAnMCddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdBc2lhL1RhaXBlaScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcG9ydCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChkYXRlX2RlZmF1bHRfdGltZXpvbmVfZ2V0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdBc2lhL1RhaXBlaScpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVHJlZVNldHRsZW1lbnRIaXN0b3J5KS0+Z2V0VGFibGUoKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgICdwcm9ncmVzc19nYWluZWQnID0+IGpzb25fZW5jb2RlKCwgMCksCiAgICAgICAgICAgICAgICAnbWF4aW11bV9wcm9ncmVzc19ydWxlJyA9PiBqc29uX2VuY29kZSgsIDApLAogICAgICAgICAgICBdCiAgICAgICAgKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICRzZXR0bGVtZW50RG93bmxpbmVzS2V5ID0+IGRhdGFfZ2V0KCRhdHRyaWJ1dGVzLCAibWF4aW11bV9wcm9ncmVzc19ydWxlLiRzZXR0bGVtZW50RG93bmxpbmVzS2V5IiksCiAgICAgICAgICAgICAgICBd</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICRzZXR0bGVtZW50RGFpbHlLZXkgPT4gZGF0YV9nZXQoJGF0dHJpYnV0ZXMsICJwcm9ncmVzc19nYWluZWQuJHNldHRsZW1lbnREYWlseUtleSIpLAogICAgICAgICAgICAgICAgICAgICRzZXR0bGVtZW50RG93bmxpbmVzS2V5ID0+IGRhdGFfZ2V0KCRhdHRyaWJ1dGVzLCAicHJvZ3Jlc3NfZ2FpbmVkLiRzZXR0bGVtZW50RG93bmxpbmVzS2V5IiksCiAgICAgICAgICAgICAgICBd</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlU2V0dGxlbWVudEhpc3Rvcnk6Ogo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhaWx5UHJvZ3Jlc3MsCiAgICAgICAgICAgICwKICAgICAgICAgICAgMQogICAgICAgICk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluKGJjbXVsKCRkb3dubGluZXNQcm9ncmVzcywgJG11bHRpcGxpZXIsIDEpLCAkdGhpcy0+bWF4aW11bVByb2dyZXNzUnVsZSgkdGhpcy0+dXNlci0+Y2hpbGRyZW4tPmNvdW50KCkpKSwK</text>
+        <text encoding="base64">ICAgICAgICBUcmVlU2V0dGxlbWVudEhpc3Rvcnk6Ogo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhaWx5UHJvZ3Jlc3MsCiAgICAgICAgICAgICwKICAgICAgICAgICAgMQogICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>assert</last-search>
+      <last-search>04</last-search>
       <last-offset />
-      <last-pattern>assert</last-pattern>
+      <last-pattern>04</last-pattern>
       <last-replace>maximum_progress_rule</last-replace>
       <last-substitute>progress_gained</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dr</entry>
         <entry>capacity</entry>
         <entry>90</entry>
         <entry>testcase</entry>
@@ -1335,6 +1335,7 @@
         <entry>10</entry>
         <entry>tree</entry>
         <entry>assert</entry>
+        <entry>04</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdHJlZS9n</entry>
