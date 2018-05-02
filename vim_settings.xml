@@ -255,11 +255,12 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1525237577324">
+      <file name="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" timestamp="1525238826522">
         <mark key="'" line="24" column="35" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="57" column="39" />
-        <mark key="." line="57" column="39" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/Code/rongfutong/app/Http/Controllers/DemoController.php" timestamp="1521293464633">
         <mark key="'" line="30" column="0" />
@@ -1244,7 +1245,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2018/05/02</text>
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1260,7 +1261,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2018/05/02</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>04</text>
