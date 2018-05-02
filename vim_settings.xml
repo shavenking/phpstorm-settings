@@ -125,11 +125,11 @@
         <mark key="^" line="29" column="45" />
         <mark key="." line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/TreeSettlementHistory.php" timestamp="1525226678043">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/Code/dreamsgem/app/TreeSettlementHistory.php" timestamp="1525240910377">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Code/c-2/routes/web.php" timestamp="1515901820872">
         <mark key="'" line="65" column="86" />
@@ -620,13 +620,13 @@
         <mark key="^" line="101" column="41" />
         <mark key="." line="101" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" timestamp="1525229663961">
-        <mark key="a" line="428" column="26" />
-        <mark key="'" line="208" column="23" />
-        <mark key="[" line="347" column="71" />
-        <mark key="]" line="347" column="72" />
-        <mark key="." line="347" column="72" />
-        <mark key="^" line="272" column="69" />
+      <file name="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" timestamp="1525243532943">
+        <mark key="a" line="289" column="20" />
+        <mark key="'" line="584" column="74" />
+        <mark key="[" line="332" column="49" />
+        <mark key="]" line="332" column="56" />
+        <mark key="." line="332" column="56" />
+        <mark key="^" line="332" column="56" />
       </file>
       <file name="$USER_HOME$/Code/dreamsgem/tests/Unit/FreezeUserTest.php" timestamp="1524813580838">
         <mark key="'" line="34" column="8" />
@@ -682,13 +682,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" timestamp="1525229624781">
+      <file name="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" timestamp="1525242618175">
         <mark key="a" line="233" column="91" />
-        <mark key="'" line="72" column="10" />
-        <mark key="[" line="268" column="34" />
-        <mark key="]" line="268" column="35" />
-        <mark key="." line="268" column="34" />
-        <mark key="^" line="261" column="23" />
+        <mark key="'" line="245" column="21" />
+        <mark key="[" line="268" column="36" />
+        <mark key="]" line="268" column="37" />
+        <mark key="." line="268" column="37" />
+        <mark key="^" line="268" column="37" />
       </file>
       <file name="$USER_HOME$/Code/pikachu/resources/activity/show.blade.php" timestamp="1521943222680">
         <mark key="'" line="88" column="0" />
@@ -1142,37 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="64" filename="$USER_HOME$/Code/dreamsgem/app/Http/Controllers/API/UserController.php" />
-      <jump line="166" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
-      <jump line="114" column="70" filename="$USER_HOME$/Code/paid-service/app/Gateway/Withdraw/WithdrawPeter.php" />
-      <jump line="37" column="19" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
-      <jump line="127" column="0" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
-      <jump line="229" column="68" filename="$USER_HOME$/Code/paid-service/app/Gateway/Deposit/DepositPeter.php" />
-      <jump line="57" column="39" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
-      <jump line="9" column="1" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
-      <jump line="172" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="1" column="8" filename="$USER_HOME$/Code/dreamsgem/.env" />
-      <jump line="38" column="45" filename="$USER_HOME$/Code/dreamsgem/.env" />
-      <jump line="198" column="71" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="226" column="12" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="77" column="9" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="358" column="38" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="356" column="20" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="376" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="86" column="30" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="347" column="20" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/Code/dreamsgem/database/migrations/2018_04_29_112352_create_operation_histories_table.php" />
-      <jump line="64" column="4" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
-      <jump line="105" column="12" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="392" column="16" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="170" column="43" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="494" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="130" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
       <jump line="73" column="20" filename="$USER_HOME$/Code/dreamsgem/app/User.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
       <jump line="184" column="47" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
@@ -1180,7 +1149,6 @@
       <jump line="189" column="91" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="7" column="8" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
-      <jump line="67" column="37" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
       <jump line="388" column="93" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="267" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="268" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
@@ -1192,7 +1160,6 @@
       <jump line="298" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="307" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="308" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="317" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="318" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="327" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="328" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
@@ -1205,7 +1172,6 @@
       <jump line="369" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="370" column="39" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="390" column="72" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
-      <jump line="391" column="17" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="405" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="406" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
       <jump line="420" column="92" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
@@ -1242,10 +1208,44 @@
       <jump line="25" column="35" filename="$USER_HOME$/Code/paid-service/tests/Feature/Withdraw/WithdrawPeterTest.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
       <jump line="24" column="35" filename="$USER_HOME$/Code/paid-service/tests/Feature/Deposit/DepositTest.php" />
+      <jump line="257" column="32" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="274" column="20" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="570" column="24" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="572" column="19" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="589" column="75" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="595" column="27" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="216" column="37" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="268" column="34" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
+      <jump line="265" column="0" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="67" column="9" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
+      <jump line="266" column="12" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="215" column="40" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
+      <jump line="295" column="73" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="616" column="16" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="296" column="77" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="245" column="21" filename="$USER_HOME$/Code/dreamsgem/app/Jobs/TreeSettlement.php" />
+      <jump line="317" column="36" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="352" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="365" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="378" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="391" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="404" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="417" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="430" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="444" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="457" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="471" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="484" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="508" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="526" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="544" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="562" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
+      <jump line="582" column="74" filename="$USER_HOME$/Code/dreamsgem/tests/Feature/TreeSettlementTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20000</text>
+        <text>user</text>
       </register>
       <register name="d" type="4">
         <text>w</text>
@@ -1261,64 +1261,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>20000</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>04</text>
+        <text>30</text>
       </register>
       <register name="0" type="4">
-        <text>2018-05-02 12:50:10</text>
+        <text encoding="base64">JHRoaXMtPnVzZXItPmNoaWxkcmVuLT5jb3VudCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcG9ydCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChkYXRlX2RlZmF1bHRfdGltZXpvbmVfZ2V0KCkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdBc2lhL1RhaXBlaScpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0T3BlcmF0aW9uSGlzdG9yeUV4aXN0cygKICAgICAgICAgICAgJHRyZWVzLT5maXJzdCgpLT5yZWZyZXNoKCksCiAgICAgICAgICAgIE9wZXJhdGlvbkhpc3Rvcnk6OlRZUEVfVVBEQVRFCiAgICAgICAgKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRleHBlY3RlZEdlbXMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoCiAgICAgICAgICAgIChuZXcgVHJlZVNldHRsZW1lbnRIaXN0b3J5KS0+Z2V0VGFibGUoKSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgICdwcm9ncmVzc19nYWluZWQnID0+IGpzb25fZW5jb2RlKCwgMCksCiAgICAgICAgICAgICAgICAnbWF4aW11bV9wcm9ncmVzc19ydWxlJyA9PiBqc29uX2VuY29kZSgsIDApLAogICAgICAgICAgICBdCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcm9vdFVzZXItPmFwcGVuZE5vZGUoJGZpcnN0TGV2ZWxMZWZ0VXNlcik7Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICRzZXR0bGVtZW50RG93bmxpbmVzS2V5ID0+IGRhdGFfZ2V0KCRhdHRyaWJ1dGVzLCAibWF4aW11bV9wcm9ncmVzc19ydWxlLiRzZXR0bGVtZW50RG93bmxpbmVzS2V5IiksCiAgICAgICAgICAgICAgICBd</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGNoaWxkLT5jaGlsZHJlbik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICRzZXR0bGVtZW50RGFpbHlLZXkgPT4gZGF0YV9nZXQoJGF0dHJpYnV0ZXMsICJwcm9ncmVzc19nYWluZWQuJHNldHRsZW1lbnREYWlseUtleSIpLAogICAgICAgICAgICAgICAgICAgICRzZXR0bGVtZW50RG93bmxpbmVzS2V5ID0+IGRhdGFfZ2V0KCRhdHRyaWJ1dGVzLCAicHJvZ3Jlc3NfZ2FpbmVkLiRzZXR0bGVtZW50RG93bmxpbmVzS2V5IiksCiAgICAgICAgICAgICAgICBd</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ddddddd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlU2V0dGxlbWVudEhpc3Rvcnk6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3JlYWNoIAo=</text>
       </register>
       <register name="x" type="4">
         <text>f vd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhaWx5UHJvZ3Jlc3MsCiAgICAgICAgICAgICwKICAgICAgICAgICAgMQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR0aGlzLT51c2VyLT5pZCwK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>04</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern>04</last-pattern>
+      <last-pattern>30</last-pattern>
       <last-replace>maximum_progress_rule</last-replace>
-      <last-substitute>progress_gained</last-substitute>
+      <last-substitute>testnow</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>capacity</entry>
-        <entry>90</entry>
         <entry>testcase</entry>
         <entry>oper</entry>
         <entry>dragon</entry>
@@ -1337,6 +1335,8 @@
         <entry>tree</entry>
         <entry>assert</entry>
         <entry>04</entry>
+        <entry>testnow</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdHJlZS9n</entry>
